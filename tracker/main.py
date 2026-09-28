@@ -21,6 +21,8 @@ STATE = ROOT / "data" / "state.json"
 ROLES_MD = ROOT / "OPEN_ROLES.md"
 FAIL_ALERT_AFTER = 12        # consecutive failed polls (~2h) before warning you
 FORGET_AFTER_DAYS = 120
+MAX_DETAILS_PER_RUN = 250    # detail-page lookups (for deadlines) per run; the rest wait for the next run
+RECHECK_DEADLINE_DAYS = 7
 
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
@@ -73,9 +75,11 @@ def poll(dry_run=False):
             if keep:
                 matched.append((name, j, flags))
     print(f"{len(matched)} postings match your filters")
+    enrich_deadlines(matched, jobs_state)
     if dry_run:
         for name, j, flags in sorted(matched, key=lambda m: (not notify.is_tier1(m[1].company), m[1].company)):
-            print(f"  {j.company:18} | {j.title[:80]:80} | {', '.join(j.locations)[:40]} {flags or ''}")
+            dl = j.deadline or ("rolling" if j.rolling else "")
+            print(f"  {j.company:18} | {j.title[:70]:70} | {dl:10} | {', '.join(j.locations)[:40]} {flags or ''}")
         return
 
     # Keys of postings that were already known and are still open: a new posting with
@@ -86,12 +90,13 @@ def poll(dry_run=False):
     for name, j, flags in matched:
         k = key(j.company, j.title)
         rec = jobs_state.get(j.uid)
+        dl = {"deadline": j.deadline, "rolling": j.rolling, "checked": today} if j.detailed else {}
         if rec:
-            rec.update(last_seen=today, flags=flags)
+            rec.update(last_seen=today, flags=flags, **dl)
             continue
         jobs_state[j.uid] = {"key": k, "src": name, "company": j.company, "title": j.title, "url": j.url,
                              "locations": j.locations, "flags": flags, "first_seen": today,
-                             "first_seen_ts": time.time(), "posted_ts": j.posted_ts, "last_seen": today}
+                             "first_seen_ts": time.time(), "posted_ts": j.posted_ts, "last_seen": today, **dl}
         if k in alerted_keys or k in open_known_keys:
             continue
         if k in all_known_keys and j.source == "simplify":
@@ -137,6 +142,41 @@ def poll(dry_run=False):
     STATE.write_text(json.dumps(state, indent=0, sort_keys=True))
 
 
+def enrich_deadlines(matched, jobs_state):
+    """Fill job.deadline / job.rolling: reuse what state already knows, fetch detail
+    pages for the rest (new postings first, then top companies), up to a per-run budget."""
+    todo = []
+    for _, j, _ in matched:
+        rec = jobs_state.get(j.uid) or {}
+        if j.detailed:
+            continue
+        if rec.get("checked") and _days_ago(rec["checked"]) < RECHECK_DEADLINE_DAYS:
+            j.deadline, j.rolling = rec.get("deadline"), rec.get("rolling", False)
+        else:
+            todo.append(j)
+    todo.sort(key=lambda j: (j.uid in jobs_state, not notify.is_tier1(j.company)))
+    def fetch(j):
+        try:
+            sources.fetch_details(j)
+        except Exception as e:
+            print(f"  detail lookup failed for {j.url[:80]}: {type(e).__name__}")
+    with ThreadPoolExecutor(max_workers=12) as ex:
+        list(ex.map(fetch, todo[:MAX_DETAILS_PER_RUN]))
+    print(f"deadline lookups: {min(len(todo), MAX_DETAILS_PER_RUN)} done, {max(0, len(todo) - MAX_DETAILS_PER_RUN)} queued")
+
+
+def apply_by(v, md=True):
+    d = v.get("deadline")
+    if d:
+        n = -_days_ago(d)
+        label = datetime.strptime(d, "%Y-%m-%d").strftime("%b %-d")
+        if n < 0:   # stated date passed but the posting is still up
+            return f"~~{label}~~ passed, still listed" if md else f"{label} (passed, still listed)"
+        txt = f"{label} ({'today' if n == 0 else f'{n}d'})"
+        return f"**{txt}**" if md and n <= 7 else txt
+    return "rolling" if v.get("rolling") else "—"
+
+
 def digest():
     state = load_state()
     recent = [v for v in state["jobs"].values() if time.time() - v.get("first_seen_ts", 0) < 86400]
@@ -148,30 +188,52 @@ def digest():
     problems = {k: v for k, v in state["health"].items() if v >= 3}
     if problems:
         body += "<p>⚠️ Sources currently failing: " + ", ".join(problems) + "</p>"
+    closing = sorted((v for v in open_now if v.get("deadline") and 0 <= -_days_ago(v["deadline"]) <= 7),
+                     key=lambda v: v["deadline"])
+    if closing:
+        body += "<h3>⏰ Deadlines in the next 7 days</h3>" + notify.jobs_table(closing)
     notify.email(f"📋 Daily internship digest — {len(recent)} new", body)
     if not notify.email_enabled():
         top = sorted({v["company"] for v in recent if notify.is_tier1(v["company"])})
+        soon = "; ".join(f"{v['company']} {apply_by(v, md=False)}" for v in closing[:4])
         notify.push(f"📋 Daily digest: {len(recent)} new roles in 24h",
-                    f"{len(open_now)} open in total." + (f" Top companies: {', '.join(top)}." if top else ""),
+                    f"{len(open_now)} open in total." + (f" Top companies: {', '.join(top)}." if top else "")
+                    + (f"\n⏰ Closing this week: {soon}" if closing else ""),
                     click=roles_link(), priority=2, tags=["clipboard"])
 
 
 def write_roles_md(open_jobs):
     def rows(js):
         js = sorted(js, key=lambda v: (v["first_seen"], v.get("posted_ts") or 0), reverse=True)
-        out = ["| Company | Role | Location | Found | Notes |", "|---|---|---|---|---|"]
+        out = ["| Company | Role | Location | Apply by | Found | Notes |", "|---|---|---|---|---|---|"]
         for v in js:
             loc = ", ".join(l for l in v["locations"] if l)[:60].replace("|", "/")
             title = v["title"].replace("|", "/")
-            out.append(f"| {v['company']} | [{title}]({v['url']}) | {loc} | {v['first_seen']} | "
+            out.append(f"| {v['company']} | [{title}]({v['url']}) | {loc} | {apply_by(v)} | {v['first_seen']} | "
                        f"{'⚠️ ' + '; '.join(v['flags']) if v['flags'] else ''} |")
         return "\n".join(out)
     top = [v for v in open_jobs if notify.is_tier1(v["company"])]
     rest = [v for v in open_jobs if not notify.is_tier1(v["company"])]
+    closing = sorted((v for v in open_jobs if v.get("deadline") and 0 <= -_days_ago(v["deadline"]) <= 14),
+                     key=lambda v: v["deadline"])
+    n_dated = sum(1 for v in open_jobs if v.get("deadline"))
+    n_rolling = sum(1 for v in open_jobs if v.get("rolling"))
+    closing_md = rows_ordered(closing) if closing else "_No stated deadlines in the next 14 days._"
     ROLES_MD.write_text(
         f"# Open Summer 2027 internships matching your filters\n\n"
-        f"Updated {today} · {len(open_jobs)} roles\n\n"
+        f"Updated {today} · {len(open_jobs)} roles · {n_dated} with a stated deadline · {n_rolling} rolling\n\n"
+        f"**Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · "
+        f"_—_ = no deadline stated (most big-tech internships), treat as rolling.\n\n"
+        f"## ⏰ Deadlines in the next 14 days ({len(closing)})\n\n{closing_md}\n\n"
         f"## ⭐ Top companies ({len(top)})\n\n{rows(top)}\n\n## Everyone else ({len(rest)})\n\n{rows(rest)}\n")
+
+
+def rows_ordered(js):
+    out = ["| Apply by | Company | Role | Location |", "|---|---|---|---|"]
+    for v in js:
+        loc = ", ".join(l for l in v["locations"] if l)[:60].replace("|", "/")
+        out.append(f"| {apply_by(v)} | {v['company']} | [{v['title'].replace('|', '/')}]({v['url']}) | {loc} |")
+    return "\n".join(out)
 
 
 def _days_ago(date_str):

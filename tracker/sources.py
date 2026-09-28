@@ -6,7 +6,7 @@ import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
 
-from . import config
+from . import config, deadlines
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) internship-tracker/1.0"
 
@@ -25,6 +25,9 @@ class Job:
     sponsorship: str = ""  # Simplify only
     terms: list = field(default_factory=list)     # Simplify only
     category: str = ""     # Simplify only
+    deadline: str | None = None    # YYYY-MM-DD, when the posting states one
+    rolling: bool = False          # posting says rolling / until filled
+    detailed: bool = False         # deadline already looked for (list data or detail page)
 
     @property
     def uid(self):
@@ -56,10 +59,15 @@ def http_json(url, data=None):
 
 def greenhouse(token, name):
     d = http_json(f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs")
-    return [Job("greenhouse", name, str(j["id"]), j["title"], j["absolute_url"],
-                [(j.get("location") or {}).get("name", "")],
-                _iso(j.get("first_published") or j.get("updated_at")))
-            for j in d.get("jobs", [])]
+    out = []
+    for j in d.get("jobs", []):
+        job = Job("greenhouse", name, str(j["id"]), j["title"], j["absolute_url"],
+                  [(j.get("location") or {}).get("name", "")],
+                  _iso(j.get("first_published") or j.get("updated_at")))
+        if j.get("application_deadline"):
+            job.deadline, job.detailed = deadlines.find("", j["application_deadline"])[0], True
+        out.append(job)
+    return out
 
 
 def ashby(token, name):
@@ -69,7 +77,8 @@ def ashby(token, name):
         if j.get("isListed") is False:
             continue
         locs = [j.get("location", "")] + [s.get("location", "") for s in j.get("secondaryLocations", [])]
-        out.append(Job("ashby", name, j["id"], j["title"], j["jobUrl"], locs, _iso(j.get("publishedAt"))))
+        out.append(with_text(Job("ashby", name, j["id"], j["title"], j["jobUrl"], locs, _iso(j.get("publishedAt"))),
+                             j.get("descriptionPlain", "")))
     return out
 
 
@@ -117,6 +126,7 @@ def amazon():
                            [j.get("normalized_location") or j.get("location", "")],
                            _parse_date(j.get("posted_date")),
                            _strip_html(j.get("basic_qualifications", ""))))
+            with_text(out[-1], out[-1].text + " " + (j.get("description") or ""))
         offset += 100
         if offset >= min(d.get("hits", 0), 500):
             return out
@@ -153,9 +163,9 @@ def google(max_pages=10):
             slug = re.sub(r"[^a-z0-9]+", "-", j[1].lower()).strip("-")
             locs = [loc[0] for loc in (j[9] or [])]
             text = " ".join(_strip_html((x or [None, ""])[1] or "") for x in (j[4], j[15]))
-            out.append(Job("google", "Google", j[0], j[1],
-                           f"https://www.google.com/about/careers/applications/jobs/results/{j[0]}-{slug}",
-                           locs, (j[12] or [None])[0], text))
+            out.append(with_text(Job("google", "Google", j[0], j[1],
+                                     f"https://www.google.com/about/careers/applications/jobs/results/{j[0]}-{slug}",
+                                     locs, (j[12] or [None])[0], text), text))
         if len(jobs) < 20:
             return out
     return out
@@ -188,6 +198,54 @@ def all_fetchers():
 
 
 # --- helpers ----------------------------------------------------------------
+
+def with_text(job, text):
+    """Attach posting text and the deadline found in it."""
+    job.deadline, job.rolling = deadlines.find(text)
+    job.detailed = True
+    return job
+
+
+# --- Detail pages (fetched only for matching jobs, to find deadlines) -------
+
+_ashby_boards = {}
+
+
+def fetch_details(job):
+    """Look up the posting's own page/API for a deadline. Works for jobs from any
+    source whose URL points at Greenhouse, Lever, Ashby, Workday or Microsoft."""
+    u = urllib.parse.urlparse(job.url)
+    host, parts = u.netloc.lower(), [p for p in u.path.split("/") if p]
+    explicit, text = None, ""
+    if "greenhouse.io" in host and "jobs" in parts:
+        tok = parts[parts.index("jobs") - 1] if parts.index("jobs") > 0 else ""
+        jid = parts[parts.index("jobs") + 1]
+        d = http_json(f"https://boards-api.greenhouse.io/v1/boards/{tok}/jobs/{jid}")
+        explicit, text = d.get("application_deadline"), d.get("content", "")
+    elif host == "jobs.lever.co" and len(parts) >= 2:
+        d = http_json(f"https://api.lever.co/v0/postings/{parts[0]}/{parts[1]}")
+        text = " ".join([d.get("descriptionPlain", ""), d.get("additionalPlain", "")] +
+                        [l.get("content", "") for l in d.get("lists", [])])
+    elif host == "jobs.ashbyhq.com" and len(parts) >= 2:
+        org = parts[0]
+        if org not in _ashby_boards:
+            _ashby_boards[org] = {j["id"]: j for j in
+                                  http_json(f"https://api.ashbyhq.com/posting-api/job-board/{org}").get("jobs", [])}
+        text = (_ashby_boards[org].get(parts[1]) or {}).get("descriptionPlain", "")
+    elif "myworkdayjobs.com" in host and "job" in parts:
+        i = parts.index("job")
+        site = parts[i - 1]
+        d = http_json(f"https://{host}/wday/cxs/{host.split('.')[0]}/{site}/{'/'.join(parts[i:])}")
+        info = d.get("jobPostingInfo", {})
+        explicit, text = info.get("endDate"), info.get("jobDescription", "")
+    elif host == "apply.careers.microsoft.com" and parts[-2:-1] == ["job"]:
+        d = http_json(f"https://apply.careers.microsoft.com/api/pcsx/position_details?position_id={parts[-1]}"
+                      "&domain=microsoft.com")["data"]
+        text = d.get("jobDescription", "")
+    job.deadline, job.rolling = deadlines.find(text, explicit)
+    job.detailed = True
+    return job
+
 
 def _iso(s):
     if not s:

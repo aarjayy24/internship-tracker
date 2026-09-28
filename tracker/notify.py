@@ -54,10 +54,12 @@ def jobs_table(rows):
         star = "⭐ " if is_tier1(r["company"]) else ""
         flags = "".join(f'<br><span style="color:#b45309">⚠️ {html.escape(f)}</span>' for f in r["flags"])
         rep = ' <span style="color:#6b7280">(reposted)</span>' if r.get("repost") else ""
+        due = (f'<br><b style="color:#b91c1c">⏰ Apply by {html.escape(r["deadline"])}</b>' if r.get("deadline")
+               else '<br><span style="color:#6b7280">rolling review</span>' if r.get("rolling") else "")
         loc = html.escape(", ".join(l for l in r["locations"] if l)[:120])
         tr.append(f'<tr><td style="padding:6px;border-bottom:1px solid #eee"><b>{star}{html.escape(r["company"])}</b></td>'
                   f'<td style="padding:6px;border-bottom:1px solid #eee"><a href="{html.escape(r["url"])}">'
-                  f'{html.escape(r["title"])}</a>{rep}{flags}</td>'
+                  f'{html.escape(r["title"])}</a>{rep}{due}{flags}</td>'
                   f'<td style="padding:6px;border-bottom:1px solid #eee;color:#555">{loc}</td></tr>')
     return ('<table style="border-collapse:collapse;font-family:sans-serif;font-size:14px">'
             '<tr><th align="left">Company</th><th align="left">Role</th><th align="left">Location</th></tr>'
@@ -70,8 +72,10 @@ def announce_new(rows, roles_link):
     if len(rows) <= MAX_PUSHES_PER_RUN:
         for r in rows:
             flags = ("\n⚠️ " + "; ".join(r["flags"])) if r["flags"] else ""
+            due = (f"\n⏰ Apply by {r['deadline']}" if r.get("deadline")
+                   else "\nRolling review: apply early" if r.get("rolling") else "")
             push(f"{'⭐ ' if is_tier1(r['company']) else ''}{r['company']}: new internship",
-                 f"{r['title']}\n{', '.join(r['locations'])[:100]}{flags}", click=r["url"],
+                 f"{r['title']}\n{', '.join(r['locations'])[:100]}{due}{flags}", click=r["url"],
                  priority=5 if is_tier1(r["company"]) else 4, tags=["briefcase"])
     else:
         top = [r for r in rows if is_tier1(r["company"])]
