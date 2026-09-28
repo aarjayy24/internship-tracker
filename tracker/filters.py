@@ -13,7 +13,7 @@ US_HINTS = [r"united states", r"\busa?\b", r"\bu\.s\.", r"\bamer", r"\bnyc\b", r
             r"boston", r"cambridge, ma", r"chicago", r"atlanta", r"denver", r"pittsburgh",
             r"washington", r"san diego", r"remote$", r"^remote\b(?!.*(canada|uk|europe|india|emea))"]
 NON_US = [r"canada", r"toronto", r"vancouver", r"montreal", r"ontario", r"london", r"united kingdom",
-          r"\buk\b", r"ireland", r"dublin", r"india", r"bangalore", r"bengaluru", r"hyderabad", r"pune",
+          r"\buk\b", r"ireland", r"dublin", r"\bindia\b", r"bangalore", r"bengaluru", r"hyderabad", r"pune",
           r"germany", r"berlin", r"munich", r"france", r"paris", r"zurich", r"switzerland", r"singapore",
           r"japan", r"tokyo", r"australia", r"sydney", r"china", r"shanghai", r"beijing", r"israel",
           r"tel aviv", r"netherlands", r"amsterdam", r"poland", r"warsaw", r"spain", r"madrid",
@@ -91,6 +91,8 @@ def evaluate(job):
         return False, []
     if not (_any(config.ROLE_PATTERNS, t) or job.category in SIMPLIFY_CATEGORIES):
         return False, []
+    if _any(NON_US, t) and not _any(US_HINTS, t):
+        return False, []          # location named in the title, e.g. "Intern - Berlin"
     if not term_ok(job) or not is_us(job.locations):
         return False, []
     if job.sponsorship == "U.S. Citizenship is Required":

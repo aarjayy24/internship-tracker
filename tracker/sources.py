@@ -92,8 +92,12 @@ def workday(key, name, pages=5):
         for j in posts:
             if "externalPath" not in j:
                 continue
+            # locationsText is often just "2 Locations"; the path carries the primary one.
+            parts = j["externalPath"].split("/")
+            primary = parts[2].replace("-", " ") if len(parts) > 3 else ""
+            text = j.get("locationsText", "")
             out.append(Job("workday", name, j["externalPath"].rsplit("_", 1)[-1], j["title"],
-                           f"{base}/{site}{j['externalPath']}", [j.get("locationsText", "")]))
+                           f"{base}/{site}{j['externalPath']}", [primary] if "Locations" in text else [text]))
         if len(posts) < 20:
             break
     return out

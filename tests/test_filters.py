@@ -27,7 +27,8 @@ class FilterTests(unittest.TestCase):
                   "Software Engineer Intern - Fall 2026",
                   "Software Engineer Intern, Summer 2026",
                   "Senior Software Engineer",
-                  "Software Engineering Intern - CTJ - TS"]:
+                  "Software Engineering Intern - CTJ - TS",
+                  "Software Engineer Intern - Berlin (2027)"]:
             self.assertFalse(self.keep(t), t)
 
     def test_degree_rules(self):
@@ -43,6 +44,8 @@ class FilterTests(unittest.TestCase):
         self.assertFalse(is_us(["London, UK"]))
         self.assertFalse(is_us(["Toronto, ON"]))
         self.assertTrue(is_us([]))
+        self.assertFalse(is_us(["China Beijing"]))
+        self.assertTrue(is_us(["Indianapolis, IN"]))
 
     def test_sponsorship(self):
         self.assertFalse(self.keep("Software Engineer Intern", sponsorship="U.S. Citizenship is Required"))
