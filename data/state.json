@@ -3,7 +3,9 @@
 "health": {},
 "jobs": {
 "amazon:amazon:10517567": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905045,
 "flags": [],
@@ -13,12 +15,15 @@
 "Cupertino, California, USA"
 ],
 "posted_ts": 1787788800.0,
+"rolling": false,
 "src": "amazon",
 "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
 "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
 },
 "amazon:amazon:10529525": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905005,
 "flags": [],
@@ -28,12 +33,15 @@
 "North Reading, Massachusetts, USA"
 ],
 "posted_ts": 1788480000.0,
+"rolling": false,
 "src": "amazon",
 "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
 "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027"
 },
 "amazon:amazon:10552937": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904957,
 "flags": [],
@@ -43,12 +51,15 @@
 "Seattle, Washington, USA"
 ],
 "posted_ts": 1789603200.0,
+"rolling": false,
 "src": "amazon",
 "title": "Software Development Engineer Intern - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"
 },
 "amazon:amazon:10559746": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904659,
 "flags": [],
@@ -58,12 +69,15 @@
 "Seattle, Washington, USA"
 ],
 "posted_ts": 1790208000.0,
+"rolling": true,
 "src": "amazon",
 "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
 "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"
 },
 "amazon:amazon:10559762": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904916,
 "flags": [],
@@ -73,12 +87,15 @@
 "Redmond, Washington, USA"
 ],
 "posted_ts": 1790208000.0,
+"rolling": false,
 "src": "amazon",
 "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
 },
 "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a": {
+"checked": "2026-09-28",
 "company": "Modal",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902124,
 "flags": [],
@@ -89,12 +106,15 @@
 "San Francisco"
 ],
 "posted_ts": 1785276123.674,
+"rolling": false,
 "src": "ashby:modal",
 "title": "ML Research Intern",
 "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"
 },
 "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
+"checked": "2026-09-28",
 "company": "Notion",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901948,
 "flags": [],
@@ -105,12 +125,15 @@
 "New York, New York"
 ],
 "posted_ts": 1786734433.459,
+"rolling": false,
 "src": "ashby:notion",
 "title": "Software Engineer Intern (Summer 2027)",
 "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
 },
 "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2": {
+"checked": "2026-09-28",
 "company": "Perplexity",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901872,
 "flags": [],
@@ -120,12 +143,15 @@
 "Belgrade"
 ],
 "posted_ts": 1768339202.894,
+"rolling": false,
 "src": "ashby:perplexity",
 "title": "Internship - Search Machine Learning Engineer",
 "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
 },
 "ashby:perplexity:be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
+"checked": "2026-09-28",
 "company": "Perplexity",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901907,
 "flags": [],
@@ -135,12 +161,15 @@
 "Belgrade"
 ],
 "posted_ts": 1782908370.009,
+"rolling": false,
 "src": "ashby:perplexity",
 "title": "Internship - Search Backend Infra Engineer",
 "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
 },
 "ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74": {
+"checked": "2026-09-28",
 "company": "Ramp",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901986,
 "flags": [],
@@ -150,12 +179,15 @@
 "New York, NY (HQ)"
 ],
 "posted_ts": 1790210415.975,
+"rolling": false,
 "src": "ashby:ramp",
 "title": "Software Engineer Internship, Frontend",
 "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
 },
 "ashby:ramp:acf6b28d-767f-483f-8ff2-114620cd7e04": {
+"checked": "2026-09-28",
 "company": "Ramp",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902022,
 "flags": [],
@@ -165,12 +197,15 @@
 "New York, NY (HQ)"
 ],
 "posted_ts": 1775696489.953,
+"rolling": false,
 "src": "ashby:ramp",
 "title": "Software Engineering Intern, Backend",
 "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04"
 },
 "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9": {
+"checked": "2026-09-28",
 "company": "Ramp",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990209,
 "flags": [],
@@ -180,12 +215,15 @@
 "New York, NY (HQ)"
 ],
 "posted_ts": 1790211709.394,
+"rolling": false,
 "src": "ashby:ramp",
 "title": "Software Engineering Intern, iOS",
 "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"
 },
 "ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
+"checked": "2026-09-28",
 "company": "Ramp",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990206,
 "flags": [],
@@ -195,12 +233,15 @@
 "New York, NY (HQ)"
 ],
 "posted_ts": 1790211333.807,
+"rolling": false,
 "src": "ashby:ramp",
 "title": "Software Engineering Intern, Android",
 "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"
 },
 "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e": {
+"checked": "2026-09-28",
 "company": "Sierra",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902213,
 "flags": [],
@@ -211,6 +252,7 @@
 "New York, NY"
 ],
 "posted_ts": 1788212539.593,
+"rolling": false,
 "src": "ashby:sierra",
 "title": "Software Engineer Intern, Agent (Summer 2027)",
 "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
@@ -231,7 +273,9 @@
 "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8"
 },
 "google:google:119184035237765830": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": "2026-10-09",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905226,
 "flags": [],
@@ -271,12 +315,15 @@
 "Washington D.C., DC, USA"
 ],
 "posted_ts": 1789391903,
+"rolling": false,
 "src": "google",
 "title": "Data Scientist, Product Intern, MS, Summer 2027",
 "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027"
 },
 "google:google:131518356678156998": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": "2027-07-16",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990531,
 "flags": [],
@@ -310,12 +357,15 @@
 "Washington D.C., DC, USA"
 ],
 "posted_ts": 1789391902,
+"rolling": false,
 "src": "google",
 "title": "Student Researcher, BS/MS, Winter-Summer 2027",
 "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher-bs-ms-winter-summer-2027"
 },
 "google:google:136826798817059526": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": "2026-10-09",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990527,
 "flags": [],
@@ -355,12 +405,15 @@
 "Washington D.C., DC, USA"
 ],
 "posted_ts": 1789391905,
+"rolling": false,
 "src": "google",
 "title": "Security Engineering Intern, BS/MS, Summer 2027",
 "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027"
 },
 "google:google:94172495052972742": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": "2026-09-25",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905357,
 "flags": [],
@@ -399,12 +452,15 @@
 "Durham, NC, USA"
 ],
 "posted_ts": 1788189160,
+"rolling": false,
 "src": "google",
 "title": "Software Engineering Intern, MS, Summer 2027",
 "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027"
 },
 "greenhouse:coinbase:8168315": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900477,
 "flags": [],
@@ -414,12 +470,15 @@
 "Hybrid - San Francisco, CA"
 ],
 "posted_ts": 1788905540.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "Software Engineer Intern",
 "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
 },
 "greenhouse:coinbase:8175441": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900396,
 "flags": [],
@@ -429,12 +488,15 @@
 "Hybrid - San Francisco, CA"
 ],
 "posted_ts": 1788906127.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "Machine Learning Engineer Intern",
 "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"
 },
 "greenhouse:coinbase:8175459": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900298,
 "flags": [],
@@ -444,12 +506,15 @@
 "Hybrid - San Francisco, CA"
 ],
 "posted_ts": 1788905953.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "Data Engineer Intern",
 "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
 },
 "greenhouse:coinbase:8175462": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990033,
 "flags": [],
@@ -459,12 +524,15 @@
 "Hybrid - San Francisco, CA"
 ],
 "posted_ts": 1788906003.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "Data Science Intern",
 "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462"
 },
 "greenhouse:coinbase:8175471": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900262,
 "flags": [],
@@ -474,12 +542,15 @@
 "Hybrid - San Francisco, CA"
 ],
 "posted_ts": 1788906056.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "Analytics Engineer Intern",
 "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"
 },
 "greenhouse:coinbase:8175517": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900439,
 "flags": [],
@@ -489,12 +560,15 @@
 "Hybrid - New York, NY"
 ],
 "posted_ts": 1788908720.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "People Analytics Intern",
 "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517"
 },
 "greenhouse:coinbase:8221238": {
+"checked": "2026-09-28",
 "company": "Coinbase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900365,
 "flags": [],
@@ -504,12 +578,15 @@
 "Hybrid - New York, NY"
 ],
 "posted_ts": 1790041336.0,
+"rolling": false,
 "src": "greenhouse:coinbase",
 "title": "Internal Audit Analytics Intern",
 "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238"
 },
 "greenhouse:datadog:8052118": {
+"checked": "2026-09-28",
 "company": "Datadog",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900768,
 "flags": [],
@@ -519,12 +596,15 @@
 "Boston, Massachusetts, USA; New York, New York, USA"
 ],
 "posted_ts": 1788876457.0,
+"rolling": false,
 "src": "greenhouse:datadog",
 "title": "Software Engineering Intern (Summer)",
 "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
 },
 "greenhouse:dropbox:8106224": {
+"checked": "2026-09-28",
 "company": "Dropbox",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900672,
 "flags": [],
@@ -534,12 +614,15 @@
 "Remote - US: All locations"
 ],
 "posted_ts": 1788793606.0,
+"rolling": false,
 "src": "greenhouse:dropbox",
 "title": "Software Engineering Intern (Summer 2027)",
 "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"
 },
 "greenhouse:figma:6143238004": {
+"checked": "2026-09-28",
 "company": "Figma",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899843,
 "flags": [],
@@ -549,12 +632,15 @@
 "San Francisco, CA \u2022 New York, NY"
 ],
 "posted_ts": 1789407380.0,
+"rolling": false,
 "src": "greenhouse:figma",
 "title": "Software Engineer Intern (Summer 2027)",
 "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
 },
 "greenhouse:figma:6178851004": {
+"checked": "2026-09-28",
 "company": "Figma",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899745,
 "flags": [],
@@ -564,12 +650,15 @@
 "San Francisco, CA \u2022 New York, NY"
 ],
 "posted_ts": 1790191827.0,
+"rolling": false,
 "src": "greenhouse:figma",
 "title": "Data Engineer Intern (2027)",
 "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
 },
 "greenhouse:figma:6178857004": {
+"checked": "2026-09-28",
 "company": "Figma",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899788,
 "flags": [],
@@ -579,12 +668,15 @@
 "San Francisco, CA \u2022 New York, NY"
 ],
 "posted_ts": 1789407387.0,
+"rolling": false,
 "src": "greenhouse:figma",
 "title": "Data Science Intern (2027)",
 "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
 },
 "greenhouse:imc:4823924101": {
+"checked": "2026-09-28",
 "company": "IMC",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901793,
 "flags": [],
@@ -594,12 +686,15 @@
 "Chicago, United States"
 ],
 "posted_ts": 1782925914.0,
+"rolling": false,
 "src": "greenhouse:imc",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
 },
 "greenhouse:imc:4907399101": {
+"checked": "2026-09-28",
 "company": "IMC",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901752,
 "flags": [],
@@ -609,12 +704,15 @@
 "Chicago, United States"
 ],
 "posted_ts": 1782926335.0,
+"rolling": false,
 "src": "greenhouse:imc",
 "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101"
 },
 "greenhouse:imc:4907430101": {
+"checked": "2026-09-28",
 "company": "IMC",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990171,
 "flags": [],
@@ -624,12 +722,15 @@
 "Chicago, United States"
 ],
 "posted_ts": 1782926318.0,
+"rolling": false,
 "src": "greenhouse:imc",
 "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
 },
 "greenhouse:lyft:8767723002": {
+"checked": "2026-09-28",
 "company": "Lyft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990015,
 "flags": [],
@@ -639,12 +740,15 @@
 "San Francisco, CA"
 ],
 "posted_ts": 1789145225.0,
+"rolling": false,
 "src": "greenhouse:lyft",
 "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
 },
 "greenhouse:lyft:8767726002": {
+"checked": "2026-09-28",
 "company": "Lyft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900227,
 "flags": [],
@@ -654,12 +758,15 @@
 "San Francisco, CA"
 ],
 "posted_ts": 1789145205.0,
+"rolling": false,
 "src": "greenhouse:lyft",
 "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
 },
 "greenhouse:lyft:8796124002": {
+"checked": "2026-09-28",
 "company": "Lyft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990019,
 "flags": [],
@@ -669,12 +776,15 @@
 "New York, NY"
 ],
 "posted_ts": 1789145227.0,
+"rolling": false,
 "src": "greenhouse:lyft",
 "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"
 },
 "greenhouse:lyft:8802198002": {
+"checked": "2026-09-28",
 "company": "Lyft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900107,
 "flags": [],
@@ -684,12 +794,15 @@
 "New York, NY"
 ],
 "posted_ts": 1789154457.0,
+"rolling": false,
 "src": "greenhouse:lyft",
 "title": "Data Analyst Intern (Summer 2027)",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002"
 },
 "greenhouse:nuro:7351061": {
+"checked": "2026-09-28",
 "company": "Nuro",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900804,
 "flags": [],
@@ -699,12 +812,15 @@
 "Mountain View, California (HQ)"
 ],
 "posted_ts": 1761171786.0,
+"rolling": false,
 "src": "greenhouse:nuro",
 "title": "Software Engineer, AI Platform - Intern",
 "url": "https://nuro.ai/careersitem?gh_jid=7351061"
 },
 "greenhouse:robinhood:8123225": {
+"checked": "2026-09-28",
 "company": "Robinhood",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.989998,
 "flags": [],
@@ -714,12 +830,15 @@
 "Bellevue, WA; Menlo Park, CA; New York, NY"
 ],
 "posted_ts": 1789387208.0,
+"rolling": false,
 "src": "greenhouse:robinhood",
 "title": "Software Engineering Intern, Backend (Summer 2027)",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225"
 },
 "greenhouse:robinhood:8142959": {
+"checked": "2026-09-28",
 "company": "Robinhood",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990002,
 "flags": [],
@@ -729,12 +848,15 @@
 "Menlo Park, CA; New York, NY"
 ],
 "posted_ts": 1789387209.0,
+"rolling": false,
 "src": "greenhouse:robinhood",
 "title": "Software Engineering Intern, iOS (Summer 2027)",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959"
 },
 "greenhouse:robinhood:8142961": {
+"checked": "2026-09-28",
 "company": "Robinhood",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899938,
 "flags": [],
@@ -744,12 +866,15 @@
 "Menlo Park, CA; New York, NY"
 ],
 "posted_ts": 1789387209.0,
+"rolling": false,
 "src": "greenhouse:robinhood",
 "title": "Software Engineering Intern, Android (Summer 2027)",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961"
 },
 "greenhouse:robinhood:8142963": {
+"checked": "2026-09-28",
 "company": "Robinhood",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900062,
 "flags": [],
@@ -759,12 +884,15 @@
 "Menlo Park, CA; New York, NY"
 ],
 "posted_ts": 1789387208.0,
+"rolling": false,
 "src": "greenhouse:robinhood",
 "title": "Software Engineering Intern, Web (Summer 2027)",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
 },
 "greenhouse:robinhood:8198255": {
+"checked": "2026-09-28",
 "company": "Robinhood",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.989989,
 "flags": [],
@@ -774,12 +902,15 @@
 "Menlo Park, CA"
 ],
 "posted_ts": 1789387209.0,
+"rolling": false,
 "src": "greenhouse:robinhood",
 "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255"
 },
 "greenhouse:roblox:8072713": {
+"checked": "2026-09-28",
 "company": "Roblox",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900723,
 "flags": [],
@@ -789,12 +920,15 @@
 "San Mateo, CA, United States"
 ],
 "posted_ts": 1785945796.0,
+"rolling": false,
 "src": "greenhouse:roblox",
 "title": "[Summer 2027] Software Engineer Intern",
 "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
 },
 "greenhouse:samsara:8082091": {
+"checked": "2026-09-28",
 "company": "Samsara",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990183,
 "flags": [],
@@ -804,12 +938,15 @@
 "San Francisco - SF9"
 ],
 "posted_ts": 1785772800.0,
+"rolling": false,
 "src": "greenhouse:samsara",
 "title": "Software Engineering Internship - San Francisco ",
 "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
 },
 "greenhouse:scale ai:4730834005": {
+"checked": "2026-09-28",
 "company": "Scale AI",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899652,
 "flags": [],
@@ -819,12 +956,15 @@
 "Doha, Qatar "
 ],
 "posted_ts": 1789391588.0,
+"rolling": false,
 "src": "greenhouse:scaleai",
 "title": "Software Engineering Intern (Summer 2027) ",
 "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005"
 },
 "greenhouse:scale ai:4730845005": {
+"checked": "2026-09-28",
 "company": "Scale AI",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899707,
 "flags": [],
@@ -834,12 +974,15 @@
 "San Francisco, CA"
 ],
 "posted_ts": 1788537619.0,
+"rolling": false,
 "src": "greenhouse:scaleai",
 "title": "Software Engineering Intern (Summer 2027) ",
 "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
 },
 "greenhouse:stripe:8128745": {
+"checked": "2026-09-28",
 "company": "Stripe",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.989959,
 "flags": [],
@@ -849,12 +992,15 @@
 "San Francisco, Seattle, New York City"
 ],
 "posted_ts": 1788214845.0,
+"rolling": false,
 "src": "greenhouse:stripe",
 "title": "Software Engineer, Intern (Summer or Winter)",
 "url": "https://stripe.com/jobs/search?gh_jid=8128745"
 },
 "greenhouse:stripe:8130807": {
+"checked": "2026-09-28",
 "company": "Stripe",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899466,
 "flags": [],
@@ -864,12 +1010,15 @@
 "Bucharest"
 ],
 "posted_ts": 1788216961.0,
+"rolling": false,
 "src": "greenhouse:stripe",
 "title": "Software Engineer, Intern ",
 "url": "https://stripe.com/jobs/search?gh_jid=8130807"
 },
 "greenhouse:waymo:8167323": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901044,
 "flags": [],
@@ -879,12 +1028,15 @@
 "San Francisco, California, United States"
 ],
 "posted_ts": 1788198426.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
 },
 "greenhouse:waymo:8174504": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901664,
 "flags": [],
@@ -894,12 +1046,15 @@
 "San Francisco, California, USA"
 ],
 "posted_ts": 1788468292.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
 },
 "greenhouse:waymo:8193731": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900897,
 "flags": [],
@@ -909,12 +1064,15 @@
 "San Francisco, California"
 ],
 "posted_ts": 1789402104.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, BS/MS, Software Engineer",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
 },
 "greenhouse:waymo:8198218": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900947,
 "flags": [],
@@ -924,12 +1082,15 @@
 "Mountain View, California, United States; San Francisco, California, United States"
 ],
 "posted_ts": 1789420755.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
 },
 "greenhouse:waymo:8199365": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990128,
 "flags": [],
@@ -939,12 +1100,15 @@
 "San Francisco, California, United States"
 ],
 "posted_ts": 1789754044.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Product Data Science",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
 },
 "greenhouse:waymo:8202801": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901197,
 "flags": [],
@@ -954,12 +1118,15 @@
 "Mountain View, California, USA"
 ],
 "posted_ts": 1789575386.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": " 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
 },
 "greenhouse:waymo:8203200": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900994,
 "flags": [],
@@ -969,12 +1136,15 @@
 "San Francisco, California"
 ],
 "posted_ts": 1789616038.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
 },
 "greenhouse:waymo:8214350": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901142,
 "flags": [],
@@ -984,12 +1154,15 @@
 "San Francisco, California, United States"
 ],
 "posted_ts": 1790121843.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350"
 },
 "greenhouse:waymo:8214519": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901466,
 "flags": [],
@@ -999,12 +1172,15 @@
 "Mountain View, California, USA"
 ],
 "posted_ts": 1789769367.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
 },
 "greenhouse:waymo:8221198": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900856,
 "flags": [],
@@ -1014,12 +1190,15 @@
 "Mountain View, CA, USA"
 ],
 "posted_ts": 1790030798.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198"
 },
 "greenhouse:waymo:8221795": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901514,
 "flags": [],
@@ -1029,12 +1208,15 @@
 "Mountain View, California, USA"
 ],
 "posted_ts": 1790026227.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
 },
 "greenhouse:waymo:8221851": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990162,
 "flags": [],
@@ -1044,12 +1226,15 @@
 "Mountain View, California, USA"
 ],
 "posted_ts": 1790026843.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
 },
 "greenhouse:waymo:8223735": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901087,
 "flags": [],
@@ -1059,12 +1244,15 @@
 "San Francisco, CA, USA"
 ],
 "posted_ts": 1790108545.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
 },
 "greenhouse:waymo:8224729": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990137,
 "flags": [],
@@ -1074,12 +1262,15 @@
 "Mountain View, California"
 ],
 "posted_ts": 1790191739.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineer",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
 },
 "greenhouse:waymo:8224746": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901333,
 "flags": [],
@@ -1089,12 +1280,15 @@
 "Mountain View, California"
 ],
 "posted_ts": 1790191728.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer ",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
 },
 "greenhouse:waymo:8227411": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9901242,
 "flags": [],
@@ -1104,12 +1298,15 @@
 "Mountain View, CA, USA"
 ],
 "posted_ts": 1790376395.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411"
 },
 "greenhouse:waymo:8233746": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990156,
 "flags": [],
@@ -1119,12 +1316,15 @@
 "Mountain View, CA, USA"
 ],
 "posted_ts": 1790370110.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746"
 },
 "greenhouse:waymo:8234161": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990142,
 "flags": [],
@@ -1134,12 +1334,15 @@
 "Mountain View, CA, USA"
 ],
 "posted_ts": 1790373321.0,
+"rolling": false,
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
 },
 "lever:palantir:09846827-b931-4a9f-bd64-c3bb8860187b": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902713,
 "flags": [],
@@ -1149,12 +1352,15 @@
 "New York, NY"
 ],
 "posted_ts": 1475793251.878,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Privacy and Civil Liberties Software Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
 },
 "lever:palantir:315f695d-04d1-4a9a-848e-cb2bec7a997e": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990256,
 "flags": [],
@@ -1164,12 +1370,15 @@
 "Honolulu, HI"
 ],
 "posted_ts": 1765491974.632,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
 },
 "lever:palantir:373367a9-3160-49d8-b7af-2efec062fad1": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903011,
 "flags": [],
@@ -1179,12 +1388,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1750968313.023,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Production Infrastructure",
 "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
 },
 "lever:palantir:373eb939-6f57-4836-8479-be79a5e07249": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902747,
 "flags": [],
@@ -1194,12 +1406,15 @@
 "Denver, CO"
 ],
 "posted_ts": 1724906088.941,
+"rolling": true,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
 },
 "lever:palantir:37964982-9b4c-471e-a1d8-fb8f45d7f116": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990305,
 "flags": [],
@@ -1209,12 +1424,15 @@
 "New York, NY"
 ],
 "posted_ts": 1750968274.819,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Production Infrastructure",
 "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
 },
 "lever:palantir:3ab9e715-1ea9-4c6c-ad50-7340eac14e86": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903078,
 "flags": [],
@@ -1224,12 +1442,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1755596487.314,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Production Infrastructure",
 "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
 },
 "lever:palantir:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902256,
 "flags": [],
@@ -1239,12 +1460,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1783723333.024,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
 },
 "lever:palantir:4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990237,
 "flags": [],
@@ -1254,12 +1478,15 @@
 "New York, NY"
 ],
 "posted_ts": 1456357025.251,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - Commercial",
 "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
 },
 "lever:palantir:5c4c65c5-77da-4d36-856c-4ade87631019": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903219,
 "flags": [],
@@ -1269,12 +1496,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1776979025.046,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
 "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
 },
 "lever:palantir:5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990326,
 "flags": [],
@@ -1284,12 +1514,15 @@
 "New York, NY"
 ],
 "posted_ts": 1774033522.216,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
 "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
 },
 "lever:palantir:655f9937-a4ce-4e7d-80e2-a6659af07329": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903293,
 "flags": [],
@@ -1299,12 +1532,15 @@
 "New York, NY"
 ],
 "posted_ts": 1774033655.933,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Year at Palantir - Software Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
 },
 "lever:palantir:75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990312,
 "flags": [],
@@ -1314,12 +1550,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1782328394.474,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
 "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
 },
 "lever:palantir:7d69cf8a-06fd-4f05-bd84-27149db29c4d": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902775,
 "flags": [],
@@ -1329,12 +1568,15 @@
 "New York, NY"
 ],
 "posted_ts": 1656623940.945,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
 },
 "lever:palantir:8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902856,
 "flags": [],
@@ -1344,12 +1586,15 @@
 "New York, NY"
 ],
 "posted_ts": 1722900428.111,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Defense Tech",
 "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
 },
 "lever:palantir:8f362a1f-1eff-4327-94c1-ff46e2101c69": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902298,
 "flags": [],
@@ -1359,12 +1604,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1783723393.762,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
 },
 "lever:palantir:9e40d77f-b07c-437b-98e7-def9b0184d89": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902523,
 "flags": [],
@@ -1374,12 +1622,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1782933745.074,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - Intel",
 "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
 },
 "lever:palantir:a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990289,
 "flags": [],
@@ -1389,6 +1640,7 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1722900402.003,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Defense Tech",
 "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"
@@ -1409,7 +1661,9 @@
 "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
 },
 "lever:palantir:b229baac-494b-4a0d-9a13-2e38806e06f3": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990295,
 "flags": [],
@@ -1419,12 +1673,15 @@
 "New York, NY"
 ],
 "posted_ts": 1750950062.839,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Infrastructure",
 "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
 },
 "lever:palantir:bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99028,
 "flags": [],
@@ -1434,12 +1691,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1625176840.124,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0"
 },
 "lever:palantir:cccfe1bd-f15b-4fe5-b044-c793e7961c1b": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902446,
 "flags": [],
@@ -1449,12 +1709,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1722899672.789,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
 "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
 },
 "lever:palantir:cf5f44ff-1b0b-4752-bcd4-2dc88798f25b": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902334,
 "flags": [],
@@ -1464,12 +1727,15 @@
 "New York, NY"
 ],
 "posted_ts": 1783723364.034,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"
 },
 "lever:palantir:d5486403-c050-4920-b2e0-91b69b61ebb2": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902413,
 "flags": [],
@@ -1479,12 +1745,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1782849666.026,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - Commercial",
 "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
 },
 "lever:palantir:e0010393-c300-446f-bf67-fa2ef067f16f": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902601,
 "flags": [],
@@ -1494,12 +1763,15 @@
 "New York, NY"
 ],
 "posted_ts": 1656624050.237,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f"
 },
 "lever:palantir:e27af7ab-41fc-40c9-b31d-02c6cb1c505c": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902825,
 "flags": [],
@@ -1509,12 +1781,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1625176335.503,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
 },
 "lever:palantir:e6789b17-62fb-4226-a079-f8c17ff19e2d": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903169,
 "flags": [],
@@ -1524,12 +1799,15 @@
 "New York, NY"
 ],
 "posted_ts": 1774033367.514,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
 "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
 },
 "lever:palantir:e6ff8bf2-135e-474d-ad37-24f490ae1dd2": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902635,
 "flags": [],
@@ -1539,12 +1817,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1625177563.84,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Forward Deployed Software Engineer, Internship - US Government",
 "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2"
 },
 "lever:palantir:ef725594-42dd-4f0d-ba8e-df8179dbc6cb": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902668,
 "flags": [],
@@ -1554,12 +1835,15 @@
 "New York, NY"
 ],
 "posted_ts": 1659554724.044,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Information Security Engineer, Internship",
 "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb"
 },
 "lever:palantir:f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902923,
 "flags": [],
@@ -1569,12 +1853,15 @@
 "Washington, D.C."
 ],
 "posted_ts": 1722900376.668,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Defense Tech",
 "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7"
 },
 "lever:palantir:f221738b-e97c-4ce3-a12a-17ada2b855e4": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9902983,
 "flags": [],
@@ -1584,12 +1871,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1755596923.334,
+"rolling": false,
 "src": "lever:palantir",
 "title": "Software Engineer, Internship - Infrastructure",
 "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
 },
 "microsoft:microsoft:1970393556982258": {
+"checked": "2026-09-28",
 "company": "Microsoft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905183,
 "flags": [],
@@ -1600,12 +1890,15 @@
 "Redmond, WA, US"
 ],
 "posted_ts": 1789694593,
+"rolling": true,
 "src": "microsoft",
 "title": "Software Engineering Internship (6-month Program)",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258"
 },
 "microsoft:microsoft:1970393557004819": {
+"checked": "2026-09-28",
 "company": "Microsoft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905088,
 "flags": [],
@@ -1615,12 +1908,15 @@
 "Mountain View, CA, US"
 ],
 "posted_ts": 1790384704,
+"rolling": true,
 "src": "microsoft",
 "title": "Software Engineer: Intern Opportunity for University Students",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
 },
 "microsoft:microsoft:1970393557008714": {
+"checked": "2026-09-28",
 "company": "Microsoft",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905136,
 "flags": [],
@@ -1630,6 +1926,7 @@
 "Atlanta, GA, US"
 ],
 "posted_ts": 1790373797,
+"rolling": true,
 "src": "microsoft",
 "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
@@ -1681,7 +1978,9 @@
 "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
 },
 "simplify:adobe:a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
+"checked": "2026-09-28",
 "company": "Adobe",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9930944,
 "flags": [],
@@ -1697,12 +1996,15 @@
 "Lehi, UT"
 ],
 "posted_ts": 1788393600,
+"rolling": true,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
 },
 "simplify:adobe:c7b1d381-c5d1-4080-8d2b-531342e2c8a8": {
+"checked": "2026-09-28",
 "company": "Adobe",
+"deadline": "2027-06-11",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992341,
 "flags": [],
@@ -1717,6 +2019,7 @@
 "Lehi, UT"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
@@ -1910,7 +2213,9 @@
 "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655"
 },
 "simplify:akuna capital university:13b103af-8b5c-4685-9b00-18ce29399f40": {
+"checked": "2026-09-28",
 "company": "Akuna Capital University",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909604,
 "flags": [],
@@ -1920,12 +2225,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1783980581,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Python",
 "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
 },
 "simplify:akuna capital university:17b55e16-4b9d-4870-ba60-51a53eaf71c5": {
+"checked": "2026-09-28",
 "company": "Akuna Capital University",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909725,
 "flags": [],
@@ -1935,12 +2243,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1783980592,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - C# .NET Desktop",
 "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
 },
 "simplify:akuna capital university:18e99160-24c6-4a84-bc61-bec64dd7decb": {
+"checked": "2026-09-28",
 "company": "Akuna Capital University",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909542,
 "flags": [],
@@ -1950,12 +2261,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1783980587,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Full Stack Web",
 "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
 },
 "simplify:akuna capital university:30a79016-bc6f-4525-a5fe-a459b18de455": {
+"checked": "2026-09-28",
 "company": "Akuna Capital University",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909465,
 "flags": [],
@@ -1965,12 +2279,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1783980617,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - C++",
 "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
 },
 "simplify:akuna capital university:bc91fbea-a1d8-4e14-8446-6d0df9d7a3f3": {
+"checked": "2026-09-28",
 "company": "Akuna Capital University",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99095,
 "flags": [],
@@ -1980,12 +2297,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1783980593,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Development & Strategy Intern",
 "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"
 },
 "simplify:akuna capital university:d6690f5c-9890-48da-a03e-38cc3e89d071": {
+"checked": "2026-09-28",
 "company": "Akuna Capital University",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909573,
 "flags": [],
@@ -1995,6 +2315,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1783980587,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Intern",
 "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614"
@@ -2150,7 +2471,9 @@
 "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
 },
 "simplify:amazon:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.995178,
 "flags": [],
@@ -2161,12 +2484,15 @@
 "Arlington County, Arlington, VA"
 ],
 "posted_ts": 1789693504,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Engineer Intern - Summer",
 "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
 },
 "simplify:amazon:ea127849-c2ce-48a3-8ef5-8024831dc02e": {
+"checked": "2026-09-28",
 "company": "Amazon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9931414,
 "flags": [],
@@ -2182,6 +2508,7 @@
 "Westborough, MA"
 ],
 "posted_ts": 1788483835,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Engineer Intern - Robotics",
 "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
@@ -3255,7 +3582,9 @@
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007"
 },
 "simplify:anduril:c1623229-faaa-4f1d-bdd8-fc0b46bc74a0": {
+"checked": "2026-09-28",
 "company": "Anduril",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908848,
 "flags": [],
@@ -3270,6 +3599,7 @@
 "Atlanta, GA"
 ],
 "posted_ts": 1781141052,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
@@ -3290,7 +3620,9 @@
 "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true"
 },
 "simplify:anthelion capital:5715d5fe-76a4-46e6-9cea-0b6ab4f8fc11": {
+"checked": "2026-09-28",
 "company": "Anthelion Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991021,
 "flags": [],
@@ -3300,6 +3632,7 @@
 "NYC"
 ],
 "posted_ts": 1784845475,
+"rolling": false,
 "src": "simplify",
 "title": "Quant Developer / Quant Research Intern",
 "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true"
@@ -3380,7 +3713,9 @@
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true"
 },
 "simplify:appian:31b95070-c5a6-4523-b7d4-54fbaa062677": {
+"checked": "2026-09-28",
 "company": "Appian",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991017,
 "flags": [],
@@ -3390,6 +3725,7 @@
 "McLean, VA"
 ],
 "posted_ts": 1784846149,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
@@ -3440,7 +3776,9 @@
 "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647"
 },
 "simplify:aquatic capital management:15636fe2-413f-4e5d-b6c9-0d42dc5edc5f": {
+"checked": "2026-09-28",
 "company": "Aquatic Capital Management",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990842,
 "flags": [],
@@ -3451,12 +3789,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1775081547,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
 },
 "simplify:aquatic capital management:76c586e3-eb16-454a-a7d8-5431a785b342": {
+"checked": "2026-09-28",
 "company": "Aquatic Capital Management",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908378,
 "flags": [],
@@ -3467,6 +3808,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1775081547,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher \u2013 Intern",
 "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002"
@@ -3547,7 +3889,9 @@
 "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
 },
 "simplify:arrowstreet capital:6db9e02b-faca-4e0e-ac29-f4fb8c87be71": {
+"checked": "2026-09-28",
 "company": "Arrowstreet Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909427,
 "flags": [],
@@ -3557,12 +3901,15 @@
 "Boston, MA"
 ],
 "posted_ts": 1783641600,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505"
 },
 "simplify:arrowstreet capital:cee814d5-6814-4bea-b567-0b0b7460e127": {
+"checked": "2026-09-28",
 "company": "Arrowstreet Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909396,
 "flags": [],
@@ -3572,6 +3919,7 @@
 "Boston, MA"
 ],
 "posted_ts": 1783641600,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Developer Intern",
 "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506"
@@ -5267,7 +5615,9 @@
 "url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521"
 },
 "simplify:bytedance:1077cb58-5992-4ad8-acb0-7980b9360baa": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913025,
 "flags": [],
@@ -5277,6 +5627,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785892505,
+"rolling": false,
 "src": "simplify",
 "title": "Student Researcher - Compiler - Seed Infra",
 "url": "https://jobs.bytedance.com/en/position/7670316084662339845/detail"
@@ -5357,7 +5708,9 @@
 "url": "https://jobs.bytedance.com/en/position/7668464504736876853/detail"
 },
 "simplify:bytedance:38db92f9-6338-4caa-b797-e738cda127b9": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905565,
 "flags": [],
@@ -5367,6 +5720,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1775023743,
+"rolling": false,
 "src": "simplify",
 "title": "Student Researcher",
 "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail"
@@ -5402,7 +5756,9 @@
 "url": "https://jobs.bytedance.com/en/position/7669973602626308357/detail"
 },
 "simplify:bytedance:5ee0c221-6808-401f-9d4e-a8e71f60785b": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905531,
 "flags": [],
@@ -5412,6 +5768,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1775023743,
+"rolling": false,
 "src": "simplify",
 "title": "Student Researcher - Speech Foundation Model",
 "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail"
@@ -5447,7 +5804,9 @@
 "url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail"
 },
 "simplify:bytedance:7a3479e6-fa2c-40d9-b917-c42922bfeaf1": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991173,
 "flags": [],
@@ -5457,6 +5816,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785748596,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
 "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail"
@@ -5507,7 +5867,9 @@
 "url": "https://jobs.bytedance.com/en/position/7673608499872827701/detail"
 },
 "simplify:bytedance:a7327377-6839-4afe-a0e7-a1e99135d7b4": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991162,
 "flags": [],
@@ -5517,6 +5879,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785748596,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - AI Infra Compute",
 "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail"
@@ -5567,7 +5930,9 @@
 "url": "https://jobs.bytedance.com/en/position/7673617571165620533/detail"
 },
 "simplify:bytedance:aedd360d-23ce-4970-aa0b-45302887e26f": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991169,
 "flags": [],
@@ -5577,12 +5942,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785748594,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail"
 },
 "simplify:bytedance:b59992d0-e14b-4009-9121-ed1172ad9b24": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912903,
 "flags": [],
@@ -5592,6 +5960,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785834865,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - AI Platform",
 "url": "https://jobs.bytedance.com/en/position/7668212952030841093/detail"
@@ -5612,7 +5981,9 @@
 "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail"
 },
 "simplify:bytedance:d96b68e1-8512-4890-8276-eac5392e1f2d": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911656,
 "flags": [],
@@ -5622,6 +5993,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785748596,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - AI Infrastructure Compute",
 "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail"
@@ -5657,7 +6029,9 @@
 "url": "https://jobs.bytedance.com/en/position/7672391300141877557/detail"
 },
 "simplify:bytedance:ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905493,
 "flags": [],
@@ -5667,6 +6041,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1775023743,
+"rolling": false,
 "src": "simplify",
 "title": "Student Researcher - Large Language Model",
 "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail"
@@ -5717,7 +6092,9 @@
 "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail"
 },
 "simplify:bytedance:fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913218,
 "flags": [],
@@ -5727,6 +6104,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785921282,
+"rolling": false,
 "src": "simplify",
 "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
 "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail"
@@ -6123,7 +6501,9 @@
 "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
 },
 "simplify:chicago trading company:5fdbf0e9-e98a-4251-b983-801d494ae586": {
+"checked": "2026-09-28",
 "company": "Chicago Trading Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99101,
 "flags": [],
@@ -6133,12 +6513,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1784585921,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
 },
 "simplify:chicago trading company:cef4c60b-0a55-4305-94cf-d725b8c66ad2": {
+"checked": "2026-09-28",
 "company": "Chicago Trading Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911768,
 "flags": [],
@@ -6148,6 +6531,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1785795334,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
@@ -6325,7 +6709,9 @@
 "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"
 },
 "simplify:circleback:75892e9b-bebc-4e60-9e4b-a763af8e0759": {
+"checked": "2026-09-28",
 "company": "Circleback",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909863,
 "flags": [],
@@ -6335,6 +6721,7 @@
 "SF"
 ],
 "posted_ts": 1784106695,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true"
@@ -7216,7 +7603,9 @@
 "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817"
 },
 "simplify:ctgt:8c8a1f21-e711-48d0-8cec-601018138920": {
+"checked": "2026-09-28",
 "company": "CTGT",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909165,
 "flags": [],
@@ -7226,6 +7615,7 @@
 "SF"
 ],
 "posted_ts": 1783174097,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application"
@@ -7246,7 +7636,9 @@
 "url": "https://careers.cvent.com/jobs/10806?icims=1"
 },
 "simplify:cybernetic labs:a6f02442-de0a-454f-a56f-8462c72d7c74": {
+"checked": "2026-09-28",
 "company": "Cybernetic Labs",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910028,
 "flags": [],
@@ -7256,12 +7648,15 @@
 "SF"
 ],
 "posted_ts": 1784182200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Agent Platform",
 "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true"
 },
 "simplify:cybernetic labs:d939c49f-1d93-4ba9-aa2f-32e4e7398633": {
+"checked": "2026-09-28",
 "company": "Cybernetic Labs",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909947,
 "flags": [],
@@ -7271,12 +7666,15 @@
 "SF"
 ],
 "posted_ts": 1784164185,
+"rolling": false,
 "src": "simplify",
 "title": "Forward Deployed Engineer Intern",
 "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true"
 },
 "simplify:cybernetic labs:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926": {
+"checked": "2026-09-28",
 "company": "Cybernetic Labs",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990999,
 "flags": [],
@@ -7286,6 +7684,7 @@
 "SF"
 ],
 "posted_ts": 1784164187,
+"rolling": false,
 "src": "simplify",
 "title": "Full-Stack Software Engineer Intern - Product",
 "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true"
@@ -9197,7 +9596,9 @@
 "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714"
 },
 "simplify:five rings capital:14baa8ae-f151-483f-b5e0-77ca5086d04e": {
+"checked": "2026-09-28",
 "company": "Five Rings Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909832,
 "flags": [],
@@ -9207,6 +9608,7 @@
 "NYC"
 ],
 "posted_ts": 1784068202,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Software Developer",
 "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
@@ -9513,7 +9915,9 @@
 "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1"
 },
 "simplify:ge healthcare:f09f0a56-4999-4d19-afb4-894ea819d401": {
+"checked": "2026-09-28",
 "company": "GE Healthcare",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910066,
 "flags": [],
@@ -9523,6 +9927,7 @@
 "Waukesha, WI"
 ],
 "posted_ts": 1784505600,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Development Program Intern - Software",
 "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
@@ -10153,7 +10558,9 @@
 "url": "https://higher.gs.com/roles/171553?type=students"
 },
 "simplify:google:6dd83af2-b361-466c-b194-a7b86e904899": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9945781,
 "flags": [],
@@ -10193,12 +10600,15 @@
 "San Diego, CA"
 ],
 "posted_ts": 1789417463,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - Product",
 "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830"
 },
 "simplify:google:956086a7-d67a-4072-93ae-47bf3687b548": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923005,
 "flags": [],
@@ -10237,12 +10647,15 @@
 "San Diego, CA"
 ],
 "posted_ts": 1788215832,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Multiple Teams",
 "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742"
 },
 "simplify:google:c9bf8e11-07ee-42db-b773-dd7f4ce360fc": {
+"checked": "2026-09-28",
 "company": "Google",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992304,
 "flags": [],
@@ -10282,6 +10695,7 @@
 "Santa Barbara, CA"
 ],
 "posted_ts": 1788215817,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Multiple Teams",
 "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382"
@@ -10610,7 +11024,9 @@
 "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952"
 },
 "simplify:heliux:8b98f33d-21b5-4ae4-af04-3b7378193f39": {
+"checked": "2026-09-28",
 "company": "Heliux",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99103,
 "flags": [],
@@ -10620,6 +11036,7 @@
 "SF"
 ],
 "posted_ts": 1785478970,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true"
@@ -10970,7 +11387,9 @@
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
 },
 "simplify:hpr (hyannis port research):e142c984-ca46-4624-af2c-e5061b8b60f2": {
+"checked": "2026-09-28",
 "company": "HPR (Hyannis Port Research)",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910364,
 "flags": [],
@@ -10980,6 +11399,7 @@
 "Needham, MA"
 ],
 "posted_ts": 1785623162,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
@@ -11015,7 +11435,9 @@
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414"
 },
 "simplify:hudson river trading:87235779-9531-4bf2-b265-6cc448aa0f35": {
+"checked": "2026-09-28",
 "company": "Hudson River Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909682,
 "flags": [],
@@ -11027,12 +11449,15 @@
 "NYC"
 ],
 "posted_ts": 1783981848,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - C++ or Python",
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
 },
 "simplify:hudson river trading:e37131d1-d111-4bf1-8493-2e54ad4ced68": {
+"checked": "2026-09-28",
 "company": "Hudson River Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909644,
 "flags": [],
@@ -11042,6 +11467,7 @@
 "NYC"
 ],
 "posted_ts": 1783981845,
+"rolling": false,
 "src": "simplify",
 "title": "Algorithm Development Intern - Quant Research",
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"
@@ -11252,7 +11678,9 @@
 "url": "https://careers.itw.com/global/en/job/JR10261"
 },
 "simplify:imc trading:302d7a14-d6ef-4887-b2e6-ece00d5ae71a": {
+"checked": "2026-09-28",
 "company": "IMC Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990913,
 "flags": [],
@@ -11262,12 +11690,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1782944927,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Intern",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101"
 },
 "simplify:imc trading:74ebbab0-9a8d-4399-aec0-07e5ad5f7337": {
+"checked": "2026-09-28",
 "company": "IMC Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909098,
 "flags": [],
@@ -11277,6 +11708,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1782944929,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
@@ -11594,7 +12026,9 @@
 "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581"
 },
 "simplify:jane street:626bb7ad-7fc6-4fd0-99cd-31a7fb23cef3": {
+"checked": "2026-09-28",
 "company": "Jane Street",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99093,
 "flags": [],
@@ -11604,12 +12038,15 @@
 "NYC"
 ],
 "posted_ts": 1783377287,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://job-boards.greenhouse.io/janestreet/jobs/8419303002"
 },
 "simplify:jane street:767f1b1b-9676-407d-99db-e3582821b87a": {
+"checked": "2026-09-28",
 "company": "Jane Street",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909267,
 "flags": [],
@@ -11619,12 +12056,15 @@
 "NYC"
 ],
 "posted_ts": 1783377284,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://job-boards.greenhouse.io/janestreet/jobs/8498547002"
 },
 "simplify:jane street:fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca": {
+"checked": "2026-09-28",
 "company": "Jane Street",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990976,
 "flags": [],
@@ -11634,6 +12074,7 @@
 "NYC"
 ],
 "posted_ts": 1783992270,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineering Intern",
 "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002"
@@ -11985,7 +12426,9 @@
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463"
 },
 "simplify:jp morgan chase:067fde7e-5b83-40ed-8830-3864aced6f33": {
+"checked": "2026-09-28",
 "company": "JP Morgan Chase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991158,
 "flags": [],
@@ -11995,12 +12438,15 @@
 "NYC"
 ],
 "posted_ts": 1785738261,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Summer Analyst Intern - Asset Management",
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074"
 },
 "simplify:jp morgan chase:736ed5d6-63be-4dfa-b0d6-5eb9c5d4e663": {
+"checked": "2026-09-28",
 "company": "JP Morgan Chase",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911535,
 "flags": [],
@@ -12012,6 +12458,7 @@
 "NYC"
 ],
 "posted_ts": 1785738264,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Intern - Risk and Treasury",
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978"
@@ -12774,7 +13221,9 @@
 "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411"
 },
 "simplify:marmon holdings:04c61af9-3fff-42ea-b8cb-7e2f17ca3778": {
+"checked": "2026-09-28",
 "company": "Marmon Holdings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908655,
 "flags": [],
@@ -12784,12 +13233,15 @@
 "Milwaukee, WI"
 ],
 "posted_ts": 1778947099,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineering Intern Co-op",
 "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1"
 },
 "simplify:marmon holdings:69225149-308a-4cc5-84fa-f22b334b94b9": {
+"checked": "2026-09-28",
 "company": "Marmon Holdings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905438,
 "flags": [],
@@ -12799,6 +13251,7 @@
 "Milwaukee, WI"
 ],
 "posted_ts": 1772609904,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineering Intern/Co-op",
 "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453"
@@ -12820,7 +13273,9 @@
 "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073"
 },
 "simplify:marshall wace:ae7fd66d-2ccb-4c86-894b-f1f097cff21c": {
+"checked": "2026-09-28",
 "company": "Marshall Wace",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909334,
 "flags": [],
@@ -12830,6 +13285,7 @@
 "NYC"
 ],
 "posted_ts": 1783375381,
+"rolling": false,
 "src": "simplify",
 "title": "Technology Intern",
 "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002"
@@ -13016,7 +13472,9 @@
 "url": "https://careers.medpace.com/jobs/12987?icims=1"
 },
 "simplify:medtronic:43929c26-d19b-4057-9543-bf087c4bbf62": {
+"checked": "2026-09-28",
 "company": "Medtronic",
+"deadline": "2026-10-16",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910395,
 "flags": [],
@@ -13046,6 +13504,7 @@
 "Boulder, CO"
 ],
 "posted_ts": 1785542400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
@@ -13111,7 +13570,9 @@
 "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Store-Analytics-Intern--Summer-2027_R000698651"
 },
 "simplify:melius:56196707-1bc1-44de-9e0e-a32456792771": {
+"checked": "2026-09-28",
 "company": "Melius",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991033,
 "flags": [],
@@ -13121,6 +13582,7 @@
 "NYC"
 ],
 "posted_ts": 1785507581,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true"
@@ -13293,7 +13755,9 @@
 "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Information-Science---Intern_R413651"
 },
 "simplify:mercor:a713c0fc-8fe6-4def-ab15-d55db5742ac4": {
+"checked": "2026-09-28",
 "company": "Mercor",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9905393,
 "flags": [],
@@ -13303,6 +13767,7 @@
 "SF"
 ],
 "posted_ts": 1770966733,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"
@@ -14201,7 +14666,9 @@
 "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46/apply"
 },
 "simplify:netsmart:86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
+"checked": "2026-09-28",
 "company": "Netsmart",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911907,
 "flags": [],
@@ -14211,6 +14678,7 @@
 "Overland Park, KS"
 ],
 "posted_ts": 1785715200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
@@ -14397,7 +14865,9 @@
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
 },
 "simplify:northrop grumman:a9d682ef-59ba-42c1-9fad-28a7afc1aea4": {
+"checked": "2026-09-28",
 "company": "Northrop Grumman",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913373,
 "flags": [],
@@ -14407,6 +14877,7 @@
 "Melbourne, FL"
 ],
 "posted_ts": 1785888000,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Aeronautics Systems",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
@@ -14520,7 +14991,9 @@
 "url": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN"
 },
 "simplify:nvidia:3affcaac-d7f9-45d1-8139-19defc762e13": {
+"checked": "2026-09-28",
 "company": "NVIDIA",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99168,
 "flags": [],
@@ -14530,12 +15003,15 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787097600,
+"rolling": true,
 "src": "simplify",
 "title": "Deep Learning Computer Architecture Intern",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
 },
 "simplify:nvidia:be628885-fde3-4b73-bb0a-58e11856e97b": {
+"checked": "2026-09-28",
 "company": "NVIDIA",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991676,
 "flags": [],
@@ -14546,6 +15022,7 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787097600,
+"rolling": true,
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
@@ -14626,7 +15103,9 @@
 "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Data_REQ-4844"
 },
 "simplify:old mission:b31743bd-7fcf-42a4-aca1-0e6146dfb105": {
+"checked": "2026-09-28",
 "company": "Old Mission",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909892,
 "flags": [],
@@ -14636,6 +15115,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1784155001,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
@@ -14701,7 +15181,9 @@
 "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true"
 },
 "simplify:optiver:895ea579-0ca7-4aa8-82a2-db62cfeba95c": {
+"checked": "2026-09-28",
 "company": "Optiver",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909067,
 "flags": [],
@@ -14711,12 +15193,15 @@
 "Austin, TX"
 ],
 "posted_ts": 1782943981,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002"
 },
 "simplify:optiver:f49b4766-f352-4e81-9cb2-0f42fb9fd101": {
+"checked": "2026-09-28",
 "company": "Optiver",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909036,
 "flags": [],
@@ -14726,6 +15211,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1782943980,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
@@ -14870,7 +15356,9 @@
 "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826"
 },
 "simplify:palantir:ea21f599-680e-4822-8289-fe0af38a4bfe": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909003,
 "flags": [],
@@ -14880,12 +15368,15 @@
 "NYC"
 ],
 "posted_ts": 1782770691,
+"rolling": false,
 "src": "simplify",
 "title": "Privacy and Civil Liberties Software Engineer Intern",
 "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply"
 },
 "simplify:palantir:ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": {
+"checked": "2026-09-28",
 "company": "Palantir",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990893,
 "flags": [],
@@ -14895,12 +15386,15 @@
 "Chicago, IL"
 ],
 "posted_ts": 1782857114,
+"rolling": false,
 "src": "simplify",
 "title": "Forward Deployed Software Engineer Intern - Commercial",
 "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
 },
 "simplify:pdt partners:7e5feb76-9fea-420d-a0ea-32c19e256975": {
+"checked": "2026-09-28",
 "company": "PDT Partners",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910269,
 "flags": [],
@@ -14910,6 +15404,7 @@
 "NYC"
 ],
 "posted_ts": 1784931571,
+"rolling": true,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
@@ -15481,7 +15976,9 @@
 "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
 },
 "simplify:pylon:f0aadc2c-2a47-404c-bc18-f3863ab3e456": {
+"checked": "2026-09-28",
 "company": "Pylon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909365,
 "flags": [],
@@ -15491,6 +15988,7 @@
 "SF"
 ],
 "posted_ts": 1783635064,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application"
@@ -15556,7 +16054,9 @@
 "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors"
 },
 "simplify:quadrillion:53663e4c-42be-4d2a-ba0f-ac7a0d65da22": {
+"checked": "2026-09-28",
 "company": "Quadrillion",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910238,
 "flags": [],
@@ -15566,6 +16066,7 @@
 "NYC"
 ],
 "posted_ts": 1784874073,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true"
@@ -16336,7 +16837,9 @@
 "url": "https://boards.greenhouse.io/robinhood/jobs/8198255"
 },
 "simplify:roblox:f89dbf35-2e68-4087-a28a-1092da1e72d4": {
+"checked": "2026-09-28",
 "company": "Roblox",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913251,
 "flags": [],
@@ -16346,6 +16849,7 @@
 "San Mateo, CA"
 ],
 "posted_ts": 1785968911,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
@@ -16912,7 +17416,9 @@
 "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
 },
 "simplify:salesforce:3cb45823-f475-44c7-aaca-4a1335faf6ff": {
+"checked": "2026-09-28",
 "company": "Salesforce",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908586,
 "flags": [],
@@ -16929,12 +17435,15 @@
 "Burlington, MA"
 ],
 "posted_ts": 1778191473,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771"
 },
 "simplify:salesforce:452daa00-79b9-40ff-902b-6a5c3ddc4357": {
+"checked": "2026-09-28",
 "company": "Salesforce",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908621,
 "flags": [],
@@ -16951,6 +17460,7 @@
 "Burlington, MA"
 ],
 "posted_ts": 1778191514,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
@@ -16986,7 +17496,9 @@
 "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?embed=true"
 },
 "simplify:scale ai:58cf8fe8-1a98-42de-92d9-2a915d02739d": {
+"checked": "2026-09-28",
 "company": "Scale AI",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.993384,
 "flags": [],
@@ -16996,6 +17508,7 @@
 "SF"
 ],
 "posted_ts": 1788561090,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
@@ -17527,7 +18040,9 @@
 "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true"
 },
 "simplify:simoncomputing:f06b088f-b45f-4daa-a9f2-f680f36623f0": {
+"checked": "2026-09-28",
 "company": "SimonComputing",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908884,
 "flags": [],
@@ -17537,6 +18052,7 @@
 "Alexandria, VA"
 ],
 "posted_ts": 1782222208,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Internship",
 "url": "https://simoncomputing.applicantpro.com/jobs/4115690"
@@ -17634,7 +18150,9 @@
 "url": "https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false"
 },
 "simplify:spacex:6339287b-3f1f-45ea-964d-65549925660a": {
+"checked": "2026-09-28",
 "company": "SpaceX",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991187,
 "flags": [],
@@ -17651,6 +18169,7 @@
 "Hawthorne, CA"
 ],
 "posted_ts": 1785796283,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern/Co-op",
 "url": "https://boards.greenhouse.io/spacex/jobs/8621757002"
@@ -17960,7 +18479,9 @@
 "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true"
 },
 "simplify:susquehanna international group (sig):101c0a59-cfc7-4ef9-bcf8-d70d2a67c4f7": {
+"checked": "2026-09-28",
 "company": "Susquehanna International Group (SIG)",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990869,
 "flags": [],
@@ -17970,12 +18491,15 @@
 "Ardmore, PA"
 ],
 "posted_ts": 1780610869,
+"rolling": false,
 "src": "simplify",
 "title": "Electricity + Natural Gas Analyst Intern",
 "url": "https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false"
 },
 "simplify:susquehanna international group (sig):14dcee99-b506-4efe-a80a-63151e541c4d": {
+"checked": "2026-09-28",
 "company": "Susquehanna International Group (SIG)",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908547,
 "flags": [],
@@ -17985,12 +18509,15 @@
 "Ardmore, PA"
 ],
 "posted_ts": 1776981863,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Strategy Developer Intern",
 "url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false"
 },
 "simplify:susquehanna international group (sig):214fe12f-0a66-495e-bbeb-de7c8d78fdf8": {
+"checked": "2026-09-28",
 "company": "Susquehanna International Group (SIG)",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908502,
 "flags": [],
@@ -18000,12 +18527,15 @@
 "Ardmore, PA"
 ],
 "posted_ts": 1776809092,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Intern",
 "url": "https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false"
 },
 "simplify:susquehanna international group (sig):5e40a228-3721-4f88-96d5-3f59b73be6c4": {
+"checked": "2026-09-28",
 "company": "Susquehanna International Group (SIG)",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909241,
 "flags": [],
@@ -18015,12 +18545,15 @@
 "Philadelphia, PA"
 ],
 "posted_ts": 1783317943,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Strategy Developer Intern",
 "url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false"
 },
 "simplify:susquehanna international group (sig):6f017171-74b9-4619-a761-d93250479626": {
+"checked": "2026-09-28",
 "company": "Susquehanna International Group (SIG)",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990896,
 "flags": [],
@@ -18031,6 +18564,7 @@
 "NYC"
 ],
 "posted_ts": 1782770788,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Intern",
 "url": "https://careers-sig.icims.com/jobs/10820/job?mobile=true&needsRedirect=false"
@@ -18249,7 +18783,9 @@
 "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true"
 },
 "simplify:tesla:596dd9f7-ec11-4d3b-99e8-bcce4bd4a605": {
+"checked": "2026-09-28",
 "company": "Tesla",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9930913,
 "flags": [],
@@ -18259,12 +18795,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1788473480,
+"rolling": false,
 "src": "simplify",
 "title": "Embedded Software Engineer Intern - Optimus",
 "url": "https://www.tesla.com/careers/search/job/282340"
 },
 "simplify:tesla:5eeb71a2-4362-490d-91b2-80bec3bb466d": {
+"checked": "2026-09-28",
 "company": "Tesla",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.995182,
 "flags": [],
@@ -18274,12 +18813,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1789711766,
+"rolling": false,
 "src": "simplify",
 "title": "Internship - Software Engineering - People Products - Summer 2027",
 "url": "https://www.tesla.com/careers/search/job/284004"
 },
 "simplify:tesla:8b46d013-f73a-4d7b-bd75-7775fa71d342": {
+"checked": "2026-09-28",
 "company": "Tesla",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9927852,
 "flags": [],
@@ -18289,12 +18831,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1788320264,
+"rolling": false,
 "src": "simplify",
 "title": "Physics Engine Development Engineer Intern - Optimus",
 "url": "https://www.tesla.com/careers/search/job/282147"
 },
 "simplify:tesla:c5bd1b3f-c4a1-4606-b687-e4afcc112363": {
+"checked": "2026-09-28",
 "company": "Tesla",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920218,
 "flags": [],
@@ -18304,6 +18849,7 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1787870608,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
 "url": "https://www.tesla.com/careers/search/job/281097"
@@ -18506,7 +19052,9 @@
 "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
 },
 "simplify:the boeing company:3c052483-a306-453e-a3dc-ccfe99cf5624": {
+"checked": "2026-09-28",
 "company": "The Boeing Company",
+"deadline": "2026-10-23",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911838,
 "flags": [],
@@ -18545,12 +19093,15 @@
 "El Segundo, CA"
 ],
 "posted_ts": 1785715200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern",
 "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976"
 },
 "simplify:the boeing company:9cb4c737-6df9-4e67-84df-df1d44834fc0": {
+"checked": "2026-09-28",
 "company": "The Boeing Company",
+"deadline": "2026-10-23",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991181,
 "flags": [],
@@ -18589,6 +19140,7 @@
 "El Segundo, CA"
 ],
 "posted_ts": 1785715200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern",
 "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1"
@@ -18943,7 +19495,9 @@
 "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false"
 },
 "simplify:tiktok:04eb8758-e0be-4ae4-aca7-40e1626d3e24": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912112,
 "flags": [],
@@ -18953,12 +19507,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824431,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Product Infrastructure",
 "url": "https://lifeattiktok.com/search/7667935633764370741"
 },
 "simplify:tiktok:0673c550-4c1f-4d6c-b03d-e2185d8183b0": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991333,
 "flags": [],
@@ -18968,12 +19525,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785979104,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Media Engine",
 "url": "https://lifeattiktok.com/search/7670295535077427509"
 },
 "simplify:tiktok:06c11bb5-43c4-40be-8e95-f79d8f4b6ee6": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911084,
 "flags": [],
@@ -18983,12 +19543,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737705,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Innovative Growth",
 "url": "https://lifeattiktok.com/search/7667934860750063925"
 },
 "simplify:tiktok:07a9c26b-bccd-44eb-8314-fee1a7513235": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911048,
 "flags": [],
@@ -18998,12 +19561,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737700,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Ads Measurement Signal and Privacy",
 "url": "https://lifeattiktok.com/search/7668582031916435717"
 },
 "simplify:tiktok:08be4cf5-fcc4-47ed-82fc-2dc64c84d1b4": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991234,
 "flags": [],
@@ -19013,12 +19579,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785824415,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Global E-Commerce",
 "url": "https://lifeattiktok.com/search/7668834837268416821"
 },
 "simplify:tiktok:092fac4b-3753-4d79-b797-cb3aac771420": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991145,
 "flags": [],
@@ -19028,12 +19597,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737703,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667935739300317493"
 },
 "simplify:tiktok:0fb5cd0a-2141-450b-b5c0-d7a1d71036dd": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912868,
 "flags": [],
@@ -19043,12 +19615,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835211,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - TikTok Live",
 "url": "https://lifeattiktok.com/search/7669700822370945333"
 },
 "simplify:tiktok:1b288e59-0885-4ce7-bd60-b7cdda93c8bc": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991231,
 "flags": [],
@@ -19058,12 +19633,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824408,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7668921505254410549"
 },
 "simplify:tiktok:1c50abfc-6825-4aa2-8dff-f244f74c75bf": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910889,
 "flags": [],
@@ -19073,12 +19651,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737710,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Search Quality",
 "url": "https://lifeattiktok.com/search/7665475460339665157"
 },
 "simplify:tiktok:1f8cd2ed-d3dd-41e6-b73e-dd4305de1590": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911296,
 "flags": [],
@@ -19088,12 +19669,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737704,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667933335084124469"
 },
 "simplify:tiktok:1fb1e49e-1a9d-40ea-9146-1df231b49971": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910855,
 "flags": [],
@@ -19103,6 +19687,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737712,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7662700594251958581"
@@ -19123,7 +19708,9 @@
 "url": "https://lifeattiktok.com/search/7668881813744191749"
 },
 "simplify:tiktok:21843187-b30d-4873-8247-27a9a3d7b05d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911497,
 "flags": [],
@@ -19133,12 +19720,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737700,
+"rolling": false,
 "src": "simplify",
 "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
 "url": "https://lifeattiktok.com/search/7668584161852229893"
 },
 "simplify:tiktok:2e35f7c5-6439-4055-8645-1f6e1035fcd6": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911165,
 "flags": [],
@@ -19148,12 +19738,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737704,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Digital Content Center",
 "url": "https://lifeattiktok.com/search/7667934302872537397"
 },
 "simplify:tiktok:32e32073-854a-4b16-8adf-f981a6901e09": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910622,
 "flags": [],
@@ -19163,12 +19756,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737711,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Recommendation",
 "url": "https://lifeattiktok.com/search/7662653087863081221"
 },
 "simplify:tiktok:3a5ca7be-fe69-4dc6-90df-9bdae4a796cc": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910827,
 "flags": [],
@@ -19178,12 +19774,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737711,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Trust and Safety",
 "url": "https://lifeattiktok.com/search/7662672554084059445"
 },
 "simplify:tiktok:3b44efc2-7d58-43bc-a375-21f4344932d3": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912832,
 "flags": [],
@@ -19193,12 +19792,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835210,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Integrity and Safety",
 "url": "https://lifeattiktok.com/search/7669682935444900149"
 },
 "simplify:tiktok:3b700557-5c32-4773-8cfe-f11a66b71a4f": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912987,
 "flags": [],
@@ -19208,6 +19810,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785893052,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - TikTok Product",
 "url": "https://lifeattiktok.com/search/7669683639101884725"
@@ -19243,7 +19846,9 @@
 "url": "https://lifeattiktok.com/search/7678985103851407669"
 },
 "simplify:tiktok:44dacd86-f76d-414d-9cb5-9dd6a0211b2d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912279,
 "flags": [],
@@ -19253,12 +19858,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824410,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Ads Signal & Measurement",
 "url": "https://lifeattiktok.com/search/7669700361976809733"
 },
 "simplify:tiktok:4ef18c97-61e7-45fb-96b5-55d9163a1786": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912074,
 "flags": [],
@@ -19268,12 +19876,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824419,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Effects Performance",
 "url": "https://lifeattiktok.com/search/7668725183121000757"
 },
 "simplify:tiktok:5182ae3f-a0b7-4e07-80fd-25a69767ee5d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991273,
 "flags": [],
@@ -19283,12 +19894,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835206,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Transaction Platform",
 "url": "https://lifeattiktok.com/search/7669943120351906053"
 },
 "simplify:tiktok:53a8204a-f36a-48a4-acc6-87134c891a73": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911425,
 "flags": [],
@@ -19298,12 +19912,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785737700,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7668582086899763461"
 },
 "simplify:tiktok:53d06972-e847-4ab6-baf8-27f2642beba6": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910789,
 "flags": [],
@@ -19313,12 +19930,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737700,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7668581636242016565"
 },
 "simplify:tiktok:55417269-0302-4607-96a4-1ed2b420ba05": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910753,
 "flags": [],
@@ -19328,12 +19948,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785737710,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Trust and Safety Engineering",
 "url": "https://lifeattiktok.com/search/7662684280234232117"
 },
 "simplify:tiktok:583da786-a806-4182-a9ea-6299307644ac": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910922,
 "flags": [],
@@ -19343,6 +19966,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737707,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667350291952765237"
@@ -19363,7 +19987,9 @@
 "url": "https://lifeattiktok.com/search/7671211313289398581"
 },
 "simplify:tiktok:633fde2a-eea3-462a-91b6-f0c8025fba8d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913096,
 "flags": [],
@@ -19373,12 +19999,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785921479,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Search",
 "url": "https://lifeattiktok.com/search/7668396597746862341"
 },
 "simplify:tiktok:6454b1b2-6daf-4a13-9e9f-47209a333d39": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912572,
 "flags": [],
@@ -19388,12 +20017,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835212,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
 "url": "https://lifeattiktok.com/search/7667935150530840837"
 },
 "simplify:tiktok:69040dc4-2a49-4a97-8a41-75f8926c7b5a": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910712,
 "flags": [],
@@ -19403,12 +20035,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737710,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667338938890930437"
 },
 "simplify:tiktok:6c0be2d1-eac9-429a-b900-df719577d679": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912457,
 "flags": [],
@@ -19418,12 +20053,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835212,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
 "url": "https://lifeattiktok.com/search/7669711968043092229"
 },
 "simplify:tiktok:6dabe551-58cb-4dd5-9ba4-5656067dd84a": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912527,
 "flags": [],
@@ -19433,12 +20071,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835209,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Brand Ads",
 "url": "https://lifeattiktok.com/search/7668654528822954245"
 },
 "simplify:tiktok:6f9b09ce-ac3f-47ef-9225-03bace1084c7": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912043,
 "flags": [],
@@ -19448,12 +20089,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824428,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://lifeattiktok.com/search/7668379675467761925"
 },
 "simplify:tiktok:6fa46b99-9c48-44b2-8d38-e17ef2651837": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912238,
 "flags": [],
@@ -19463,12 +20107,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824408,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Ads Interface",
 "url": "https://lifeattiktok.com/search/7669705785962727733"
 },
 "simplify:tiktok:708992c3-129c-4bbd-9c10-a0ae59f29fd2": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912379,
 "flags": [],
@@ -19478,12 +20125,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835206,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Performance Monetization",
 "url": "https://lifeattiktok.com/search/7669693163422845237"
 },
 "simplify:tiktok:722bb14f-670f-48c9-8320-e07db2eff930": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912798,
 "flags": [],
@@ -19493,6 +20143,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835209,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7669712589169117445"
@@ -19528,7 +20179,9 @@
 "url": "https://lifeattiktok.com/search/7672930401597671733"
 },
 "simplify:tiktok:7fdf2de6-75ca-4715-8764-720c7cc52695": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913168,
 "flags": [],
@@ -19538,12 +20191,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785921432,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineer Intern - Ads Targeting",
 "url": "https://lifeattiktok.com/search/7668533140146817333"
 },
 "simplify:tiktok:861c7a8a-d9c3-4137-b070-331f0d26e5b3": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991306,
 "flags": [],
@@ -19553,6 +20209,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785921474,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - VOD Data",
 "url": "https://lifeattiktok.com/search/7670287013157095733"
@@ -19573,7 +20230,9 @@
 "url": "https://lifeattiktok.com/search/7670700387322300677"
 },
 "simplify:tiktok:8b95003b-f01d-4d6b-a4d2-1e4c6d890df5": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912007,
 "flags": [],
@@ -19583,12 +20242,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824407,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Global CRM",
 "url": "https://lifeattiktok.com/search/7669711844487399685"
 },
 "simplify:tiktok:8db73e59-868b-443c-ae94-c136c0561141": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911127,
 "flags": [],
@@ -19598,12 +20260,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737703,
+"rolling": false,
 "src": "simplify",
 "title": "Artificial Intelligence Engineer Intern - Client Architecture",
 "url": "https://lifeattiktok.com/search/7667935738190465285"
 },
 "simplify:tiktok:8f05dd2f-befa-4ddd-8488-134b03cc716d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911368,
 "flags": [],
@@ -19613,12 +20278,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737701,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Agentic Creation-Effect Platform",
 "url": "https://lifeattiktok.com/search/7668445566565321013"
 },
 "simplify:tiktok:9019bee1-e862-4a98-8ce2-db27dfc5283a": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910676,
 "flags": [],
@@ -19628,12 +20296,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737700,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Creative Intelligence and Brand Innovation",
 "url": "https://lifeattiktok.com/search/7668642761473902901"
 },
 "simplify:tiktok:91782cd8-b605-4363-a260-dc99dd6c6413": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99114,
 "flags": [],
@@ -19643,12 +20314,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737699,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7668675500744837381"
 },
 "simplify:tiktok:9b049391-06b9-426f-8b33-6c1b1de9fca8": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991101,
 "flags": [],
@@ -19658,12 +20332,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737707,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667346576033777925"
 },
 "simplify:tiktok:a369c444-d6b3-4421-8a25-859336530e56": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911268,
 "flags": [],
@@ -19673,6 +20350,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737702,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667935738376227077"
@@ -19693,7 +20371,9 @@
 "url": "https://lifeattiktok.com/search/7673663349758675205"
 },
 "simplify:tiktok:ac3e3883-21b0-4ad1-8011-bf5060c01aab": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912949,
 "flags": [],
@@ -19703,12 +20383,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785737703,
+"rolling": false,
 "src": "simplify",
 "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
 "url": "https://lifeattiktok.com/search/7667934792727906565"
 },
 "simplify:tiktok:b05ba4c5-016d-48b3-888c-f09fa7f253ad": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912694,
 "flags": [],
@@ -19718,12 +20401,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835212,
+"rolling": false,
 "src": "simplify",
 "title": "Frontend Engineer Intern - Global CRM",
 "url": "https://lifeattiktok.com/search/7669711026846058757"
 },
 "simplify:tiktok:b11dddb4-7bc4-4864-8ee8-ab5d5bb12c9a": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912612,
 "flags": [],
@@ -19733,12 +20419,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835208,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - App Ads and Gaming",
 "url": "https://lifeattiktok.com/search/7669709472078170373"
 },
 "simplify:tiktok:b1a212f9-bfdc-4a20-bc91-e34800cb57f6": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912202,
 "flags": [],
@@ -19748,12 +20437,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824407,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Commercial AI-CRM and Transaction",
 "url": "https://lifeattiktok.com/search/7669702702763018501"
 },
 "simplify:tiktok:b39e7951-0395-4c53-8303-28b2f26bd237": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991124,
 "flags": [],
@@ -19763,6 +20455,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785737701,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Data Architecture - E-commerce",
 "url": "https://lifeattiktok.com/search/7668582146236631349"
@@ -19783,7 +20476,9 @@
 "url": "https://lifeattiktok.com/search/7675128776856029445"
 },
 "simplify:tiktok:b6428bbb-bf53-4e9c-8121-3217159bb9b6": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912658,
 "flags": [],
@@ -19793,12 +20488,15 @@
 "Seattle, WA"
 ],
 "posted_ts": 1785835211,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce",
 "url": "https://lifeattiktok.com/search/7668383643375257909"
 },
 "simplify:tiktok:b810a416-7ff9-4dd2-9bee-5b5b5ca5e317": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9911327,
 "flags": [],
@@ -19808,12 +20506,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737703,
+"rolling": false,
 "src": "simplify",
 "title": "Frontend Engineer Intern - Open Platform",
 "url": "https://lifeattiktok.com/search/7667935739300792629"
 },
 "simplify:tiktok:b8f5c841-1a67-4b15-bb05-70d871b0ab77": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991215,
 "flags": [],
@@ -19823,6 +20524,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785824416,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Global E-Commerce",
 "url": "https://lifeattiktok.com/search/7668834837268138293"
@@ -19843,7 +20545,9 @@
 "url": "https://lifeattiktok.com/search/7676276048527214901"
 },
 "simplify:tiktok:c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99112,
 "flags": [],
@@ -19853,6 +20557,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737704,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Social Friending",
 "url": "https://lifeattiktok.com/search/7667935399050692917"
@@ -19903,7 +20608,9 @@
 "url": "https://lifeattiktok.com/search/7670876223732762933"
 },
 "simplify:tiktok:db960900-01f6-4f01-9c82-84153cdf5547": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910953,
 "flags": [],
@@ -19913,6 +20620,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737708,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667935565120112949"
@@ -19933,7 +20641,9 @@
 "url": "https://lifeattiktok.com/search/7672926068681951493"
 },
 "simplify:tiktok:dde435d3-0494-49e6-bba7-811e7131b9be": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912767,
 "flags": [],
@@ -19943,12 +20653,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835207,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Intelligent Creation-Camera",
 "url": "https://lifeattiktok.com/search/7668862422178318597"
 },
 "simplify:tiktok:e6fd79b5-22a9-40cb-a2a0-896d01ebf44b": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912415,
 "flags": [],
@@ -19958,6 +20671,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835211,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Lead Ads",
 "url": "https://lifeattiktok.com/search/7669707492914727221"
@@ -19978,7 +20692,9 @@
 "url": "https://lifeattiktok.com/search/7674032146438162693"
 },
 "simplify:tiktok:ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913135,
 "flags": [],
@@ -19988,12 +20704,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785921473,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Creation Platform",
 "url": "https://lifeattiktok.com/search/7670289874020993285"
 },
 "simplify:tiktok:f1a4558f-cc89-48e1-8df1-49420374b44d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910984,
 "flags": [],
@@ -20003,6 +20722,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785737703,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667934635573692725"
@@ -20038,7 +20758,9 @@
 "url": "https://lifeattiktok.com/search/7670281449668905269"
 },
 "simplify:tiktok:fad1406c-cd92-4587-b376-d9839b629e3c": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991329,
 "flags": [],
@@ -20048,12 +20770,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785979104,
+"rolling": false,
 "src": "simplify",
 "title": "LLM Post-training Engineer Intern - Research & Product",
 "url": "https://lifeattiktok.com/search/7670285031018432773"
 },
 "simplify:tiktok:fb88f1c3-967a-419b-8ac4-535d941480ac": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9912493,
 "flags": [],
@@ -20063,6 +20788,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785835207,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Search Ads",
 "url": "https://lifeattiktok.com/search/7669698648817305909"
@@ -20248,7 +20974,9 @@
 "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573"
 },
 "simplify:tower research capital:9d506d4e-91ee-4f46-bda5-4ab9b5dddf55": {
+"checked": "2026-09-28",
 "company": "Tower Research Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909203,
 "flags": [],
@@ -20259,6 +20987,7 @@
 "NYC"
 ],
 "posted_ts": 1783290840,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Developer Intern",
 "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334"
@@ -20412,7 +21141,9 @@
 "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply"
 },
 "simplify:two sigma:3bf3d7c6-3d8d-41c3-98eb-a48df978d6e4": {
+"checked": "2026-09-28",
 "company": "Two Sigma",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9935846,
 "flags": [],
@@ -20422,12 +21153,15 @@
 "NYC"
 ],
 "posted_ts": 1788906532,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Summer 2027",
 "url": "https://twosigma.avature.net/careers/JobDetail/14016"
 },
 "simplify:two sigma:6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee": {
+"checked": "2026-09-28",
 "company": "Two Sigma",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910464,
 "flags": [],
@@ -20437,12 +21171,15 @@
 "NYC"
 ],
 "posted_ts": 1785633715,
+"rolling": false,
 "src": "simplify",
 "title": "AI Research Scientist Intern - 2027 Summer",
 "url": "https://twosigma.avature.net/careers/JobDetail/14096"
 },
 "simplify:two sigma:d7896522-5218-4362-8092-60cacc29a642": {
+"checked": "2026-09-28",
 "company": "Two Sigma",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910429,
 "flags": [],
@@ -20452,6 +21189,7 @@
 "NYC"
 ],
 "posted_ts": 1785633717,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://twosigma.avature.net/careers/JobDetail/13945"
@@ -20548,7 +21286,9 @@
 "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
 },
 "simplify:uline:92343958-c226-4f1d-95e4-e809c57cb437": {
+"checked": "2026-09-28",
 "company": "Uline",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991194,
 "flags": [],
@@ -20562,12 +21302,15 @@
 "Kenosha, WI"
 ],
 "posted_ts": 1785715200,
+"rolling": false,
 "src": "simplify",
 "title": "Financial Data Analyst Intern",
 "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665"
 },
 "simplify:uline:de291c1a-da34-4159-9059-1234151298ef": {
+"checked": "2026-09-28",
 "company": "Uline",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991197,
 "flags": [],
@@ -20581,6 +21324,7 @@
 "Kenosha, WI"
 ],
 "posted_ts": 1785715200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
@@ -20616,7 +21360,9 @@
 "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
 },
 "simplify:university of arkansas:e4f4a19a-0777-4687-9441-b8f377f86167": {
+"checked": "2026-09-28",
 "company": "University of Arkansas",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908464,
 "flags": [],
@@ -20626,6 +21372,7 @@
 "Little Rock, AR"
 ],
 "posted_ts": 1776521178,
+"rolling": false,
 "src": "simplify",
 "title": "Graduate Research Assistant Intern",
 "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
@@ -21236,7 +21983,9 @@
 "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004"
 },
 "simplify:virtu financial:800e06ea-4a8a-4db5-a93a-7aae82cfac49": {
+"checked": "2026-09-28",
 "company": "Virtu Financial",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9910142,
 "flags": [],
@@ -21247,12 +21996,15 @@
 "NYC"
 ],
 "posted_ts": 1784672785,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Software Engineer",
 "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
 },
 "simplify:voloridge:d429d89b-a684-47e8-a3c8-32639ab0d9c8": {
+"checked": "2026-09-28",
 "company": "Voloridge",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909797,
 "flags": [],
@@ -21262,6 +22014,7 @@
 "Jupiter, FL"
 ],
 "posted_ts": 1784066473,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Research Intern",
 "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"
@@ -21312,7 +22065,9 @@
 "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771"
 },
 "simplify:walleye capital:0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175": {
+"checked": "2026-09-28",
 "company": "Walleye Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990878,
 "flags": [],
@@ -21322,12 +22077,15 @@
 "Miami, FL"
 ],
 "posted_ts": 1781083260,
+"rolling": false,
 "src": "simplify",
 "title": "Equity Volatility Quant Researcher Intern",
 "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006"
 },
 "simplify:walleye capital:28053adc-4960-4b2a-8386-71e1aba8148e": {
+"checked": "2026-09-28",
 "company": "Walleye Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9908814,
 "flags": [],
@@ -21337,6 +22095,7 @@
 "Boston, MA"
 ],
 "posted_ts": 1781083263,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Developer Intern",
 "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
@@ -22717,7 +23476,9 @@
 "url": "https://www.zipline.com/open-roles/7991435003?gh_jid=7991435003"
 },
 "workday:adobe:R171519": {
+"checked": "2026-09-28",
 "company": "Adobe",
+"deadline": "2027-06-11",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903877,
 "flags": [],
@@ -22727,12 +23488,15 @@
 "6 Locations"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:adobe",
 "title": "2027 Intern - Machine Learning Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
 },
 "workday:adobe:R171666": {
+"checked": "2026-09-28",
 "company": "Adobe",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990391,
 "flags": [],
@@ -22742,12 +23506,15 @@
 "7 Locations"
 ],
 "posted_ts": null,
+"rolling": true,
 "src": "workday:adobe",
 "title": "2027 Intern - Software Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
 },
 "workday:intel:JR0286834": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904006,
 "flags": [],
@@ -22757,12 +23524,15 @@
 "5 Locations"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "Software Engineering - Intern, Bachelor\u2019s",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
 },
 "workday:intel:JR0286836": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903946,
 "flags": [],
@@ -22772,12 +23542,15 @@
 "5 Locations"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "Software Engineering - Intern, Graduate",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
 },
 "workday:intel:JR0286933": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904041,
 "flags": [],
@@ -22787,12 +23560,15 @@
 "Malaysia, Kulim"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "System Software Engineering Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933"
 },
 "workday:intel:JR0286934": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904559,
 "flags": [],
@@ -22802,12 +23578,15 @@
 "Malaysia, Kulim"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "DevOps and Software Engineering Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934"
 },
 "workday:intel:JR0286935": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904494,
 "flags": [],
@@ -22817,12 +23596,15 @@
 "Malaysia, Kulim"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "Intern System Software Development Engineer",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935"
 },
 "workday:intel:JR0286937": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990408,
 "flags": [],
@@ -22832,12 +23614,15 @@
 "Malaysia, Penang"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "Intern System Software Development Engineer",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"
 },
 "workday:intel:JR0286946": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99046,
 "flags": [],
@@ -22847,12 +23632,15 @@
 "PRC, Chengdu"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "AI/ML Software App Development Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946"
 },
 "workday:intel:JR0286955": {
+"checked": "2026-09-28",
 "company": "Intel",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9904528,
 "flags": [],
@@ -22862,12 +23650,15 @@
 "Malaysia, Penang"
 ],
 "posted_ts": null,
+"rolling": false,
 "src": "workday:intel",
 "title": "Intern System Software Development Engineer",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"
 },
 "workday:nvidia:JR2023491": {
+"checked": "2026-09-28",
 "company": "NVIDIA",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990338,
 "flags": [],
@@ -22877,12 +23668,15 @@
 "US, CA, Santa Clara"
 ],
 "posted_ts": null,
+"rolling": true,
 "src": "workday:nvidia",
 "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
 },
 "workday:nvidia:JR2023492": {
+"checked": "2026-09-28",
 "company": "NVIDIA",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903336,
 "flags": [],
@@ -22892,12 +23686,15 @@
 "US, CA, Santa Clara"
 ],
 "posted_ts": null,
+"rolling": true,
 "src": "workday:nvidia",
 "title": "NVIDIA 2027 Internships: Systems Software Engineering",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
 },
 "workday:nvidia:JR2023495": {
+"checked": "2026-09-28",
 "company": "NVIDIA",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990342,
 "flags": [],
@@ -22907,12 +23704,15 @@
 "US, CA, Santa Clara"
 ],
 "posted_ts": null,
+"rolling": true,
 "src": "workday:nvidia",
 "title": "NVIDIA 2027 Internships: Software Engineering",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
 },
 "workday:nvidia:JR2023497-1": {
+"checked": "2026-09-28",
 "company": "NVIDIA",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9903455,
 "flags": [],
@@ -22922,6 +23722,7 @@
 "US, CA, Santa Clara"
 ],
 "posted_ts": null,
+"rolling": true,
 "src": "workday:nvidia",
 "title": "NVIDIA 2027 Internships: Deep Learning",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1"
