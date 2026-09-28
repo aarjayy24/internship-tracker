@@ -123,7 +123,8 @@ def poll(dry_run=False):
         top = [v for v in open_jobs if notify.is_tier1(v["company"])]
         notify.push("✅ Internship tracker is live",
                     f"{len(open_jobs)} matching roles open right now ({len(top)} at top companies). "
-                    "Check your email for the list.", click=roles_link(), priority=4, tags=["rocket"])
+                    + ("Check your email for the list." if notify.email_enabled() else "Tap to see the list."),
+                    click=roles_link(), priority=4, tags=["rocket"])
         notify.email(f"✅ Tracker live — {len(open_jobs)} open matching internships",
                      f"<p>From now on you'll get a push + email within ~10 min of a new posting.</p>"
                      f"<h3>⭐ Top companies ({len(top)})</h3>{notify.jobs_table(sorted(top, key=lambda v: v['company']))}"
@@ -148,6 +149,11 @@ def digest():
     if problems:
         body += "<p>⚠️ Sources currently failing: " + ", ".join(problems) + "</p>"
     notify.email(f"📋 Daily internship digest — {len(recent)} new", body)
+    if not notify.email_enabled():
+        top = sorted({v["company"] for v in recent if notify.is_tier1(v["company"])})
+        notify.push(f"📋 Daily digest: {len(recent)} new roles in 24h",
+                    f"{len(open_now)} open in total." + (f" Top companies: {', '.join(top)}." if top else ""),
+                    click=roles_link(), priority=2, tags=["clipboard"])
 
 
 def write_roles_md(open_jobs):

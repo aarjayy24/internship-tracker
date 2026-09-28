@@ -30,6 +30,10 @@ def push(title, message, click=None, priority=3, tags=None):
     urllib.request.urlopen(req, timeout=20).read()
 
 
+def email_enabled():
+    return bool(os.environ.get("GMAIL_ADDRESS") and os.environ.get("GMAIL_APP_PASSWORD"))
+
+
 def email(subject, html_body):
     user, pw = os.environ.get("GMAIL_ADDRESS"), os.environ.get("GMAIL_APP_PASSWORD")
     to = os.environ.get("EMAIL_TO") or user
@@ -72,7 +76,7 @@ def announce_new(rows, roles_link):
     else:
         top = [r for r in rows if is_tier1(r["company"])]
         head = ", ".join(sorted({r["company"] for r in top})) or ", ".join(sorted({r["company"] for r in rows})[:6])
-        push(f"{len(rows)} new internships", f"Including: {head}. Check your email.",
+        push(f"{len(rows)} new internships", f"Including: {head}. " + ("Check your email." if email_enabled() else "Tap to see the list."),
              click=roles_link, priority=5 if top else 4, tags=["briefcase"])
     email(f"🎯 {len(rows)} new internship{'s' if len(rows) != 1 else ''}"
           f"{' — ⭐ ' + ', '.join(sorted({r['company'] for r in rows if is_tier1(r['company'])})) if any(is_tier1(r['company']) for r in rows) else ''}",
