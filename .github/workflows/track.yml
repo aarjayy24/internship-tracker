@@ -1,0 +1,45 @@
+name: Internship tracker
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # poll every 10 minutes (GitHub may start runs a few minutes late)
+    - cron: "0 12 * * *"     # daily digest email, 8am Eastern (7am in winter)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run tracker
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 12 * * *" ]; then
+            python3 -m tracker.main --digest
+          else
+            python3 -m tracker.main
+          fi
+
+      - name: Save state
+        run: |
+          git config user.name "internship-tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data OPEN_ROLES.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update tracked postings"
+            git pull --rebase
+            git push
+          fi
