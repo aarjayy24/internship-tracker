@@ -2025,7 +2025,9 @@
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
 },
 "simplify:aerotech:8cd5b581-53c6-4c6a-88c2-b61b04039976": {
+"checked": "2026-09-28",
 "company": "Aerotech",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923308,
 "flags": [],
@@ -2035,6 +2037,7 @@
 "Pittsburgh, PA"
 ],
 "posted_ts": 1788218948,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team",
 "url": "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027"
@@ -2426,7 +2429,9 @@
 "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076"
 },
 "simplify:altamira technologies:60f8cb68-d09b-40e1-83e3-85541cc9d3d4": {
+"checked": "2026-09-28",
 "company": "Altamira Technologies",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914293,
 "flags": [],
@@ -2436,12 +2441,15 @@
 "Fairborn, OH"
 ],
 "posted_ts": 1786400984,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false"
 },
 "simplify:altamira technologies:b7fbd5a6-7308-4c37-bb15-59d65f8a156f": {
+"checked": "2026-09-28",
 "company": "Altamira Technologies",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991426,
 "flags": [],
@@ -2451,6 +2459,7 @@
 "Fairborn, OH"
 ],
 "posted_ts": 1786400983,
+"rolling": false,
 "src": "simplify",
 "title": "Research and Development Intern",
 "url": "https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false"
@@ -2514,7 +2523,9 @@
 "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
 },
 "simplify:amd:2057d1a3-289b-49ae-8328-fa3527c533c5": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917328,
 "flags": [],
@@ -2525,12 +2536,15 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern/Co-op - Masters",
 "url": "https://careers.amd.com/jobs/91176?icims=1"
 },
 "simplify:amd:212a153a-1fd0-4d17-a022-c1db71569fd9": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917881,
 "flags": [],
@@ -2541,12 +2555,15 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
 "url": "https://careers.amd.com/jobs/90892?icims=1"
 },
 "simplify:amd:3142b23d-4dfa-443e-82dd-703b3711394b": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917743,
 "flags": [],
@@ -2561,12 +2578,15 @@
 "Boxborough, MA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern/Co-op",
 "url": "https://careers.amd.com/jobs/91180?icims=1"
 },
 "simplify:amd:3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991771,
 "flags": [],
@@ -2577,12 +2597,15 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern/Co-op",
 "url": "https://careers.amd.com/jobs/90891?icims=1"
 },
 "simplify:amd:4a574331-3373-4ace-961c-0a3591039b20": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917839,
 "flags": [],
@@ -2597,12 +2620,15 @@
 "Boxborough, MA"
 ],
 "posted_ts": 1787293337,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analyst Intern/Co-op",
 "url": "https://careers.amd.com/jobs/91175?icims=1"
 },
 "simplify:amd:646c1eeb-a6b8-40f6-95c7-581780504d2e": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917917,
 "flags": [],
@@ -2617,12 +2643,15 @@
 "Boxborough, MA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
 "url": "https://careers.amd.com/jobs/91181?icims=1"
 },
 "simplify:amd:944978fc-7eeb-4346-82ad-857bec5239a5": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917812,
 "flags": [],
@@ -2637,12 +2666,15 @@
 "Boxborough, MA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern/Co-op",
 "url": "https://careers.amd.com/jobs/90947?icims=1"
 },
 "simplify:amd:aae6d5e2-ef8c-48e8-862e-81029e48a6c7": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917624,
 "flags": [],
@@ -2653,12 +2685,15 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293337,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analyst Intern/Co-op",
 "url": "https://careers.amd.com/jobs/91179?icims=1"
 },
 "simplify:amd:b6461f19-ac97-4787-a3e5-e3529e7f1e28": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991778,
 "flags": [],
@@ -2669,6 +2704,7 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293337,
+"rolling": false,
 "src": "simplify",
 "title": "Product Development Engineer Intern/Co-op",
 "url": "https://careers.amd.com/jobs/91227?icims=1"
@@ -2709,7 +2745,9 @@
 "url": "https://careers.amd.com/jobs/91867?icims=1"
 },
 "simplify:amd:d56dfd5d-55e2-40d6-8702-5198fabd6208": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917293,
 "flags": [],
@@ -2724,12 +2762,15 @@
 "Boxborough, MA"
 ],
 "posted_ts": 1787293337,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analyst Intern/Co-op",
 "url": "https://careers.amd.com/jobs/91183?icims=1"
 },
 "simplify:amd:e8cedff1-c202-4a0c-82aa-62375733005a": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917595,
 "flags": [],
@@ -2740,6 +2781,7 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analyst Intern/Co-op",
 "url": "https://careers.amd.com/jobs/90895?icims=1"
@@ -2764,7 +2806,9 @@
 "url": "https://careers.amd.com/jobs/91864?icims=1"
 },
 "simplify:amd:ec03908e-3e83-4c51-adc1-4f9414e3faef": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917667,
 "flags": [],
@@ -2775,6 +2819,7 @@
 "Santa Clara, CA"
 ],
 "posted_ts": 1787293337,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
 "url": "https://careers.amd.com/jobs/91177?icims=1"
@@ -2796,7 +2841,9 @@
 "url": "https://careers.amd.com/jobs/91866?icims=1"
 },
 "simplify:amd:f7eaba38-fbcf-47fb-88d0-928f5427c0cb": {
+"checked": "2026-09-28",
 "company": "AMD",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991756,
 "flags": [],
@@ -2811,12 +2858,15 @@
 "Boxborough, MA"
 ],
 "posted_ts": 1787293338,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Intern/Co-op - Multiple Teams",
 "url": "https://careers.amd.com/jobs/91170?icims=1"
 },
 "simplify:ameren:39304d92-2b98-45ee-9a39-8f4f5ac43185": {
+"checked": "2026-09-28",
 "company": "Ameren",
+"deadline": "2026-12-21",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919848,
 "flags": [],
@@ -2826,6 +2876,7 @@
 "Peoria, IL"
 ],
 "posted_ts": 1787702400,
+"rolling": false,
 "src": "simplify",
 "title": "Meteorology Intern - Crisis Management",
 "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1"
@@ -2862,7 +2913,9 @@
 "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
 },
 "simplify:american express:057837b7-3fc8-4359-a8b2-1a63802d4a6e": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916062,
 "flags": [],
@@ -2872,12 +2925,15 @@
 "NYC"
 ],
 "posted_ts": 1787004631,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Technology",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970"
 },
 "simplify:american express:19707ef8-155b-4c94-bab9-a0988614b068": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923685,
 "flags": [],
@@ -2887,6 +2943,7 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1788238369,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782"
@@ -2907,7 +2964,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266"
 },
 "simplify:american express:35fb935f-b0e2-45fc-b47d-30f441bc8d56": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991589,
 "flags": [],
@@ -2917,6 +2976,7 @@
 "NYC"
 ],
 "posted_ts": 1787004632,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
@@ -2952,7 +3012,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729"
 },
 "simplify:american express:3bde4886-9568-4579-8754-68e8e2f44ca1": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915998,
 "flags": [],
@@ -2962,12 +3024,15 @@
 "Sunrise, FL"
 ],
 "posted_ts": 1787004632,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999"
 },
 "simplify:american express:3f62999c-13f9-4d85-b98b-66660fd47199": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915962,
 "flags": [],
@@ -2977,12 +3042,15 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1787004631,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679"
 },
 "simplify:american express:54a129c8-53ec-4e38-b878-daaaa309f3f7": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916663,
 "flags": [],
@@ -2992,6 +3060,7 @@
 "NYC"
 ],
 "posted_ts": 1787093530,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Global Servicing - Financial Crimes Risk & Controls",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627"
@@ -3012,7 +3081,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783"
 },
 "simplify:american express:63a29ab9-6ce2-4acf-982b-ed23f2035ab4": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915783,
 "flags": [],
@@ -3022,12 +3093,15 @@
 "Atlanta, GA"
 ],
 "posted_ts": 1787004748,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796"
 },
 "simplify:american express:6c81f43a-0537-494d-a776-dd4ac38accbf": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916031,
 "flags": [],
@@ -3037,6 +3111,7 @@
 "NYC"
 ],
 "posted_ts": 1787004631,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991"
@@ -3072,7 +3147,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224"
 },
 "simplify:american express:7810580c-3236-4806-8d13-fc4032241900": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992345,
 "flags": [],
@@ -3082,12 +3159,15 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1788238369,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703"
 },
 "simplify:american express:7b295350-3015-456a-8a5a-c1c0bc02557c": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916134,
 "flags": [],
@@ -3097,12 +3177,15 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1787007102,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375"
 },
 "simplify:american express:838b7d8e-c2bf-4395-b660-6f3484019451": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991635,
 "flags": [],
@@ -3112,6 +3195,7 @@
 "Sunrise, FL"
 ],
 "posted_ts": 1787004631,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745"
@@ -3132,7 +3216,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339"
 },
 "simplify:american express:9831795d-d949-4a7a-87dd-f11aad5dc0c8": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99156,
 "flags": [],
@@ -3142,12 +3228,15 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1786972304,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
 },
 "simplify:american express:9aaf0eed-7ca3-41fc-8076-90c4a66fa270": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916449,
 "flags": [],
@@ -3157,6 +3246,7 @@
 "Atlanta, GA"
 ],
 "posted_ts": 1787033770,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"
@@ -3207,7 +3297,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813"
 },
 "simplify:american express:ac34479a-59f5-4dd7-afad-64f30851650e": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916413,
 "flags": [],
@@ -3217,6 +3309,7 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1787033770,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781"
@@ -3237,7 +3330,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607"
 },
 "simplify:american express:b5d64ce3-a598-47f7-8195-48153775de70": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916618,
 "flags": [],
@@ -3247,6 +3342,7 @@
 "Sunrise, FL"
 ],
 "posted_ts": 1787093513,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015"
@@ -3267,7 +3363,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265"
 },
 "simplify:american express:c344d643-aa8d-4d64-a497-67a78ca63dc9": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915643,
 "flags": [],
@@ -3277,12 +3375,15 @@
 "NYC"
 ],
 "posted_ts": 1786972303,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
 },
 "simplify:american express:d1578116-608c-4b83-b350-f85dd097d095": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923654,
 "flags": [],
@@ -3292,12 +3393,15 @@
 "Palo Alto, CA"
 ],
 "posted_ts": 1788238368,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818"
 },
 "simplify:american express:d23ff50c-42f1-4ab3-a445-5b7cfb2b8f28": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923582,
 "flags": [],
@@ -3307,12 +3411,15 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1788238369,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784"
 },
 "simplify:american express:d81967d4-8c47-4e80-bbb7-94d38eb66c5b": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916167,
 "flags": [],
@@ -3322,12 +3429,15 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1787007103,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392"
 },
 "simplify:american express:e4b5d322-ba7c-42ec-81ad-95d21c03ae0a": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923613,
 "flags": [],
@@ -3337,6 +3447,7 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1788238369,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333"
@@ -3372,7 +3483,9 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828"
 },
 "simplify:american express:fccd4367-7e28-42a3-93ee-6e8e6447fbf3": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99161,
 "flags": [],
@@ -3382,12 +3495,15 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1787007101,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784"
 },
 "simplify:american express:ffbd8a22-814b-4fc4-b848-80a29b63fb66": {
+"checked": "2026-09-28",
 "company": "American Express",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991593,
 "flags": [],
@@ -3397,6 +3513,7 @@
 "Sunrise, FL"
 ],
 "posted_ts": 1787004631,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084"
@@ -3859,7 +3976,9 @@
 "url": "https://aramcoservices.applytojob.com/apply/MdhantU1bV/Information-Technology-2027-Summer-Student-Program"
 },
 "simplify:arch capital group:483a6e7d-49d9-4b1b-823b-1c0e3be6b318": {
+"checked": "2026-09-28",
 "company": "Arch Capital Group",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923072,
 "flags": [],
@@ -3869,6 +3988,7 @@
 "Farmington, CT"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Data and Analytics Intern",
 "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845"
@@ -3925,7 +4045,9 @@
 "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506"
 },
 "simplify:arthur j. gallagher & co.:edbfe6a0-64b5-4ceb-8e7f-1ba82a46bfa4": {
+"checked": "2026-09-28",
 "company": "Arthur J. Gallagher & Co.",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916313,
 "flags": [],
@@ -3935,6 +4057,7 @@
 "Rolling Meadows, IL"
 ],
 "posted_ts": 1787005608,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern",
 "url": "https://jobs.ajg.com/jobs/57701?icims=1"
@@ -4140,7 +4263,9 @@
 "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
 },
 "simplify:auto-owners insurance:23f42855-d656-4288-b470-cbc2fb8f3bbd": {
+"checked": "2026-09-28",
 "company": "Auto-Owners Insurance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919777,
 "flags": [],
@@ -4150,6 +4275,7 @@
 "Lansing, MI"
 ],
 "posted_ts": 1787765569,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineering Intern - Summer 2027",
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318"
@@ -4185,7 +4311,9 @@
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketplace-Intelligence-Internship---Summer-2027_R_14506"
 },
 "simplify:auto-owners insurance:89458fa4-671a-4f16-80d0-b17bfb3af74d": {
+"checked": "2026-09-28",
 "company": "Auto-Owners Insurance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919944,
 "flags": [],
@@ -4195,6 +4323,7 @@
 "Lansing, MI"
 ],
 "posted_ts": 1787790359,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Summer 2027",
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121"
@@ -4592,7 +4721,9 @@
 "url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true"
 },
 "simplify:belvedere trading:fc66b12e-8d7f-4a0e-b4f6-8f54189941d9": {
+"checked": "2026-09-28",
 "company": "Belvedere Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913692,
 "flags": [],
@@ -4602,6 +4733,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1786140546,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply"
@@ -4745,7 +4877,9 @@
 "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Healthcare-Reimbursement-Analytics-Intern---Summer-2027_JR101410"
 },
 "simplify:bny:0d138427-6921-4a12-99e2-30a0b223cef3": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918432,
 "flags": [],
@@ -4755,12 +4889,15 @@
 "NYC"
 ],
 "posted_ts": 1787581478,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Engineering",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253"
 },
 "simplify:bny:1cc17ed5-3841-485e-bfcd-d41dec899b72": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918396,
 "flags": [],
@@ -4770,12 +4907,15 @@
 "Lake Mary, FL"
 ],
 "posted_ts": 1787581488,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Engineering",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239"
 },
 "simplify:bny:2f4c5900-989e-4b19-afdd-c5d973e9b552": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991828,
 "flags": [],
@@ -4785,12 +4925,15 @@
 "Jersey City, NJ"
 ],
 "posted_ts": 1787581513,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Engineering",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238"
 },
 "simplify:bny:44076521-67dd-416f-8928-86fbe0b496b9": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918346,
 "flags": [],
@@ -4800,12 +4943,15 @@
 "Pittsburgh, PA"
 ],
 "posted_ts": 1787581515,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Engineering",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241"
 },
 "simplify:bny:4c8703e4-e538-4a55-ac8c-5d9b8e0eec12": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918246,
 "flags": [],
@@ -4815,12 +4961,15 @@
 "Jersey City, NJ"
 ],
 "posted_ts": 1787581513,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Engineering - Developer",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251"
 },
 "simplify:bny:660c8cf6-3acf-4729-a74a-18a72115dfa5": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918177,
 "flags": [],
@@ -4830,12 +4979,15 @@
 "Lake Mary, FL"
 ],
 "posted_ts": 1787581493,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Developer Intern - Engineering",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252"
 },
 "simplify:bny:b0b20473-ab96-400f-adc1-7e807c7e6e46": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918313,
 "flags": [],
@@ -4845,12 +4997,15 @@
 "Pittsburgh, PA"
 ],
 "posted_ts": 1787581493,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern - Engineering - Developer",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254"
 },
 "simplify:bny:bf4a4705-55c7-4d3d-8696-12a63e66879a": {
+"checked": "2026-09-28",
 "company": "BNY",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918373,
 "flags": [],
@@ -4860,6 +5015,7 @@
 "NYC"
 ],
 "posted_ts": 1787581492,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Engineering",
 "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240"
@@ -4910,7 +5066,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
 },
 "simplify:booz allen:1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920945,
 "flags": [],
@@ -4920,6 +5078,7 @@
 "Charleston, SC"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134"
@@ -5015,7 +5174,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
 },
 "simplify:booz allen:596a789f-9d3f-4275-91f3-da77d86fc246": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920323,
 "flags": [],
@@ -5025,6 +5186,7 @@
 "El Segundo, CA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - University - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050"
@@ -5105,7 +5267,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"
 },
 "simplify:booz allen:7cef83de-ff10-493e-abfb-9def6ada06d0": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-11-25",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99207,
 "flags": [],
@@ -5115,12 +5279,15 @@
 "San Diego, CA"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "AI Software Developer Intern",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115"
 },
 "simplify:booz allen:841e2cd6-9fb6-4ffd-adb4-671a6b81ade2": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920118,
 "flags": [],
@@ -5130,12 +5297,15 @@
 "San Diego, CA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
 },
 "simplify:booz allen:84aad02e-2ac4-4eaf-89fd-3674ae05f75e": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992008,
 "flags": [],
@@ -5145,12 +5315,15 @@
 "El Segundo, CA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
 },
 "simplify:booz allen:8a398659-4aa5-4cf4-a9d1-222302c48e50": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-14",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920042,
 "flags": [],
@@ -5160,6 +5333,7 @@
 "McLean, VA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
@@ -5180,7 +5354,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"
 },
 "simplify:booz allen:9388e6b1-f360-486e-b324-4bde10bf52a9": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920669,
 "flags": [],
@@ -5190,6 +5366,7 @@
 "Colorado Springs, CO"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132"
@@ -5225,7 +5402,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
 },
 "simplify:booz allen:ab6cb65d-01c3-421d-bc8b-48584e8d4cba": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920917,
 "flags": [],
@@ -5235,12 +5414,15 @@
 "Atlanta, GA"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140"
 },
 "simplify:booz allen:b5849ab7-6000-47b6-847d-99300b7d8722": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920013,
 "flags": [],
@@ -5250,6 +5432,7 @@
 "McLean, VA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037"
@@ -5330,7 +5513,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129"
 },
 "simplify:booz allen:c36ab777-30bb-4843-9f8e-eb51269d6083": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920783,
 "flags": [],
@@ -5340,12 +5525,15 @@
 "Colorado Springs, CO"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - University - 2027 Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
 },
 "simplify:booz allen:c7d3b494-6183-4201-ae92-c7ddbae1ae27": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992089,
 "flags": [],
@@ -5355,12 +5543,15 @@
 "Rome, NY"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141"
 },
 "simplify:booz allen:de4cd0c6-05b6-4e77-9479-486a018a8683": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920857,
 "flags": [],
@@ -5370,12 +5561,15 @@
 "Charleston, SC"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137"
 },
 "simplify:booz allen:e7293c88-f396-415f-920c-742686dde2e3": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919977,
 "flags": [],
@@ -5385,12 +5579,15 @@
 "San Diego, CA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045"
 },
 "simplify:booz allen:f12db905-e4bc-477c-b339-4c9306913d42": {
+"checked": "2026-09-28",
 "company": "Booz Allen",
+"deadline": "2026-12-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920628,
 "flags": [],
@@ -5400,6 +5597,7 @@
 "Rome, NY"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143"
@@ -5420,7 +5618,9 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
 },
 "simplify:bosch home comfort:97b19795-4fdd-4a30-8b4d-fd78592f4793": {
+"checked": "2026-09-28",
 "company": "Bosch Home Comfort",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99229,
 "flags": [],
@@ -5430,12 +5630,15 @@
 "Farmington Hills, MI"
 ],
 "posted_ts": 1788214148,
+"rolling": false,
 "src": "simplify",
 "title": "AI Application Intern",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146547599"
 },
 "simplify:bosch home comfort:d8558fc9-9efb-4c17-b70f-26aafda3b66a": {
+"checked": "2026-09-28",
 "company": "Bosch Home Comfort",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9922931,
 "flags": [],
@@ -5445,9 +5648,28 @@
 "Farmington Hills, MI"
 ],
 "posted_ts": 1788214148,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849"
+},
+"simplify:boston scientific:1a872d07-40d8-4b98-8f0f-15127543ae64": {
+"checked": "2026-09-28",
+"company": "Boston Scientific",
+"deadline": null,
+"first_seen": "2026-09-28",
+"first_seen_ts": 1790596296.9326007,
+"flags": [],
+"key": "boston scientific|data engineer intern",
+"last_seen": "2026-09-28",
+"locations": [
+"Maple Grove, MN"
+],
+"posted_ts": 1790029584,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949"
 },
 "simplify:boston scientific:b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc": {
 "company": "Boston Scientific",
@@ -5525,7 +5747,9 @@
 "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602"
 },
 "simplify:brunswick:1a7cd887-6c00-45f3-bf3d-87fa5aebe90f": {
+"checked": "2026-09-28",
 "company": "Brunswick",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920824,
 "flags": [],
@@ -5535,12 +5759,15 @@
 "Champaign, IL"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
 "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
 },
 "simplify:brunswick:85b3e408-7ae2-4096-98fa-2eac99fa020a": {
+"checked": "2026-09-28",
 "company": "Brunswick",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923108,
 "flags": [],
@@ -5550,12 +5777,15 @@
 "Fond du Lac, WI"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Controls Engineer Intern",
 "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436"
 },
 "simplify:brunswick:87b11195-7636-4d15-98ef-a30cea2dff16": {
+"checked": "2026-09-28",
 "company": "Brunswick",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919631,
 "flags": [],
@@ -5565,6 +5795,7 @@
 "Fond du Lac, WI"
 ],
 "posted_ts": 1787616000,
+"rolling": false,
 "src": "simplify",
 "title": "Systems Engineer Co-op - Software Engineering",
 "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
@@ -5585,7 +5816,9 @@
 "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236"
 },
 "simplify:bti360:d1ce5eca-7313-4eee-b01a-088c01f2a85a": {
+"checked": "2026-09-28",
 "company": "BTI360",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919055,
 "flags": [],
@@ -5595,6 +5828,7 @@
 "Herndon, VA"
 ],
 "posted_ts": 1787609076,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/bti36021/jobs/8155152"
@@ -5633,7 +5867,9 @@
 "url": "https://jobs.bytedance.com/en/position/7670316084662339845/detail"
 },
 "simplify:bytedance:10aab0a0-09f3-44a8-990e-a5b8db3c8da8": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914107,
 "flags": [],
@@ -5643,12 +5879,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786388387,
+"rolling": false,
 "src": "simplify",
 "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
 "url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail"
 },
 "simplify:bytedance:1a9582e0-2525-494c-8737-53db648f37cb": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913657,
 "flags": [],
@@ -5658,6 +5897,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786065255,
+"rolling": false,
 "src": "simplify",
 "title": "Network Software Engineer Intern - Network Observation",
 "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail"
@@ -5678,7 +5918,9 @@
 "url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail"
 },
 "simplify:bytedance:30e36d66-cf25-4851-9655-d22bb0c6d319": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991392,
 "flags": [],
@@ -5688,12 +5930,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786151719,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
 "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail"
 },
 "simplify:bytedance:34fa4813-bc92-4deb-8987-cf33bc625246": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913423,
 "flags": [],
@@ -5703,6 +5948,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785978875,
+"rolling": false,
 "src": "simplify",
 "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
 "url": "https://jobs.bytedance.com/en/position/7668464504736876853/detail"
@@ -5726,7 +5972,9 @@
 "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail"
 },
 "simplify:bytedance:4f77c21f-b6c5-45b9-87c7-4087d47b9589": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914584,
 "flags": [],
@@ -5736,6 +5984,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1786468730,
+"rolling": false,
 "src": "simplify",
 "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK",
 "url": "https://jobs.bytedance.com/en/position/7672392998231050549/detail"
@@ -5774,7 +6023,9 @@
 "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail"
 },
 "simplify:bytedance:70115b81-b4c5-4a64-8a6c-5b644608f906": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914882,
 "flags": [],
@@ -5784,6 +6035,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786601830,
+"rolling": false,
 "src": "simplify",
 "title": "Student Researcher - AI Foundation Model Infrastructure - Seed",
 "url": "https://jobs.bytedance.com/en/position/7673274910202988805/detail"
@@ -5837,7 +6089,9 @@
 "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
 },
 "simplify:bytedance:9d9a6729-76a5-4fb4-b71f-ea04e053c877": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915855,
 "flags": [],
@@ -5847,12 +6101,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787004689,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Global Payment",
 "url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail"
 },
 "simplify:bytedance:a46d596b-c711-4444-99f7-3c846ae35bb6": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915133,
 "flags": [],
@@ -5862,6 +6119,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1786699876,
+"rolling": false,
 "src": "simplify",
 "title": "Self-Built Engineer Intern - CDN Platform",
 "url": "https://jobs.bytedance.com/en/position/7673608499872827701/detail"
@@ -5885,7 +6143,9 @@
 "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail"
 },
 "simplify:bytedance:aa733ff3-312d-4f91-935f-9b74817edc2b": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99148,
 "flags": [],
@@ -5895,12 +6155,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786584315,
+"rolling": false,
 "src": "simplify",
 "title": "Self-Built Engineer Intern - CDN Platform",
 "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail"
 },
 "simplify:bytedance:aa7eb673-811f-4d32-a109-b840c82a1fab": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913616,
 "flags": [],
@@ -5910,12 +6173,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786065256,
+"rolling": false,
 "src": "simplify",
 "title": "Network Software Engineer Intern - Network Switch",
 "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
 },
 "simplify:bytedance:acad052e-b794-4a83-82c4-4d5ff40c200d": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915102,
 "flags": [],
@@ -5925,6 +6191,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786699865,
+"rolling": false,
 "src": "simplify",
 "title": "Self-Built Engineer Intern - CDN Platform",
 "url": "https://jobs.bytedance.com/en/position/7673617571165620533/detail"
@@ -5966,7 +6233,9 @@
 "url": "https://jobs.bytedance.com/en/position/7668212952030841093/detail"
 },
 "simplify:bytedance:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914634,
 "flags": [],
@@ -5976,6 +6245,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1786468734,
+"rolling": false,
 "src": "simplify",
 "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
 "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail"
@@ -5999,7 +6269,9 @@
 "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail"
 },
 "simplify:bytedance:e24c2017-99ff-4c15-9636-3246335193a8": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914162,
 "flags": [],
@@ -6009,12 +6281,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786388381,
+"rolling": false,
 "src": "simplify",
 "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
 "url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail"
 },
 "simplify:bytedance:e670d442-7188-4ebf-a019-6706835ae548": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991454,
 "flags": [],
@@ -6024,6 +6299,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1786468730,
+"rolling": false,
 "src": "simplify",
 "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
 "url": "https://jobs.bytedance.com/en/position/7672391300141877557/detail"
@@ -6047,7 +6323,9 @@
 "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail"
 },
 "simplify:bytedance:ee8a3af2-214e-482e-9a90-3dd327c6bdf1": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915395,
 "flags": [],
@@ -6057,12 +6335,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786754410,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Global Traffic Architecture",
 "url": "https://jobs.bytedance.com/en/position/7672557061679483189/detail"
 },
 "simplify:bytedance:f271bfa3-e723-416b-aad4-0a6cf6f4f19e": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991535,
 "flags": [],
@@ -6072,12 +6353,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786754411,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Global Payment Infra and SRE",
 "url": "https://jobs.bytedance.com/en/position/7668315137242351925/detail"
 },
 "simplify:bytedance:f57a89f7-f1c7-44ac-826b-23f1d9a409cf": {
+"checked": "2026-09-28",
 "company": "ByteDance",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914055,
 "flags": [],
@@ -6087,6 +6371,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786388388,
+"rolling": false,
 "src": "simplify",
 "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
 "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail"
@@ -6125,7 +6410,9 @@
 "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
 },
 "simplify:c3.ai:222db458-975e-451f-8e50-02fed5bc0583": {
+"checked": "2026-09-28",
 "company": "C3.ai",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921746,
 "flags": [],
@@ -6135,12 +6422,15 @@
 "Redwood City, CA"
 ],
 "posted_ts": 1788203994,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern - Summer 2027",
 "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002"
 },
 "simplify:c3.ai:53349dba-052e-4667-bc87-a3162afa6b94": {
+"checked": "2026-09-28",
 "company": "C3.ai",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992171,
 "flags": [],
@@ -6150,6 +6440,7 @@
 "Redwood City, CA"
 ],
 "posted_ts": 1788203992,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
@@ -6186,7 +6477,9 @@
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742"
 },
 "simplify:caci:5b170a7d-3303-481f-8fa2-580c9e7274b4": {
+"checked": "2026-09-28",
 "company": "CACI",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9922795,
 "flags": [],
@@ -6196,6 +6489,7 @@
 "Danbury, CT"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Co-op - Summer & Fall 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354"
@@ -6216,7 +6510,9 @@
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
 },
 "simplify:caci:a74b5dcd-e0aa-436e-b554-252627f0053d": {
+"checked": "2026-09-28",
 "company": "CACI",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9922833,
 "flags": [],
@@ -6226,6 +6522,7 @@
 "Danbury, CT"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Co-op - Spring & Summer 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1"
@@ -6310,7 +6607,9 @@
 "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1"
 },
 "simplify:cardinal health:72f55229-7e1a-4b64-b053-593f7de6067a": {
+"checked": "2026-09-28",
 "company": "Cardinal Health",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921534,
 "flags": [],
@@ -6320,6 +6619,7 @@
 "Dublin, OH"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Data and Analytics Intern - Summer 2027",
 "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913"
@@ -7088,7 +7388,9 @@
 "url": "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827"
 },
 "simplify:commerce bank:91d2adab-28fa-4563-b4ba-2a64e372dbed": {
+"checked": "2026-09-28",
 "company": "Commerce Bank",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920282,
 "flags": [],
@@ -7098,6 +7400,7 @@
 "Kansas City, MO"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "IT Intern - Summer 2027",
 "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395"
@@ -7133,7 +7436,9 @@
 "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483"
 },
 "simplify:compeer financial:15dc91f7-a293-402d-901f-811134f675ec": {
+"checked": "2026-09-28",
 "company": "Compeer Financial",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919353,
 "flags": [],
@@ -7145,12 +7450,15 @@
 "Bloomington, IL"
 ],
 "posted_ts": 1787692414,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008"
 },
 "simplify:compeer financial:4ade01ff-90f7-40e7-88aa-1756bc4d6de1": {
+"checked": "2026-09-28",
 "company": "Compeer Financial",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919329,
 "flags": [],
@@ -7161,12 +7469,15 @@
 "Mankato, MN"
 ],
 "posted_ts": 1787692415,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008"
 },
 "simplify:compeer financial:6fa663cd-1579-4517-8525-ab4243d205b9": {
+"checked": "2026-09-28",
 "company": "Compeer Financial",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919307,
 "flags": [],
@@ -7176,12 +7487,15 @@
 "Sun Prairie, WI"
 ],
 "posted_ts": 1787692415,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008"
 },
 "simplify:compeer financial:a19e6481-79f8-4c12-b497-9d6b4566b45d": {
+"checked": "2026-09-28",
 "company": "Compeer Financial",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919279,
 "flags": [],
@@ -7193,12 +7507,15 @@
 "Bloomington, IL"
 ],
 "posted_ts": 1787692415,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008"
 },
 "simplify:conocophillips:5123007b-1b8e-4d00-babb-8c1c4ec245cc": {
+"checked": "2026-09-28",
 "company": "ConocoPhillips",
+"deadline": "2026-10-31",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914665,
 "flags": [],
@@ -7208,6 +7525,7 @@
 "Houston, TX"
 ],
 "posted_ts": 1786406400,
+"rolling": false,
 "src": "simplify",
 "title": "Trading Analytics Intern",
 "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429"
@@ -7258,7 +7576,9 @@
 "url": "https://jobs.constellationenergy.com/jobs/138735?icims=1"
 },
 "simplify:continental resources:efcdcda1-4aa4-492b-a092-21d30c45cee1": {
+"checked": "2026-09-28",
 "company": "Continental Resources",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991673,
 "flags": [],
@@ -7268,6 +7588,7 @@
 "Oklahoma City, OK"
 ],
 "posted_ts": 1787011200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analyst Intern",
 "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1"
@@ -7573,7 +7894,9 @@
 "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cox-Conserves-Technical-Intern---Summer-2027_R202682337"
 },
 "simplify:csx:180c2b69-a897-4c36-9460-0eac1066b869": {
+"checked": "2026-09-28",
 "company": "CSX",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992047,
 "flags": [],
@@ -7583,12 +7906,15 @@
 "Jacksonville, FL"
 ],
 "posted_ts": 1787949988,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern - Positive Train Control - Paid",
 "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826"
 },
 "simplify:csx:7446a6fa-1e34-44e8-8b3a-46688131ec9f": {
+"checked": "2026-09-28",
 "company": "CSX",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920394,
 "flags": [],
@@ -7598,6 +7924,7 @@
 "Jacksonville, FL"
 ],
 "posted_ts": 1787920749,
+"rolling": false,
 "src": "simplify",
 "title": "Intermodal Intern - Summer 2027 - Paid",
 "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817"
@@ -7621,7 +7948,9 @@
 "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application"
 },
 "simplify:cvent:58e64075-6609-418d-a437-22d5c25dd225": {
+"checked": "2026-09-28",
 "company": "Cvent",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923375,
 "flags": [],
@@ -7631,6 +7960,7 @@
 "Tysons, VA"
 ],
 "posted_ts": 1788218026,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://careers.cvent.com/jobs/10806?icims=1"
@@ -7751,7 +8081,9 @@
 "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true"
 },
 "simplify:dee zee:8d49244e-af9c-4cbb-bb68-827c8671b75d": {
+"checked": "2026-09-28",
 "company": "Dee Zee",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916244,
 "flags": [],
@@ -7761,6 +8093,7 @@
 "Des Moines, IA"
 ],
 "posted_ts": 1786924800,
+"rolling": false,
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368"
@@ -7811,7 +8144,9 @@
 "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652"
 },
 "simplify:deutsche bank:72d3b16a-abca-4801-ba46-ede79443dc62": {
+"checked": "2026-09-28",
 "company": "Deutsche Bank",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991621,
 "flags": [],
@@ -7821,6 +8156,7 @@
 "NYC"
 ],
 "posted_ts": 1787006634,
+"rolling": false,
 "src": "simplify",
 "title": "Technology, Data and Innovation Intern - Technology, Data and Innovation",
 "url": "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w"
@@ -7901,7 +8237,9 @@
 "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002"
 },
 "simplify:devon energy:99fcf5a1-1347-44be-9d63-7e03612f082b": {
+"checked": "2026-09-28",
 "company": "Devon Energy",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917073,
 "flags": [],
@@ -7912,6 +8250,7 @@
 "Oklahoma City, OK"
 ],
 "posted_ts": 1787184000,
+"rolling": false,
 "src": "simplify",
 "title": "Technology Intern - Data Engineering",
 "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1"
@@ -7962,7 +8301,9 @@
 "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022"
 },
 "simplify:dimensional fund advisors:98860377-289a-4a03-8249-583c9cb042ca": {
+"checked": "2026-09-28",
 "company": "Dimensional Fund Advisors",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991654,
 "flags": [],
@@ -7972,6 +8313,7 @@
 "Austin, TX"
 ],
 "posted_ts": 1787011200,
+"rolling": false,
 "src": "simplify",
 "title": "Global Client Group Intern - Data and Tools - Undergraduate and Master's",
 "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003"
@@ -8089,7 +8431,9 @@
 "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958"
 },
 "simplify:draftkings:9952d1ca-819b-4568-b670-0b2cd6dc15af": {
+"checked": "2026-09-28",
 "company": "DraftKings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921792,
 "flags": [],
@@ -8099,6 +8443,7 @@
 "Boston, MA"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Analytics Intern - Summer 2027",
 "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14926"
@@ -8149,7 +8494,9 @@
 "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147"
 },
 "simplify:draftkings:f1913663-f443-410e-930f-eb7dff9c3450": {
+"checked": "2026-09-28",
 "company": "DraftKings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921863,
 "flags": [],
@@ -8159,12 +8506,15 @@
 "Boston, MA"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Analytics Intern - Summer 2027",
 "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927"
 },
 "simplify:draftkings:fa15def7-0f05-40dd-be86-fa6ef407a9ef": {
+"checked": "2026-09-28",
 "company": "DraftKings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992183,
 "flags": [],
@@ -8174,6 +8524,7 @@
 "Boston, MA"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
@@ -8271,7 +8622,9 @@
 "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587"
 },
 "simplify:dtcc:262949d4-ed66-4934-b2fe-ba5b67318c50": {
+"checked": "2026-09-28",
 "company": "DTCC",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991949,
 "flags": [],
@@ -8282,12 +8635,15 @@
 "Tampa, FL"
 ],
 "posted_ts": 1787701826,
+"rolling": false,
 "src": "simplify",
 "title": "Data Solutions Intern - Internship Program",
 "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214478"
 },
 "simplify:dtcc:a1eb1e2b-bd12-4ee2-b019-34e40010a803": {
+"checked": "2026-09-28",
 "company": "DTCC",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919453,
 "flags": [],
@@ -8299,12 +8655,15 @@
 "Jersey City, NJ"
 ],
 "posted_ts": 1787701825,
+"rolling": false,
 "src": "simplify",
 "title": "Application Developer Intern",
 "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459"
 },
 "simplify:ducharme, mcmillen & associates:07fb9dda-5acf-40a0-8daa-9a4ef8e9d7a5": {
+"checked": "2026-09-28",
 "company": "DuCharme, McMillen & Associates",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918761,
 "flags": [],
@@ -8315,6 +8674,7 @@
 "Fort Wayne, IN"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern",
 "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636"
@@ -8429,7 +8789,9 @@
 "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005"
 },
 "simplify:dv trading:f845f125-fa49-4e15-a653-128534761cd4": {
+"checked": "2026-09-28",
 "company": "DV Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914355,
 "flags": [],
@@ -8439,12 +8801,15 @@
 "NYC"
 ],
 "posted_ts": 1786412058,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
 },
 "simplify:ecolab:a9777bd4-5efc-4a60-a627-f2e6cfabbfcf": {
+"checked": "2026-09-28",
 "company": "Ecolab",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918063,
 "flags": [],
@@ -8456,6 +8821,7 @@
 "St Paul, MN"
 ],
 "posted_ts": 1787270400,
+"rolling": false,
 "src": "simplify",
 "title": "Digital & AI Technology Intern",
 "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
@@ -8743,7 +9109,9 @@
 "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"
 },
 "simplify:empirical foods:f8139c71-b2b0-4405-8d3c-7468022996e2": {
+"checked": "2026-09-28",
 "company": "Empirical Foods",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919384,
 "flags": [],
@@ -8753,6 +9121,7 @@
 "Dakota Dunes, SD"
 ],
 "posted_ts": 1787691905,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false"
@@ -8863,7 +9232,9 @@
 "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004"
 },
 "simplify:epic games:706c113d-3534-4a68-8836-c8195ea3f0c9": {
+"checked": "2026-09-28",
 "company": "Epic Games",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919667,
 "flags": [],
@@ -8873,12 +9244,15 @@
 "Cary, NC"
 ],
 "posted_ts": 1787703537,
+"rolling": false,
 "src": "simplify",
 "title": "Gameplay Programmer Intern",
 "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004"
 },
 "simplify:epic games:9d04080d-0ad1-42fe-b047-599eef0c1fd7": {
+"checked": "2026-09-28",
 "company": "Epic Games",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913728,
 "flags": [],
@@ -8890,12 +9264,15 @@
 "United States"
 ],
 "posted_ts": 1786141683,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Intern",
 "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004"
 },
 "simplify:epic games:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1": {
+"checked": "2026-09-28",
 "company": "Epic Games",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9922867,
 "flags": [],
@@ -8905,6 +9282,7 @@
 "Cary, NC"
 ],
 "posted_ts": 1788214848,
+"rolling": false,
 "src": "simplify",
 "title": "Frontend Programmer Intern",
 "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
@@ -9282,7 +9660,9 @@
 "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2"
 },
 "simplify:exelon:d2e61e69-8f4f-4006-8163-9aeec299bede": {
+"checked": "2026-09-28",
 "company": "Exelon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921398,
 "flags": [],
@@ -9298,12 +9678,15 @@
 "Baltimore, MD"
 ],
 "posted_ts": 1788202233,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Data Science/Analytics",
 "url": "https://careers.comed.com/jobs/30120?icims=1"
 },
 "simplify:fannie mae:09e061cd-a5e8-4059-bb6d-a0672a475328": {
+"checked": "2026-09-28",
 "company": "Fannie Mae",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917037,
 "flags": [],
@@ -9313,12 +9696,15 @@
 "Washington, DC"
 ],
 "posted_ts": 1787184000,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Analytics & Modeling Program",
 "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815"
 },
 "simplify:fast enterprises:7838c307-daa5-4e75-b8c2-7218ab2354cb": {
+"checked": "2026-09-28",
 "company": "FAST Enterprises",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915667,
 "flags": [],
@@ -9328,6 +9714,7 @@
 "United States"
 ],
 "posted_ts": 1786975505,
+"rolling": false,
 "src": "simplify",
 "title": "Implementation Intern",
 "url": "https://careers.fastenterprises.com/jobs/1709?icims=1"
@@ -9397,7 +9784,9 @@
 "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
 },
 "simplify:fifth third bank:60b68227-25d4-4cb0-bb71-13a501242bcf": {
+"checked": "2026-09-28",
 "company": "Fifth Third Bank",
+"deadline": "2026-10-03",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921603,
 "flags": [],
@@ -9407,6 +9796,7 @@
 "Cincinnati, OH"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Enterprise Data Office Co-op",
 "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Summer-2027---Cincinnati_R72261"
@@ -9644,7 +10034,9 @@
 "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653"
 },
 "simplify:freddie mac:5a24ffd7-21dd-4446-9322-8b43eab99a97": {
+"checked": "2026-09-28",
 "company": "Freddie Mac",
+"deadline": "2026-10-16",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918587,
 "flags": [],
@@ -9654,12 +10046,15 @@
 "McLean, VA"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Software Developer Intern - Single-Family",
 "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
 },
 "simplify:freddie mac:d55095b6-b7dc-4c2a-b7dd-9f93cb9358fb": {
+"checked": "2026-09-28",
 "company": "Freddie Mac",
+"deadline": "2026-10-16",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991866,
 "flags": [],
@@ -9669,12 +10064,15 @@
 "McLean, VA"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Single-Family Data Intern",
 "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545"
 },
 "simplify:freddie mac:f9295e59-0d52-4f80-8bcb-f16c1b4fc75d": {
+"checked": "2026-09-28",
 "company": "Freddie Mac",
+"deadline": "2026-10-16",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918628,
 "flags": [],
@@ -9684,12 +10082,15 @@
 "McLean, VA"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Multifamily Software Development Intern - Summer 2027",
 "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"
 },
 "simplify:freeform:6e3ed174-33a5-41fb-9927-ca07c12a6774": {
+"checked": "2026-09-28",
 "company": "Freeform",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915438,
 "flags": [],
@@ -9699,6 +10100,7 @@
 "LA"
 ],
 "posted_ts": 1786768536,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003"
@@ -9779,7 +10181,9 @@
 "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
 },
 "simplify:garda capital partners:d935bae6-e667-4bd1-b10d-4431b5555110": {
+"checked": "2026-09-28",
 "company": "Garda Capital Partners",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916575,
 "flags": [],
@@ -9789,6 +10193,7 @@
 "NYC"
 ],
 "posted_ts": 1787093717,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
@@ -9809,7 +10214,9 @@
 "url": "https://careers.garmin.com/jobs/20135?icims=1"
 },
 "simplify:garmin:6fae71ff-8ba9-4cb2-9a98-67e653634b80": {
+"checked": "2026-09-28",
 "company": "Garmin",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992143,
 "flags": [],
@@ -9819,12 +10226,15 @@
 "Chandler, AZ"
 ],
 "posted_ts": 1788202080,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers.garmin.com/jobs/19858?icims=1"
 },
 "simplify:garmin:afa7917f-eec9-411a-9a5c-e3aad5839ae6": {
+"checked": "2026-09-28",
 "company": "Garmin",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918795,
 "flags": [],
@@ -9834,6 +10244,7 @@
 "Olathe, KS"
 ],
 "posted_ts": 1787602171,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers.garmin.com/jobs/19693?icims=1"
@@ -9978,7 +10389,9 @@
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Summer-Fall-2027_R5051597-1"
 },
 "simplify:ge vernova:2c773875-aa62-411f-a839-511d6f823d7d": {
+"checked": "2026-09-28",
 "company": "GE Vernova",
+"deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914768,
 "flags": [],
@@ -9988,6 +10401,7 @@
 "Niskayuna, NY"
 ],
 "posted_ts": 1786492800,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
@@ -10128,7 +10542,9 @@
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2"
 },
 "simplify:ge vernova:f34b1f76-8c04-44e3-af69-ab94a7694d4b": {
+"checked": "2026-09-28",
 "company": "GE Vernova",
+"deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991474,
 "flags": [],
@@ -10138,6 +10554,7 @@
 "Niskayuna, NY"
 ],
 "posted_ts": 1786492800,
+"rolling": false,
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
@@ -10344,7 +10761,9 @@
 "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"
 },
 "simplify:general matter:52758ea7-052d-4c85-9fbe-2558a05538f1": {
+"checked": "2026-09-28",
 "company": "General Matter",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991683,
 "flags": [],
@@ -10354,6 +10773,7 @@
 "LA"
 ],
 "posted_ts": 1787187862,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
@@ -10498,7 +10918,9 @@
 "url": "https://higher.gs.com/roles/177808?type=students"
 },
 "simplify:goldman sachs:443c0a68-63ca-4026-94b7-cf3e555f2d0f": {
+"checked": "2026-09-28",
 "company": "Goldman Sachs",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
@@ -10508,6 +10930,7 @@
 "NYC"
 ],
 "posted_ts": 1786767947,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
 "url": "https://higher.gs.com/roles/171535?type=students"
@@ -10962,7 +11385,9 @@
 "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
 },
 "simplify:guidewell mutual:7cd1e33f-21cb-46a0-9c15-b8392e204d63": {
+"checked": "2026-09-28",
 "company": "GuideWell Mutual",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991527,
 "flags": [],
@@ -10972,6 +11397,7 @@
 "Jacksonville, FL"
 ],
 "posted_ts": 1786745032,
+"rolling": false,
 "src": "simplify",
 "title": "Enterprise Analytics Intern",
 "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879"
@@ -11252,7 +11678,9 @@
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903"
 },
 "simplify:honeywell:d449be3f-76e4-4a23-907f-0c7e8bcd8582": {
+"checked": "2026-09-28",
 "company": "Honeywell",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919424,
 "flags": [],
@@ -11262,12 +11690,15 @@
 "United States"
 ],
 "posted_ts": 1787691977,
+"rolling": false,
 "src": "simplify",
 "title": "Artificial Intelligence/Machine Learning Intern",
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522"
 },
 "simplify:honeywell:d77e63b8-e4b0-42ca-a8b6-6ed707e7d4ac": {
+"checked": "2026-09-28",
 "company": "Honeywell",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919598,
 "flags": [],
@@ -11277,6 +11708,7 @@
 "United States"
 ],
 "posted_ts": 1787703837,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Computer Science",
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558"
@@ -11297,7 +11729,9 @@
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088"
 },
 "simplify:honeywell:e4a107a2-a0eb-4ef1-9ce9-2f1dfc6ea0f6": {
+"checked": "2026-09-28",
 "company": "Honeywell",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919558,
 "flags": [],
@@ -11307,12 +11741,15 @@
 "United States"
 ],
 "posted_ts": 1787703837,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Computer Science",
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557"
 },
 "simplify:hp iq:0520e2cb-e59c-4d5a-a2a8-9dbd3e17a76a": {
+"checked": "2026-09-28",
 "company": "HP IQ",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992322,
 "flags": [],
@@ -11322,12 +11759,15 @@
 "SF"
 ],
 "posted_ts": 1788217499,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Product & Developer Productivity - Summer 2027",
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004"
 },
 "simplify:hp iq:335f80f5-c466-4364-a041-7daa9748daa0": {
+"checked": "2026-09-28",
 "company": "HP IQ",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923253,
 "flags": [],
@@ -11337,6 +11777,7 @@
 "SF"
 ],
 "posted_ts": 1788217502,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - AML Platform",
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004"
@@ -11357,7 +11798,9 @@
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
 },
 "simplify:hp iq:949d51a9-718b-4bfe-8a44-2735fc2a1a8a": {
+"checked": "2026-09-28",
 "company": "HP IQ",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923177,
 "flags": [],
@@ -11367,12 +11810,15 @@
 "SF"
 ],
 "posted_ts": 1788217503,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Cloud Services - Summer 2027",
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
 },
 "simplify:hp iq:f6fb04a7-b7e2-4890-8a03-fe80a235e6e5": {
+"checked": "2026-09-28",
 "company": "HP IQ",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923136,
 "flags": [],
@@ -11382,6 +11828,7 @@
 "SF"
 ],
 "posted_ts": 1788217499,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
@@ -11508,7 +11955,9 @@
 "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1058"
 },
 "simplify:huntington bancshares:8e4b4b17-9c3e-4b70-8a49-902c7956a66b": {
+"checked": "2026-09-28",
 "company": "Huntington Bancshares",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920428,
 "flags": [],
@@ -11521,6 +11970,7 @@
 "Columbus, OH"
 ],
 "posted_ts": 1787875200,
+"rolling": false,
 "src": "simplify",
 "title": "Data and Analytics Intern",
 "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Data-and-Analytics-Internship_R0075377"
@@ -11714,7 +12164,9 @@
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
 },
 "simplify:imc trading:81f31a55-3c12-476c-bb99-e74e63986e74": {
+"checked": "2026-09-28",
 "company": "IMC Trading",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992025,
 "flags": [],
@@ -11724,6 +12176,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1787869657,
+"rolling": false,
 "src": "simplify",
 "title": "Performance Engineer Intern",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
@@ -11804,7 +12257,9 @@
 "url": "https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq"
 },
 "simplify:infinitequant:9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4": {
+"checked": "2026-09-28",
 "company": "InfiniteQuant",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991492,
 "flags": [],
@@ -11815,12 +12270,15 @@
 "NYC"
 ],
 "posted_ts": 1786630110,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher Intern - Summer 2027",
 "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421"
 },
 "simplify:infinitequant:d55a832d-489f-468a-8688-f419fb8b1b38": {
+"checked": "2026-09-28",
 "company": "InfiniteQuant",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918475,
 "flags": [],
@@ -11831,6 +12289,7 @@
 "NYC"
 ],
 "posted_ts": 1787583369,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Developer Internship - Summer 2027",
 "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134"
@@ -11904,7 +12363,9 @@
 "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
 },
 "simplify:intuit:1795d6df-fcca-45dc-836d-41a82dc36894": {
+"checked": "2026-09-28",
 "company": "Intuit",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920976,
 "flags": [],
@@ -11918,6 +12379,7 @@
 "San Diego, CA"
 ],
 "posted_ts": 1787963949,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Full Stack",
 "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864"
@@ -12541,7 +13003,9 @@
 "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411"
 },
 "simplify:keybank:530c60b3-3de0-4a8e-bb7c-5f32553939ac": {
+"checked": "2026-09-28",
 "company": "KeyBank",
+"deadline": "2026-10-02",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991571,
 "flags": [],
@@ -12551,6 +13015,7 @@
 "Brooklyn, OH"
 ],
 "posted_ts": 1786924800,
+"rolling": false,
 "src": "simplify",
 "title": "Data Intern - Key Technology & Services - Data Track",
 "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385"
@@ -12887,7 +13352,9 @@
 "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
 },
 "simplify:lpl financial holdings:14051ce6-a050-4a8e-851b-555583f7ba2c": {
+"checked": "2026-09-28",
 "company": "LPL Financial Holdings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914389,
 "flags": [],
@@ -12899,12 +13366,15 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1786320000,
+"rolling": true,
 "src": "simplify",
 "title": "Data Engineer Intern - Data",
 "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914"
 },
 "simplify:lpl financial holdings:6538dcdb-7ff2-4214-ba47-f53b40274027": {
+"checked": "2026-09-28",
 "company": "LPL Financial Holdings",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914324,
 "flags": [],
@@ -12916,6 +13386,7 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1786320000,
+"rolling": true,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
@@ -13176,7 +13647,9 @@
 "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837"
 },
 "simplify:manulife financial:caa5d432-7f4d-4c1f-92de-98d8fd87d850": {
+"checked": "2026-09-28",
 "company": "Manulife Financial",
+"deadline": "2026-10-05",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920144,
 "flags": [],
@@ -13186,12 +13659,15 @@
 "Boston, MA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
 },
 "simplify:manulife financial:d1378a04-b2e2-4cfd-ae35-e0e1c8a675b5": {
+"checked": "2026-09-28",
 "company": "Manulife Financial",
+"deadline": "2026-10-05",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920175,
 "flags": [],
@@ -13201,6 +13677,7 @@
 "Boston, MA"
 ],
 "posted_ts": 1787788800,
+"rolling": false,
 "src": "simplify",
 "title": "AI Intern - AI",
 "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682"
@@ -13257,7 +13734,9 @@
 "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453"
 },
 "simplify:marsh:2e60bfbc-eba1-46bb-b68b-c273e8465412": {
+"checked": "2026-09-28",
 "company": "Marsh",
+"deadline": "2026-09-29",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918,
 "flags": [],
@@ -13268,6 +13747,7 @@
 "Minneapolis, MN"
 ],
 "posted_ts": 1787270400,
+"rolling": false,
 "src": "simplify",
 "title": "Government Health Consulting Informatics Intern - College Program",
 "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073"
@@ -13306,7 +13786,9 @@
 "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877"
 },
 "simplify:mastercard:e42ba45d-b2f8-4b3e-82ea-a28a0016584f": {
+"checked": "2026-09-28",
 "company": "Mastercard",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921565,
 "flags": [],
@@ -13316,6 +13798,7 @@
 "O'Fallon, MO"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern",
 "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879"
@@ -13412,7 +13895,9 @@
 "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623"
 },
 "simplify:medline:f71509d5-e6a6-4016-a57d-e56cd20c0298": {
+"checked": "2026-09-28",
 "company": "Medline",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921644,
 "flags": [],
@@ -13422,12 +13907,15 @@
 "Northbrook, IL"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
 "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378"
 },
 "simplify:medpace:d6b556fe-abad-41f9-80f2-0377ef5e9b34": {
+"checked": "2026-09-28",
 "company": "Medpace",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918208,
 "flags": [],
@@ -13437,6 +13925,7 @@
 "Cincinnati, OH"
 ],
 "posted_ts": 1787582481,
+"rolling": false,
 "src": "simplify",
 "title": "Python Intern - Summer 2027",
 "url": "https://careers.medpace.com/jobs/12962?icims=1"
@@ -13938,7 +14427,9 @@
 "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Becario-Analista-de-promociones--RGM-_R-176656"
 },
 "simplify:montenson:4de1af82-e491-4ce1-8a1f-4fdc1c58dcc9": {
+"checked": "2026-09-28",
 "company": "Montenson",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914227,
 "flags": [],
@@ -13948,12 +14439,15 @@
 "Minnesota"
 ],
 "posted_ts": 1786388227,
+"rolling": false,
 "src": "simplify",
 "title": "Artificial Intelligence Intern",
 "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339"
 },
 "simplify:montenson:5acb5ba5-b61d-4432-922b-9dea91c7815d": {
+"checked": "2026-09-28",
 "company": "Montenson",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914196,
 "flags": [],
@@ -13963,6 +14457,7 @@
 "Minnesota"
 ],
 "posted_ts": 1786388226,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Insights",
 "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342"
@@ -14014,7 +14509,9 @@
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679"
 },
 "simplify:motorola:40a73eb1-1878-4203-a116-82e2ad5c39c2": {
+"checked": "2026-09-28",
 "company": "Motorola",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918513,
 "flags": [],
@@ -14024,6 +14521,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Android Application Developer Intern - Summer 2027",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
@@ -14104,7 +14602,9 @@
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136"
 },
 "simplify:msa safety:90a62333-1a88-4334-9894-32435465205b": {
+"checked": "2026-09-28",
 "company": "MSA Safety",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918873,
 "flags": [],
@@ -14114,6 +14614,7 @@
 "Cranberry Township, PA"
 ],
 "posted_ts": 1787603300,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Product Development - Summer 2027",
 "url": "https://careers.msasafety.com/jobs/9993?icims=1"
@@ -14699,7 +15200,9 @@
 "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
 },
 "simplify:nike:1d9f2320-07f1-4deb-bce1-02d20684e4e9": {
+"checked": "2026-09-28",
 "company": "Nike",
+"deadline": "2026-10-19",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9922063,
 "flags": [],
@@ -14709,6 +15212,7 @@
 "Beaverton, OR"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"
@@ -14729,7 +15233,9 @@
 "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378"
 },
 "simplify:nisource:a8aeaa5d-b0bc-4b1a-8111-0b8dd687c2af": {
+"checked": "2026-09-28",
 "company": "NiSource",
+"deadline": "2026-10-03",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992189,
 "flags": [],
@@ -14740,6 +15246,7 @@
 "Merrillville, IN"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449"
@@ -14850,7 +15357,9 @@
 "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1"
 },
 "simplify:northrop grumman:a65068a9-808a-4223-9f74-2421c555cb44": {
+"checked": "2026-09-28",
 "company": "Northrop Grumman",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913495,
 "flags": [],
@@ -14860,6 +15369,7 @@
 "Melbourne, FL"
 ],
 "posted_ts": 1785974400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Aeronautics Systems",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
@@ -14913,7 +15423,9 @@
 "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073"
 },
 "simplify:northwood space:b887b47d-3ded-45eb-8d5a-268813a2e75d": {
+"checked": "2026-09-28",
 "company": "Northwood Space",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921145,
 "flags": [],
@@ -14924,12 +15436,15 @@
 "Torrance, CA"
 ],
 "posted_ts": 1787968595,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Multiple Teams",
 "url": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true"
 },
 "simplify:northwood space:c81468d7-5674-4da5-8022-1abb69535db7": {
+"checked": "2026-09-28",
 "company": "Northwood Space",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921112,
 "flags": [],
@@ -14940,12 +15455,15 @@
 "Torrance, CA"
 ],
 "posted_ts": 1787968594,
+"rolling": false,
 "src": "simplify",
 "title": "Embedded Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true"
 },
 "simplify:notion:14e51d14-067b-43b8-80cf-dcf3c6893565": {
+"checked": "2026-09-28",
 "company": "Notion",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991531,
 "flags": [],
@@ -14956,6 +15474,7 @@
 "NYC"
 ],
 "posted_ts": 1786754510,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true"
@@ -15262,7 +15781,9 @@
 "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265"
 },
 "simplify:oshkosh:da570ab1-d07e-40da-ae41-a8522c5a64a8": {
+"checked": "2026-09-28",
 "company": "Oshkosh",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921992,
 "flags": [],
@@ -15273,6 +15794,7 @@
 "Oshkosh, WI"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Software - Summer 2027",
 "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745"
@@ -15294,7 +15816,9 @@
 "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266"
 },
 "simplify:oshkosh:efda5b68-f0b9-4264-a302-c0a1b654d7ec": {
+"checked": "2026-09-28",
 "company": "Oshkosh",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9922035,
 "flags": [],
@@ -15304,6 +15828,7 @@
 "Dodge Center, MN"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Software - Summer 2027",
 "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786"
@@ -15579,7 +16104,9 @@
 "url": "https://apply.workable.com/perryhomes/j/D309E69A5B/apply"
 },
 "simplify:persona ai:88ee222e-f092-4c2a-ad37-b63eb0445010": {
+"checked": "2026-09-28",
 "company": "Persona AI",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921012,
 "flags": [],
@@ -15589,6 +16116,7 @@
 "Houston, TX"
 ],
 "posted_ts": 1787963892,
+"rolling": false,
 "src": "simplify",
 "title": "Robotics Software Intern - Manipulation",
 "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true"
@@ -15609,7 +16137,9 @@
 "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486"
 },
 "simplify:philips:6a4501ab-5b1a-44c6-87d4-9c4e68e6f5f8": {
+"checked": "2026-09-28",
 "company": "Philips",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917107,
 "flags": [],
@@ -15619,6 +16149,7 @@
 "Plymouth, MN"
 ],
 "posted_ts": 1787184000,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Co-op",
 "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567"
@@ -15717,7 +16248,9 @@
 "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148575429"
 },
 "simplify:pimco:5370153e-8623-4e1d-b4f6-986a7ab410a1": {
+"checked": "2026-09-28",
 "company": "PIMCO",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916701,
 "flags": [],
@@ -15727,6 +16260,7 @@
 "Austin, TX"
 ],
 "posted_ts": 1787011200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Technology Analyst",
 "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
@@ -15747,7 +16281,9 @@
 "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816"
 },
 "simplify:pimco:d7d2d9a2-c865-47e5-9029-23b28fb08f05": {
+"checked": "2026-09-28",
 "company": "PIMCO",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915025,
 "flags": [],
@@ -15757,6 +16293,7 @@
 "Newport Beach, CA"
 ],
 "posted_ts": 1786579200,
+"rolling": false,
 "src": "simplify",
 "title": "Client Solutions & Analytics Analyst Intern",
 "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R106605"
@@ -15777,7 +16314,9 @@
 "url": "https://careers.planview.com/jobs/5128?icims=1"
 },
 "simplify:polaris:43314ea5-8533-4883-a5e5-5afdc6cff866": {
+"checked": "2026-09-28",
 "company": "Polaris",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918551,
 "flags": [],
@@ -15788,6 +16327,7 @@
 "Plymouth, MN"
 ],
 "posted_ts": 1787529600,
+"rolling": true,
 "src": "simplify",
 "title": "Predictive Data Science Intern - Digital & IT",
 "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525"
@@ -15916,7 +16456,9 @@
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503"
 },
 "simplify:procter & gamble:4a6c8dec-bbc4-43b8-a768-fbedfacf95d3": {
+"checked": "2026-09-28",
 "company": "Procter & Gamble",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991873,
 "flags": [],
@@ -15926,6 +16468,7 @@
 "Cincinnati, OH"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Data Scientist Intern",
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504"
@@ -15946,7 +16489,9 @@
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371"
 },
 "simplify:procter & gamble:b3e5cba2-cc35-4da5-88b4-0dcc462d5536": {
+"checked": "2026-09-28",
 "company": "Procter & Gamble",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918694,
 "flags": [],
@@ -15956,6 +16501,7 @@
 "Cincinnati, OH"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Data & AI Engineering Intern",
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
@@ -16039,7 +16585,9 @@
 "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796"
 },
 "simplify:qorvo:056e0096-9f6b-4c3a-844f-cd627807e7f6": {
+"checked": "2026-09-28",
 "company": "Qorvo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921176,
 "flags": [],
@@ -16049,6 +16597,7 @@
 "Richardson, TX"
 ],
 "posted_ts": 1788153914,
+"rolling": false,
 "src": "simplify",
 "title": "Full-Stack Web Developer Intern",
 "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors"
@@ -16072,7 +16621,9 @@
 "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true"
 },
 "simplify:quantbot technologies:20ba2faa-8c06-4328-b38a-a1ff32e5b009": {
+"checked": "2026-09-28",
 "company": "Quantbot Technologies",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914489,
 "flags": [],
@@ -16082,12 +16633,15 @@
 "NYC"
 ],
 "posted_ts": 1786468945,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009"
 },
 "simplify:quantbot technologies:c0bc8e2c-204a-461b-bd1b-7d720fbcbd77": {
+"checked": "2026-09-28",
 "company": "Quantbot Technologies",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914422,
 "flags": [],
@@ -16097,12 +16651,15 @@
 "NYC"
 ],
 "posted_ts": 1786468947,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Developer Intern",
 "url": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009"
 },
 "simplify:quantbot technologies:d7cb67a6-930f-4fc0-a3b7-3f7d47bcdb31": {
+"checked": "2026-09-28",
 "company": "Quantbot Technologies",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914458,
 "flags": [],
@@ -16112,6 +16669,7 @@
 "NYC"
 ],
 "posted_ts": 1786468946,
+"rolling": false,
 "src": "simplify",
 "title": "Machine Learning Research Engineer Intern",
 "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009"
@@ -16372,7 +16930,9 @@
 "url": "https://www.redventures.com/careers/positions/open?gh_jid=8233284"
 },
 "simplify:regions bank:8d920b54-8967-4d0d-99fb-7556c8dba0ba": {
+"checked": "2026-09-28",
 "company": "Regions Bank",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992297,
 "flags": [],
@@ -16383,6 +16943,7 @@
 "Hoover, AL"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Human Resources Data and Analytics Intern",
 "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources-Data-and-Analytics--Birmingham--AL_R105679"
@@ -16418,7 +16979,9 @@
 "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
 },
 "simplify:repsol:249d2a83-d20a-41e7-b20f-ea879c5a1480": {
+"checked": "2026-09-28",
 "company": "Repsol",
+"deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991988,
 "flags": [],
@@ -16428,6 +16991,7 @@
 "The Woodlands, TX"
 ],
 "posted_ts": 1787702400,
+"rolling": false,
 "src": "simplify",
 "title": "Reservoir Engineer Intern",
 "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineering-Intern_83945-1"
@@ -16478,7 +17042,9 @@
 "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106"
 },
 "simplify:repsol:f57bb086-aa5d-4b27-be0c-45e482f63cc5": {
+"checked": "2026-09-28",
 "company": "Repsol",
+"deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991991,
 "flags": [],
@@ -16488,6 +17054,7 @@
 "The Woodlands, TX"
 ],
 "posted_ts": 1787702400,
+"rolling": false,
 "src": "simplify",
 "title": "Development Planning Engineer Intern",
 "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1"
@@ -16727,7 +17294,9 @@
 "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true"
 },
 "simplify:robert bosch venture capital:6def32a2-38d9-47cf-8a10-2e7a23785b01": {
+"checked": "2026-09-28",
 "company": "Robert Bosch Venture Capital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921947,
 "flags": [],
@@ -16737,6 +17306,7 @@
 "Farmington Hills, MI"
 ],
 "posted_ts": 1788203198,
+"rolling": false,
 "src": "simplify",
 "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429"
@@ -17386,7 +17956,9 @@
 "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
 },
 "simplify:sage:0aa38a85-7be2-4d60-8ec3-0002a9643512": {
+"checked": "2026-09-28",
 "company": "Sage",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918945,
 "flags": [],
@@ -17396,12 +17968,15 @@
 "NYC"
 ],
 "posted_ts": 1787602989,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Edge - Summer 2027",
 "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
 },
 "simplify:sage:bc4407ea-452d-4ef5-b173-3260a4f7db7b": {
+"checked": "2026-09-28",
 "company": "Sage",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991891,
 "flags": [],
@@ -17411,6 +17986,7 @@
 "NYC"
 ],
 "posted_ts": 1787602989,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Full Stack",
 "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
@@ -18024,7 +18600,9 @@
 "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1"
 },
 "simplify:sierra:aad0cae7-225e-41d2-b416-7d42885da521": {
+"checked": "2026-09-28",
 "company": "Sierra",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992351,
 "flags": [],
@@ -18035,6 +18613,7 @@
 "NYC"
 ],
 "posted_ts": 1788238456,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true"
@@ -18175,7 +18754,9 @@
 "url": "https://boards.greenhouse.io/spacex/jobs/8621757002"
 },
 "simplify:specter aerospace:3bb608c1-4704-4fe1-a877-eaf540f90cc1": {
+"checked": "2026-09-28",
 "company": "Specter Aerospace",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991484,
 "flags": [],
@@ -18186,6 +18767,7 @@
 "Peabody, MA"
 ],
 "posted_ts": 1786602193,
+"rolling": false,
 "src": "simplify",
 "title": "Full Stack Developer Co-op",
 "url": "https://specteraerospace.bamboohr.com/careers/122/"
@@ -18206,7 +18788,9 @@
 "url": "https://careers.spiritaero.com/jobs/17481?icims=1"
 },
 "simplify:springs window fashions:1f240169-1dfc-46e6-8e84-6e70ff3d98da": {
+"checked": "2026-09-28",
 "company": "Springs Window Fashions",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918141,
 "flags": [],
@@ -18216,12 +18800,15 @@
 "Middleton, WI"
 ],
 "posted_ts": 1787407582,
+"rolling": false,
 "src": "simplify",
 "title": "Product Management Dashboard Analytics Intern",
 "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false"
 },
 "simplify:springs window fashions:3b263339-ab18-4363-b881-4222882cc14b": {
+"checked": "2026-09-28",
 "company": "Springs Window Fashions",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918103,
 "flags": [],
@@ -18231,12 +18818,15 @@
 "Middleton, WI"
 ],
 "posted_ts": 1787407584,
+"rolling": false,
 "src": "simplify",
 "title": "Textile Engineering Intern - Summer 2027",
 "url": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false"
 },
 "simplify:springs window fashions:cb063395-698b-47f5-9fe1-4b86a1b0dee5": {
+"checked": "2026-09-28",
 "company": "Springs Window Fashions",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918833,
 "flags": [],
@@ -18246,6 +18836,7 @@
 "Long Island City, Queens, NY"
 ],
 "posted_ts": 1787603294,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Summer 2027",
 "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false"
@@ -18341,7 +18932,9 @@
 "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
 },
 "simplify:stryker:3c6dc4c7-bd24-4215-a600-0d55a3952673": {
+"checked": "2026-09-28",
 "company": "Stryker",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921293,
 "flags": [],
@@ -18351,12 +18944,15 @@
 "Fort Wayne, IN"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Multiple Teams",
 "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
 },
 "simplify:stryker:8254bef8-0753-4347-9bd2-47e5536eab40": {
+"checked": "2026-09-28",
 "company": "Stryker",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921257,
 "flags": [],
@@ -18366,12 +18962,15 @@
 "Fort Lauderdale, FL"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Software Engineering",
 "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
 },
 "simplify:stryker:a980e8b0-12fe-45eb-9fa2-697b990375e7": {
+"checked": "2026-09-28",
 "company": "Stryker",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921215,
 "flags": [],
@@ -18381,12 +18980,15 @@
 "Portage, MI"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analytics Intern - Multiple Teams",
 "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601"
 },
 "simplify:stryker:ac16b37b-d5ee-4a02-8d77-305bc1ab5168": {
+"checked": "2026-09-28",
 "company": "Stryker",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921362,
 "flags": [],
@@ -18397,12 +18999,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Multiple Teams",
 "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
 },
 "simplify:stryker:ca835172-bf35-4ed0-b110-8dec8dc954ea": {
+"checked": "2026-09-28",
 "company": "Stryker",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992133,
 "flags": [],
@@ -18412,6 +19017,7 @@
 "Portage, MI"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Software Engineering",
 "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
@@ -18706,7 +19312,9 @@
 "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797"
 },
 "simplify:teledyne:46378d7c-8f2b-4684-9119-6454bb14df9b": {
+"checked": "2026-09-28",
 "company": "Teledyne",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991499,
 "flags": [],
@@ -18716,6 +19324,7 @@
 "Huntsville, AL"
 ],
 "posted_ts": 1786579200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - NHRC",
 "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
@@ -18751,7 +19360,9 @@
 "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1"
 },
 "simplify:teledyne:b3254ba9-4ac8-4f93-8a5a-67c31517f742": {
+"checked": "2026-09-28",
 "company": "Teledyne",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914954,
 "flags": [],
@@ -18761,12 +19372,15 @@
 "Huntsville, AL"
 ],
 "posted_ts": 1786579200,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - NHRC",
 "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
 },
 "simplify:telus digital:445f9e1d-29ba-4695-b3b0-60111cfbd03b": {
+"checked": "2026-09-28",
 "company": "TELUS Digital",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992036,
 "flags": [],
@@ -18778,6 +19392,7 @@
 "Charlottesville, VA"
 ],
 "posted_ts": 1787873425,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - US - Summer 2027",
 "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true"
@@ -19207,7 +19822,9 @@
 "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1"
 },
 "simplify:the hartford:113452f5-8851-4266-8cfa-6e8ba357281e": {
+"checked": "2026-09-28",
 "company": "The Hartford",
+"deadline": "2026-09-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991898,
 "flags": [],
@@ -19217,6 +19834,7 @@
 "Hartford, CT"
 ],
 "posted_ts": 1787529600,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Tech & Data Program",
 "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
@@ -19239,7 +19857,9 @@
 "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114"
 },
 "simplify:the home depot:344cba34-8972-4eb0-b47d-64f9893987bc": {
+"checked": "2026-09-28",
 "company": "The Home Depot",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921498,
 "flags": [],
@@ -19249,12 +19869,15 @@
 "Atlanta, GA"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937"
 },
 "simplify:the home depot:4060f153-ab15-44d4-9f86-1bf555dbf0f7": {
+"checked": "2026-09-28",
 "company": "The Home Depot",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921463,
 "flags": [],
@@ -19264,6 +19887,7 @@
 "Atlanta, GA"
 ],
 "posted_ts": 1788134400,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science & Analytics Intern",
 "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968"
@@ -19284,7 +19908,9 @@
 "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
 },
 "simplify:the nuclear company:35dd8e24-1c88-4e4b-8ba3-f9b9be169b31": {
+"checked": "2026-09-28",
 "company": "The Nuclear Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915168,
 "flags": [],
@@ -19294,12 +19920,15 @@
 "Washington, DC"
 ],
 "posted_ts": 1786746141,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science & Machine Learning Fellow Intern",
 "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008"
 },
 "simplify:the nuclear company:b57a206e-05f4-4b02-9ccd-b54ba30848e2": {
+"checked": "2026-09-28",
 "company": "The Nuclear Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913807,
 "flags": [],
@@ -19309,12 +19938,15 @@
 "Washington, DC"
 ],
 "posted_ts": 1786141307,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Product - Platform",
 "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
 },
 "simplify:the nuclear company:becc9f50-d65f-4749-b064-6d3e221e83da": {
+"checked": "2026-09-28",
 "company": "The Nuclear Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991384,
 "flags": [],
@@ -19324,12 +19956,15 @@
 "Washington, DC"
 ],
 "posted_ts": 1786141308,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"
 },
 "simplify:the nuclear company:cca92450-5ead-4d71-8d7f-084c27b9d1f9": {
+"checked": "2026-09-28",
 "company": "The Nuclear Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913766,
 "flags": [],
@@ -19339,6 +19974,7 @@
 "Washington, DC"
 ],
 "posted_ts": 1786141307,
+"rolling": false,
 "src": "simplify",
 "title": "AI/ML Engineer Intern",
 "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
@@ -19434,7 +20070,9 @@
 "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"
 },
 "simplify:the voleon group:a767329d-41e2-4902-a15c-d28cb21ad5e1": {
+"checked": "2026-09-28",
 "company": "The Voleon Group",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919248,
 "flags": [],
@@ -19445,6 +20083,7 @@
 "NYC"
 ],
 "posted_ts": 1787692907,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true"
@@ -19816,7 +20455,9 @@
 "url": "https://lifeattiktok.com/search/7669683639101884725"
 },
 "simplify:tiktok:3eeac721-35f3-4f16-9019-05cfc80ad251": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913578,
 "flags": [],
@@ -19826,6 +20467,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786065501,
+"rolling": false,
 "src": "simplify",
 "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
 "url": "https://lifeattiktok.com/search/7670738362521520437"
@@ -19972,7 +20614,9 @@
 "url": "https://lifeattiktok.com/search/7667350291952765237"
 },
 "simplify:tiktok:5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913874,
 "flags": [],
@@ -19982,6 +20626,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786141165,
+"rolling": false,
 "src": "simplify",
 "title": "Frontend Engineer Intern - Ads Interface",
 "url": "https://lifeattiktok.com/search/7671211313289398581"
@@ -20149,7 +20794,9 @@
 "url": "https://lifeattiktok.com/search/7669712589169117445"
 },
 "simplify:tiktok:76570b32-69dc-4557-ad0d-dfd2480f1605": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919705,
 "flags": [],
@@ -20159,12 +20806,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787704451,
+"rolling": false,
 "src": "simplify",
 "title": "AI Infrastructure Engineer Intern - Recommendation & LLM",
 "url": "https://lifeattiktok.com/search/7672671220798818613"
 },
 "simplify:tiktok:7a6d014a-e6ad-4587-8acf-9acfe710342d": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916961,
 "flags": [],
@@ -20174,6 +20824,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787190347,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
 "url": "https://lifeattiktok.com/search/7672930401597671733"
@@ -20215,7 +20866,9 @@
 "url": "https://lifeattiktok.com/search/7670287013157095733"
 },
 "simplify:tiktok:8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991353,
 "flags": [],
@@ -20225,6 +20878,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1786065503,
+"rolling": false,
 "src": "simplify",
 "title": "Fullstack Software Engineer Intern - Global E-Commerce",
 "url": "https://lifeattiktok.com/search/7670700387322300677"
@@ -20356,7 +21010,9 @@
 "url": "https://lifeattiktok.com/search/7667935738376227077"
 },
 "simplify:tiktok:a5d3459d-3d46-44dd-8e4e-693ca7320203": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915066,
 "flags": [],
@@ -20366,6 +21022,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786698610,
+"rolling": false,
 "src": "simplify",
 "title": "Mobile Software Engineer Intern - Global E-Commerce",
 "url": "https://lifeattiktok.com/search/7673663349758675205"
@@ -20461,7 +21118,9 @@
 "url": "https://lifeattiktok.com/search/7668582146236631349"
 },
 "simplify:tiktok:b639bba8-cb2b-4262-9125-9b56aeefa4cb": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916484,
 "flags": [],
@@ -20471,6 +21130,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787044952,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - TikTok Search Data Infra",
 "url": "https://lifeattiktok.com/search/7675128776856029445"
@@ -20530,7 +21190,9 @@
 "url": "https://lifeattiktok.com/search/7668834837268138293"
 },
 "simplify:tiktok:b9776d83-bf68-42d9-88e2-4ebdd4ffda09": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9918032,
 "flags": [],
@@ -20540,6 +21202,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787361563,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7676276048527214901"
@@ -20563,7 +21226,9 @@
 "url": "https://lifeattiktok.com/search/7667935399050692917"
 },
 "simplify:tiktok:c2b2c451-d750-4afe-a76b-18cec45fff86": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916997,
 "flags": [],
@@ -20573,12 +21238,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787190346,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - TikTok Search Architecture",
 "url": "https://lifeattiktok.com/search/7675517686256863541"
 },
 "simplify:tiktok:d1768aee-f240-4353-b609-278b04785c95": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913995,
 "flags": [],
@@ -20588,6 +21256,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1786371587,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Global E-commerce-Search",
 "url": "https://lifeattiktok.com/search/7670839727059339525"
@@ -20626,7 +21295,9 @@
 "url": "https://lifeattiktok.com/search/7667935565120112949"
 },
 "simplify:tiktok:dcab0a63-0790-4990-ad6c-517c42b6436b": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991692,
 "flags": [],
@@ -20636,6 +21307,7 @@
 "Seattle, WA"
 ],
 "posted_ts": 1787190347,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
 "url": "https://lifeattiktok.com/search/7672926068681951493"
@@ -20677,7 +21349,9 @@
 "url": "https://lifeattiktok.com/search/7669707492914727221"
 },
 "simplify:tiktok:e95cee0e-a2ed-44d1-9017-9befd82e1561": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915562,
 "flags": [],
@@ -20687,6 +21361,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786972909,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineer Intern - Data Platform Global Live",
 "url": "https://lifeattiktok.com/search/7674032146438162693"
@@ -20728,7 +21403,9 @@
 "url": "https://lifeattiktok.com/search/7667934635573692725"
 },
 "simplify:tiktok:f9783cfd-0933-41da-8102-1c15ae7d9c3c": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991688,
 "flags": [],
@@ -20738,12 +21415,15 @@
 "San Jose, CA"
 ],
 "posted_ts": 1787190347,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
 "url": "https://lifeattiktok.com/search/7675159726676101381"
 },
 "simplify:tiktok:fa4acb7b-e2c6-4b0a-8f93-4d09b537db1b": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991346,
 "flags": [],
@@ -20753,6 +21433,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1785981287,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Foundation Platform",
 "url": "https://lifeattiktok.com/search/7670281449668905269"
@@ -20794,7 +21475,9 @@
 "url": "https://lifeattiktok.com/search/7669698648817305909"
 },
 "simplify:tiktok:fdd7e7ec-c300-4a26-931c-56c3adc48425": {
+"checked": "2026-09-28",
 "company": "TikTok",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9913955,
 "flags": [],
@@ -20804,6 +21487,7 @@
 "San Jose, CA"
 ],
 "posted_ts": 1786371585,
+"rolling": false,
 "src": "simplify",
 "title": "Data Engineer Intern - Monetization Data",
 "url": "https://lifeattiktok.com/search/7671232204182276405"
@@ -20824,7 +21508,9 @@
 "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0"
 },
 "simplify:tmeic corporation americas:6a24db4e-df46-4cfb-94c1-a7709787033d": {
+"checked": "2026-09-28",
 "company": "TMEIC Corporation Americas",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9914706,
 "flags": [],
@@ -20834,6 +21520,7 @@
 "Roanoke, VA"
 ],
 "posted_ts": 1786565621,
+"rolling": false,
 "src": "simplify",
 "title": "Applications Intern - AI and Machine Learning",
 "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply"
@@ -20993,7 +21680,9 @@
 "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334"
 },
 "simplify:trane technologies:a3a30f46-fe3b-48db-8f94-28a5b0a06d39": {
+"checked": "2026-09-28",
 "company": "Trane Technologies",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923544,
 "flags": [],
@@ -21004,6 +21693,7 @@
 "Davidson, NC"
 ],
 "posted_ts": 1788238446,
+"rolling": false,
 "src": "simplify",
 "title": "AI & Analytics Intern",
 "url": "https://careers.tranetechnologies.com/global/en/job/JR-7591"
@@ -21546,7 +22236,9 @@
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410"
 },
 "simplify:vanguard:5de3980e-8b11-479f-b78e-cce6b70957b5": {
+"checked": "2026-09-28",
 "company": "Vanguard",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917257,
 "flags": [],
@@ -21556,12 +22248,15 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1787184000,
+"rolling": false,
 "src": "simplify",
 "title": "Data Analyst Intern - College to Corporate IT",
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
 },
 "simplify:vanguard:74a4f228-ddb1-4953-9597-1c278c491082": {
+"checked": "2026-09-28",
 "company": "Vanguard",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991718,
 "flags": [],
@@ -21571,6 +22266,7 @@
 "Charlotte, NC"
 ],
 "posted_ts": 1787184000,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - College to Corporate IT",
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
@@ -21591,7 +22287,9 @@
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1"
 },
 "simplify:vanguard:a8fce259-7cd2-44ea-a7ab-787260c1308e": {
+"checked": "2026-09-28",
 "company": "Vanguard",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917216,
 "flags": [],
@@ -21601,6 +22299,7 @@
 "Malvern, PA"
 ],
 "posted_ts": 1787184000,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Information Technology",
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766"
@@ -21726,7 +22425,9 @@
 "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
 },
 "simplify:verisk:11d79971-ac6a-48a4-aea8-bb00009860a9": {
+"checked": "2026-09-28",
 "company": "Verisk",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919813,
 "flags": [],
@@ -21736,6 +22437,7 @@
 "Jersey City, NJ"
 ],
 "posted_ts": 1787767406,
+"rolling": false,
 "src": "simplify",
 "title": "AI Intern - Summer Internship Program",
 "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682"
@@ -21758,7 +22460,9 @@
 "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722"
 },
 "simplify:verkada:20898b37-1e46-4759-b318-1a51ae4d1200": {
+"checked": "2026-09-28",
 "company": "Verkada",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919155,
 "flags": [],
@@ -21768,12 +22472,15 @@
 "San Mateo, CA"
 ],
 "posted_ts": 1787681643,
+"rolling": false,
 "src": "simplify",
 "title": "Frontend Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
 },
 "simplify:verkada:27ec0955-4e9f-417f-b354-3581a4623c59": {
+"checked": "2026-09-28",
 "company": "Verkada",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919217,
 "flags": [],
@@ -21783,12 +22490,15 @@
 "San Mateo, CA"
 ],
 "posted_ts": 1787681641,
+"rolling": false,
 "src": "simplify",
 "title": "Backend Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
 },
 "simplify:verkada:5dc175a4-02e4-4a5c-a8b7-054139db1ef9": {
+"checked": "2026-09-28",
 "company": "Verkada",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919121,
 "flags": [],
@@ -21798,12 +22508,15 @@
 "San Mateo, CA"
 ],
 "posted_ts": 1787681646,
+"rolling": false,
 "src": "simplify",
 "title": "Mobile Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
 },
 "simplify:verkada:aad7d68a-e1e3-410b-ac3f-9c6214e51786": {
+"checked": "2026-09-28",
 "company": "Verkada",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919086,
 "flags": [],
@@ -21813,12 +22526,15 @@
 "San Mateo, CA"
 ],
 "posted_ts": 1787681642,
+"rolling": false,
 "src": "simplify",
 "title": "Embedded Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
 },
 "simplify:verkada:d16387c0-00df-452f-95bb-dd8aab25a372": {
+"checked": "2026-09-28",
 "company": "Verkada",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9919186,
 "flags": [],
@@ -21828,6 +22544,7 @@
 "San Mateo, CA"
 ],
 "posted_ts": 1787681644,
+"rolling": false,
 "src": "simplify",
 "title": "Security Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
@@ -21923,7 +22640,9 @@
 "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588"
 },
 "simplify:vertiv:b53f3f7b-d4fc-4eca-a09f-b6c141e66533": {
+"checked": "2026-09-28",
 "company": "Vertiv",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991524,
 "flags": [],
@@ -21933,12 +22652,15 @@
 "Westerville, OH"
 ],
 "posted_ts": 1786745194,
+"rolling": false,
 "src": "simplify",
 "title": "Planning Analytics Intern - Summer 2027",
 "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279236"
 },
 "simplify:vertiv:e56eca03-b173-46e6-8a0b-5f5eaa9df1f7": {
+"checked": "2026-09-28",
 "company": "Vertiv",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9920738,
 "flags": [],
@@ -21948,6 +22670,7 @@
 "Westerville, OH"
 ],
 "posted_ts": 1787952462,
+"rolling": false,
 "src": "simplify",
 "title": "Service Technology Research Intern - Summer 2027",
 "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351"
@@ -22035,7 +22758,9 @@
 "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false"
 },
 "simplify:w.w. grainger:367919b2-9f9f-4104-a7e7-811ae0b98c01": {
+"checked": "2026-09-28",
 "company": "W.W. Grainger",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915524,
 "flags": [],
@@ -22045,6 +22770,7 @@
 "Chicago, IL"
 ],
 "posted_ts": 1786973318,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Grainger Technology Group",
 "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors"
@@ -22479,7 +23205,9 @@
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
 },
 "simplify:waymo:fdd27f5d-3719-4023-91c8-62b14a0de7f4": {
+"checked": "2026-09-28",
 "company": "Waymo",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992168,
 "flags": [],
@@ -22489,12 +23217,15 @@
 "SF"
 ],
 "posted_ts": 1788203707,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern - Commercialization Testing",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
 },
 "simplify:wec energy group:1192c27b-cd32-49d0-b4a3-98a8f23f46ae": {
+"checked": "2026-09-28",
 "company": "WEC Energy Group",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991521,
 "flags": [],
@@ -22505,12 +23236,15 @@
 "Green Bay, WI"
 ],
 "posted_ts": 1786745485,
+"rolling": false,
 "src": "simplify",
 "title": "Renewables Data Analytics Intern",
 "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors"
 },
 "simplify:wec energy group:c5e3ece8-669f-4ff8-9bb7-45dba1374d0f": {
+"checked": "2026-09-28",
 "company": "WEC Energy Group",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9916277,
 "flags": [],
@@ -22520,6 +23254,7 @@
 "Milwaukee, WI"
 ],
 "posted_ts": 1787006557,
+"rolling": false,
 "src": "simplify",
 "title": "Energy Analytics Intern",
 "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors"
@@ -22758,7 +23493,9 @@
 "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849"
 },
 "simplify:westinghouse electric company:1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9": {
+"checked": "2026-09-28",
 "company": "Westinghouse Electric Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991902,
 "flags": [],
@@ -22768,6 +23505,7 @@
 "Cranberry Township, PA"
 ],
 "posted_ts": 1787602669,
+"rolling": false,
 "src": "simplify",
 "title": "Computer Engineering / Software Engineering Intern",
 "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors"
@@ -22803,7 +23541,9 @@
 "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors"
 },
 "simplify:westinghouse electric company:f7f7fa98-cacf-4225-9118-d40ad3288633": {
+"checked": "2026-09-28",
 "company": "Westinghouse Electric Company",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923346,
 "flags": [],
@@ -22814,6 +23554,7 @@
 "Columbia, SC"
 ],
 "posted_ts": 1788218243,
+"rolling": false,
 "src": "simplify",
 "title": "Computer Engineering / Software Engineering Intern",
 "url": "https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors"
@@ -22837,7 +23578,9 @@
 "url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true"
 },
 "simplify:whitewater midstream:0421e841-beed-4315-83cf-cbc7ffc68617": {
+"checked": "2026-09-28",
 "company": "WhiteWater Midstream",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991974,
 "flags": [],
@@ -22847,6 +23590,7 @@
 "Austin, TX"
 ],
 "posted_ts": 1787763856,
+"rolling": true,
 "src": "simplify",
 "title": "Data Science Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007"
@@ -22912,7 +23656,9 @@
 "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
 },
 "simplify:xantium:85ec31e6-4d3a-497b-b455-039741edf4df": {
+"checked": "2026-09-28",
 "company": "Xantium",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915817,
 "flags": [],
@@ -22923,12 +23669,15 @@
 "NYC"
 ],
 "posted_ts": 1787004779,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
 },
 "simplify:xantium:baf0289f-d552-40cc-956a-c2184364f85a": {
+"checked": "2026-09-28",
 "company": "Xantium",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915743,
 "flags": [],
@@ -22939,6 +23688,7 @@
 "NYC"
 ],
 "posted_ts": 1787004788,
+"rolling": false,
 "src": "simplify",
 "title": "Quantitative Developer Intern",
 "url": "https://job-boards.greenhouse.io/xantium/jobs/4360768009"
@@ -23356,7 +24106,9 @@
 "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620"
 },
 "simplify:zip:9ab1c4b6-7573-49a7-80b3-d93982ec29dd": {
+"checked": "2026-09-28",
 "company": "Zip",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991952,
 "flags": [],
@@ -23366,6 +24118,7 @@
 "SF"
 ],
 "posted_ts": 1787701017,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true"
@@ -23401,7 +24154,9 @@
 "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
 },
 "simplify:zipline:6b73883a-ab74-444e-93ce-5fd790148177": {
+"checked": "2026-09-28",
 "company": "Zipline",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9917958,
 "flags": [],
@@ -23411,6 +24166,7 @@
 "South SF"
 ],
 "posted_ts": 1787341552,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://www.zipline.com/open-roles?gh_jid=7929236003"
@@ -23431,7 +24187,9 @@
 "url": "https://www.zipline.com/open-roles?gh_jid=7980866003"
 },
 "simplify:zipline:7c1afd88-0826-4992-92dc-ef6210a2efbc": {
+"checked": "2026-09-28",
 "company": "Zipline",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991714,
 "flags": [],
@@ -23441,6 +24199,7 @@
 "South SF"
 ],
 "posted_ts": 1787265066,
+"rolling": false,
 "src": "simplify",
 "title": "Perception Intern - Summer 2027",
 "url": "https://www.zipline.com/open-roles?gh_jid=7909570003"
