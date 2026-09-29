@@ -854,9 +854,9 @@
 "url": "https://nuro.ai/careersitem?gh_jid=7351061"
 },
 "greenhouse:robinhood:8123225": {
-"checked": "2026-09-28",
+"checked": "2026-09-29",
 "company": "Robinhood",
-"deadline": null,
+"deadline": "2026-10-14",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.989998,
 "flags": [],
@@ -872,9 +872,9 @@
 "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225"
 },
 "greenhouse:robinhood:8142959": {
-"checked": "2026-09-28",
+"checked": "2026-09-29",
 "company": "Robinhood",
-"deadline": null,
+"deadline": "2026-10-14",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.990002,
 "flags": [],
@@ -942,6 +942,24 @@
 "src": "greenhouse:robinhood",
 "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
 "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255"
+},
+"greenhouse:robinhood:8241738": {
+"checked": "2026-09-29",
+"company": "Robinhood",
+"deadline": "2026-10-12",
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1888325,
+"flags": [],
+"key": "robinhood|data science intern summer 2027",
+"last_seen": "2026-09-29",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1790723609.0,
+"rolling": false,
+"src": "greenhouse:robinhood",
+"title": "Data Science Intern (Summer 2027)",
+"url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738"
 },
 "greenhouse:roblox:8072713": {
 "checked": "2026-09-28",
@@ -5638,6 +5656,39 @@
 "title": "Systems Engineer Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188"
 },
+"simplify:booz allen:64b4e84b-a833-403e-81dc-0e503d734f8c": {
+"company": "Booz Allen",
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.194506,
+"flags": [],
+"key": "booz allen|software developer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Huntsville, AL"
+],
+"posted_ts": 1789948800,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872"
+},
+"simplify:booz allen:69a94e8f-fc98-4b1e-a293-67e9d1853c9a": {
+"checked": "2026-09-29",
+"company": "Booz Allen",
+"deadline": "2026-10-31",
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1944995,
+"flags": [],
+"key": "booz allen|data scientist intern",
+"last_seen": "2026-09-29",
+"locations": [
+"McLean, VA"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837"
+},
 "simplify:booz allen:69f5edde-2904-4610-a7eb-8132ce17ead9": {
 "checked": "2026-09-29",
 "company": "Booz Allen",
@@ -10192,6 +10243,24 @@
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply"
 },
+"simplify:enova:282a057f-48f4-4133-a52c-2261299e04a8": {
+"checked": "2026-09-29",
+"company": "Enova",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.195238,
+"flags": [],
+"key": "enova|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1790721431,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/enova/jobs/8239619"
+},
 "simplify:entergy:ea04c8fe-d9e3-4893-a3da-1aee53f5553d": {
 "checked": "2026-09-28",
 "company": "Entergy",
@@ -13211,6 +13280,24 @@
 "title": "Data Science Co-op",
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903"
 },
+"simplify:honeywell:bb27869b-4a6d-4372-a4d6-44e4aa41892d": {
+"checked": "2026-09-29",
+"company": "Honeywell",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1952724,
+"flags": [],
+"key": "honeywell|software engineering co op",
+"last_seen": "2026-09-29",
+"locations": [
+"United States"
+],
+"posted_ts": 1790720428,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957"
+},
 "simplify:honeywell:d449be3f-76e4-4a23-907f-0c7e8bcd8582": {
 "checked": "2026-09-28",
 "company": "Honeywell",
@@ -13649,6 +13736,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true"
+},
+"simplify:icf international:05c9b1e2-1f2b-4278-a44f-e94d1a919981": {
+"checked": "2026-09-29",
+"company": "ICF International",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.195253,
+"flags": [],
+"key": "icf international|ai engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Reston, VA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineer Intern",
+"url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
 },
 "simplify:icf international:acafb8f1-75b4-44f1-8450-4628ddf3b8a1": {
 "checked": "2026-09-29",
@@ -14127,6 +14232,25 @@
 "src": "simplify",
 "title": "Early Career Intern - Technology",
 "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
+},
+"simplify:iridium communications:7e94c6d9-c88c-4d70-8bd0-51a2cc801485": {
+"checked": "2026-09-29",
+"company": "Iridium Communications",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1952863,
+"flags": [],
+"key": "iridium communications|software engineering intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Tempe, AZ",
+"McLean, VA"
+],
+"posted_ts": 1790720381,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false"
 },
 "simplify:jabil:fe98fa31-597a-4003-89f0-89fa37a7c563": {
 "checked": "2026-09-29",
@@ -15625,6 +15749,42 @@
 "title": "Technology Intern",
 "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002"
 },
+"simplify:marvell:6f576614-627b-4348-9a04-178f26b01381": {
+"checked": "2026-09-29",
+"company": "Marvell",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1952248,
+"flags": [],
+"key": "marvell|ai native development platform engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "AI-Native Development Platform Engineer Intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
+},
+"simplify:marvell:8d8ac70c-4524-4e6c-abd0-378889133e68": {
+"checked": "2026-09-29",
+"company": "Marvell",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1952322,
+"flags": [],
+"key": "marvell|ai native development platform engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "AI-Native Development Platform Engineer Intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
+},
 "simplify:mastercard:56d4093a-fc88-43f6-aab0-ae355a913f58": {
 "checked": "2026-09-28",
 "company": "Mastercard",
@@ -16256,6 +16416,24 @@
 "src": "simplify",
 "title": "Computer Vision Intern - Multiple Teams",
 "url": "https://job-boards.greenhouse.io/mill/jobs/4737741005"
+},
+"simplify:moderna:14448cc0-3d1c-4951-95e8-357816e7a042": {
+"checked": "2026-09-29",
+"company": "Moderna",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.195215,
+"flags": [],
+"key": "moderna|biometrics intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Cambridge, MA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Biometrics Intern",
+"url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865"
 },
 "simplify:momentive:0299ccd7-7dac-48cc-80eb-9e224cc78f08": {
 "checked": "2026-09-28",
@@ -17468,6 +17646,24 @@
 "src": "simplify",
 "title": "Technology Intern - Software Engineering",
 "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1"
+},
+"simplify:northrop grumman:68f77e24-7325-4a04-9e6f-048e16a551a1": {
+"checked": "2026-09-29",
+"company": "Northrop Grumman",
+"deadline": "2026-10-03",
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1915345,
+"flags": [],
+"key": "northrop grumman|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Linthicum Heights, MD"
+],
+"posted_ts": 1788307200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
 },
 "simplify:northrop grumman:a65068a9-808a-4223-9f74-2421c555cb44": {
 "checked": "2026-09-28",
@@ -20108,6 +20304,24 @@
 "title": "Associate Software Engineer Intern - Sophomore Only",
 "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819"
 },
+"simplify:rtx:0444d324-7733-4696-a2b1-2fb982558dcc": {
+"checked": "2026-09-29",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1952667,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Rockford, IL"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
+},
 "simplify:rtx:107197c3-30d5-45c2-b0b2-4a499d03531d": {
 "checked": "2026-09-29",
 "company": "RTX",
@@ -20161,6 +20375,24 @@
 "src": "simplify",
 "title": "Factory Enablement Digital Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
+},
+"simplify:rtx:477443e5-44fe-40b9-a621-9daa78a67a6a": {
+"checked": "2026-09-29",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1928852,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Aurora, CO"
+],
+"posted_ts": 1788912000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
 },
 "simplify:rtx:51b8b3e7-e7d0-4727-9f90-91917bc88230": {
 "checked": "2026-09-29",
@@ -20284,6 +20516,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01873687"
+},
+"simplify:rtx:96a2bb42-3d8d-415b-ad67-993931ebeac4": {
+"checked": "2026-09-29",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1903908,
+"flags": [],
+"key": "rtx|software engineer intern summer 2027",
+"last_seen": "2026-09-29",
+"locations": [
+"Huntsville, AL"
+],
+"posted_ts": 1787788800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
 },
 "simplify:rtx:9eba7545-19f8-461d-b313-6a523b17e88c": {
 "checked": "2026-09-29",
@@ -22933,6 +23183,24 @@
 "src": "simplify",
 "title": "Enterprise Analytics Intern",
 "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Analytics-Intern---The-Toro-Company_JR17104"
+},
+"simplify:the toro company:39225d3b-e5de-494d-a4bf-f66abdea1711": {
+"checked": "2026-09-29",
+"company": "The Toro Company",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.195246,
+"flags": [],
+"key": "the toro company|ecommerce data analytics intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Bloomington, MN"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Ecommerce Data Analytics Intern",
+"url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458"
 },
 "simplify:the toro company:73b3f6a8-64fc-4121-9f03-57845bb24672": {
 "checked": "2026-09-29",
@@ -25959,16 +26227,19 @@
 "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
 },
 "simplify:walmart:5f786704-9f4e-4137-8947-80614fba3b53": {
+"checked": "2026-09-29",
 "company": "Walmart",
+"deadline": "2027-01-29",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9940815,
 "flags": [],
 "key": "walmart|data science intern 3",
-"last_seen": "2026-09-28",
+"last_seen": "2026-09-29",
 "locations": [
 "Bentonville, AR"
 ],
 "posted_ts": 1788998400,
+"rolling": false,
 "src": "simplify",
 "title": "Data Science Intern 3",
 "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
@@ -26795,6 +27066,24 @@
 "title": "Enovia PLM Developer Intern - Enovia PLM",
 "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors"
 },
+"simplify:westinghouse electric company:efff5c18-233b-49dd-a516-5c36f19636aa": {
+"checked": "2026-09-29",
+"company": "Westinghouse Electric Company",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.19526,
+"flags": [],
+"key": "westinghouse electric company|software developer intern tools apps",
+"last_seen": "2026-09-29",
+"locations": [
+"Warrendale, PA"
+],
+"posted_ts": 1790720476,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern - Tools & Apps",
+"url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors"
+},
 "simplify:westinghouse electric company:f7f7fa98-cacf-4225-9118-d40ad3288633": {
 "checked": "2026-09-28",
 "company": "Westinghouse Electric Company",
@@ -27137,6 +27426,25 @@
 "src": "simplify",
 "title": "AI Solutions Development Intern",
 "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1"
+},
+"simplify:xcel energy:4ef4ca83-8d9c-4cd1-8e29-f387730d3a3b": {
+"checked": "2026-09-29",
+"company": "Xcel Energy",
+"deadline": "2026-10-16",
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790725517.1952798,
+"flags": [],
+"key": "xcel energy|computer information systems intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Monticello, MN",
+"Welch, MN"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Computer Information Systems Intern",
+"url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Computer-Information-Systems-Intern---MN_JR116038"
 },
 "simplify:xcel energy:5c2025b4-9d0f-4646-a4ab-27dcc03f13cf": {
 "checked": "2026-09-28",
