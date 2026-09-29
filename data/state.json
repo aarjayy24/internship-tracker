@@ -7006,6 +7006,24 @@
 "title": "Software Engineer Intern",
 "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
 },
+"simplify:caci:02f8a929-c160-48c2-818b-cebd23779a18": {
+"checked": "2026-09-29",
+"company": "CACI",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.955334,
+"flags": [],
+"key": "caci|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Omaha, NE"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
+},
 "simplify:caci:2afb885b-d426-47bd-9dc0-80b026d499f5": {
 "checked": "2026-09-29",
 "company": "CACI",
@@ -7552,6 +7570,26 @@
 "src": "simplify",
 "title": "Software Intern - WaveLogic",
 "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692"
+},
+"simplify:cigna group:2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec": {
+"checked": "2026-09-29",
+"company": "Cigna Group",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553306,
+"flags": [],
+"key": "cigna group|ai ml engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Austin, TX",
+"Morris Plains, NJ",
+"St. Louis, MO"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "AI/ML Engineer Intern",
+"url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877"
 },
 "simplify:cigna group:b4c471c9-9a26-433f-a75a-81237cee7603": {
 "checked": "2026-09-28",
@@ -9407,6 +9445,26 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
+},
+"simplify:draper:e045f585-8fe2-442c-ad32-d77296ec0f53": {
+"checked": "2026-09-29",
+"company": "Draper",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.955323,
+"flags": [],
+"key": "draper|requirements engineering intern digital engineering",
+"last_seen": "2026-09-29",
+"locations": [
+"Cambridge, MA",
+"Lowell, MA",
+"Huntsville, AL"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Requirements Engineering Intern - Digital Engineering",
+"url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1"
 },
 "simplify:drivetime:721548ed-6f3b-4fc1-ae29-76461872f99a": {
 "checked": "2026-09-28",
@@ -14034,6 +14092,42 @@
 "title": "AI Scientist Intern",
 "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536"
 },
+"simplify:invesco:7f093b2f-6a53-4d35-b5f2-b8abc4cf3abe": {
+"checked": "2026-09-29",
+"company": "Invesco",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553196,
+"flags": [],
+"key": "invesco|early career intern technology",
+"last_seen": "2026-09-29",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Early Career Intern - Technology",
+"url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619"
+},
+"simplify:invesco:d29e1b26-6366-4790-a9fb-5c7c87927b69": {
+"checked": "2026-09-29",
+"company": "Invesco",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553158,
+"flags": [],
+"key": "invesco|early career intern technology",
+"last_seen": "2026-09-29",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Early Career Intern - Technology",
+"url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
+},
 "simplify:jabil:fe98fa31-597a-4003-89f0-89fa37a7c563": {
 "checked": "2026-09-29",
 "company": "Jabil",
@@ -18107,6 +18201,42 @@
 "title": "Software Engineer Intern",
 "url": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false"
 },
+"simplify:perchwell:1ee79857-d633-45a7-8e77-d969ec16837d": {
+"checked": "2026-09-29",
+"company": "Perchwell",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553056,
+"flags": [],
+"key": "perchwell|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"NYC"
+],
+"posted_ts": 1790691707,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application?embed=true"
+},
+"simplify:perchwell:70276fbb-025b-4544-b0c0-db8dc7259234": {
+"checked": "2026-09-29",
+"company": "Perchwell",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553113,
+"flags": [],
+"key": "perchwell|data analytics engineering intern",
+"last_seen": "2026-09-29",
+"locations": [
+"NYC"
+],
+"posted_ts": 1790691707,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Engineering Intern",
+"url": "https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true"
+},
 "simplify:perpay:2649b240-bda5-4d10-bbcc-5ddb74bb2202": {
 "checked": "2026-09-29",
 "company": "Perpay",
@@ -18702,6 +18832,24 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application"
 },
+"simplify:q2:01769f39-4af0-402c-a217-88c13dd5d513": {
+"checked": "2026-09-29",
+"company": "Q2",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9552991,
+"flags": [],
+"key": "q2|data science intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799"
+},
 "simplify:q2:40089e3d-a032-4dd1-845c-110e7d0a7481": {
 "checked": "2026-09-29",
 "company": "Q2",
@@ -18737,6 +18885,42 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794"
+},
+"simplify:q2:4b9d78b3-d750-42ee-97cc-51f50e53e928": {
+"checked": "2026-09-29",
+"company": "Q2",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553268,
+"flags": [],
+"key": "q2|machine learning engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Engineer Intern",
+"url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800"
+},
+"simplify:q2:d27ce4c9-b5bf-4de0-a7f5-2e540532f643": {
+"checked": "2026-09-29",
+"company": "Q2",
+"deadline": null,
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9552934,
+"flags": [],
+"key": "q2|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
 },
 "simplify:q2:da019f62-73d5-4a2c-8601-9b62b96f300c": {
 "checked": "2026-09-29",
@@ -19977,6 +20161,24 @@
 "src": "simplify",
 "title": "Factory Enablement Digital Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
+},
+"simplify:rtx:51b8b3e7-e7d0-4727-9f90-91917bc88230": {
+"checked": "2026-09-29",
+"company": "RTX",
+"deadline": "2026-10-03",
+"first_seen": "2026-09-29",
+"first_seen_ts": 1790712890.9553027,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-09-29",
+"locations": [
+"Woburn, MA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
 },
 "simplify:rtx:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62": {
 "checked": "2026-09-29",
