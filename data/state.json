@@ -4452,6 +4452,26 @@
 "title": "Project Engineering Intern - Digital Grid Management",
 "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Project-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9457"
 },
+"simplify:assurant:a9e99925-f394-4b08-906d-b96b7591cbc8": {
+"checked": "2026-09-30",
+"company": "Assurant",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796052,
+"flags": [],
+"key": "assurant|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Miami, FL",
+"Chicago, IL",
+"Atlanta, GA"
+],
+"posted_ts": 1790726400,
+"rolling": true,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727"
+},
 "simplify:astranis:2b447abf-4a95-4c48-a2bb-10f5a7870bdc": {
 "checked": "2026-09-29",
 "company": "Astranis",
@@ -6273,7 +6293,7 @@
 "first_seen_ts": 1790596296.9326007,
 "flags": [],
 "key": "boston scientific|data engineer intern",
-"last_seen": "2026-09-29",
+"last_seen": "2026-09-30",
 "locations": [
 "Maple Grove, MN"
 ],
@@ -9056,6 +9076,24 @@
 "title": "Data Analytics Intern",
 "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"
 },
+"simplify:dandy:7f191783-2ab3-4626-a830-2072091a9f5a": {
+"checked": "2026-09-30",
+"company": "Dandy",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.979609,
+"flags": [],
+"key": "dandy|software engineering intern",
+"last_seen": "2026-09-30",
+"locations": [
+"NYC"
+],
+"posted_ts": 1790807072,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true"
+},
 "simplify:datadog:4d30f64b-9b67-4679-a968-1b62bf57c98e": {
 "checked": "2026-09-28",
 "company": "Datadog",
@@ -9478,6 +9516,24 @@
 "src": "simplify",
 "title": "Data Analyst Intern - Internship Program",
 "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294"
+},
+"simplify:draftkings:4e50989c-28b7-441b-aabc-eb291b528b95": {
+"checked": "2026-09-30",
+"company": "DraftKings",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9795856,
+"flags": [],
+"key": "draftkings|analytics intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Analytics Intern",
+"url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187"
 },
 "simplify:draftkings:6bc3a8d6-0d8e-4176-8474-a6f1eff9fd6b": {
 "checked": "2026-09-28",
@@ -10115,6 +10171,24 @@
 "title": "Analytics Intern",
 "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252"
 },
+"simplify:electronic arts:4b22095f-9ebe-47ac-a266-2aefd5230751": {
+"checked": "2026-09-30",
+"company": "Electronic Arts",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796493,
+"flags": [],
+"key": "electronic arts|ai enablement intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1790806630,
+"rolling": false,
+"src": "simplify",
+"title": "AI Enablement Intern",
+"url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185"
+},
 "simplify:electronic arts:8309b5a0-8e75-434e-b1e6-419b51f357ae": {
 "checked": "2026-09-29",
 "company": "Electronic Arts",
@@ -10132,6 +10206,24 @@
 "src": "simplify",
 "title": "Gameplay Engineer Intern",
 "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
+},
+"simplify:electronic arts:bc6412bd-7dbe-456e-8c67-d2002acadeaa": {
+"checked": "2026-09-30",
+"company": "Electronic Arts",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.979646,
+"flags": [],
+"key": "electronic arts|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Orlando, FL"
+],
+"posted_ts": 1790806630,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263"
 },
 "simplify:elire:575cff72-551d-4520-b574-ee32f9252195": {
 "checked": "2026-09-29",
@@ -13352,6 +13444,24 @@
 "title": "Revenue Management Intern - Summer 2027",
 "url": "https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false"
 },
+"simplify:hitachi:95c4918c-cb96-4b7c-afa4-cb0f50c7378e": {
+"checked": "2026-09-30",
+"company": "Hitachi",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9786913,
+"flags": [],
+"key": "hitachi|onboard software developer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1789430400,
+"rolling": false,
+"src": "simplify",
+"title": "Onboard Software Developer Intern",
+"url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"
+},
 "simplify:hmh:56aeb6bb-7cae-408d-8f71-eb7b1a99ea96": {
 "checked": "2026-09-28",
 "company": "HMH",
@@ -14431,6 +14541,24 @@
 "src": "simplify",
 "title": "Data Science Intern - Distributed Intelligence",
 "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
+},
+"simplify:itt:41f0a82d-c8df-476e-bdf4-626934104325": {
+"checked": "2026-09-30",
+"company": "ITT",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9795997,
+"flags": [],
+"key": "itt|data analytics ai intern summer 2027",
+"last_seen": "2026-09-30",
+"locations": [
+"Irvine, CA"
+],
+"posted_ts": 1790806065,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics / AI Intern - Summer 2027",
+"url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
 },
 "simplify:jabil:fe98fa31-597a-4003-89f0-89fa37a7c563": {
 "checked": "2026-09-29",
@@ -16485,7 +16613,7 @@
 "first_seen_ts": 1790573041.9935038,
 "flags": [],
 "key": "merck|global data management and standards intern",
-"last_seen": "2026-09-29",
+"last_seen": "2026-09-30",
 "locations": [
 "Rahway, NJ"
 ],
@@ -16566,6 +16694,27 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"
+},
+"simplify:metlife:7ad6c160-b084-4ec2-9be1-3617d01137d1": {
+"checked": "2026-09-30",
+"company": "MetLife",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796128,
+"flags": [],
+"key": "metlife|global technology intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Tampa, FL",
+"Hanover, NJ",
+"Cary, NC",
+"NYC"
+],
+"posted_ts": 1790807050,
+"rolling": false,
+"src": "simplify",
+"title": "Global Technology Intern",
+"url": "https://metlife.avature.net/en_US/ml/JobDetail/20701"
 },
 "simplify:mfs:952056a2-b2cc-495f-b6f7-1ea3d4caf8a1": {
 "company": "MFS",
@@ -16996,6 +17145,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Product Development - Summer 2027",
 "url": "https://careers.msasafety.com/jobs/9993?icims=1"
+},
+"simplify:muon space:aa9bd6f2-fc80-4c29-8eb6-486d2a116c7b": {
+"checked": "2026-09-30",
+"company": "Muon Space",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9795911,
+"flags": [],
+"key": "muon space|flight software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1790806169,
+"rolling": false,
+"src": "simplify",
+"title": "Flight Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/muonspace/jobs/5247725007"
 },
 "simplify:nasdaq:2655bb99-a78d-4a0c-9a3f-947a9579f7bf": {
 "checked": "2026-09-29",
@@ -17776,6 +17943,25 @@
 "title": "Data Science Intern",
 "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284"
 },
+"simplify:noblis:e30652f9-cc86-4112-b084-f0cba5f2b4ce": {
+"checked": "2026-09-30",
+"company": "Noblis",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796383,
+"flags": [],
+"key": "noblis|data science and innovation intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Springfield, VA",
+"Reston, VA"
+],
+"posted_ts": 1790806691,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science and Innovation Intern",
+"url": "https://careers.noblis.org/jobs/27942?icims=1"
+},
 "simplify:nokia:92d19f9f-b983-4fa7-a8f3-2344103d710e": {
 "checked": "2026-09-28",
 "company": "Nokia",
@@ -17884,6 +18070,24 @@
 "title": "Embedded Software Engineer Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"
 },
+"simplify:northrop grumman:2b8a623c-d139-413c-aff2-d9afce6a38e4": {
+"checked": "2026-09-30",
+"company": "Northrop Grumman",
+"deadline": "2026-10-03",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.979654,
+"flags": [],
+"key": "northrop grumman|cyber software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Tampa, FL"
+],
+"posted_ts": 1790035200,
+"rolling": false,
+"src": "simplify",
+"title": "Cyber Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
+},
 "simplify:northrop grumman:2c46894c-6746-42d1-9b54-2735a06d51f6": {
 "checked": "2026-09-30",
 "company": "Northrop Grumman",
@@ -17920,6 +18124,24 @@
 "title": "Software Engineer Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
 },
+"simplify:northrop grumman:982c416c-c960-4efd-81a7-a87081597d80": {
+"checked": "2026-09-30",
+"company": "Northrop Grumman",
+"deadline": "2026-10-10",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796343,
+"flags": [],
+"key": "northrop grumman|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Rolling Meadows, IL"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
+},
 "simplify:northrop grumman:a65068a9-808a-4223-9f74-2421c555cb44": {
 "checked": "2026-09-28",
 "company": "Northrop Grumman",
@@ -17955,6 +18177,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Aeronautics Systems",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
+},
+"simplify:northrop grumman:e8c586d7-f281-4ffc-bd41-078c7158f059": {
+"checked": "2026-09-30",
+"company": "Northrop Grumman",
+"deadline": "2026-10-10",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.979626,
+"flags": [],
+"key": "northrop grumman|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Morrisville, NC"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
 },
 "simplify:northwestern mutual:0cf03a99-5927-44d1-b6d0-24ed2a172416": {
 "checked": "2026-09-29",
@@ -18540,6 +18780,24 @@
 "title": "Forward Deployed Software Engineer Intern - Commercial",
 "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
 },
+"simplify:patch my pc:8333b344-795f-4400-aa23-11358ddd296e": {
+"checked": "2026-09-30",
+"company": "Patch My PC",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.979595,
+"flags": [],
+"key": "patch my pc|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Castle Rock, CO"
+],
+"posted_ts": 1790805930,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply"
+},
 "simplify:pdt partners:7e5feb76-9fea-420d-a0ea-32c19e256975": {
 "checked": "2026-09-28",
 "company": "PDT Partners",
@@ -18651,6 +18909,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false"
+},
+"simplify:peraton:f3437876-fa5c-490c-a81a-74af68437738": {
+"checked": "2026-09-30",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796422,
+"flags": [],
+"key": "peraton|software engineering co op",
+"last_seen": "2026-09-30",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1790806646,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false"
 },
 "simplify:perchwell:1ee79857-d633-45a7-8e77-d969ec16837d": {
 "checked": "2026-09-29",
@@ -19516,6 +19792,24 @@
 "src": "simplify",
 "title": "Machine Learning Research Engineer Intern",
 "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009"
+},
+"simplify:quantum signal ai:d1dbaa59-82a3-42e7-a68f-6ec2a8ea58e9": {
+"checked": "2026-09-30",
+"company": "Quantum Signal AI",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796307,
+"flags": [],
+"key": "quantum signal ai|embedded and real time software intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Saline, MI"
+],
+"posted_ts": 1790806874,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded and Real-Time Software Intern",
+"url": "https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern"
 },
 "simplify:qumulo:c2cbd149-9096-42ca-b785-b8ab7d96e3cf": {
 "checked": "2026-09-29",
@@ -25593,6 +25887,26 @@
 "title": "Software Development Intern",
 "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false"
 },
+"simplify:tyler technologies:d6c24595-0dd3-449f-b0ae-d13e256fc740": {
+"checked": "2026-09-30",
+"company": "Tyler Technologies",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9791486,
+"flags": [],
+"key": "tyler technologies|software development intern summer 2027",
+"last_seen": "2026-09-30",
+"locations": [
+"Yarmouth, ME",
+"Orono, ME",
+"Falmouth, ME"
+],
+"posted_ts": 1790029561,
+"rolling": false,
+"src": "simplify",
+"title": "Software Development Intern - Summer 2027",
+"url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
+},
 "simplify:tyler technologies:e6d2ca10-47cc-492f-bfc3-51e1c414353b": {
 "checked": "2026-09-29",
 "company": "Tyler Technologies",
@@ -26807,6 +27121,24 @@
 "title": "Software Engineer Intern - MS/PhD - Systems Intelligence & Machine Learning",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746"
 },
+"simplify:waymo:3652392f-5646-4168-b539-ac3e5a186acd": {
+"checked": "2026-09-30",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796221,
+"flags": [],
+"key": "waymo|software engineering intern labeling",
+"last_seen": "2026-09-30",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1790806994,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern - Labeling",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
+},
 "simplify:waymo:371c8592-d416-40cf-88fb-3f95ac049ad3": {
 "checked": "2026-09-29",
 "company": "Waymo",
@@ -27005,6 +27337,24 @@
 "src": "simplify",
 "title": "Software Engineering Intern - Maneuvering Tech",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
+},
+"simplify:waymo:d275435a-21ef-455d-80a8-3d9afd93c8a9": {
+"checked": "2026-09-30",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790812543.9796178,
+"flags": [],
+"key": "waymo|software engineer intern ms phd onboard developer platform",
+"last_seen": "2026-09-30",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1790806993,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - MS/PhD - Onboard Developer Platform",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
 },
 "simplify:waymo:dcfc9399-37e0-42cc-965a-fd425dfbb1ce": {
 "checked": "2026-09-29",
