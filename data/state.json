@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:intel": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-09-30",
@@ -4491,6 +4493,24 @@
 "title": "Asset Management Intern",
 "url": "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Asset-Management-Summer-2027_R0003301"
 },
+"simplify:athene:8aed5327-2fc7-4616-9983-929999e4d871": {
+"checked": "2026-09-30",
+"company": "Athene",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8600442,
+"flags": [],
+"key": "athene|software developer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"West Des Moines, IA"
+],
+"posted_ts": 1789689600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125"
+},
 "simplify:atkinsr\u00e9alis:f58db82d-9113-411b-97bb-b0f24752115a": {
 "checked": "2026-09-29",
 "company": "AtkinsR\u00e9alis",
@@ -7219,6 +7239,24 @@
 "src": "simplify",
 "title": "Configuration Control/Data Management Co-op - Engineering Department",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
+},
+"simplify:caci:e6e68252-64e3-4113-87e6-21679405692d": {
+"checked": "2026-09-30",
+"company": "CACI",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8604085,
+"flags": [],
+"key": "caci|software network engineering intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Florham Park, NJ"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Software/Network Engineering Intern",
+"url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
 },
 "simplify:caci:e772b664-062b-4315-9007-69460c23019c": {
 "company": "CACI",
@@ -11084,6 +11122,24 @@
 "title": "Software Engineer Intern",
 "url": "https://boards.greenhouse.io/figma/jobs/6143238004"
 },
+"simplify:first citizens bancshares:074a0da6-73e2-402d-90a7-ca4bf302d862": {
+"checked": "2026-09-30",
+"company": "First Citizens BancShares",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8602686,
+"flags": [],
+"key": "first citizens bancshares|it intern software developer",
+"last_seen": "2026-09-30",
+"locations": [
+"Raleigh, NC"
+],
+"posted_ts": 1790345328,
+"rolling": false,
+"src": "simplify",
+"title": "IT Intern - Software Developer",
+"url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
+},
 "simplify:first national bank:3201641c-0fb8-4501-a614-976eeaa47ef5": {
 "checked": "2026-09-28",
 "company": "First National Bank",
@@ -12953,6 +13009,24 @@
 "src": "simplify",
 "title": "Enterprise Analytics Intern",
 "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879"
+},
+"simplify:h&r block:21792146-80f9-45a6-ade2-d26fd0098c49": {
+"checked": "2026-09-30",
+"company": "H&R Block",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8603935,
+"flags": [],
+"key": "h&r block|financial services data analytics intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Kansas City, MO"
+],
+"posted_ts": 1790633786,
+"rolling": false,
+"src": "simplify",
+"title": "Financial Services Data Analytics Intern",
+"url": "https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false"
 },
 "simplify:h&r block:574c67ce-ff4f-4f56-825d-6e6dc66172f6": {
 "checked": "2026-09-29",
@@ -15245,6 +15319,24 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664"
+},
+"simplify:live oak bank:94db09b4-4148-4208-acfd-2dcfef6b4a27": {
+"checked": "2026-09-30",
+"company": "Live Oak Bank",
+"deadline": "2026-10-03",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8599153,
+"flags": [],
+"key": "live oak bank|architecture engineering intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Wilmington, NC"
+],
+"posted_ts": 1789516800,
+"rolling": false,
+"src": "simplify",
+"title": "Architecture/Engineering Intern",
+"url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
 },
 "simplify:live oak bank:bc4117e4-8373-4215-901c-689e3476cdfb": {
 "company": "Live Oak Bank",
@@ -18883,6 +18975,42 @@
 "title": "Software Engineer Intern",
 "url": "https://careers.planview.com/jobs/5128?icims=1"
 },
+"simplify:poet:1c05aeb6-1548-460d-ac98-cca04204d3a7": {
+"checked": "2026-09-30",
+"company": "POET",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8603969,
+"flags": [],
+"key": "poet|data engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Sioux Falls, SD"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787"
+},
+"simplify:poet:cfd65384-8de0-4673-9086-3e19b4843b5e": {
+"checked": "2026-09-30",
+"company": "POET",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.8603997,
+"flags": [],
+"key": "poet|software developer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Sioux Falls, SD"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+},
 "simplify:polaris:43314ea5-8533-4883-a5e5-5afdc6cff866": {
 "checked": "2026-09-28",
 "company": "Polaris",
@@ -20450,6 +20578,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineering-Intern--Summer-2027-_01876848"
+},
+"simplify:rtx:04a691aa-579c-4daf-98c5-87a42434da2b": {
+"checked": "2026-09-30",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.860406,
+"flags": [],
+"key": "rtx|software engineer intern summer 2027",
+"last_seen": "2026-09-30",
+"locations": [
+"Fort Wayne, IN"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986"
 },
 "simplify:rtx:107197c3-30d5-45c2-b0b2-4a499d03531d": {
 "checked": "2026-09-29",
@@ -26934,6 +27080,24 @@
 "src": "simplify",
 "title": "Energy Analytics Intern",
 "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Energy-Analytics-WI-53203/1420267800/?ats=successfactors"
+},
+"simplify:wellmark:069dfa9c-8d02-4151-9206-14b22adce975": {
+"checked": "2026-09-30",
+"company": "Wellmark",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790782250.860403,
+"flags": [],
+"key": "wellmark|software engineer intern metadata enablement team",
+"last_seen": "2026-09-30",
+"locations": [
+"Des Moines, IA"
+],
+"posted_ts": 1790777238,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Metadata Enablement Team",
+"url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"
 },
 "simplify:wellmark:127d20c7-244f-4630-9b44-e23957ff0d16": {
 "checked": "2026-09-29",

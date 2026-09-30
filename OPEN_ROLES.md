@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-09-30 · 1436 roles · 229 with a stated deadline · 35 rolling
+Updated 2026-09-30 · 1446 roles · 230 with a stated deadline · 35 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (76)
+## ⏰ Deadlines in the next 14 days (77)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -34,17 +34,17 @@ Updated 2026-09-30 · 1436 roles · 229 with a stated deadline · 35 rolling
 | **Oct 2 (2d)** | KeyBank | [Data Intern - Key Technology & Services - Data Track](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385) | Brooklyn, OH |
 | **Oct 2 (2d)** | LexisNexis Legal & Professional | [Software Engineer Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692) | Raleigh, NC |
 | **Oct 2 (2d)** | LexisNexis Legal & Professional | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1) | Raleigh, NC |
+| **Oct 2 (2d)** | Mastercard | [Software Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) | O'Fallon, MO, Arlington County, Arlington, VA, NYC, Atlanta, |
 | **Oct 2 (2d)** | Northwestern Mutual | [Actuarial Systems Intern](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073) | Milwaukee, WI |
 | **Oct 2 (2d)** | NXP Semiconductors | [Data Analytics Engineer Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) | Austin, TX |
 | **Oct 2 (2d)** | NXP Semiconductors | [Embedded Machine Learning & Radar Processing Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534) | San Jose, CA |
 | **Oct 2 (2d)** | NXP Semiconductors | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) | Austin, TX |
+| **Oct 2 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951) | Largo, FL |
+| **Oct 2 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411) | Richardson, TX |
 | **Oct 2 (2d)** | T. Rowe Price | [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) | Owings Mills, MD, Baltimore, MD |
 | **Oct 2 (2d)** | U.S. Bank | [Engineering Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Summer-Intern_2026-0025769) | Hopkins, MN |
 | **Oct 2 (2d)** | Upbound Group | [Software Engineer Intern](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761) | Plano, TX |
 | **Oct 2 (2d)** | USAA | [Data Intern - Future Leaders Program](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824) | Charlotte, NC, San Antonio, TX |
-| **Oct 2 (2d)** | Mastercard | [Software Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) | O'Fallon, MO, Arlington County, Arlington, VA, NYC, Atlanta, |
-| **Oct 2 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951) | Largo, FL |
-| **Oct 2 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411) | Richardson, TX |
 | **Oct 3 (3d)** | Fifth Third Bank | [Enterprise Data Office Co-op](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Summer-2027---Cincinnati_R72261) | Cincinnati, OH |
 | **Oct 3 (3d)** | NiSource | [Change Management Analytics Intern](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378) | Columbus, OH |
 | **Oct 3 (3d)** | NiSource | [Software Engineer Intern](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449) | Columbus, OH, Merrillville, IN |
@@ -54,12 +54,13 @@ Updated 2026-09-30 · 1436 roles · 229 with a stated deadline · 35 rolling
 | **Oct 3 (3d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388) | Cedar Rapids, IA |
 | **Oct 3 (3d)** | RTX | [Software Engineer Co-op - Spring/Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384) | Cedar Rapids, IA |
 | **Oct 3 (3d)** | Verizon Communications | [Data Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384) | Irving, TX |
+| **Oct 3 (3d)** | Live Oak Bank | [Architecture/Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630) | Wilmington, NC |
 | **Oct 4 (4d)** | Ameriprise Financial | [Asset Management Technology Intern - Data Enablement](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538) | Boston, MA |
+| **Oct 4 (4d)** | Northrop Grumman | [Embedded Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790) | Rolling Meadows, IL |
+| **Oct 4 (4d)** | Northrop Grumman | [Software Digital Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812) | Rolling Meadows, IL |
 | **Oct 4 (4d)** | TD Bank | [Data Analyst Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800) | Mt Laurel Township, NJ |
 | **Oct 4 (4d)** | TD Bank | [Software Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) | Mt Laurel Township, NJ |
 | **Oct 4 (4d)** | TD Bank | [Data Engineer Intern - Global Technology & Solutions](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) | Mt Laurel Township, NJ |
-| **Oct 4 (4d)** | Northrop Grumman | [Software Digital Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812) | Rolling Meadows, IL |
-| **Oct 4 (4d)** | Northrop Grumman | [Embedded Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790) | Rolling Meadows, IL |
 | **Oct 5 (5d)** | HD Supply | [Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) | Atlanta, GA |
 | **Oct 5 (5d)** | Manulife Financial | [Software Engineering Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) | Boston, MA |
 | **Oct 5 (5d)** | Manulife Financial | [AI Intern - AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682) | Boston, MA |
@@ -130,20 +131,29 @@ Updated 2026-09-30 · 1436 roles · 229 with a stated deadline · 35 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1396)
+## Everyone else (1406)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Wellmark | [Software Engineer Intern - Metadata Enablement Team](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699) | Des Moines, IA | — | 2026-09-30 |  |
 | AMCA | [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) | El Segundo, CA | — | 2026-09-30 |  |
 | Robinhood | [Data Science Intern](https://boards.greenhouse.io/robinhood/jobs/8241738) | Menlo Park, CA | Oct 12 (12d) | 2026-09-30 |  |
-| Northrop Grumman | [Software Digital Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812) | Rolling Meadows, IL | **Oct 4 (4d)** | 2026-09-30 |  |
 | Northrop Grumman | [Embedded Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790) | Rolling Meadows, IL | **Oct 4 (4d)** | 2026-09-30 |  |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388) | Cedar Rapids, IA | **Oct 3 (3d)** | 2026-09-30 |  |
-| RTX | [Software Engineer Co-op - Spring/Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384) | Cedar Rapids, IA | **Oct 3 (3d)** | 2026-09-30 |  |
+| Northrop Grumman | [Software Digital Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812) | Rolling Meadows, IL | **Oct 4 (4d)** | 2026-09-30 |  |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986) | Fort Wayne, IN | — | 2026-09-30 |  |
+| CACI | [Software/Network Engineering Intern](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895) | Florham Park, NJ | — | 2026-09-30 |  |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951) | Largo, FL | **Oct 2 (2d)** | 2026-09-30 |  |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388) | Cedar Rapids, IA | **Oct 3 (3d)** | 2026-09-30 |  |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411) | Richardson, TX | **Oct 2 (2d)** | 2026-09-30 |  |
+| RTX | [Software Engineer Co-op - Spring/Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384) | Cedar Rapids, IA | **Oct 3 (3d)** | 2026-09-30 |  |
+| H&R Block | [Financial Services Data Analytics Intern](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) | Kansas City, MO | — | 2026-09-30 |  |
 | Itron | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | — | 2026-09-30 |  |
 | Itron | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | Liberty Lake, WA | — | 2026-09-30 |  |
+| POET | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | — | 2026-09-30 |  |
+| POET | [Software Developer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) | Sioux Falls, SD | — | 2026-09-30 |  |
+| First Citizens BancShares | [IT Intern - Software Developer](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) | Raleigh, NC | — | 2026-09-30 |  |
+| Athene | [Software Developer Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125) | West Des Moines, IA | — | 2026-09-30 |  |
+| Live Oak Bank | [Architecture/Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630) | Wilmington, NC | **Oct 3 (3d)** | 2026-09-30 |  |
 | Mastercard | [Software Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) | O'Fallon, MO, Arlington County, Arlington, VA, NYC, Atlanta, | **Oct 2 (2d)** | 2026-09-30 |  |
 | Robinhood | [Data Science Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) | Menlo Park, CA | Oct 12 (12d) | 2026-09-29 |  |
 | Enova | [Software Engineer Intern](https://job-boards.greenhouse.io/enova/jobs/8239619) | Chicago, IL | — | 2026-09-29 |  |
@@ -1528,5 +1538,6 @@ Updated 2026-09-30 · 1436 roles · 229 with a stated deadline · 35 rolling
 | Intel | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) | Malaysia, Kulim | — | 2026-09-28 |  |
 | Intel | [DevOps and Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) | Malaysia, Kulim | — | 2026-09-28 |  |
 | Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | Malaysia, Kulim | — | 2026-09-28 |  |
+| Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937) | Malaysia, Penang | — | 2026-09-28 |  |
 | Intel | [AI/ML Software App Development Intern](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946) | PRC, Chengdu | — | 2026-09-28 |  |
 | Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) | Malaysia, Penang | — | 2026-09-28 |  |
