@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:intel": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-09-30",
@@ -93,6 +91,24 @@
 "src": "amazon",
 "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+},
+"amazon:amazon:10565667": {
+"checked": "2026-09-30",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790799418.68013,
+"flags": [],
+"key": "amazon|software development engineer intern aws database 2027 us",
+"last_seen": "2026-09-30",
+"locations": [
+"Seattle, Washington, USA"
+],
+"posted_ts": 1790726400.0,
+"rolling": false,
+"src": "amazon",
+"title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+"url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
 },
 "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a": {
 "checked": "2026-09-30",
@@ -203,6 +219,24 @@
 "src": "ashby:ramp",
 "title": "Software Engineering Intern, Backend",
 "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04"
+},
+"ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956": {
+"checked": "2026-09-30",
+"company": "Ramp",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790799418.679971,
+"flags": [],
+"key": "ramp|applied scientist intern",
+"last_seen": "2026-09-30",
+"locations": [
+"New York, NY (HQ)"
+],
+"posted_ts": 1789436644.643,
+"rolling": false,
+"src": "ashby:ramp",
+"title": "Applied Scientist Intern",
+"url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956"
 },
 "ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9": {
 "checked": "2026-09-30",
@@ -910,9 +944,9 @@
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961"
 },
 "greenhouse:robinhood:8142963": {
-"checked": "2026-09-28",
+"checked": "2026-09-30",
 "company": "Robinhood",
-"deadline": null,
+"deadline": "2026-10-14",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900062,
 "flags": [],
@@ -1394,6 +1428,24 @@
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
+},
+"greenhouse:waymo:8240198": {
+"checked": "2026-09-30",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790799418.6799233,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd software engineer onboard developer platform",
+"last_seen": "2026-09-30",
+"locations": [
+"Mountain View, CA, USA"
+],
+"posted_ts": 1790791397.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
 },
 "lever:palantir:09846827-b931-4a9f-bd64-c3bb8860187b": {
 "checked": "2026-09-28",
@@ -28446,6 +28498,24 @@
 "src": "workday:intel",
 "title": "Intern System Software Development Engineer",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"
+},
+"workday:intel:JR0287525": {
+"checked": "2026-09-30",
+"company": "Intel",
+"deadline": "2026-12-30",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790799418.6801205,
+"flags": [],
+"key": "intel|research scientist intern graphics ml",
+"last_seen": "2026-09-30",
+"locations": [
+"Virtual US"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:intel",
+"title": "Research Scientist Intern - Graphics, ML",
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
 },
 "workday:nvidia:JR2023491": {
 "checked": "2026-09-28",
