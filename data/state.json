@@ -890,9 +890,9 @@
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959"
 },
 "greenhouse:robinhood:8142961": {
-"checked": "2026-09-28",
+"checked": "2026-09-30",
 "company": "Robinhood",
-"deadline": null,
+"deadline": "2026-10-14",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9899938,
 "flags": [],
@@ -2653,6 +2653,24 @@
 "src": "simplify",
 "title": "Software Development Engineer Intern - Robotics",
 "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
+},
+"simplify:amca:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e": {
+"checked": "2026-09-30",
+"company": "AMCA",
+"deadline": null,
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790758237.7023299,
+"flags": [],
+"key": "amca|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"El Segundo, CA"
+],
+"posted_ts": 1790748479,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
 },
 "simplify:amd:2057d1a3-289b-49ae-8328-fa3527c533c5": {
 "checked": "2026-09-28",
@@ -12381,7 +12399,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-09-29",
+"last_seen": "2026-09-30",
 "locations": [
 "Seattle, WA"
 ],
@@ -12399,7 +12417,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-09-29",
+"last_seen": "2026-09-30",
 "locations": [
 "NYC"
 ],
@@ -12435,7 +12453,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-09-29",
+"last_seen": "2026-09-30",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -15839,6 +15857,27 @@
 "title": "Data Scientist Intern",
 "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877"
 },
+"simplify:mastercard:78c03ab4-f50a-445d-9802-fb785330b50f": {
+"checked": "2026-09-30",
+"company": "Mastercard",
+"deadline": "2026-10-02",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790758237.699604,
+"flags": [],
+"key": "mastercard|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"O'Fallon, MO",
+"Arlington County, Arlington, VA",
+"NYC",
+"Atlanta, GA"
+],
+"posted_ts": 1787529600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+},
 "simplify:mastercard:e42ba45d-b2f8-4b3e-82ea-a28a0016584f": {
 "checked": "2026-09-28",
 "company": "Mastercard",
@@ -17682,6 +17721,42 @@
 "src": "simplify",
 "title": "Technology Intern - Software Engineering",
 "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1"
+},
+"simplify:northrop grumman:0e88b223-3137-4971-96be-a636939bea84": {
+"checked": "2026-09-30",
+"company": "Northrop Grumman",
+"deadline": "2026-10-04",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790758237.7023182,
+"flags": [],
+"key": "northrop grumman|embedded software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Rolling Meadows, IL"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"
+},
+"simplify:northrop grumman:2c46894c-6746-42d1-9b54-2735a06d51f6": {
+"checked": "2026-09-30",
+"company": "Northrop Grumman",
+"deadline": "2026-10-04",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790758237.7023108,
+"flags": [],
+"key": "northrop grumman|software digital intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Rolling Meadows, IL"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Digital Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812"
 },
 "simplify:northrop grumman:68f77e24-7325-4a04-9e6f-048e16a551a1": {
 "checked": "2026-09-29",
@@ -20625,6 +20700,24 @@
 "title": "Systems Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
 },
+"simplify:rtx:a6d20bfd-fd5e-467c-9b88-327066eed625": {
+"checked": "2026-09-30",
+"company": "RTX",
+"deadline": "2026-10-02",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790758237.702323,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Largo, FL"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951"
+},
 "simplify:rtx:a9a76fae-a7c1-48c3-8229-1804f208d98d": {
 "checked": "2026-09-29",
 "company": "RTX",
@@ -20729,6 +20822,24 @@
 "src": "simplify",
 "title": "Factory Enablement Digital Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474"
+},
+"simplify:rtx:d9192af9-44cc-4afc-bb53-481c9e5acabf": {
+"checked": "2026-09-30",
+"company": "RTX",
+"deadline": "2026-10-02",
+"first_seen": "2026-09-30",
+"first_seen_ts": 1790758237.7023265,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-09-30",
+"locations": [
+"Richardson, TX"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411"
 },
 "simplify:rtx:e6eed6a3-2c62-4035-8952-30b4577d84e3": {
 "checked": "2026-09-30",
