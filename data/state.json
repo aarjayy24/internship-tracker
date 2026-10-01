@@ -1984,6 +1984,96 @@
 "title": "Software Engineer, Internship - Infrastructure",
 "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
 },
+"microsoft:microsoft:1970393556922922": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3064969,
+"flags": [],
+"key": "microsoft|software engineer fullstack product web services intern opportunities for university students",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1790838000,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
+},
+"microsoft:microsoft:1970393556922923": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3065057,
+"flags": [],
+"key": "microsoft|software engineer cloud distributed backend intern opportunities for university students redmond",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1790838000,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556922923"
+},
+"microsoft:microsoft:1970393556922929": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3065116,
+"flags": [],
+"key": "microsoft|software engineer ai ml llm intern opportunities for university students redmond",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1790838000,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
+},
+"microsoft:microsoft:1970393556922931": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3065164,
+"flags": [],
+"key": "microsoft|software engineer data platform analytics intern opportunities for university students redmond",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1790838000,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556922931"
+},
+"microsoft:microsoft:1970393556951950": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3065243,
+"flags": [],
+"key": "microsoft|software engineer intern opportunities for university students coreai redmond wa",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1790838000,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
+},
 "microsoft:microsoft:1970393556982258": {
 "checked": "2026-09-28",
 "company": "Microsoft",
@@ -12671,7 +12761,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-09-30",
+"last_seen": "2026-10-01",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -16784,6 +16874,42 @@
 "src": "simplify",
 "title": "Data Engineering Intern",
 "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979"
+},
+"simplify:microsoft:9fe00265-7716-44f9-bc43-1017aa863220": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3067713,
+"flags": [],
+"key": "microsoft|software engineer intern coreai",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1785748322,
+"rolling": true,
+"src": "simplify",
+"title": "Software Engineer Intern - CoreAI",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
+},
+"simplify:microsoft:da112e4c-4b18-4df4-9cad-95acdd778d6f": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.309337,
+"flags": [],
+"key": "microsoft|software engineer intern azure databases",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1790845696,
+"rolling": true,
+"src": "simplify",
+"title": "Software Engineer Intern - Azure Databases",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557002476"
 },
 "simplify:mill:9ac6c58a-1914-4f2e-94b7-1da1ef0eb239": {
 "checked": "2026-09-29",
@@ -21015,6 +21141,24 @@
 "title": "Factory Enablement Digital Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
 },
+"simplify:rtx:3d1157f3-209d-4852-9aa5-8ef5c4ab8ab5": {
+"checked": "2026-10-01",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.309316,
+"flags": [],
+"key": "rtx|embedded software engineer intern",
+"last_seen": "2026-10-01",
+"locations": [
+"East Hartford, CT"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"
+},
 "simplify:rtx:477443e5-44fe-40b9-a621-9daa78a67a6a": {
 "checked": "2026-09-29",
 "company": "RTX",
@@ -21050,6 +21194,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561"
+},
+"simplify:rtx:57ef5166-18ab-48f2-a9ae-c53346079716": {
+"checked": "2026-10-01",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3093338,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-01",
+"locations": [
+"El Segundo, CA"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820"
 },
 "simplify:rtx:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62": {
 "checked": "2026-09-29",
@@ -22392,6 +22554,78 @@
 "src": "simplify",
 "title": "GIS Analyst Intern",
 "url": "https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false"
+},
+"simplify:southwest airlines:66d75708-a251-415f-b835-c6766b6c4d61": {
+"checked": "2026-10-01",
+"company": "Southwest Airlines",
+"deadline": "2026-10-08",
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.309331,
+"flags": [],
+"key": "southwest airlines|data engineer intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271"
+},
+"simplify:southwest airlines:8b6adedc-bcf4-4553-9fa2-ff61cdd5425f": {
+"checked": "2026-10-01",
+"company": "Southwest Airlines",
+"deadline": "2026-10-08",
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3093276,
+"flags": [],
+"key": "southwest airlines|software engineer intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270"
+},
+"simplify:southwest airlines:f7ee265c-7829-48bb-acd5-5acedabc8878": {
+"checked": "2026-10-01",
+"company": "Southwest Airlines",
+"deadline": "2026-10-07",
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.309324,
+"flags": [],
+"key": "southwest airlines|safety analytics intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Safety Analytics Intern",
+"url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047"
+},
+"simplify:southwest airlines:fc9d4693-7c8b-4934-816e-ca7ca0a6b8d9": {
+"checked": "2026-10-01",
+"company": "Southwest Airlines",
+"deadline": "2026-10-08",
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3093202,
+"flags": [],
+"key": "southwest airlines|digital testing optimization intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Digital Testing & Optimization Intern",
+"url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012"
 },
 "simplify:spacex:6339287b-3f1f-45ea-964d-65549925660a": {
 "checked": "2026-09-28",
@@ -26414,6 +26648,24 @@
 "src": "simplify",
 "title": "IT Intern - Application Development",
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1"
+},
+"simplify:varda space:7f4eeec4-3a57-4a6a-baac-95d259c931a2": {
+"checked": "2026-10-01",
+"company": "Varda Space",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790850384.3093402,
+"flags": [],
+"key": "varda space|flight software intern",
+"last_seen": "2026-10-01",
+"locations": [
+"El Segundo, CA"
+],
+"posted_ts": 1790845434,
+"rolling": false,
+"src": "simplify",
+"title": "Flight Software Intern",
+"url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003"
 },
 "simplify:veeam software:12b58efe-8607-4280-a3c0-fb40a2a2232a": {
 "checked": "2026-09-29",
