@@ -889,6 +889,60 @@
 "title": "Software Engineer, AI Platform - Intern",
 "url": "https://nuro.ai/careersitem?gh_jid=7351061"
 },
+"greenhouse:pinterest:7838577": {
+"checked": "2026-10-01",
+"company": "Pinterest",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5468755,
+"flags": [],
+"key": "pinterest|software engineer intern 2027 usa",
+"last_seen": "2026-10-01",
+"locations": [
+"San Francisco, CA, US; Remote, US"
+],
+"posted_ts": 1790874232.0,
+"rolling": false,
+"src": "greenhouse:pinterest",
+"title": "Software Engineer Intern 2027 (USA)",
+"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+},
+"greenhouse:pinterest:8138090": {
+"checked": "2026-10-01",
+"company": "Pinterest",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5468705,
+"flags": [],
+"key": "pinterest|master s machine learning internship 2027 usa",
+"last_seen": "2026-10-01",
+"locations": [
+"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US"
+],
+"posted_ts": 1790874125.0,
+"rolling": false,
+"src": "greenhouse:pinterest",
+"title": "Master's Machine Learning Internship 2027 (USA)",
+"url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090"
+},
+"greenhouse:pinterest:8138097": {
+"checked": "2026-10-01",
+"company": "Pinterest",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5468636,
+"flags": [],
+"key": "pinterest|master s data science internship 2027 usa",
+"last_seen": "2026-10-01",
+"locations": [
+"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US"
+],
+"posted_ts": 1790874102.0,
+"rolling": false,
+"src": "greenhouse:pinterest",
+"title": "Master's Data Science Internship 2027 (USA)",
+"url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097"
+},
 "greenhouse:robinhood:8123225": {
 "checked": "2026-10-01",
 "company": "Robinhood",
@@ -1104,6 +1158,24 @@
 "src": "greenhouse:stripe",
 "title": "Software Engineer, Intern ",
 "url": "https://stripe.com/jobs/search?gh_jid=8130807"
+},
+"greenhouse:stripe:8194291": {
+"checked": "2026-10-01",
+"company": "Stripe",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.546795,
+"flags": [],
+"key": "stripe|data analyst intern",
+"last_seen": "2026-10-01",
+"locations": [
+"New York, Seattle, South San Francisco HQ"
+],
+"posted_ts": 1790867129.0,
+"rolling": false,
+"src": "greenhouse:stripe",
+"title": "Data Analyst, Intern",
+"url": "https://stripe.com/jobs/search?gh_jid=8194291"
 },
 "greenhouse:waymo:8167323": {
 "checked": "2026-09-28",
@@ -1446,6 +1518,24 @@
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
+},
+"greenhouse:waymo:8243556": {
+"checked": "2026-10-01",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5469463,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd machine learning driver refinement foundations",
+"last_seen": "2026-10-01",
+"locations": [
+"Mountain View, CA, USA"
+],
+"posted_ts": 1790869082.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8243556"
 },
 "lever:palantir:09846827-b931-4a9f-bd64-c3bb8860187b": {
 "checked": "2026-09-28",
@@ -2037,6 +2127,24 @@
 "src": "microsoft",
 "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
+},
+"microsoft:microsoft:1970393556922930": {
+"checked": "2026-10-01",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5472558,
+"flags": [],
+"key": "microsoft|software engineer security identity intern opportunities for university students redmond",
+"last_seen": "2026-10-01",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1790868703,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
 },
 "microsoft:microsoft:1970393556922931": {
 "checked": "2026-10-01",
@@ -13732,6 +13840,24 @@
 "title": "Software Engineer Intern - Computer Science",
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557"
 },
+"simplify:howmet aerospace:57ded721-ead9-440b-999c-b6f3861f72ed": {
+"checked": "2026-10-01",
+"company": "Howmet Aerospace",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5504181,
+"flags": [],
+"key": "howmet aerospace|artificial intelligence intern ai",
+"last_seen": "2026-10-01",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1789653943,
+"rolling": false,
+"src": "simplify",
+"title": "Artificial Intelligence Intern - AI",
+"url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494"
+},
 "simplify:hp iq:0520e2cb-e59c-4d5a-a2a8-9dbd3e17a76a": {
 "checked": "2026-09-28",
 "company": "HP IQ",
@@ -21123,6 +21249,24 @@
 "title": "Software Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347"
 },
+"simplify:rtx:11505c09-a66c-4c86-a39d-81ffbce4b13d": {
+"checked": "2026-10-01",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.550604,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Fort Wayne, IN"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725"
+},
 "simplify:rtx:355ed1b0-6a7f-4f62-9f79-2eabc525e9cd": {
 "checked": "2026-09-29",
 "company": "RTX",
@@ -21230,6 +21374,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358"
+},
+"simplify:rtx:7344ee5e-5174-44c2-acec-12e21379b83f": {
+"checked": "2026-10-01",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5512426,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Annapolis, MD"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
 },
 "simplify:rtx:757ed4c0-2f8e-4285-a0dd-e82bb8698fb7": {
 "checked": "2026-09-28",
@@ -25948,6 +26110,27 @@
 "title": "Software Engineer Intern",
 "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288"
 },
+"simplify:travelers:c6dd05de-594d-4fa3-8da1-c646ae0eca31": {
+"checked": "2026-10-01",
+"company": "Travelers",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.5484436,
+"flags": [],
+"key": "travelers|engineering development intern",
+"last_seen": "2026-10-01",
+"locations": [
+"Hunt Valley, Cockeysville, MD",
+"Hartford, CT",
+"Atlanta, GA",
+"St Paul, MN"
+],
+"posted_ts": 1788220800,
+"rolling": true,
+"src": "simplify",
+"title": "Engineering Development Intern",
+"url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270"
+},
 "simplify:trc companies:3b1b8e9d-c4cf-4734-856a-c974daf38125": {
 "checked": "2026-09-29",
 "company": "TRC Companies",
@@ -29155,6 +29338,24 @@
 "src": "workday:intel",
 "title": "Research Scientist Intern - Graphics, ML",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
+},
+"workday:intel:JR0287544": {
+"checked": "2026-10-01",
+"company": "Intel",
+"deadline": null,
+"first_seen": "2026-10-01",
+"first_seen_ts": 1790874329.547204,
+"flags": [],
+"key": "intel|ai software technical intern",
+"last_seen": "2026-10-01",
+"locations": [
+"US, California, Santa Clara"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:intel",
+"title": "AI Software Technical Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
 },
 "workday:nvidia:JR2023491": {
 "checked": "2026-09-28",
