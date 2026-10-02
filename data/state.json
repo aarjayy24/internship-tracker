@@ -110,6 +110,60 @@
 "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
 "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
 },
+"amazon:amazon:10567914": {
+"checked": "2026-10-02",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5913255,
+"flags": [],
+"key": "amazon|software development engineer intern embedded systems summer 2027 usa",
+"last_seen": "2026-10-02",
+"locations": [
+"Seattle, Washington, USA"
+],
+"posted_ts": 1790899200.0,
+"rolling": false,
+"src": "amazon",
+"title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+"url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
+},
+"ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
+"checked": "2026-10-02",
+"company": "Harvey",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5911417,
+"flags": [],
+"key": "harvey|software engineering intern summer 2027",
+"last_seen": "2026-10-02",
+"locations": [
+"New York"
+],
+"posted_ts": 1790960456.168,
+"rolling": false,
+"src": "ashby:harvey",
+"title": "Software Engineering Intern (Summer 2027)",
+"url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d"
+},
+"ashby:harvey:3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
+"checked": "2026-10-02",
+"company": "Harvey",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5911524,
+"flags": [],
+"key": "harvey|software engineering intern summer 2027",
+"last_seen": "2026-10-02",
+"locations": [
+"San Francisco"
+],
+"posted_ts": 1790960452.813,
+"rolling": false,
+"src": "ashby:harvey",
+"title": "Software Engineering Intern (Summer 2027)",
+"url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7"
+},
 "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a": {
 "checked": "2026-10-02",
 "company": "Modal",
@@ -3351,6 +3405,24 @@
 "src": "simplify",
 "title": "Meteorology Intern - Crisis Management",
 "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1"
+},
+"simplify:american bankers association:ec2c0694-e2d1-4b6f-a0d8-8246515195c7": {
+"checked": "2026-10-02",
+"company": "American Bankers Association",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5955184,
+"flags": [],
+"key": "american bankers association|quantitative research intern",
+"last_seen": "2026-10-02",
+"locations": [
+"Washington, DC"
+],
+"posted_ts": 1790899200,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Research Intern",
+"url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"
 },
 "simplify:american century investments:099a34f8-de36-4008-b851-c1546eb7f942": {
 "checked": "2026-09-29",
@@ -12265,6 +12337,24 @@
 "title": "Software Engineer Intern",
 "url": "https://careers.garmin.com/jobs/20131?icims=1"
 },
+"simplify:gas south:ed5bc2d4-26fb-44d6-82bd-7e1ff254739e": {
+"checked": "2026-10-02",
+"company": "Gas South",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5955102,
+"flags": [],
+"key": "gas south|analyst intern",
+"last_seen": "2026-10-02",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1790952217,
+"rolling": false,
+"src": "simplify",
+"title": "Analyst Intern",
+"url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586"
+},
 "simplify:gcm grosvenor:dbc5524e-6bc2-4690-b04a-a30cdcabb2ab": {
 "checked": "2026-09-29",
 "company": "GCM Grosvenor",
@@ -13516,6 +13606,24 @@
 "src": "simplify",
 "title": "Material Master Data Intern",
 "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Material-Master-Data-Internship_R-57186"
+},
+"simplify:great american insurance company:319f5acd-d41e-4a2d-ba38-489c86ff3b27": {
+"checked": "2026-10-02",
+"company": "Great American Insurance Company",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5955346,
+"flags": [],
+"key": "great american insurance company|enterprise analytics intern",
+"last_seen": "2026-10-02",
+"locations": [
+"Cincinnati, OH"
+],
+"posted_ts": 1790899200,
+"rolling": false,
+"src": "simplify",
+"title": "Enterprise Analytics Intern",
+"url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
 },
 "simplify:greenheck group:bd094d2e-e3dd-4cb1-a4d5-cdd8021d5ea8": {
 "checked": "2026-09-28",
@@ -17352,6 +17460,24 @@
 "title": "Consultant Relations Co-op - January - June",
 "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931"
 },
+"simplify:mfs:bde46e9c-18de-4bfe-a880-12c5a4719dbb": {
+"checked": "2026-10-02",
+"company": "MFS",
+"deadline": "2026-10-15",
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5955303,
+"flags": [],
+"key": "mfs|enterprise data management intern",
+"last_seen": "2026-10-02",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1790899200,
+"rolling": false,
+"src": "simplify",
+"title": "Enterprise Data Management Intern",
+"url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987"
+},
 "simplify:mfs:f4197f17-119a-481b-8c46-5723c5f9b51d": {
 "checked": "2026-10-02",
 "company": "MFS",
@@ -18798,6 +18924,24 @@
 "src": "simplify",
 "title": "Embedded Software Engineer Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"
+},
+"simplify:northrop grumman:11487bbd-b590-4b02-a2f1-0d88df7fbbd2": {
+"checked": "2026-10-02",
+"company": "Northrop Grumman",
+"deadline": "2026-10-07",
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5955389,
+"flags": [],
+"key": "northrop grumman|college technical intern",
+"last_seen": "2026-10-02",
+"locations": [
+"McLean, VA"
+],
+"posted_ts": 1790899200,
+"rolling": false,
+"src": "simplify",
+"title": "College Technical Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146"
 },
 "simplify:northrop grumman:2b8a623c-d139-413c-aff2-d9afce6a38e4": {
 "checked": "2026-09-30",
@@ -27499,6 +27643,24 @@
 "src": "simplify",
 "title": "Data Analyst Intern - College to Corporate IT",
 "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
+},
+"simplify:vanguard:665e2669-0a2a-4e07-9859-73f9f3e9b83d": {
+"checked": "2026-10-02",
+"company": "Vanguard",
+"deadline": null,
+"first_seen": "2026-10-02",
+"first_seen_ts": 1790966436.5955245,
+"flags": [],
+"key": "vanguard|college to corporate it intern application development",
+"last_seen": "2026-10-02",
+"locations": [
+"Malvern, PA"
+],
+"posted_ts": 1790899200,
+"rolling": false,
+"src": "simplify",
+"title": "College to Corporate IT Intern - Application Development",
+"url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
 },
 "simplify:vanguard:74a4f228-ddb1-4953-9597-1c278c491082": {
 "checked": "2026-09-28",
