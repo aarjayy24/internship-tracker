@@ -1,6 +1,10 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:adobe": 1,
+"workday:intel": 1,
+"workday:nvidia": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-03",
@@ -8191,12 +8195,14 @@
 "url": "https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply"
 },
 "simplify:charles schwab:09239b96-d26a-4691-b9ab-9b8b442caa9f": {
+"checked": "2026-10-03",
 "company": "Charles Schwab",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9921045,
 "flags": [],
 "key": "charles schwab|software engineering intern technology",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-03",
 "locations": [
 "Austin, TX",
 "Westlake, TX",
@@ -8206,6 +8212,7 @@
 "Phoenix, AZ"
 ],
 "posted_ts": 1787963196,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineering Intern - Technology",
 "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false"
@@ -10976,6 +10983,24 @@
 "title": "Gameplay Engineer Intern",
 "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
 },
+"simplify:electronic arts:b45557a0-8993-4135-8a47-273587c395f5": {
+"checked": "2026-10-03",
+"company": "Electronic Arts",
+"deadline": null,
+"first_seen": "2026-10-03",
+"first_seen_ts": 1791009904.370547,
+"flags": [],
+"key": "electronic arts|software engineer intern",
+"last_seen": "2026-10-03",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1790990108,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239"
+},
 "simplify:electronic arts:bc6412bd-7dbe-456e-8c67-d2002acadeaa": {
 "checked": "2026-09-30",
 "company": "Electronic Arts",
@@ -13651,7 +13676,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-03",
 "locations": [
 "Salt Lake City, UT"
 ],
