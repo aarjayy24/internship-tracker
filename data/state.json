@@ -1,10 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:adobe": 1,
-"workday:intel": 1,
-"workday:nvidia": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-03",
@@ -13622,7 +13618,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-03",
 "locations": [
 "Seattle, WA"
 ],
