@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-03 · 1468 roles · 215 with a stated deadline · 46 rolling
+Updated 2026-10-03 · 1466 roles · 215 with a stated deadline · 44 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -114,7 +114,7 @@ Updated 2026-10-03 · 1468 roles · 215 with a stated deadline · 46 rolling
 | Oct 17 (14d) | Xcel Energy | [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) | Denver, CO |
 | Oct 17 (14d) | Xcel Energy | [Load Research & Energy and Demand Forecasting Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1) | Denver, CO |
 
-## ⭐ Top companies (55)
+## ⭐ Top companies (53)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -133,8 +133,6 @@ Updated 2026-10-03 · 1468 roles · 215 with a stated deadline · 46 rolling
 | Stripe | [Software Engineer Intern](https://stripe.com/jobs/search?gh_jid=8241260) | Seattle, WA, SF | — | 2026-10-01 |  |
 | Microsoft | [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) | Redmond, WA | rolling | 2026-10-01 |  |
 | Amazon | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Seattle, Washington, USA | — | 2026-09-30 |  |
-| Microsoft | [Software Engineer: Intern Opportunity for University Students](https://apply.careers.microsoft.com/careers/job/1970393557004819) | Mountain View, CA, US | rolling | 2026-09-28 |  |
-| Microsoft | [Software Engineer: Intern Opportunities for University Students, Atlanta](https://apply.careers.microsoft.com/careers/job/1970393557008714) | Atlanta, GA, US | rolling | 2026-09-28 |  |
 | Amazon | [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Seattle, Washington, USA | rolling | 2026-09-28 |  |
 | Amazon | [Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond, Washington, USA | — | 2026-09-28 |  |
 | Tesla | [Internship - Software Engineering - People Products - Summer 2027](https://www.tesla.com/careers/search/job/284004) | Palo Alto, CA | — | 2026-09-28 |  |

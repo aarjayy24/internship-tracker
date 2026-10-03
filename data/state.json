@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-03",
