@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-04 · 1447 roles · 205 with a stated deadline · 45 rolling
+Updated 2026-10-04 · 1458 roles · 205 with a stated deadline · 46 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -161,13 +161,24 @@ Updated 2026-10-04 · 1447 roles · 205 with a stated deadline · 45 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1394)
+## Everyone else (1405)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| DocuSign | [Software Engineer Intern - Self-Service Directory Diagnostics](https://careers.docusign.com/jobs/30464?icims=1) | Seattle, WA | — | 2026-10-04 |  |
 | Northern Trust | [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | Chicago, IL | **Oct 9 (5d)** | 2026-10-04 |  |
 | RTX | [AI DSP Applied Research Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | Cedar Rapids, IA | — | 2026-10-04 |  |
 | National Life | [Market Research Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) | Montpelier, VT, Addison, TX | rolling | 2026-10-04 |  |
+| University of Maryland - College Park | [AI Research Assistant Intern](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/AI-Research-Assistant_JR104812) | College Park, MD | rolling | 2026-10-04 |  |
+| TikTok | [Client Solutions Intern](https://lifeattiktok.com/search/7677467052537776437) | San Jose, CA | — | 2026-10-04 |  |
+| Fannie Mae | [Technology Program Intern](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810) | Plano, TX, Reston, VA | — | 2026-10-04 |  |
+| TikTok | [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) | San Jose, CA | — | 2026-10-04 |  |
+| Gartner | [IT Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095) | Stamford, CT | — | 2026-10-04 |  |
+| Thea Energy | [Integrated Modeling Intern](https://jobs.lever.co/thea.energy/6ae6e9bb-ed46-440b-83ca-4152fa8ec0bd/apply) | Kearny, NJ | — | 2026-10-04 |  |
+| Nebius | [ML Solution Architect Intern](https://careers.nebius.com/?gh_jid=4883829101) | Remote in USA | — | 2026-10-04 |  |
+| TikTok | [Leave of Absence Analyst Project Intern](https://lifeattiktok.com/search/7662343067223263541) | San Jose, CA | — | 2026-10-04 |  |
+| Northrop Grumman | [Software Engineer/ Software Engineer SkillBridge Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/SkillBridge-Principal-Software-Engineer--Software-Engineer_R10235154) | Oklahoma City, OK | — | 2026-10-04 |  |
+| ByteDance | [Student Researcher - AI Foundation Model Infrastructure](https://jobs.bytedance.com/en/position/7623552947364317445/detail) | Seattle, WA | — | 2026-10-04 |  |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239) | Austin, TX | — | 2026-10-03 |  |
 | Arc | [Software Engineer Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) | Torrance, CA | — | 2026-10-03 |  |
 | Harvey | [Software Engineer Intern](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true) | NYC | — | 2026-10-03 |  |

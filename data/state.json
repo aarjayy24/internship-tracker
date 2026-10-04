@@ -1,7 +1,7 @@
 {
 "bootstrapped": true,
 "health": {
-"microsoft": 1
+"microsoft": 2
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -7285,6 +7285,24 @@
 "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform",
 "url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail"
 },
+"simplify:bytedance:77ff658e-cabb-48be-9248-a271f5f898ff": {
+"checked": "2026-10-04",
+"company": "ByteDance",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.496984,
+"flags": [],
+"key": "bytedance|student researcher ai foundation model infrastructure",
+"last_seen": "2026-10-04",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1775023743,
+"rolling": false,
+"src": "simplify",
+"title": "Student Researcher - AI Foundation Model Infrastructure",
+"url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail"
+},
 "simplify:bytedance:7a3479e6-fa2c-40d9-b917-c42922bfeaf1": {
 "checked": "2026-09-28",
 "company": "ByteDance",
@@ -10194,6 +10212,24 @@
 "title": "Operational Analytics Intern",
 "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282"
 },
+"simplify:docusign:5675fa47-e852-4cdc-9992-395a0d1765b8": {
+"checked": "2026-10-04",
+"company": "DocuSign",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.5000522,
+"flags": [],
+"key": "docusign|software engineer intern self service directory diagnostics",
+"last_seen": "2026-10-04",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1791094240,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Self-Service Directory Diagnostics",
+"url": "https://careers.docusign.com/jobs/30464?icims=1"
+},
 "simplify:domino data lab:c7dca39a-27ef-4e1d-a94e-b69ede82a562": {
 "checked": "2026-09-28",
 "company": "Domino Data Lab",
@@ -11957,6 +11993,25 @@
 "title": "Data Science Intern - Analytics & Modeling Program",
 "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815"
 },
+"simplify:fannie mae:6fc7d52e-825d-4917-aaaa-3941e28d5c5a": {
+"checked": "2026-10-04",
+"company": "Fannie Mae",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.4977853,
+"flags": [],
+"key": "fannie mae|technology program intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Plano, TX",
+"Reston, VA"
+],
+"posted_ts": 1787529600,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Program Intern",
+"url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
+},
 "simplify:fast enterprises:7838c307-daa5-4e75-b8c2-7218ab2354cb": {
 "checked": "2026-09-28",
 "company": "FAST Enterprises",
@@ -12681,6 +12736,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers.garmin.com/jobs/20131?icims=1"
+},
+"simplify:gartner:27b40008-f015-43f7-b561-8134fe22e524": {
+"checked": "2026-10-04",
+"company": "Gartner",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.5000458,
+"flags": [],
+"key": "gartner|it intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Stamford, CT"
+],
+"posted_ts": 1786579200,
+"rolling": false,
+"src": "simplify",
+"title": "IT Intern",
+"url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"
 },
 "simplify:gas south:ed5bc2d4-26fb-44d6-82bd-7e1ff254739e": {
 "checked": "2026-10-02",
@@ -19108,6 +19181,24 @@
 "title": "Associate Intern",
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32324"
 },
+"simplify:nebius:b380c306-bed2-4e4a-8c77-71a792a86621": {
+"checked": "2026-10-04",
+"company": "Nebius",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.5000656,
+"flags": [],
+"key": "nebius|ml solution architect intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1784211784,
+"rolling": false,
+"src": "simplify",
+"title": "ML Solution Architect Intern",
+"url": "https://careers.nebius.com/?gh_jid=4883829101"
+},
 "simplify:nebraska medicine:5b34661b-6ae3-4276-8322-3005f82d5721": {
 "checked": "2026-09-29",
 "company": "Nebraska Medicine",
@@ -19595,6 +19686,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Aeronautics Systems",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
+},
+"simplify:northrop grumman:d529b7da-ffa0-479c-b5f0-320947831290": {
+"checked": "2026-10-04",
+"company": "Northrop Grumman",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.50007,
+"flags": [],
+"key": "northrop grumman|software engineer software engineer skillbridge intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Oklahoma City, OK"
+],
+"posted_ts": 1783159821,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer/ Software Engineer SkillBridge Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/SkillBridge-Principal-Software-Engineer--Software-Engineer_R10235154"
 },
 "simplify:northrop grumman:e8c586d7-f281-4ffc-bd41-078c7158f059": {
 "checked": "2026-09-30",
@@ -25886,6 +25995,24 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true"
 },
+"simplify:thea energy:d0f43b5d-2239-405b-8b18-33819aeb29ad": {
+"checked": "2026-10-04",
+"company": "Thea Energy",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.5000615,
+"flags": [],
+"key": "thea energy|integrated modeling intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Kearny, NJ"
+],
+"posted_ts": 1784815325,
+"rolling": false,
+"src": "simplify",
+"title": "Integrated Modeling Intern",
+"url": "https://jobs.lever.co/thea.energy/6ae6e9bb-ed46-440b-83ca-4152fa8ec0bd/apply"
+},
 "simplify:thrivent:440a7b43-921e-4e0a-b2b8-0b66d1366483": {
 "checked": "2026-09-29",
 "company": "Thrivent",
@@ -26242,6 +26369,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Trust and Safety",
 "url": "https://lifeattiktok.com/search/7662672554084059445"
+},
+"simplify:tiktok:3a8d7164-301d-464b-8200-3af8df791822": {
+"checked": "2026-10-04",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.500057,
+"flags": [],
+"key": "tiktok|leave of absence analyst project intern",
+"last_seen": "2026-10-04",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1784096036,
+"rolling": false,
+"src": "simplify",
+"title": "Leave of Absence Analyst Project Intern",
+"url": "https://lifeattiktok.com/search/7662343067223263541"
 },
 "simplify:tiktok:3b44efc2-7d58-43bc-a375-21f4344932d3": {
 "checked": "2026-09-28",
@@ -26873,6 +27018,24 @@
 "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
 "url": "https://lifeattiktok.com/search/7667934792727906565"
 },
+"simplify:tiktok:af0078da-4418-4e04-afb5-17ec87e8381a": {
+"checked": "2026-10-04",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.497649,
+"flags": [],
+"key": "tiktok|machine learning mlops intern global site reliability engineering",
+"last_seen": "2026-10-04",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1787172423,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+"url": "https://lifeattiktok.com/search/7670875283026053381"
+},
 "simplify:tiktok:b05ba4c5-016d-48b3-888c-f09fa7f253ad": {
 "checked": "2026-09-28",
 "company": "TikTok",
@@ -27070,6 +27233,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - TikTok Search Architecture",
 "url": "https://lifeattiktok.com/search/7675517686256863541"
+},
+"simplify:tiktok:cb7c7665-f749-4ac4-82aa-36376548fdc7": {
+"checked": "2026-10-04",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.4978113,
+"flags": [],
+"key": "tiktok|client solutions intern",
+"last_seen": "2026-10-04",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1787614656,
+"rolling": false,
+"src": "simplify",
+"title": "Client Solutions Intern",
+"url": "https://lifeattiktok.com/search/7677467052537776437"
 },
 "simplify:tiktok:d1768aee-f240-4353-b609-278b04785c95": {
 "checked": "2026-09-28",
@@ -28016,6 +28197,24 @@
 "src": "simplify",
 "title": "Graduate Research Assistant Intern",
 "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
+},
+"simplify:university of maryland - college park:66ef2704-3037-40ab-ac97-ad086c4309af": {
+"checked": "2026-10-04",
+"company": "University of Maryland - College Park",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791116946.5000741,
+"flags": [],
+"key": "university of maryland - college park|ai research assistant intern",
+"last_seen": "2026-10-04",
+"locations": [
+"College Park, MD"
+],
+"posted_ts": 1787788800,
+"rolling": true,
+"src": "simplify",
+"title": "AI Research Assistant Intern",
+"url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/AI-Research-Assistant_JR104812"
 },
 "simplify:upbound group:2ec492a7-10a0-47cc-8cbb-9c22a5ba396c": {
 "company": "Upbound Group",
