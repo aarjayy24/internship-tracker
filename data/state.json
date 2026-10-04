@@ -20632,6 +20632,25 @@
 "title": "Technical Intern",
 "url": "https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7"
 },
+"simplify:pangram labs:39440a28-111a-4535-887b-1a683c23ef54": {
+"checked": "2026-10-04",
+"company": "Pangram Labs",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791153547.8395886,
+"flags": [],
+"key": "pangram labs|ai research intern",
+"last_seen": "2026-10-04",
+"locations": [
+"NYC",
+"Brooklyn, NY"
+],
+"posted_ts": 1791152124,
+"rolling": false,
+"src": "simplify",
+"title": "AI Research Intern",
+"url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true"
+},
 "simplify:parsons:f865648f-b814-4503-ba7b-112c3f3fe9f1": {
 "checked": "2026-10-04",
 "company": "Parsons",
@@ -21342,6 +21361,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Full Stack",
 "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true"
+},
+"simplify:primient:16856e96-3bd9-4fee-85e4-ed92164905ae": {
+"checked": "2026-10-04",
+"company": "Primient",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791153547.839597,
+"flags": [],
+"key": "primient|ai analyst intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Schaumburg, IL"
+],
+"posted_ts": 1791072000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Analyst Intern",
+"url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
 },
 "simplify:primient:9ee6f0e7-2c86-445d-a369-22c5227b938f": {
 "checked": "2026-10-02",
@@ -28374,7 +28411,7 @@
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-10-03",
+"last_seen": "2026-10-04",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",

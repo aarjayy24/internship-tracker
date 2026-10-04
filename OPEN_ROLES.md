@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-04 · 1478 roles · 209 with a stated deadline · 46 rolling
+Updated 2026-10-04 · 1481 roles · 209 with a stated deadline · 46 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -163,13 +163,15 @@ Updated 2026-10-04 · 1478 roles · 209 with a stated deadline · 46 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1425)
+## Everyone else (1428)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Pangram Labs | [AI Research Intern](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true) | NYC, Brooklyn, NY | — | 2026-10-04 |  |
 | Diversified Energy | [Information Technology Intern](https://careers.div.energy/jobs/2734?icims=1) | Birmingham, AL | — | 2026-10-04 |  |
 | Keysight Technologies | [Data Scientist Intern](https://jobs.keysight.com/jobs/54570?icims=1) | Santa Rosa, CA | — | 2026-10-04 |  |
 | DocuSign | [Software Engineer Intern - Self-Service Directory Diagnostics](https://careers.docusign.com/jobs/30464?icims=1) | Seattle, WA | — | 2026-10-04 |  |
+| Primient | [AI Analyst Intern](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056) | Schaumburg, IL | — | 2026-10-04 |  |
 | Northern Trust | [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | Chicago, IL | **Oct 9 (5d)** | 2026-10-04 |  |
 | RTX | [AI DSP Applied Research Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | Cedar Rapids, IA | — | 2026-10-04 |  |
 | CoStar Group | [Associate Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) | Sunnyvale, CA | — | 2026-10-04 |  |
@@ -326,6 +328,7 @@ Updated 2026-10-04 · 1478 roles · 209 with a stated deadline · 46 rolling
 | POET | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | — | 2026-09-30 |  |
 | POET | [Software Developer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) | Sioux Falls, SD | — | 2026-09-30 |  |
 | First Citizens BancShares | [IT Intern - Software Developer](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) | Raleigh, NC | — | 2026-09-30 |  |
+| Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME, Orono, ME, Falmouth, ME | — | 2026-09-30 |  |
 | Athene | [Software Developer Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125) | West Des Moines, IA | — | 2026-09-30 |  |
 | Live Oak Bank | [Architecture/Engineering Intern](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630) | Wilmington, NC | ~~Oct 3~~ passed, still listed | 2026-09-30 |  |
 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | — | 2026-09-30 |  |
