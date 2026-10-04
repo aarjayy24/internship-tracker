@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-04 · 1445 roles · 205 with a stated deadline · 45 rolling
+Updated 2026-10-04 · 1447 roles · 205 with a stated deadline · 45 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -34,8 +34,8 @@ Updated 2026-10-04 · 1445 roles · 205 with a stated deadline · 45 rolling
 | **Oct 9 (5d)** | Merck | [Global Data Management and Standards Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Data-Management-and-Standards--GDMS----Intern_R412060) | Rahway, NJ |
 | **Oct 9 (5d)** | Merck | [Computational Toxicology Intern - AI/ML Computational Toxicology](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871) | West Point, PA |
 | **Oct 9 (5d)** | Merck | [Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) | Rahway, NJ |
-| **Oct 9 (5d)** | USAA | [Decision Science Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923) | San Antonio, TX |
 | **Oct 9 (5d)** | Northern Trust | [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | Chicago, IL |
+| **Oct 9 (5d)** | USAA | [Decision Science Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Intern_R0120923) | San Antonio, TX |
 | **Oct 10 (6d)** | Centene | [Medical Economics Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091) | Missouri |
 | **Oct 10 (6d)** | Corteva | [AI Engineer Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W) | Indianapolis, IN |
 | **Oct 10 (6d)** | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772) | Rolling Meadows, IL |
@@ -161,11 +161,12 @@ Updated 2026-10-04 · 1445 roles · 205 with a stated deadline · 45 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1392)
+## Everyone else (1394)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Northern Trust | [Data & Analytics Office Intern](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | Chicago, IL | **Oct 9 (5d)** | 2026-10-04 |  |
+| RTX | [AI DSP Applied Research Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | Cedar Rapids, IA | — | 2026-10-04 |  |
 | National Life | [Market Research Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) | Montpelier, VT, Addison, TX | rolling | 2026-10-04 |  |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239) | Austin, TX | — | 2026-10-03 |  |
 | Arc | [Software Engineer Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) | Torrance, CA | — | 2026-10-03 |  |
@@ -1322,6 +1323,7 @@ Updated 2026-10-04 · 1445 roles · 205 with a stated deadline · 45 rolling
 | Freeform | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | — | 2026-09-28 |  |
 | Goldman Sachs | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | — | 2026-09-28 |  |
 | Goldman Sachs | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) | NYC | — | 2026-09-28 |  |
+| Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | Seattle, WA | — | 2026-09-28 |  |
 | Notion | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | SF, NYC | — | 2026-09-28 |  |
 | ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | San Jose, CA | — | 2026-09-28 |  |
 | ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | — | 2026-09-28 |  |

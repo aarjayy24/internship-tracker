@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-04",
@@ -13618,7 +13620,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-03",
+"last_seen": "2026-10-04",
 "locations": [
 "Seattle, WA"
 ],
@@ -22641,6 +22643,24 @@
 "src": "simplify",
 "title": "Embedded Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"
+},
+"simplify:rtx:44d51ce5-b0d7-47ab-93d2-24148841c53d": {
+"checked": "2026-10-04",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791094614.0128355,
+"flags": [],
+"key": "rtx|ai dsp applied research co op",
+"last_seen": "2026-10-04",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1790985600,
+"rolling": false,
+"src": "simplify",
+"title": "AI DSP Applied Research Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016"
 },
 "simplify:rtx:477443e5-44fe-40b9-a621-9daa78a67a6a": {
 "checked": "2026-09-29",
