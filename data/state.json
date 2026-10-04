@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 2
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-04",
@@ -2420,6 +2418,24 @@
 "title": "Application Engineering Intern - Summer 2027",
 "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706"
 },
+"simplify:abb:6bda3b7e-e573-454c-a89e-e40b16ecac2c": {
+"checked": "2026-10-04",
+"company": "ABB",
+"deadline": "2026-10-16",
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330382,
+"flags": [],
+"key": "abb|market research analysis intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1788480000,
+"rolling": false,
+"src": "simplify",
+"title": "Market Research & Analysis Intern",
+"url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Market-Research---Analysis-Intern---Summer-2027_JR00045583"
+},
 "simplify:abundant:0c0e9f30-f96a-427e-b6d6-37b02e4e0256": {
 "checked": "2026-09-29",
 "company": "Abundant",
@@ -3497,6 +3513,24 @@
 "src": "simplify",
 "title": "Meteorology Intern - Crisis Management",
 "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1"
+},
+"simplify:ameren:51b0d062-6f05-4d98-afb7-8dc7523b4758": {
+"checked": "2026-10-04",
+"company": "Ameren",
+"deadline": "2026-12-21",
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2303696,
+"flags": [],
+"key": "ameren|digital co op",
+"last_seen": "2026-10-04",
+"locations": [
+"St. Louis, MO"
+],
+"posted_ts": 1786060800,
+"rolling": false,
+"src": "simplify",
+"title": "Digital Co-op",
+"url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1"
 },
 "simplify:american bankers association:ec2c0694-e2d1-4b6f-a0d8-8246515195c7": {
 "checked": "2026-10-02",
@@ -9400,6 +9434,24 @@
 "title": "AI Engineer Intern",
 "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W"
 },
+"simplify:costar group:4430d739-ddf1-4b1c-966a-d5e29f89a980": {
+"checked": "2026-10-04",
+"company": "CoStar Group",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330196,
+"flags": [],
+"key": "costar group|associate software engineer intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Software Engineer Intern",
+"url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942"
+},
 "simplify:costar group:54109f9e-2999-4211-9273-b6d34bc06e25": {
 "checked": "2026-09-29",
 "company": "CoStar Group",
@@ -9507,6 +9559,24 @@
 "src": "simplify",
 "title": "Technology Intern",
 "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945"
+},
+"simplify:costar group:fad2e0d4-274c-40b8-b96d-c769ef5ee9da": {
+"checked": "2026-10-04",
+"company": "CoStar Group",
+"deadline": "2026-10-16",
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.232987,
+"flags": [],
+"key": "costar group|associate software engineer intern",
+"last_seen": "2026-10-04",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1789516800,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Software Engineer Intern",
+"url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674"
 },
 "simplify:country financial:26621e42-f0f2-4777-9b7f-f505c5e66a92": {
 "checked": "2026-09-28",
@@ -9923,6 +9993,24 @@
 "title": "Software Development Intern",
 "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368"
 },
+"simplify:dell technologies:d1133c90-ab4b-4fc5-a598-143f98f88793": {
+"checked": "2026-10-04",
+"company": "Dell Technologies",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2329938,
+"flags": [],
+"key": "dell technologies|ai solutions intern product content management",
+"last_seen": "2026-10-04",
+"locations": [
+"Round Rock, TX"
+],
+"posted_ts": 1789423471,
+"rolling": false,
+"src": "simplify",
+"title": "AI Solutions Intern - Product & Content Management",
+"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057"
+},
 "simplify:deloitte:2440120c-cae1-4ca3-8e9b-73e8ca4bfac9": {
 "checked": "2026-09-28",
 "company": "Deloitte",
@@ -10211,6 +10299,24 @@
 "src": "simplify",
 "title": "Operational Analytics Intern",
 "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282"
+},
+"simplify:diversified energy:57409b22-372d-4871-b5ff-c7bfa79beb07": {
+"checked": "2026-10-04",
+"company": "Diversified Energy",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.233026,
+"flags": [],
+"key": "diversified energy|information technology intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Birmingham, AL"
+],
+"posted_ts": 1791123139,
+"rolling": false,
+"src": "simplify",
+"title": "Information Technology Intern",
+"url": "https://careers.div.energy/jobs/2734?icims=1"
 },
 "simplify:docusign:5675fa47-e852-4cdc-9992-395a0d1765b8": {
 "checked": "2026-10-04",
@@ -11175,6 +11281,42 @@
 "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
 "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false"
 },
+"simplify:emc insurance:358e91d0-b574-450b-8f1a-c8785fc0cfc2": {
+"checked": "2026-10-04",
+"company": "EMC Insurance",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330163,
+"flags": [],
+"key": "emc insurance|claims intern property",
+"last_seen": "2026-10-04",
+"locations": [
+"Iowa"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Claims Intern - Property",
+"url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1"
+},
+"simplify:emc insurance:722989ed-df3d-4611-83a2-26c5369b1e66": {
+"checked": "2026-10-04",
+"company": "EMC Insurance",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330046,
+"flags": [],
+"key": "emc insurance|claims intern workers compensation",
+"last_seen": "2026-10-04",
+"locations": [
+"Iowa"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Claims Intern - Workers' Compensation",
+"url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548"
+},
 "simplify:emc insurance:80ed798a-4740-4572-bb0b-e99439246dcf": {
 "checked": "2026-09-29",
 "company": "EMC Insurance",
@@ -11193,6 +11335,24 @@
 "title": "Data Science Intern",
 "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524"
 },
+"simplify:emc insurance:a7c9aea2-4419-4128-b445-65d7c1f33bfe": {
+"checked": "2026-10-04",
+"company": "EMC Insurance",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330322,
+"flags": [],
+"key": "emc insurance|claims intern property",
+"last_seen": "2026-10-04",
+"locations": [
+"Iowa"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Claims Intern - Property",
+"url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Property-_R6553"
+},
 "simplify:emc insurance:b4d6bb98-c5d0-457e-b701-54a86738c07e": {
 "checked": "2026-09-29",
 "company": "EMC Insurance",
@@ -11210,6 +11370,42 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Data-Science_R6524-2"
+},
+"simplify:emc insurance:b96cf9b7-1f8d-47c4-8c9c-6c70376ffe7c": {
+"checked": "2026-10-04",
+"company": "EMC Insurance",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.233035,
+"flags": [],
+"key": "emc insurance|claims intern workers compensation",
+"last_seen": "2026-10-04",
+"locations": [
+"Iowa"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Claims Intern - Workers' Compensation",
+"url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1"
+},
+"simplify:emc insurance:cb8e36f2-8593-4793-bcf8-e10743512481": {
+"checked": "2026-10-04",
+"company": "EMC Insurance",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330012,
+"flags": [],
+"key": "emc insurance|claims intern data",
+"last_seen": "2026-10-04",
+"locations": [
+"Iowa"
+],
+"posted_ts": 1789948800,
+"rolling": false,
+"src": "simplify",
+"title": "Claims Intern - Data",
+"url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552"
 },
 "simplify:emc insurance:fb3a1f41-a8da-429d-b5e3-547dea480442": {
 "checked": "2026-09-29",
@@ -14080,6 +14276,24 @@
 "title": "Material Master Data Intern",
 "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Material-Master-Data-Internship_R-57186"
 },
+"simplify:graco:a2615c64-2015-4766-b23d-9f1fa13c2e70": {
+"checked": "2026-10-04",
+"company": "Graco",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.233009,
+"flags": [],
+"key": "graco|data analytics intern health and safety environmental health and safety",
+"last_seen": "2026-10-04",
+"locations": [
+"Dayton, MN"
+],
+"posted_ts": 1788998400,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern - Health and Safety - Environmental Health and Safety",
+"url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Environment--Health-and-Safety--EHS--Data-Analytics-Intern_R0023530"
+},
 "simplify:great american insurance company:319f5acd-d41e-4a2d-ba38-489c86ff3b27": {
 "checked": "2026-10-02",
 "company": "Great American Insurance Company",
@@ -16416,6 +16630,24 @@
 "title": "Data Intern - Key Technology & Services - Data Track",
 "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385"
 },
+"simplify:keysight technologies:3318c591-4135-42fd-aee3-50ae988fc30f": {
+"checked": "2026-10-04",
+"company": "Keysight Technologies",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330291,
+"flags": [],
+"key": "keysight technologies|data scientist intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Santa Rosa, CA"
+],
+"posted_ts": 1791123118,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://jobs.keysight.com/jobs/54570?icims=1"
+},
 "simplify:kinder morgan:111932e9-ef61-4e10-af00-fdf06cb493c7": {
 "checked": "2026-09-28",
 "company": "Kinder Morgan",
@@ -16505,6 +16737,24 @@
 "src": "simplify",
 "title": "People Analytics Co-op",
 "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8002711003"
+},
+"simplify:l3harris technologies:d6145bb9-e227-4e58-93d0-88787216d111": {
+"checked": "2026-10-04",
+"company": "L3Harris Technologies",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2329822,
+"flags": [],
+"key": "l3harris technologies|associate multimedia web developer programmer intern technical training",
+"last_seen": "2026-10-04",
+"locations": [
+"Rochester, NY"
+],
+"posted_ts": 1788289303,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Multimedia Web Developer/Programmer Intern - Technical Training",
+"url": "https://jobs.l3harris.com/job/Rochester-Associate,-Multimedia-Web-DeveloperProgrammer-(Technical-Training)-NY-14609/1425480300/?ats=successfactors"
 },
 "simplify:labcorp:5a08979e-7e9a-404e-8ff7-08e9387be038": {
 "checked": "2026-09-29",
@@ -18809,6 +19059,24 @@
 "title": "Data Engineer Intern",
 "url": "https://job-boards.greenhouse.io/nisc/jobs/8167858"
 },
+"simplify:national laboratory of the rockies:9147101e-cb46-4f47-9456-f57bca1a2710": {
+"checked": "2026-10-04",
+"company": "National Laboratory of the Rockies",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330425,
+"flags": [],
+"key": "national laboratory of the rockies|graduate geospatial data science modeling and analysis intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Golden, CO"
+],
+"posted_ts": 1789084800,
+"rolling": false,
+"src": "simplify",
+"title": "Graduate Geospatial Data Science Modeling and Analysis Intern",
+"url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510"
+},
 "simplify:national life:b8ea1f69-0e58-40a5-b2db-ebf0b0197dca": {
 "checked": "2026-09-29",
 "company": "National Life",
@@ -19053,6 +19321,25 @@
 "src": "simplify",
 "title": "Payments AI Engineer Intern",
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400"
+},
+"simplify:navy federal:a3265bb9-bf8d-4ab6-b4ed-809f2362a4ed": {
+"checked": "2026-10-04",
+"company": "Navy Federal",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2329743,
+"flags": [],
+"key": "navy federal|associate intern lending automation technology solutions",
+"last_seen": "2026-10-04",
+"locations": [
+"Pensacola, FL",
+"Vienna, VA"
+],
+"posted_ts": 1788963399,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Intern - Lending Automation Technology & Solutions",
+"url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359"
 },
 "simplify:navy federal:a52f9be6-50a2-4946-a09a-dfda0252c072": {
 "checked": "2026-09-28",
@@ -20344,6 +20631,24 @@
 "src": "simplify",
 "title": "Technical Intern",
 "url": "https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7"
+},
+"simplify:parsons:f865648f-b814-4503-ba7b-112c3f3fe9f1": {
+"checked": "2026-10-04",
+"company": "Parsons",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330227,
+"flags": [],
+"key": "parsons|cno developer intern co op",
+"last_seen": "2026-10-04",
+"locations": [
+"Maryland"
+],
+"posted_ts": 1789409444,
+"rolling": false,
+"src": "simplify",
+"title": "CNO Developer Intern Co-op",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Field-Location/CNO-Development-Intern-Co-op_R184352"
 },
 "simplify:patch my pc:8333b344-795f-4400-aa23-11358ddd296e": {
 "checked": "2026-09-30",
@@ -22486,6 +22791,24 @@
 "title": "AI Software Engineer Intern",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980"
 },
+"simplify:rolls-royce:16d72e19-4fbb-4539-842e-ab1c221c3562": {
+"checked": "2026-10-04",
+"company": "Rolls-Royce",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2329981,
+"flags": [],
+"key": "rolls-royce|junior machine learning engineer intern",
+"last_seen": "2026-10-04",
+"locations": [
+"Indianapolis, IN"
+],
+"posted_ts": 1789344000,
+"rolling": false,
+"src": "simplify",
+"title": "Junior Machine Learning Engineer Intern",
+"url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142"
+},
 "simplify:rovisys:1a7491a2-4bd2-4f12-8ae7-887a36860442": {
 "checked": "2026-09-28",
 "company": "RoviSys",
@@ -23285,6 +23608,24 @@
 "src": "simplify",
 "title": "Software Engineering Co-op",
 "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1"
+},
+"simplify:saab:9e0dc3ab-9d79-4ad2-8969-6a079b606b79": {
+"checked": "2026-10-04",
+"company": "Saab",
+"deadline": "2026-11-01",
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2330132,
+"flags": [],
+"key": "saab|systems engineer co op",
+"last_seen": "2026-10-04",
+"locations": [
+"East Syracuse, NY"
+],
+"posted_ts": 1788220800,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Engineer Co-op",
+"url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1"
 },
 "simplify:saab:c4b04101-1a96-40a4-ab89-9a4100b785eb": {
 "checked": "2026-09-28",
@@ -26351,6 +26692,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Recommendation",
 "url": "https://lifeattiktok.com/search/7662653087863081221"
+},
+"simplify:tiktok:36ca9c42-5715-4e50-acfe-f95b266ced75": {
+"checked": "2026-10-04",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-10-04",
+"first_seen_ts": 1791133006.2329905,
+"flags": [],
+"key": "tiktok|client solutions intern",
+"last_seen": "2026-10-04",
+"locations": [
+"NYC"
+],
+"posted_ts": 1789521547,
+"rolling": false,
+"src": "simplify",
+"title": "Client Solutions Intern",
+"url": "https://lifeattiktok.com/search/7684622182248548661"
 },
 "simplify:tiktok:3a5ca7be-fe69-4dc6-90df-9bdae4a796cc": {
 "checked": "2026-09-28",
