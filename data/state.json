@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-05",
@@ -1663,6 +1665,42 @@
 "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060"
 },
+"greenhouse:waymo:8257159": {
+"checked": "2026-10-05",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-05",
+"first_seen_ts": 1791238749.462463,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd ml systems behavior discovery",
+"last_seen": "2026-10-05",
+"locations": [
+"Mountain View, CA, USA"
+],
+"posted_ts": 1791229287.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8257159"
+},
+"greenhouse:waymo:8257205": {
+"checked": "2026-10-05",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-05",
+"first_seen_ts": 1791238749.4624805,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd software engineer eval data infra",
+"last_seen": "2026-10-05",
+"locations": [
+"Mountain View, CA, USA"
+],
+"posted_ts": 1791229462.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
+},
 "greenhouse:xai:5255111007": {
 "checked": "2026-10-02",
 "company": "xAI",
@@ -2626,7 +2664,7 @@
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551"
 },
 "simplify:aerovironment:c9219098-5aa0-4c53-b99b-6ff08c775ff5": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "AeroVironment",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5221,7 +5259,7 @@
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318"
 },
 "simplify:auto-owners insurance:30f6a8d2-2959-422e-977f-26acdf02c387": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Auto-Owners Insurance",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5239,7 +5277,7 @@
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474"
 },
 "simplify:auto-owners insurance:4c33e927-c6a7-4416-bba1-be025fb1558d": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Auto-Owners Insurance",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5275,7 +5313,7 @@
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121"
 },
 "simplify:auto-owners insurance:ecfcd54c-d907-4dac-8649-56d9a8f24394": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Auto-Owners Insurance",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5577,7 +5615,7 @@
 "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236"
 },
 "simplify:barnes & thornburg:0b0d53ec-cfd1-40c4-a293-87cab61a418d": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Barnes & Thornburg",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5595,7 +5633,7 @@
 "url": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true"
 },
 "simplify:barnes & thornburg:e5307ac6-20bb-4dc4-b8f0-1763ebe0d0b3": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Barnes & Thornburg",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5613,7 +5651,7 @@
 "url": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true"
 },
 "simplify:barr:043c5fe0-58dc-4412-aeef-db60c9bd78b9": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Barr",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5685,7 +5723,7 @@
 "url": "https://jobs.ashbyhq.com/bedrock-robotics/cb06dc4f-3e78-4546-897d-b39ba12a9178/application?embed=true"
 },
 "simplify:bedrock robotics:66b1fe7b-a6c1-4da5-a7f1-d4789239afce": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Bedrock Robotics",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -5703,7 +5741,7 @@
 "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true"
 },
 "simplify:bedrock robotics:7530c688-5657-4159-baad-6d34c53ff482": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Bedrock Robotics",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -6279,7 +6317,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050"
 },
 "simplify:booz allen:631d0528-a176-456e-8072-fb2bd76f4b02": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Booz Allen",
 "deadline": "2026-12-09",
 "first_seen": "2026-09-28",
@@ -6600,7 +6638,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
 },
 "simplify:booz allen:bf4ff037-a559-4845-9678-eb93cb17a890": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Booz Allen",
 "deadline": "2026-12-06",
 "first_seen": "2026-09-28",
@@ -6942,7 +6980,7 @@
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963"
 },
 "simplify:brevan howard:79d2767b-ee67-4702-b2e3-506ab0eb3a30": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Brevan Howard",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -6960,7 +6998,7 @@
 "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596"
 },
 "simplify:brevan howard:dd44e95b-73ef-4392-8b75-228853ac350e": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Brevan Howard",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -8506,7 +8544,7 @@
 "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877"
 },
 "simplify:cigna group:b4c471c9-9a26-433f-a75a-81237cee7603": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Cigna Group",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -8564,7 +8602,7 @@
 "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180"
 },
 "simplify:cigna group:e461cc79-60e8-4159-a7a2-764745fccb27": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Cigna Group",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -8582,7 +8620,7 @@
 "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
 },
 "simplify:cigna group:ea24724d-1fd5-458d-96a6-2c4026e58fe7": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Cigna Group",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -9034,7 +9072,7 @@
 "url": "https://boards.greenhouse.io/embed/job_app?token=8175517"
 },
 "simplify:collier aerospace:3c16cf25-2344-4449-8c12-a8dd16ebdaf2": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Collier Aerospace",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -9052,7 +9090,7 @@
 "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
 },
 "simplify:collier aerospace:a023874d-88f4-4e6c-a29a-681d54bc45f9": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Collier Aerospace",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -9687,7 +9725,7 @@
 "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007"
 },
 "simplify:covestro:229eef02-3f6a-438c-8418-e238047cac56": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Covestro",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -9903,7 +9941,7 @@
 "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828"
 },
 "simplify:danaher:90912950-0238-4415-ada4-c22d0cbd6ae8": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Danaher",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -10066,7 +10104,7 @@
 "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479"
 },
 "simplify:delta dental of iowa:53789711-bf05-4e76-ac3d-2aca7cc68bc2": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Delta Dental of Iowa",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -10355,7 +10393,7 @@
 "url": "https://careers.docusign.com/jobs/30464?icims=1"
 },
 "simplify:domino data lab:c7dca39a-27ef-4e1d-a94e-b69ede82a562": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Domino Data Lab",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -10896,7 +10934,7 @@
 "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005"
 },
 "simplify:dv trading:bdf30f76-458b-4527-9924-6423f7c5ebd4": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "DV Trading",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -11498,7 +11536,7 @@
 "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048"
 },
 "simplify:emerson electric:fce07d58-8d51-46a0-9ac2-6f8f9be4da7f": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Emerson Electric",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -11642,7 +11680,7 @@
 "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false"
 },
 "simplify:epic games:26b76573-439e-42cf-b4a5-f38f8408610c": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Epic Games",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -12284,7 +12322,7 @@
 "url": "https://careers.fastenterprises.com/jobs/1709?icims=1"
 },
 "simplify:federated insurance:ef63f2cb-2deb-4e58-928e-18652d0733b3": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Federated Insurance",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -12320,7 +12358,7 @@
 "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128"
 },
 "simplify:fidelity investments:3ffeeada-412b-4314-ad45-08e3e40c327f": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Fidelity Investments",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -12356,7 +12394,7 @@
 "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122"
 },
 "simplify:fidelity investments:695c330c-a16f-4490-93fc-2f34b8d874ce": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Fidelity Investments",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -12988,7 +13026,7 @@
 "url": "https://careers.garmin.com/jobs/19693?icims=1"
 },
 "simplify:garmin:fae66348-df21-4b6a-a2b0-d344bf7543ba": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Garmin",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -13259,7 +13297,7 @@
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2"
 },
 "simplify:ge vernova:50656933-26e4-497e-99e3-1114aaae5ed4": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "GE Vernova",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -13367,7 +13405,7 @@
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1"
 },
 "simplify:ge vernova:f2ae7111-d087-4a82-b8fa-18fbe8b01901": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "GE Vernova",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -13566,7 +13604,7 @@
 "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"
 },
 "simplify:general dynamics mission systems:054b254c-cc0b-47dd-a2c2-98cf50c0269f": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "General Dynamics Mission Systems",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -13736,7 +13774,7 @@
 "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
 },
 "simplify:general motors:83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "General Motors",
 "deadline": "2026-10-09",
 "first_seen": "2026-09-28",
@@ -13792,7 +13830,7 @@
 "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859"
 },
 "simplify:general motors:d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "General Motors",
 "deadline": "2026-10-15",
 "first_seen": "2026-09-28",
@@ -14897,7 +14935,7 @@
 "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"
 },
 "simplify:hmh:56aeb6bb-7cae-408d-8f71-eb7b1a99ea96": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "HMH",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -15274,7 +15312,7 @@
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"
 },
 "simplify:humana:8a5817d0-6b9e-4c4b-b823-db09c8a94e6c": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Humana",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -15590,7 +15628,7 @@
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
 },
 "simplify:immuta:5f3bc06c-d1dc-4a8c-a2d4-d1e2911c3626": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Immuta",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -15608,7 +15646,7 @@
 "url": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply"
 },
 "simplify:immuta:d5f1160b-114b-4a0e-b196-adf32447203e": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Immuta",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -15626,7 +15664,7 @@
 "url": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply"
 },
 "simplify:immuta:e324dbfe-55ba-4099-a9f0-2268a787100e": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Immuta",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -15662,7 +15700,7 @@
 "url": "https://impulsespace.pinpointhq.com/en/postings/56c98c48-25a5-4af7-ab9d-388c28bdbd50?ats=pinpointhq"
 },
 "simplify:impulse space:1e876ae2-39bb-4074-b163-dcb7368e9df3": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Impulse Space",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16176,7 +16214,7 @@
 "url": "https://johndeere.eightfold.ai/careers/job/137482673640"
 },
 "simplify:johns hopkins applied physics laboratory:0c28ec70-1138-4464-8cfe-9732f94e0dbd": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Johns Hopkins Applied Physics Laboratory",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16374,7 +16412,7 @@
 "url": "https://careers.jhuapl.edu/jobs/59598?icims=1"
 },
 "simplify:johns hopkins applied physics laboratory:e1ff445a-9dad-4e51-8528-9a0779013170": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Johns Hopkins Applied Physics Laboratory",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16428,7 +16466,7 @@
 "url": "https://careers.jhuapl.edu/jobs/60040?icims=1"
 },
 "simplify:johns hopkins applied physics laboratory:ed605070-d6fd-49c3-a4f4-dc442d4fbc15": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Johns Hopkins Applied Physics Laboratory",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16593,7 +16631,7 @@
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978"
 },
 "simplify:k2 space:20b0f4b1-dafa-4b0c-bebe-41e1e3676175": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "K2 Space",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16629,7 +16667,7 @@
 "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"
 },
 "simplify:kensho:37b49760-4eb8-426a-b9d7-3452d4d88e99": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Kensho",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16648,7 +16686,7 @@
 "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714"
 },
 "simplify:kensho:d96e9b38-f776-431d-9b9c-d75fa74ab6a8": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Kensho",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16667,7 +16705,7 @@
 "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
 },
 "simplify:ketjen:4b7557d9-8b53-4ecd-9f14-686d7936f4bf": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Ketjen",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -18002,7 +18040,7 @@
 "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579"
 },
 "simplify:meijer:4d4243ae-595a-4fdc-a63f-2824dd3d6c3e": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Meijer",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -18943,7 +18981,7 @@
 "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204161"
 },
 "simplify:national information solutions cooperative:18f5abd9-952b-44fb-9486-05eb2fbf3ff7": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "National Information Solutions Cooperative",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -18998,7 +19036,7 @@
 "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204156"
 },
 "simplify:national information solutions cooperative:5c09b44a-a348-477f-927a-d9a8aabe0645": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "National Information Solutions Cooperative",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19055,7 +19093,7 @@
 "url": "https://job-boards.greenhouse.io/testnisc/jobs/8167883"
 },
 "simplify:national information solutions cooperative:a9bfa56a-2b9d-4f54-922b-5a88a03a6af6": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "National Information Solutions Cooperative",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19261,7 +19299,7 @@
 "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Generative-AI-Internship_100231"
 },
 "simplify:navy federal:2f39b3db-1163-4648-abef-3fd3387c0ea2": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19279,7 +19317,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292"
 },
 "simplify:navy federal:3b7f6701-dabe-416a-af5f-efb2491cfbd4": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19300,7 +19338,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368"
 },
 "simplify:navy federal:3eaaacce-8988-4a88-a792-9f62a91ffac5": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19319,7 +19357,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32460"
 },
 "simplify:navy federal:4a704151-2d2c-4e76-bc7f-ba706ce80c55": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19339,7 +19377,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081"
 },
 "simplify:navy federal:65ad38a7-2526-4991-8307-6c8daf2a8a35": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19358,7 +19396,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288"
 },
 "simplify:navy federal:7d033b9a-bd88-4dfb-897d-f21892ee951f": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19376,7 +19414,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382"
 },
 "simplify:navy federal:84aceb36-b81e-41f2-b127-68507407f1b0": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19394,7 +19432,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310"
 },
 "simplify:navy federal:8761cb91-c8d1-4411-9c25-3b8a7577c9c6": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19432,7 +19470,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359"
 },
 "simplify:navy federal:a52f9be6-50a2-4946-a09a-dfda0252c072": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19450,7 +19488,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079"
 },
 "simplify:navy federal:a58125b0-2c66-4d05-ad80-42c3a6df7526": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19468,7 +19506,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261"
 },
 "simplify:navy federal:ae2da0b2-b823-4adf-ab79-777009b4e8f9": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19486,7 +19524,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265"
 },
 "simplify:navy federal:ba118ced-217b-406f-8885-fb001cb6f2ee": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19504,7 +19542,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291"
 },
 "simplify:navy federal:bacd78d3-75f9-4a04-bcb0-8af136f91b7d": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19522,7 +19560,7 @@
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337"
 },
 "simplify:navy federal:eeb6c52c-37fb-419b-98d3-d0f4866c100c": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Navy Federal",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -20230,7 +20268,7 @@
 "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"
 },
 "simplify:nova-tech:844f8a1f-7749-49a6-8afe-6eaed5ef5d3b": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Nova-Tech",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -20629,7 +20667,7 @@
 "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786"
 },
 "simplify:pacific fusion:21bac346-8a08-470a-8e10-bec8ed7eeaab": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Pacific Fusion",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -20870,7 +20908,7 @@
 "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1"
 },
 "simplify:peraton:a3c8fc71-5658-4914-be57-ce61c100da82": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Peraton",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21142,7 +21180,7 @@
 "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991"
 },
 "simplify:pilot company:21e88e05-60ca-43a9-a5d8-cb87a20fd268": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Pilot Company",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21160,7 +21198,7 @@
 "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576829"
 },
 "simplify:pilot company:33258c1b-8a35-41f6-a22e-7156b64f6144": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Pilot Company",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21178,7 +21216,7 @@
 "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576444"
 },
 "simplify:pilot company:3ac201b9-c986-40a8-ad3b-b9749cea91c8": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Pilot Company",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21196,7 +21234,7 @@
 "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148572871"
 },
 "simplify:pilot company:8af537c8-1c4a-4baf-a924-99bf28fc30a0": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Pilot Company",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21214,7 +21252,7 @@
 "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576544"
 },
 "simplify:pilot company:ece3f59c-0b44-40f0-8f75-a361ad895c47": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Pilot Company",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21673,7 +21711,7 @@
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
 },
 "simplify:publicis groupe:ef40c957-572d-4f46-9bab-b7378678804d": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Publicis Groupe",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -22560,7 +22598,7 @@
 "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"
 },
 "simplify:rf-smart:d5b824b3-f478-49bb-8b20-9c1b283518f4": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "RF-SMART",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -22709,7 +22747,7 @@
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429"
 },
 "simplify:robert bosch venture capital:9ad24c3c-3daf-41ba-a2f7-83ac94fb4d92": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Robert Bosch Venture Capital",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -22843,7 +22881,7 @@
 "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
 },
 "simplify:rocket lab usa:09f2ddca-c47a-4987-a1c6-12af07005663": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Rocket Lab USA",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -22861,7 +22899,7 @@
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003"
 },
 "simplify:rocket lab usa:310039a0-54be-43b7-b7cc-d9871cd3bcbe": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Rocket Lab USA",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -23348,7 +23386,7 @@
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235"
 },
 "simplify:rtx:757ed4c0-2f8e-4285-a0dd-e82bb8698fb7": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "RTX",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -23384,7 +23422,7 @@
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
 },
 "simplify:rtx:7ca37683-268a-4dd7-a974-d250fd211b31": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "RTX",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -23699,7 +23737,7 @@
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078"
 },
 "simplify:s&p global:b4d94132-e8a4-4b79-b217-987f984623b5": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "S&P Global",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -23718,7 +23756,7 @@
 "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1"
 },
 "simplify:s&p global:b93e1e71-e120-4e6d-8deb-aff1ce68d3f1": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "S&P Global",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -23895,7 +23933,7 @@
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
 },
 "simplify:saronic:36ded0a7-bb49-4395-ad3a-32a1fa86b8b2": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Saronic",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -23913,7 +23951,7 @@
 "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true"
 },
 "simplify:saronic:3c09c2bd-e95b-43e4-99d1-9e6b16a1a21d": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Saronic",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -24093,7 +24131,7 @@
 "url": "https://seatgeek.com/jobs/8247554?gh_jid=8247554"
 },
 "simplify:securian financial group:8a3a2fbf-c843-4e59-936b-52ef8c326944": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Securian Financial Group",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -24147,7 +24185,7 @@
 "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply"
 },
 "simplify:shield ai:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Shield AI",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -24273,7 +24311,7 @@
 "url": "https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false"
 },
 "simplify:shure:71aba8dd-67b4-48bf-b97f-19f464bcb391": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Shure",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -24968,7 +25006,7 @@
 "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019"
 },
 "simplify:state farm:e5d509b4-cf02-4596-b607-048396739370": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "State Farm",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -26283,7 +26321,7 @@
 "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968"
 },
 "simplify:the mj companies:03ddbf84-5e23-46af-b5c3-428a7ef7f009": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "The MJ Companies",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -28171,7 +28209,7 @@
 "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Data-Platforms-Engineer-Summer-2027-Intern_R26-01498"
 },
 "simplify:tokyo electron:69b00435-ded2-4b2b-b17c-8301a26ab57e": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Tokyo Electron",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -29455,7 +29493,7 @@
 "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"
 },
 "simplify:vertiv:48fe73cf-84c7-4a22-bfd9-952a666e8607": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Vertiv",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -29473,7 +29511,7 @@
 "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129"
 },
 "simplify:vertiv:571e7550-1637-482e-9a38-7d49957afb03": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Vertiv",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -29744,7 +29782,7 @@
 "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030"
 },
 "simplify:walmart:f00e8399-0777-4e56-b2cb-0fd0631a0655": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Walmart",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -31366,7 +31404,7 @@
 "url": "https://careers.zimmerbiomet.com/us/en/job/12746"
 },
 "simplify:zions bank:a8f74022-e7f9-431a-a969-0b7d525a735c": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Zions Bank",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -31492,7 +31530,7 @@
 "url": "https://www.zipline.com/open-roles?gh_jid=7909570003"
 },
 "simplify:zipline:908892d9-b9e6-4b8c-a336-fc705990330a": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Zipline",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -31510,7 +31548,7 @@
 "url": "https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003"
 },
 "simplify:zipline:9a212b5f-a9ed-4a6c-9091-d44030af17cc": {
-"checked": "2026-09-28",
+"checked": "2026-10-05",
 "company": "Zipline",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -31562,6 +31600,24 @@
 "src": "workday:adobe",
 "title": "2027 Intern - Software Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
+},
+"workday:adobe:R172064": {
+"checked": "2026-10-05",
+"company": "Adobe",
+"deadline": null,
+"first_seen": "2026-10-05",
+"first_seen_ts": 1791238749.4626484,
+"flags": [],
+"key": "adobe|2027 intern applied and research scientist engineer",
+"last_seen": "2026-10-05",
+"locations": [
+"San Jose"
+],
+"posted_ts": null,
+"rolling": true,
+"src": "workday:adobe",
+"title": "2027 Intern - Applied and Research Scientist/Engineer",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
 },
 "workday:intel:JR0286834": {
 "checked": "2026-10-05",
@@ -31707,6 +31763,24 @@
 "title": "Intern System Software Development Engineer",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"
 },
+"workday:intel:JR0287524": {
+"checked": "2026-10-05",
+"company": "Intel",
+"deadline": null,
+"first_seen": "2026-10-05",
+"first_seen_ts": 1791238749.4626706,
+"flags": [],
+"key": "intel|ai solution architect graduate intern",
+"last_seen": "2026-10-05",
+"locations": [
+"US, California, Santa Clara"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:intel",
+"title": "AI Solution Architect - Graduate Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"
+},
 "workday:intel:JR0287525": {
 "checked": "2026-09-30",
 "company": "Intel",
@@ -31724,6 +31798,24 @@
 "src": "workday:intel",
 "title": "Research Scientist Intern - Graphics, ML",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
+},
+"workday:intel:JR0287530": {
+"checked": "2026-10-05",
+"company": "Intel",
+"deadline": null,
+"first_seen": "2026-10-05",
+"first_seen_ts": 1791238749.4626746,
+"flags": [],
+"key": "intel|ai solution architect graduate intern",
+"last_seen": "2026-10-05",
+"locations": [
+"US, California, Santa Clara"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:intel",
+"title": "AI Solution Architect Graduate Intern",
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"
 },
 "workday:intel:JR0287544": {
 "checked": "2026-10-01",
