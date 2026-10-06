@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:intel": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-06",
@@ -3122,6 +3120,24 @@
 "title": "Data Governance Intern",
 "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076"
 },
+"simplify:alston & bird law firm:d0cef856-98c0-4742-86ea-e16297da53fb": {
+"checked": "2026-10-06",
+"company": "Alston & Bird Law Firm",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906278,
+"flags": [],
+"key": "alston & bird law firm|developer intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791244800,
+"rolling": false,
+"src": "simplify",
+"title": "Developer Intern",
+"url": "https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986"
+},
 "simplify:altamira technologies:60f8cb68-d09b-40e1-83e3-85541cc9d3d4": {
 "checked": "2026-10-05",
 "company": "Altamira Technologies",
@@ -4387,6 +4403,24 @@
 "src": "simplify",
 "title": "GenAI Intern",
 "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561"
+},
+"simplify:american family insurance group:c0f389e5-99cf-4fb0-a67e-06d06d9a36b2": {
+"checked": "2026-10-06",
+"company": "American Family Insurance Group",
+"deadline": "2026-10-12",
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906254,
+"flags": [],
+"key": "american family insurance group|data analytics intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Madison, WI"
+],
+"posted_ts": 1791244800,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern",
+"url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631"
 },
 "simplify:american family insurance group:c639bbc2-7340-465e-b311-f2a6a96cc06d": {
 "checked": "2026-10-06",
@@ -6102,6 +6136,24 @@
 "title": "Quantitative Master\u2019s Internship - Technology - Analytics & Modeling",
 "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476"
 },
+"simplify:blue cross blue shield of michigan:40f11b76-b951-46c8-a71e-e8182aa18926": {
+"checked": "2026-10-06",
+"company": "Blue Cross Blue Shield of Michigan",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.690609,
+"flags": [],
+"key": "blue cross blue shield of michigan|epidemiology biostatistics intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Detroit, MI"
+],
+"posted_ts": 1791296520,
+"rolling": false,
+"src": "simplify",
+"title": "Epidemiology / Biostatistics Intern",
+"url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949"
+},
 "simplify:blue origin:613d2234-c5db-4237-b98d-1cca8bafc69d": {
 "checked": "2026-10-05",
 "company": "Blue Origin",
@@ -7181,6 +7233,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Interns/Graduates",
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985"
+},
+"simplify:boston scientific:80c856e0-3ec4-4026-9444-8ee61d28bf1e": {
+"checked": "2026-10-06",
+"company": "Boston Scientific",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906044,
+"flags": [],
+"key": "boston scientific|equipment engineering ai vision engineer intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Maple Grove, MN"
+],
+"posted_ts": 1791296665,
+"rolling": false,
+"src": "simplify",
+"title": "Equipment Engineering AI Vision Engineer Intern",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308"
 },
 "simplify:boston scientific:9f98eff6-d8a9-41cc-9d73-e31bc31c2617": {
 "checked": "2026-10-06",
@@ -16202,6 +16272,24 @@
 "title": "Software Engineer Intern",
 "url": "https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false"
 },
+"simplify:idemia:ca81a621-2f36-49ca-a53c-8b2ade452ded": {
+"checked": "2026-10-06",
+"company": "IDEMIA",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906114,
+"flags": [],
+"key": "idemia|engineering intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Reston, VA"
+],
+"posted_ts": 1791296515,
+"rolling": false,
+"src": "simplify",
+"title": "Engineering Intern",
+"url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false"
+},
 "simplify:iex:7c58c548-fe96-40a5-ad9c-226e9751449f": {
 "checked": "2026-10-06",
 "company": "IEX",
@@ -17830,6 +17918,24 @@
 "title": "Intern - IT",
 "url": "https://careers.kindermorgan.com/jobs/6171?icims=1"
 },
+"simplify:kkr:50597a72-b855-4e2f-a7fe-130439c9ff69": {
+"checked": "2026-10-06",
+"company": "KKR",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906204,
+"flags": [],
+"key": "kkr|summer analyst intern insurance risk data science",
+"last_seen": "2026-10-06",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791296021,
+"rolling": false,
+"src": "simplify",
+"title": "Summer Analyst Intern - Insurance Risk - Data Science",
+"url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004"
+},
 "simplify:klaviyo:155087e9-02c4-4e9c-af43-3d7e5a3a6091": {
 "checked": "2026-10-06",
 "company": "Klaviyo",
@@ -18653,6 +18759,24 @@
 "src": "simplify",
 "title": "Data Science Intern - Algorithms",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
+},
+"simplify:macy's:f0290968-f103-48af-89e4-6c57d1500413": {
+"checked": "2026-10-06",
+"company": "Macy's",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.690623,
+"flags": [],
+"key": "macy's|analytics intern multiple teams",
+"last_seen": "2026-10-06",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791295541,
+"rolling": false,
+"src": "simplify",
+"title": "Analytics Intern - Multiple Teams",
+"url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389"
 },
 "simplify:magna:47d95f89-f763-477d-a29f-ec7b46b0f160": {
 "checked": "2026-10-05",
@@ -24660,6 +24784,21 @@
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820"
 },
+"simplify:rtx:6d72adc9-d3c0-4b7b-95ee-85e523701bab": {
+"company": "RTX",
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.690631,
+"flags": [],
+"key": "rtx|software engineering co op",
+"last_seen": "2026-10-06",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1790553600,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"
+},
 "simplify:rtx:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62": {
 "checked": "2026-09-29",
 "company": "RTX",
@@ -25513,6 +25652,24 @@
 "title": "Software Engineer Intern - Cloud Platform",
 "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true"
 },
+"simplify:sentinel technologies:9021bf38-e375-42b6-92d9-98a404723624": {
+"checked": "2026-10-06",
+"company": "Sentinel Technologies",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906166,
+"flags": [],
+"key": "sentinel technologies|ai intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Downers Grove, IL"
+],
+"posted_ts": 1791296382,
+"rolling": false,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://careers-sentinel.icims.com/jobs/5122/job?mobile=true&needsRedirect=false"
+},
 "simplify:sep:b7692605-3675-4ede-ac05-2e35ccc95ce8": {
 "checked": "2026-10-06",
 "company": "SEP",
@@ -26217,6 +26374,42 @@
 "src": "simplify",
 "title": "Digital Testing & Optimization Intern",
 "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012"
+},
+"simplify:space dynamics laboratory:2e5df730-d9a8-47e0-aac3-c386a7274276": {
+"checked": "2026-10-06",
+"company": "Space Dynamics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6906378,
+"flags": [],
+"key": "space dynamics laboratory|software engineer intern ai enabled software development",
+"last_seen": "2026-10-06",
+"locations": [
+"North Logan, UT"
+],
+"posted_ts": 1791296845,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - AI Enabled Software Development",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development"
+},
+"simplify:space dynamics laboratory:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9": {
+"checked": "2026-10-06",
+"company": "Space Dynamics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.690634,
+"flags": [],
+"key": "space dynamics laboratory|software engineer intern software ai machine learning",
+"last_seen": "2026-10-06",
+"locations": [
+"North Logan, UT"
+],
+"posted_ts": 1791296847,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Software, AI, & Machine Learning",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
 },
 "simplify:spacex:6339287b-3f1f-45ea-964d-65549925660a": {
 "checked": "2026-10-05",
@@ -29664,6 +29857,24 @@
 "title": "Quantitative Developer Intern",
 "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334"
 },
+"simplify:tradeweb:ff8fadb8-1a36-463a-9258-da2a9fe79a54": {
+"checked": "2026-10-06",
+"company": "Tradeweb",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.690614,
+"flags": [],
+"key": "tradeweb|data management intern",
+"last_seen": "2026-10-06",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791296370,
+"rolling": false,
+"src": "simplify",
+"title": "Data Management Intern",
+"url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946"
+},
 "simplify:trane technologies:a3a30f46-fe3b-48db-8f94-28a5b0a06d39": {
 "checked": "2026-10-05",
 "company": "Trane Technologies",
@@ -30946,6 +31157,24 @@
 "src": "simplify",
 "title": "Technical Innovation Intern",
 "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279286"
+},
+"simplify:vertiv:8fdae942-cdba-4211-9277-dd563870610d": {
+"checked": "2026-10-06",
+"company": "Vertiv",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791302355.6885,
+"flags": [],
+"key": "vertiv|software engineer intern",
+"last_seen": "2026-10-06",
+"locations": [
+"Delaware, OH"
+],
+"posted_ts": 1786370981,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777"
 },
 "simplify:vertiv:b53f3f7b-d4fc-4eca-a09f-b6c141e66533": {
 "checked": "2026-10-05",
