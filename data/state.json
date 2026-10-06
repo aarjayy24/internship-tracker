@@ -128,6 +128,24 @@
 "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
 },
+"amazon:amazon:10571004": {
+"checked": "2026-10-06",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-06",
+"first_seen_ts": 1791319864.7236478,
+"flags": [],
+"key": "amazon|software development engineer intern mobile ios android summer 2027 usa",
+"last_seen": "2026-10-06",
+"locations": [
+"Seattle, Washington, USA"
+],
+"posted_ts": 1791244800.0,
+"rolling": false,
+"src": "amazon",
+"title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+"url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
+},
 "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
 "checked": "2026-10-06",
 "company": "Harvey",
