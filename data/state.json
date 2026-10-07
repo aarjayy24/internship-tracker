@@ -56,6 +56,24 @@
 "title": "Software Development Engineer Intern - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"
 },
+"amazon:amazon:10553907": {
+"checked": "2026-10-07",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5475738,
+"flags": [],
+"key": "amazon|data engineer internship 2027 us",
+"last_seen": "2026-10-07",
+"locations": [
+"Seattle, Washington, USA"
+],
+"posted_ts": 1789689600.0,
+"rolling": false,
+"src": "amazon",
+"title": "Data Engineer Internship - 2027 (US)",
+"url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"
+},
 "amazon:amazon:10559746": {
 "checked": "2026-10-07",
 "company": "Amazon",
@@ -1196,9 +1214,9 @@
 "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
 },
 "greenhouse:robinhood:8198255": {
-"checked": "2026-10-05",
+"checked": "2026-10-07",
 "company": "Robinhood",
-"deadline": null,
+"deadline": "2026-10-14",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.989989,
 "flags": [],
@@ -4947,6 +4965,24 @@
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
 },
+"simplify:apple bank:1e295cb0-851c-4444-95da-daa70198fa7d": {
+"checked": "2026-10-07",
+"company": "Apple Bank",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519555,
+"flags": [],
+"key": "apple bank|it data intern analytics automation",
+"last_seen": "2026-10-07",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "IT Data Intern - Analytics, & Automation",
+"url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414"
+},
 "simplify:applied materials:175ef4c9-fecc-47c4-b091-217815858898": {
 "checked": "2026-10-05",
 "company": "Applied Materials",
@@ -7343,6 +7379,47 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849"
 },
+"simplify:bose:8361ff2b-f33d-4bba-ba6a-756c0fda60f4": {
+"checked": "2026-10-07",
+"company": "Bose",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5518978,
+"flags": [],
+"key": "bose|audio machine learning intern co op",
+"last_seen": "2026-10-07",
+"locations": [
+"Bloomfield Hills, MI",
+"Framingham, MA",
+"Atlanta, GA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Audio Machine Learning Intern Co-op",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277"
+},
+"simplify:bose:855eab6a-3d70-435e-adbb-95789fabe3d2": {
+"checked": "2026-10-07",
+"company": "Bose",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551903,
+"flags": [],
+"key": "bose|embedded software engineer co op audio tech",
+"last_seen": "2026-10-07",
+"locations": [
+"Bloomfield Hills, MI",
+"Framingham, MA",
+"Troy, MI",
+"Atlanta, GA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Co-op - Audio Tech",
+"url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278"
+},
 "simplify:boston scientific:1a872d07-40d8-4b98-8f0f-15127543ae64": {
 "checked": "2026-09-28",
 "company": "Boston Scientific",
@@ -8734,6 +8811,26 @@
 "src": "simplify",
 "title": "Software Intern",
 "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763"
+},
+"simplify:centene:660a1f43-e63f-48cb-bcf7-40309e8fe4ba": {
+"checked": "2026-10-07",
+"company": "Centene",
+"deadline": "2026-10-16",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519865,
+"flags": [],
+"key": "centene|ai enablement intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Texas",
+"Florida",
+"Missouri"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "AI Enablement Intern",
+"url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Enablement-Intern--Undergraduate---Summer-2027-_1662038"
 },
 "simplify:centene:704a57e5-4a0e-4e2a-abb6-64f45c2acb63": {
 "checked": "2026-10-02",
@@ -11084,6 +11181,42 @@
 "title": "Software Engineer Intern",
 "url": "https://careers.docusign.com/jobs/30480?icims=1"
 },
+"simplify:docusign:3957ba6a-2e15-4316-9555-093683e2831e": {
+"checked": "2026-10-07",
+"company": "DocuSign",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5520334,
+"flags": [],
+"key": "docusign|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1791411297,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://careers.docusign.com/jobs/30481?icims=1"
+},
+"simplify:docusign:504d6356-cc77-4f95-9ec6-0040078b9953": {
+"checked": "2026-10-07",
+"company": "DocuSign",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5520365,
+"flags": [],
+"key": "docusign|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1791411290,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://careers.docusign.com/jobs/30484?icims=1"
+},
 "simplify:docusign:5675fa47-e852-4cdc-9992-395a0d1765b8": {
 "checked": "2026-10-04",
 "company": "DocuSign",
@@ -11181,6 +11314,78 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
+},
+"simplify:dow jones:45f96119-ae4c-406b-aa1e-f4c0a6c59d89": {
+"checked": "2026-10-07",
+"company": "Dow Jones",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519645,
+"flags": [],
+"key": "dow jones|research analyst intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Houston, TX"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Research Analyst Intern",
+"url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873"
+},
+"simplify:dow jones:4fad9043-edfc-44f1-82bf-a9f8834796b5": {
+"checked": "2026-10-07",
+"company": "Dow Jones",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519083,
+"flags": [],
+"key": "dow jones|data analyst intern",
+"last_seen": "2026-10-07",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst Intern",
+"url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893"
+},
+"simplify:dow jones:64fff9f9-a727-4e4a-8276-7c86d2eff96d": {
+"checked": "2026-10-07",
+"company": "Dow Jones",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519686,
+"flags": [],
+"key": "dow jones|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891"
+},
+"simplify:dow jones:88c35a9d-49a1-4c8d-8ae9-ccf6f2386bee": {
+"checked": "2026-10-07",
+"company": "Dow Jones",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519605,
+"flags": [],
+"key": "dow jones|research analyst intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Houston, TX"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Research Analyst Intern",
+"url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872"
 },
 "simplify:dow jones:e3f140d5-5568-4e19-bd89-42f70d78e1d5": {
 "checked": "2026-10-06",
@@ -13421,6 +13626,24 @@
 "title": "IT Intern - Software Developer",
 "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
 },
+"simplify:first citizens bancshares:876c9bab-5273-42b9-94c4-323238fbe1a8": {
+"checked": "2026-10-07",
+"company": "First Citizens BancShares",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551881,
+"flags": [],
+"key": "first citizens bancshares|outreach analytics intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Raleigh, NC"
+],
+"posted_ts": 1791410698,
+"rolling": false,
+"src": "simplify",
+"title": "Outreach Analytics Intern",
+"url": "https://firstcitizens.jibeapply.com/jobs/35906?icims=1"
+},
 "simplify:first national bank:3201641c-0fb8-4501-a614-976eeaa47ef5": {
 "checked": "2026-10-05",
 "company": "First National Bank",
@@ -14086,14 +14309,14 @@
 "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
 },
 "simplify:ge healthcare:7291b6ac-970f-4f7b-bbd8-67141ae89009": {
-"checked": "2026-09-29",
+"checked": "2026-10-07",
 "company": "GE Healthcare",
-"deadline": null,
+"deadline": "2026-10-12",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.995357,
 "flags": [],
 "key": "ge healthcare|data analytics intern",
-"last_seen": "2026-10-01",
+"last_seen": "2026-10-07",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -14193,6 +14416,24 @@
 "src": "simplify",
 "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2"
+},
+"simplify:ge vernova:202659ad-f0b5-439c-b21e-caa711b9c30d": {
+"checked": "2026-10-07",
+"company": "GE Vernova",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5520296,
+"flags": [],
+"key": "ge vernova|scs commercial intern ai data mining agent",
+"last_seen": "2026-10-07",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "SCS Commercial Intern - : AI Data Mining Agent",
+"url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-2"
 },
 "simplify:ge vernova:286248af-355d-42ad-8709-7d4025e78b45": {
 "checked": "2026-09-28",
@@ -14374,6 +14615,42 @@
 "title": "CIC Systems Engineer Co-op",
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1"
 },
+"simplify:ge vernova:b10edb5a-e520-4da4-988d-a8a730bef747": {
+"checked": "2026-10-07",
+"company": "GE Vernova",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519915,
+"flags": [],
+"key": "ge vernova|scs commercial strategy growth intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Longmont, CO"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "SCS Commercial Strategy & Growth Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1"
+},
+"simplify:ge vernova:ba21fb5b-f6ae-4a75-a5ce-cb99ba4a0b97": {
+"checked": "2026-10-07",
+"company": "GE Vernova",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5520236,
+"flags": [],
+"key": "ge vernova|scs commercial strategy growth intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Longmont, CO"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "SCS Commercial Strategy & Growth Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2"
+},
 "simplify:ge vernova:f2ae7111-d087-4a82-b8fa-18fbe8b01901": {
 "checked": "2026-10-05",
 "company": "GE Vernova",
@@ -14409,6 +14686,24 @@
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+},
+"simplify:ge vernova:fe9397ed-ce82-451a-b4fa-143376c31614": {
+"checked": "2026-10-07",
+"company": "GE Vernova",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519962,
+"flags": [],
+"key": "ge vernova|scs commercial intern ai data mining agent",
+"last_seen": "2026-10-07",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "SCS Commercial Intern - : AI Data Mining Agent",
+"url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-1"
 },
 "simplify:gecko robotics:8360c3f7-a472-4bfa-9c03-ec28915f1cef": {
 "checked": "2026-10-06",
@@ -15743,6 +16038,44 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true"
 },
+"simplify:hcsc:118adc1e-4c91-45e1-8654-5297c47e9a9c": {
+"checked": "2026-10-07",
+"company": "HCSC",
+"deadline": "2026-10-30",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5518672,
+"flags": [],
+"key": "hcsc|systems analyst intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chicago, IL",
+"Richardson, TX"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Analyst Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498"
+},
+"simplify:hcsc:f8f58448-a30c-4f0b-bd35-a8b3aee51172": {
+"checked": "2026-10-07",
+"company": "HCSC",
+"deadline": "2026-10-30",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5518622,
+"flags": [],
+"key": "hcsc|enterprise data analyst intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chicago, IL",
+"Richardson, TX"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Enterprise Data Analyst Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505"
+},
 "simplify:hd supply:09cac698-c1c9-40d2-92e8-212671869939": {
 "checked": "2026-09-28",
 "company": "HD Supply",
@@ -16111,7 +16444,7 @@
 "first_seen_ts": 1790903173.4484959,
 "flags": [],
 "key": "hmh|ai automation development intern",
-"last_seen": "2026-10-05",
+"last_seen": "2026-10-07",
 "locations": [
 "Houston, TX"
 ],
@@ -16687,6 +17020,43 @@
 "title": "AI Engineer Intern",
 "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
 },
+"simplify:icf international:3d769859-1b78-490a-81be-a7cf9bc054bf": {
+"checked": "2026-10-07",
+"company": "ICF International",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519357,
+"flags": [],
+"key": "icf international|data analytics intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Reston, VA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern",
+"url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1"
+},
+"simplify:icf international:8938d4f1-3093-43eb-a443-bd11de15a159": {
+"checked": "2026-10-07",
+"company": "ICF International",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519316,
+"flags": [],
+"key": "icf international|data engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Remote in USA",
+"Reston, VA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380"
+},
 "simplify:icf international:acafb8f1-75b4-44f1-8450-4628ddf3b8a1": {
 "checked": "2026-10-06",
 "company": "ICF International",
@@ -16761,6 +17131,24 @@
 "title": "Engineering Intern",
 "url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false"
 },
+"simplify:idemia:ed7ea0ce-4fb7-47ab-b4d5-bb2a0657868a": {
+"checked": "2026-10-07",
+"company": "IDEMIA",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551893,
+"flags": [],
+"key": "idemia|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Reston, VA"
+],
+"posted_ts": 1791412081,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://uscareers-idemia.icims.com/jobs/8657/job?mobile=true&needsRedirect=false"
+},
 "simplify:iex:7c58c548-fe96-40a5-ad9c-226e9751449f": {
 "checked": "2026-10-06",
 "company": "IEX",
@@ -16814,6 +17202,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers.itw.com/global/en/job/JR10261"
+},
+"simplify:illinois tool works:a8655c72-8299-4087-b0ad-d93807cef979": {
+"checked": "2026-10-07",
+"company": "Illinois Tool Works",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551889,
+"flags": [],
+"key": "illinois tool works|software engineer intern application software",
+"last_seen": "2026-10-07",
+"locations": [
+"Eden Prairie, MN"
+],
+"posted_ts": 1791412117,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Application Software",
+"url": "https://careers.itw.com/global/en/job/JR10491"
 },
 "simplify:imc trading:302d7a14-d6ef-4887-b2e6-ece00d5ae71a": {
 "checked": "2026-10-05",
@@ -18334,6 +18740,24 @@
 "title": "Data Intern - Key Technology & Services - Data Track",
 "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385"
 },
+"simplify:keybank:c9a8571f-f0d0-4e85-8b0c-67a3a310a864": {
+"checked": "2026-10-07",
+"company": "KeyBank",
+"deadline": "2026-10-26",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551915,
+"flags": [],
+"key": "keybank|corporate center measurement impact intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Brooklyn, OH"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Corporate Center \u2013 Measurement & Impact Intern",
+"url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---360-Measurement---Impact-Intern_R-42583"
+},
 "simplify:keysight technologies:3318c591-4135-42fd-aee3-50ae988fc30f": {
 "checked": "2026-10-04",
 "company": "Keysight Technologies",
@@ -18696,6 +19120,24 @@
 "title": "Software Engineer Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933"
 },
+"simplify:leidos:74a5709b-8924-4f80-981e-1b1d1474948a": {
+"checked": "2026-10-07",
+"company": "Leidos",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551924,
+"flags": [],
+"key": "leidos|data pipeline splunk engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Pipeline / Splunk Engineer Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193992"
+},
 "simplify:leidos:831d2f37-f07a-4fd6-8668-e7af33c405f0": {
 "checked": "2026-10-07",
 "company": "Leidos",
@@ -18713,6 +19155,24 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937"
+},
+"simplify:leidos:e3e1417f-9aa4-44e8-8ee8-c075f7d2f7db": {
+"checked": "2026-10-07",
+"company": "Leidos",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519273,
+"flags": [],
+"key": "leidos|technical intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193990"
 },
 "simplify:leidos:e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8": {
 "checked": "2026-10-07",
@@ -19631,6 +20091,24 @@
 "title": "Software Engineer Intern",
 "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
 },
+"simplify:mastercard:bcda5eeb-196c-4f8a-a46a-519f22b3a082": {
+"checked": "2026-10-07",
+"company": "Mastercard",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5518763,
+"flags": [],
+"key": "mastercard|data engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"SF"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993"
+},
 "simplify:mastercard:e42ba45d-b2f8-4b3e-82ea-a28a0016584f": {
 "checked": "2026-09-28",
 "company": "Mastercard",
@@ -19738,6 +20216,26 @@
 "src": "simplify",
 "title": "Software Development Intern - Summer 2027",
 "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+},
+"simplify:mckesson:80e937f9-b321-42fa-98f7-8b8e97d42209": {
+"checked": "2026-10-07",
+"company": "McKesson",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.551885,
+"flags": [],
+"key": "mckesson|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Pittsburgh, PA",
+"Columbus, OH",
+"Irving, TX"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
 },
 "simplify:mckesson:ee4b10f5-1464-463a-b28a-9020824aa805": {
 "checked": "2026-10-05",
@@ -20942,6 +21440,24 @@
 "title": "Digital Signal Processing Software Engineering Intern - Digital Signal Processing",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734"
 },
+"simplify:motorola:d831db7e-e453-435d-b948-9f6d570d4061": {
+"checked": "2026-10-07",
+"company": "Motorola",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519822,
+"flags": [],
+"key": "motorola|genai machine learning intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "GenAI & Machine Learning Intern",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929"
+},
 "simplify:motorola:dffa3f5f-d496-43e5-90e0-105b940da03c": {
 "checked": "2026-10-06",
 "company": "Motorola",
@@ -21902,6 +22418,24 @@
 "src": "simplify",
 "title": "People Analytics Intern",
 "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics_R00943381"
+},
+"simplify:nissan global:9d58c016-deec-47ad-adab-db768f2e513e": {
+"checked": "2026-10-07",
+"company": "Nissan Global",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519772,
+"flags": [],
+"key": "nissan global|systems engineer intern summer 2027",
+"last_seen": "2026-10-07",
+"locations": [
+"Canton, MS"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Engineer Intern - Summer 2027",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882"
 },
 "simplify:njm insurance group:0adb2d84-b56e-47f1-b4ca-f0267547814c": {
 "checked": "2026-10-06",
@@ -22958,6 +23492,24 @@
 "title": "Technical Intern",
 "url": "https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7"
 },
+"simplify:panasonic holdings:e0ffdbe5-df33-4606-8aff-34eb378a599e": {
+"checked": "2026-10-07",
+"company": "Panasonic Holdings",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5490716,
+"flags": [],
+"key": "panasonic holdings|data engineering intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Bridgeton, MO"
+],
+"posted_ts": 1788310953,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineering Intern",
+"url": "https://careers.na.panasonic.com/jobs/50772?icims=1"
+},
 "simplify:pangram labs:39440a28-111a-4535-887b-1a683c23ef54": {
 "checked": "2026-10-04",
 "company": "Pangram Labs",
@@ -23304,6 +23856,24 @@
 "src": "simplify",
 "title": "Robotics Software Intern - Manipulation",
 "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true"
+},
+"simplify:persona:b3b5a172-409f-4e54-9248-583177d1ac17": {
+"checked": "2026-10-07",
+"company": "Persona",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5504565,
+"flags": [],
+"key": "persona|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"SF"
+],
+"posted_ts": 1789597440,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true"
 },
 "simplify:philips:476ebb5a-f574-486f-be24-b89fb51a1040": {
 "checked": "2026-10-07",
@@ -25868,6 +26438,24 @@
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645"
 },
+"simplify:rtx:a09d5d2b-9532-4945-a5a3-fd9ced82b420": {
+"checked": "2026-10-07",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519514,
+"flags": [],
+"key": "rtx|software engineer co op",
+"last_seen": "2026-10-07",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"
+},
 "simplify:rtx:a1c4c9f3-d62d-413d-937e-97b35075c9c6": {
 "checked": "2026-10-05",
 "company": "RTX",
@@ -25955,6 +26543,24 @@
 "title": "Software Engineering Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551"
 },
+"simplify:rtx:bccbd358-b05e-473c-84a8-cefa760bf0c2": {
+"checked": "2026-10-07",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519483,
+"flags": [],
+"key": "rtx|software engineering co op",
+"last_seen": "2026-10-07",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
+},
 "simplify:rtx:c1e87875-633c-4491-b811-cb4f422cda4d": {
 "checked": "2026-10-07",
 "company": "RTX",
@@ -26009,6 +26615,24 @@
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343"
 },
+"simplify:rtx:cd27a28a-afa5-420b-9dec-9dda2b442c94": {
+"checked": "2026-10-07",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519443,
+"flags": [],
+"key": "rtx|software engineering co op summer fall 2027",
+"last_seen": "2026-10-07",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op - Summer/Fall 2027",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738"
+},
 "simplify:rtx:d0427656-991f-42e4-96a3-51a38b3e5d8e": {
 "checked": "2026-09-30",
 "company": "RTX",
@@ -26026,6 +26650,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388"
+},
+"simplify:rtx:d145d88e-f6ed-460e-b257-a01adef1548e": {
+"checked": "2026-10-07",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519397,
+"flags": [],
+"key": "rtx|software engineering co op",
+"last_seen": "2026-10-07",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727"
 },
 "simplify:rtx:d69cc4b1-6d03-4c5e-8430-4c567709546c": {
 "checked": "2026-09-29",
@@ -27528,6 +28170,21 @@
 "title": "Embedded Software Engineering Intern",
 "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019"
 },
+"simplify:state affairs:d9aac9f7-0c18-43c3-a877-644cfdbdb57a": {
+"company": "State Affairs",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519729,
+"flags": [],
+"key": "state affairs|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Washington, DC"
+],
+"posted_ts": 1791411567,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"
+},
 "simplify:state farm:e5d509b4-cf02-4596-b607-048396739370": {
 "checked": "2026-10-05",
 "company": "State Farm",
@@ -27617,6 +28274,24 @@
 "src": "simplify",
 "title": "Software Intern",
 "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
+},
+"simplify:strada:dda0fafe-5154-41de-b113-06d8e40e4a12": {
+"checked": "2026-10-07",
+"company": "Strada",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5519192,
+"flags": [],
+"key": "strada|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"SF"
+],
+"posted_ts": 1791411856,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e/application?embed=true"
 },
 "simplify:stripe:48975da5-2bb2-4457-8702-de4898cd805e": {
 "checked": "2026-10-01",
@@ -28510,6 +29185,43 @@
 "src": "simplify",
 "title": "Software Systems Engineer Intern - Acquisition",
 "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
+},
+"simplify:the aerospace corporation:a3bc2e02-54a9-46bc-8322-c42571a8600b": {
+"checked": "2026-10-07",
+"company": "The Aerospace Corporation",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5520413,
+"flags": [],
+"key": "the aerospace corporation|embedded systems software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chantilly, VA",
+"El Segundo, CA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Systems / Software Engineer Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804"
+},
+"simplify:the aerospace corporation:aabefc1e-0371-47db-9e90-a6428f01409b": {
+"checked": "2026-10-07",
+"company": "The Aerospace Corporation",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5520458,
+"flags": [],
+"key": "the aerospace corporation|network systems graduate intern",
+"last_seen": "2026-10-07",
+"locations": [
+"El Segundo, CA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Network Systems Graduate Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836"
 },
 "simplify:the aerospace corporation:ce049c8e-cbb5-4b0e-b4e2-4f3706fcf0b7": {
 "checked": "2026-09-29",
@@ -32901,6 +33613,24 @@
 "src": "simplify",
 "title": "ML Ops & Automation Intern",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237"
+},
+"simplify:waymo:c8f21f2d-6090-47e0-9b3c-d232b71af4e6": {
+"checked": "2026-10-07",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791416364.5518723,
+"flags": [],
+"key": "waymo|perception intern robotics",
+"last_seen": "2026-10-07",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1791410835,
+"rolling": false,
+"src": "simplify",
+"title": "Perception Intern - Robotics",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8227633"
 },
 "simplify:waymo:d275435a-21ef-455d-80a8-3d9afd93c8a9": {
 "checked": "2026-10-07",
