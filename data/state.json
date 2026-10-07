@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:intel": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-07",
@@ -14988,7 +14990,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "NYC"
 ],
@@ -17179,7 +17181,7 @@
 "first_seen_ts": 1790573041.9929204,
 "flags": [],
 "key": "intel|software engineer intern",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Austin, TX",
 "Santa Clara, CA",
@@ -17661,6 +17663,24 @@
 "title": "Data & Analytics Intern",
 "url": "https://johndeere.eightfold.ai/careers/job/137482673640"
 },
+"simplify:johns hopkins applied physics laboratory:00a52ad4-067c-472b-a535-cacfc706483d": {
+"checked": "2026-10-07",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791378912.9346364,
+"flags": [],
+"key": "johns hopkins applied physics laboratory|acoustic algorithm development engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Laurel, MD"
+],
+"posted_ts": 1788402952,
+"rolling": false,
+"src": "simplify",
+"title": "Acoustic Algorithm Development Engineer Intern",
+"url": "https://careers.jhuapl.edu/jobs/59784?icims=1"
+},
 "simplify:johns hopkins applied physics laboratory:0c28ec70-1138-4464-8cfe-9732f94e0dbd": {
 "checked": "2026-10-05",
 "company": "Johns Hopkins Applied Physics Laboratory",
@@ -17858,6 +17878,24 @@
 "src": "simplify",
 "title": "Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control",
 "url": "https://careers.jhuapl.edu/jobs/59598?icims=1"
+},
+"simplify:johns hopkins applied physics laboratory:d3d10ab7-d5dc-4708-9b54-6176ea96d7f0": {
+"checked": "2026-10-07",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791378912.934355,
+"flags": [],
+"key": "johns hopkins applied physics laboratory|cyber software engineer intern capabilities development",
+"last_seen": "2026-10-07",
+"locations": [
+"Laurel, MD"
+],
+"posted_ts": 1788288493,
+"rolling": false,
+"src": "simplify",
+"title": "Cyber Software Engineer Intern - Capabilities Development",
+"url": "https://careers.jhuapl.edu/jobs/59779?icims=1"
 },
 "simplify:johns hopkins applied physics laboratory:e1ff445a-9dad-4e51-8528-9a0779013170": {
 "checked": "2026-10-05",
@@ -20182,6 +20220,24 @@
 "title": "Software Engineer Intern",
 "url": "https://www.metacareers.com/jobs/1952991802037374"
 },
+"simplify:meta:bb6a3336-da15-4b50-b989-9e84766d0e86": {
+"checked": "2026-10-07",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791378912.9370654,
+"flags": [],
+"key": "meta|data scientist intern product analytics",
+"last_seen": "2026-10-07",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1791353325,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern - Product Analytics",
+"url": "https://www.metacareers.com/jobs/929757023499411"
+},
 "simplify:metlife:7ad6c160-b084-4ec2-9be1-3617d01137d1": {
 "checked": "2026-10-07",
 "company": "MetLife",
@@ -20582,14 +20638,14 @@
 "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"
 },
 "simplify:mondelez international:3fa14192-2a32-445c-adeb-9ffe9446fa86": {
-"checked": "2026-09-29",
+"checked": "2026-10-07",
 "company": "Mondelez International",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9956512,
 "flags": [],
 "key": "mondelez international|promotions analyst intern revenue growth management",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-07",
 "locations": [
 "Santa Fe, NM"
 ],
@@ -20600,14 +20656,14 @@
 "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Becario-Analista-de-promociones--RGM-_R-176645"
 },
 "simplify:mondelez international:ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741": {
-"checked": "2026-09-29",
+"checked": "2026-10-07",
 "company": "Mondelez International",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9956477,
 "flags": [],
 "key": "mondelez international|promotions analyst intern",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-07",
 "locations": [
 "Santa Fe, NM"
 ],
@@ -22466,6 +22522,24 @@
 "title": "Software Engineer Intern",
 "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
 },
+"simplify:omnicom group:6708f1a7-80a4-417b-8ac6-2ac316b42287": {
+"checked": "2026-10-07",
+"company": "Omnicom Group",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791378912.9370744,
+"flags": [],
+"key": "omnicom group|technology solutions intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Addison, TX"
+],
+"posted_ts": 1788220800,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Solutions Intern",
+"url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Intern-Consultant_R13282"
+},
 "simplify:one finance:57114f9d-d821-430f-ac60-02a5e53ef385": {
 "checked": "2026-10-05",
 "company": "ONE Finance",
@@ -23421,16 +23495,19 @@
 "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090"
 },
 "simplify:planview:3e0882ef-3682-46f4-b5a5-bf8dadcf4a08": {
+"checked": "2026-10-07",
 "company": "Planview",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9940662,
 "flags": [],
 "key": "planview|software engineer intern",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-07",
 "locations": [
 "Austin, TX"
 ],
 "posted_ts": 1789049891,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://careers.planview.com/jobs/5128?icims=1"
@@ -28001,6 +28078,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern - US - Summer 2027",
 "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true"
+},
+"simplify:tenstorrent:484795df-9f5d-4137-aada-8bc8059146a3": {
+"checked": "2026-10-07",
+"company": "Tenstorrent",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791378912.93707,
+"flags": [],
+"key": "tenstorrent|ai software intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Austin, TX",
+"Santa Clara, CA"
+],
+"posted_ts": 1791364641,
+"rolling": false,
+"src": "simplify",
+"title": "AI Software Intern",
+"url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"
 },
 "simplify:tesla:596dd9f7-ec11-4d3b-99e8-bcce4bd4a605": {
 "checked": "2026-10-05",
@@ -32609,6 +32705,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - MS/PhD",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
+},
+"simplify:waymo:a6a5ed46-6265-445b-abcd-f0a3316ee4ec": {
+"checked": "2026-10-07",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791378912.9370599,
+"flags": [],
+"key": "waymo|research intern perception foundation models",
+"last_seen": "2026-10-07",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1791353211,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern - Perception Foundation Models",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
 },
 "simplify:waymo:a6dbbd93-025c-446e-9591-2e57776b8c43": {
 "checked": "2026-10-02",
