@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:intel": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-07",
@@ -2472,6 +2470,24 @@
 "src": "microsoft",
 "title": "Software Engineering Internship (6-month Program)",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258"
+},
+"microsoft:microsoft:1970393556986141": {
+"checked": "2026-10-07",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791400943.0507247,
+"flags": [],
+"key": "microsoft|applied science internship opportunities redmond",
+"last_seen": "2026-10-07",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1791395880,
+"rolling": true,
+"src": "microsoft",
+"title": "Applied Science: Internship Opportunities - Redmond",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556986141"
 },
 "microsoft:microsoft:1970393557002476": {
 "checked": "2026-10-06",
@@ -6877,6 +6893,24 @@
 "title": "Data Scientist Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408"
 },
+"simplify:booz allen:74c29392-8eab-44f0-a1ae-0bb1d66ec96f": {
+"checked": "2026-10-07",
+"company": "Booz Allen",
+"deadline": "2027-01-04",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791400943.0545936,
+"flags": [],
+"key": "booz allen|junior ai software developer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Junior AI Software Developer Intern",
+"url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
+},
 "simplify:booz allen:7637b476-395a-4c53-bc72-f6e375758876": {
 "checked": "2026-10-05",
 "company": "Booz Allen",
@@ -7452,6 +7486,24 @@
 "src": "simplify",
 "title": "Software Development Engineer Intern",
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960"
+},
+"simplify:boston scientific:d1dc4ba6-e31d-45f7-951e-0d48b6d86048": {
+"checked": "2026-10-07",
+"company": "Boston Scientific",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791400943.054582,
+"flags": [],
+"key": "boston scientific|r d research data science intern",
+"last_seen": "2026-10-07",
+"locations": [
+"United States"
+],
+"posted_ts": 1790576130,
+"rolling": false,
+"src": "simplify",
+"title": "R&D Research Data Science Intern",
+"url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382"
 },
 "simplify:boston scientific:e7777af9-8bca-4dd7-b5b6-6ec86fff06f9": {
 "checked": "2026-09-29",
@@ -10235,14 +10287,14 @@
 "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Market-Analytics-Intern_R26_0000000948"
 },
 "simplify:country financial:52bd67ea-cc1b-4b12-9ba9-77c1fe08ed78": {
-"checked": "2026-09-28",
+"checked": "2026-10-07",
 "company": "COUNTRY Financial",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9937496,
 "flags": [],
 "key": "country financial|automation developer intern",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-07",
 "locations": [
 "Bloomington, IL"
 ],
@@ -15563,6 +15615,24 @@
 "title": "Enterprise Analytics Intern",
 "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41879"
 },
+"simplify:guidewell mutual:b02141a2-8d29-4f0b-b7a7-280a77592468": {
+"checked": "2026-10-07",
+"company": "GuideWell Mutual",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791400943.0545886,
+"flags": [],
+"key": "guidewell mutual|it graduate internship multiple teams",
+"last_seen": "2026-10-07",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1791382562,
+"rolling": false,
+"src": "simplify",
+"title": "IT Graduate Internship - Multiple Teams",
+"url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182"
+},
 "simplify:h&r block:21792146-80f9-45a6-ade2-d26fd0098c49": {
 "checked": "2026-10-07",
 "company": "H&R Block",
@@ -17410,14 +17480,14 @@
 "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
 },
 "simplify:iridium communications:7e94c6d9-c88c-4d70-8bd0-51a2cc801485": {
-"checked": "2026-09-29",
+"checked": "2026-10-07",
 "company": "Iridium Communications",
 "deadline": null,
 "first_seen": "2026-09-29",
 "first_seen_ts": 1790725517.1952863,
 "flags": [],
 "key": "iridium communications|software engineering intern",
-"last_seen": "2026-10-02",
+"last_seen": "2026-10-07",
 "locations": [
 "Tempe, AZ",
 "McLean, VA"
@@ -22086,6 +22156,24 @@
 "title": "Software Engineer Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
 },
+"simplify:northrop grumman:78a00951-890f-474e-94ee-6e0cc1a2b9f7": {
+"checked": "2026-10-07",
+"company": "Northrop Grumman",
+"deadline": "2026-10-10",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791400943.054602,
+"flags": [],
+"key": "northrop grumman|software developer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chantilly, VA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
+},
 "simplify:northrop grumman:982c416c-c960-4efd-81a7-a87081597d80": {
 "checked": "2026-10-07",
 "company": "Northrop Grumman",
@@ -26043,6 +26131,24 @@
 "src": "simplify",
 "title": "Platform System Engineering Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078"
+},
+"simplify:s&c electric company:258d5748-3766-4b86-b1f1-7672e1c66cef": {
+"checked": "2026-10-07",
+"company": "S&C Electric Company",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791400943.0545976,
+"flags": [],
+"key": "s&c electric company|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1791382885,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
 },
 "simplify:s&p global:b4d94132-e8a4-4b79-b217-987f984623b5": {
 "checked": "2026-10-05",
