@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:intel": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-07",
@@ -147,6 +145,24 @@
 "src": "amazon",
 "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
+},
+"amazon:amazon:10571374": {
+"checked": "2026-10-07",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8719695,
+"flags": [],
+"key": "amazon|software development engineer embedded systems intern amazon leo summer 2027 usa",
+"last_seen": "2026-10-07",
+"locations": [
+"Redmond, Washington, USA"
+],
+"posted_ts": 1791331200.0,
+"rolling": false,
+"src": "amazon",
+"title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+"url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa"
 },
 "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
 "checked": "2026-10-07",
@@ -3050,6 +3066,24 @@
 "title": "Quantitative Research Intern",
 "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614"
 },
+"simplify:akuna capital:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce": {
+"checked": "2026-10-07",
+"company": "Akuna Capital",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.875925,
+"flags": [],
+"key": "akuna capital|entry level c software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1791337377,
+"rolling": false,
+"src": "simplify",
+"title": "Entry-Level C++ Software Engineer Intern",
+"url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
+},
 "simplify:allen control systems:3317833d-ccb8-4a20-b49c-8ff24b724fdf": {
 "checked": "2026-10-05",
 "company": "Allen Control Systems",
@@ -3287,6 +3321,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"
+},
+"simplify:amazon:5d67cf04-fc5c-491b-9cb4-99484583ff17": {
+"checked": "2026-10-07",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8758924,
+"flags": [],
+"key": "amazon|software engineer intern embedded systems",
+"last_seen": "2026-10-07",
+"locations": [
+"Redmond, WA",
+"Northridge, LA"
+],
+"posted_ts": 1791335260,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Embedded Systems",
+"url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa"
 },
 "simplify:amazon:ea127849-c2ce-48a3-8ef5-8024831dc02e": {
 "checked": "2026-10-05",
@@ -4893,6 +4946,24 @@
 "src": "simplify",
 "title": "Data Analyst Intern - Global Technical Learning Center",
 "url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551"
+},
+"simplify:applied materials:1a70f3d5-9b7c-4830-81a5-6da2c80e7c16": {
+"checked": "2026-10-07",
+"company": "Applied Materials",
+"deadline": "2026-11-30",
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.875898,
+"flags": [],
+"key": "applied materials|global product support intern master s",
+"last_seen": "2026-10-07",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1791244800,
+"rolling": false,
+"src": "simplify",
+"title": "Global Product Support Intern Master's",
+"url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947"
 },
 "simplify:applied materials:ea33eef8-2837-4a9b-a3b7-a1c32bc77e06": {
 "checked": "2026-10-05",
@@ -10508,14 +10579,14 @@
 "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"
 },
 "simplify:dandy:7f191783-2ab3-4626-a830-2072091a9f5a": {
-"checked": "2026-09-30",
+"checked": "2026-10-07",
 "company": "Dandy",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790812543.979609,
 "flags": [],
 "key": "dandy|software engineering intern",
-"last_seen": "2026-10-03",
+"last_seen": "2026-10-07",
 "locations": [
 "NYC"
 ],
@@ -10976,6 +11047,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Self-Service Directory Diagnostics",
 "url": "https://careers.docusign.com/jobs/30464?icims=1"
+},
+"simplify:docusign:f3b565a6-e92b-41cc-aee4-4099b4c83171": {
+"checked": "2026-10-07",
+"company": "DocuSign",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.875902,
+"flags": [],
+"key": "docusign|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Seattle, WA",
+"SF"
+],
+"posted_ts": 1791324897,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://careers.docusign.com/jobs/30465?icims=1"
 },
 "simplify:domino data lab:c7dca39a-27ef-4e1d-a94e-b69ede82a562": {
 "checked": "2026-10-05",
@@ -12228,6 +12318,24 @@
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply"
 },
+"simplify:engineers gate:f6d08b69-52db-44d9-b1bb-ad87e359e6e5": {
+"checked": "2026-10-07",
+"company": "Engineers Gate",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8759167,
+"flags": [],
+"key": "engineers gate|quantitative research intern",
+"last_seen": "2026-10-07",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791324534,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Research Intern",
+"url": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666"
+},
 "simplify:enova:282a057f-48f4-4133-a52c-2261299e04a8": {
 "checked": "2026-10-06",
 "company": "Enova",
@@ -12964,6 +13072,24 @@
 "src": "simplify",
 "title": "Mobile Engineer Intern",
 "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306"
+},
+"simplify:f5:1fd32548-9b70-43de-815b-740a8ac20359": {
+"checked": "2026-10-07",
+"company": "F5",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8758855,
+"flags": [],
+"key": "f5|software developer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1791244800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076"
 },
 "simplify:f5:6682ab3e-72f8-49a9-928c-220d51a81e0d": {
 "checked": "2026-10-07",
@@ -15851,6 +15977,24 @@
 "title": "Revenue Management Intern - Summer 2027",
 "url": "https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false"
 },
+"simplify:highmark health:f837be5e-a836-41f8-ae75-18dafffcf33a": {
+"checked": "2026-10-07",
+"company": "Highmark Health",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8759372,
+"flags": [],
+"key": "highmark health|market analytics graduate intern",
+"last_seen": "2026-10-07",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1791244800,
+"rolling": false,
+"src": "simplify",
+"title": "Market Analytics Graduate Intern",
+"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906"
+},
 "simplify:hitachi:95c4918c-cb96-4b7c-afa4-cb0f50c7378e": {
 "checked": "2026-09-30",
 "company": "Hitachi",
@@ -18100,6 +18244,24 @@
 "title": "Data Scientist Intern",
 "url": "https://jobs.keysight.com/jobs/54570?icims=1"
 },
+"simplify:keysight technologies:6511499a-c146-43e7-82d8-17e2afce0bdc": {
+"checked": "2026-10-07",
+"company": "Keysight Technologies",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8759127,
+"flags": [],
+"key": "keysight technologies|software development engineer intern 6g digital twin and visualization platform",
+"last_seen": "2026-10-07",
+"locations": [
+"Santa Rosa, CA"
+],
+"posted_ts": 1791324878,
+"rolling": false,
+"src": "simplify",
+"title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
+"url": "https://jobs.keysight.com/jobs/54319?icims=1"
+},
 "simplify:keysight technologies:7136a7a6-b9b6-47d9-be27-85bb3d354b11": {
 "checked": "2026-10-06",
 "company": "Keysight Technologies",
@@ -18117,6 +18279,24 @@
 "src": "simplify",
 "title": "R&D Software Engineer Intern",
 "url": "https://jobs.keysight.com/jobs/54724?icims=1"
+},
+"simplify:keysight technologies:b8b19e5d-20b7-445f-8168-507858a3452c": {
+"checked": "2026-10-07",
+"company": "Keysight Technologies",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.875906,
+"flags": [],
+"key": "keysight technologies|enterprise software development intern eda tools",
+"last_seen": "2026-10-07",
+"locations": [
+"Santa Rosa, CA"
+],
+"posted_ts": 1791324877,
+"rolling": false,
+"src": "simplify",
+"title": "Enterprise Software Development Intern - EDA Tools",
+"url": "https://jobs.keysight.com/jobs/54578?icims=1"
 },
 "simplify:khan academy:b1048256-c61c-403f-80b6-70efb51fdd0e": {
 "checked": "2026-10-06",
@@ -26722,6 +26902,43 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true"
 },
+"simplify:sigma computing:020d221e-9e1f-4ed0-9e98-add0f65d7c47": {
+"checked": "2026-10-07",
+"company": "Sigma Computing",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8759332,
+"flags": [],
+"key": "sigma computing|software engineer intern",
+"last_seen": "2026-10-07",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791337035,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003"
+},
+"simplify:sigma computing:b29f7462-630f-4a75-8dca-924bcd83bd11": {
+"checked": "2026-10-07",
+"company": "Sigma Computing",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.8759296,
+"flags": [],
+"key": "sigma computing|software engineer intern summer 2027",
+"last_seen": "2026-10-07",
+"locations": [
+"SF",
+"NYC"
+],
+"posted_ts": 1791337035,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003"
+},
 "simplify:sikich:bb153fdc-6998-4d29-9e79-01b24c0db807": {
 "checked": "2026-10-05",
 "company": "Sikich",
@@ -30745,14 +30962,14 @@
 "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false"
 },
 "simplify:tyler technologies:d6c24595-0dd3-449f-b0ae-d13e256fc740": {
-"checked": "2026-09-30",
+"checked": "2026-10-07",
 "company": "Tyler Technologies",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",
@@ -32483,6 +32700,24 @@
 "title": "Software Engineer Intern - MS/PhD - Onboard Developer Platform",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
 },
+"simplify:waymo:d4dd7283-a6c1-4f08-a631-ba840bf2b7ef": {
+"checked": "2026-10-07",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-07",
+"first_seen_ts": 1791353342.875921,
+"flags": [],
+"key": "waymo|intern multiple teams",
+"last_seen": "2026-10-07",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1791324476,
+"rolling": false,
+"src": "simplify",
+"title": "Intern - Multiple Teams",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
+},
 "simplify:waymo:dcfc9399-37e0-42cc-965a-fd425dfbb1ce": {
 "checked": "2026-10-06",
 "company": "Waymo",
@@ -34110,7 +34345,7 @@
 "first_seen_ts": 1790573041.9904006,
 "flags": [],
 "key": "intel|software engineering intern bachelor s",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "5 Locations"
 ],
@@ -34128,7 +34363,7 @@
 "first_seen_ts": 1790573041.9903946,
 "flags": [],
 "key": "intel|software engineering intern graduate",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "5 Locations"
 ],
@@ -34146,7 +34381,7 @@
 "first_seen_ts": 1790573041.9904041,
 "flags": [],
 "key": "intel|system software engineering intern",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Malaysia, Kulim"
 ],
@@ -34164,7 +34399,7 @@
 "first_seen_ts": 1790573041.9904559,
 "flags": [],
 "key": "intel|devops and software engineering intern",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Malaysia, Kulim"
 ],
@@ -34182,7 +34417,7 @@
 "first_seen_ts": 1790573041.9904494,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Malaysia, Kulim"
 ],
@@ -34218,7 +34453,7 @@
 "first_seen_ts": 1790573041.99046,
 "flags": [],
 "key": "intel|ai ml software app development intern",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "PRC, Chengdu"
 ],
@@ -34236,7 +34471,7 @@
 "first_seen_ts": 1790573041.9904528,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Malaysia, Penang"
 ],
@@ -34254,7 +34489,7 @@
 "first_seen_ts": 1791238749.4626706,
 "flags": [],
 "key": "intel|ai solution architect graduate intern",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "US, California, Santa Clara"
 ],
@@ -34265,14 +34500,14 @@
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"
 },
 "workday:intel:JR0287525": {
-"checked": "2026-09-30",
+"checked": "2026-10-07",
 "company": "Intel",
 "deadline": "2026-12-30",
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790799418.6801205,
 "flags": [],
 "key": "intel|research scientist intern graphics ml",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "Virtual US"
 ],
@@ -34290,7 +34525,7 @@
 "first_seen_ts": 1791238749.4626746,
 "flags": [],
 "key": "intel|ai solution architect graduate intern",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-07",
 "locations": [
 "US, California, Santa Clara"
 ],
