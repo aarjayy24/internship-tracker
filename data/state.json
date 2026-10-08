@@ -13082,6 +13082,24 @@
 "title": "Backend Developer Intern",
 "url": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006"
 },
+"simplify:exa:35fa2d9c-f299-480e-9fe2-b35b1808c7aa": {
+"checked": "2026-10-08",
+"company": "Exa",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791452900.093231,
+"flags": [],
+"key": "exa|software engineer intern",
+"last_seen": "2026-10-08",
+"locations": [
+"SF"
+],
+"posted_ts": 1786612792,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application?embed=true"
+},
 "simplify:excellus bcbs:021ab755-0612-4b89-bce6-f907b348959f": {
 "checked": "2026-10-06",
 "company": "Excellus BCBS",
@@ -15337,7 +15355,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-07",
+"last_seen": "2026-10-08",
 "locations": [
 "Seattle, WA"
 ],
@@ -21422,6 +21440,24 @@
 "title": "Android Application Developer Intern - Summer 2027",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
 },
+"simplify:motorola:53e2d2ca-2bf9-417b-8c18-b1af4a682042": {
+"checked": "2026-10-08",
+"company": "Motorola",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791452900.0932245,
+"flags": [],
+"key": "motorola|software development intern",
+"last_seen": "2026-10-08",
+"locations": [
+"St. Petersburg, FL"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Development Intern",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576"
+},
 "simplify:motorola:65ab5d7f-cfa0-48dd-8038-332c7de8f3f9": {
 "checked": "2026-10-06",
 "company": "Motorola",
@@ -21493,6 +21529,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388"
+},
+"simplify:motorola:9824f95e-030c-4a9f-984a-a8e683459e9a": {
+"checked": "2026-10-08",
+"company": "Motorola",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791452900.0932183,
+"flags": [],
+"key": "motorola|software engineer intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Westminster, CO"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
 },
 "simplify:motorola:cd3e7aeb-84d9-4069-aa81-e1afa527a3d0": {
 "checked": "2026-10-06",
@@ -30507,6 +30561,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667350291952765237"
+},
+"simplify:tiktok:5b324f86-93db-4206-a6be-2406d36267e0": {
+"checked": "2026-10-08",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791452900.0932374,
+"flags": [],
+"key": "tiktok|machine learning engineer intern monetization technology ads core global",
+"last_seen": "2026-10-08",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1791450861,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+"url": "https://lifeattiktok.com/search/7687630614472149301"
 },
 "simplify:tiktok:5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968": {
 "checked": "2026-10-05",
