@@ -979,6 +979,24 @@
 "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
 "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101"
 },
+"greenhouse:imc:4962456101": {
+"checked": "2026-10-08",
+"company": "IMC",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9613,
+"flags": [],
+"key": "imc|machine learning engineer intern summer 2027",
+"last_seen": "2026-10-08",
+"locations": [
+"New York, United States"
+],
+"posted_ts": 1791477800.0,
+"rolling": false,
+"src": "greenhouse:imc",
+"title": "Machine Learning Engineer Intern - Summer 2027",
+"url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"
+},
 "greenhouse:lyft:8767723002": {
 "checked": "2026-10-05",
 "company": "Lyft",
@@ -5055,6 +5073,24 @@
 "title": "Software Engineering Intern - Masters",
 "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
 },
+"simplify:aprio:c229969a-b6f4-4f03-b2d3-dc4425ad5e7f": {
+"checked": "2026-10-08",
+"company": "Aprio",
+"deadline": "2026-10-15",
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9653811,
+"flags": [],
+"key": "aprio|technology advisory intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1789683230,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Advisory Intern",
+"url": "https://jobs.lever.co/Aprio/85d3d741-99dc-4a73-8837-951c9ddf646c/apply"
+},
 "simplify:aqr capital management:33d87281-2914-4356-ad13-441114284934": {
 "checked": "2026-10-05",
 "company": "AQR Capital Management",
@@ -5978,6 +6014,24 @@
 "src": "simplify",
 "title": "Quantitative Research Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/axq/jobs/6181069004"
+},
+"simplify:badger meter:64ffe791-24fc-4b7a-b06b-90a8bc63b978": {
+"checked": "2026-10-08",
+"company": "Badger Meter",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9654112,
+"flags": [],
+"key": "badger meter|software engineering intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Escondido, CA"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645"
 },
 "simplify:baird:8bab5dd2-9265-4515-b6ba-b4ca2af51a80": {
 "checked": "2026-10-06",
@@ -10563,6 +10617,24 @@
 "title": "Technical Intern",
 "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cox-Conserves-Technical-Intern---Summer-2027_R202682337"
 },
+"simplify:cox:dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72": {
+"checked": "2026-10-08",
+"company": "Cox",
+"deadline": "2026-10-15",
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9654028,
+"flags": [],
+"key": "cox|data scientist co op",
+"last_seen": "2026-10-08",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Co-op",
+"url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033"
+},
 "simplify:csx:180c2b69-a897-4c36-9460-0eac1066b869": {
 "checked": "2026-10-05",
 "company": "CSX",
@@ -11289,6 +11361,22 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
+},
+"simplify:doordash:66fcf084-7f7c-43ed-8947-83179031963c": {
+"company": "DoorDash",
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.965376,
+"flags": [],
+"key": "doordash|software engineer intern",
+"last_seen": "2026-10-08",
+"locations": [
+"SF",
+"Sunnyvale, CA"
+],
+"posted_ts": 1791453827,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
 },
 "simplify:doordash:bc95ef3d-75d4-459b-bd69-5d99d0e7f95c": {
 "checked": "2026-10-06",
@@ -15616,6 +15704,24 @@
 "title": "Software Engineer Intern - Low Code",
 "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
 },
+"simplify:gordon food service:38c7776b-a885-4f1e-af66-2816ed57ba66": {
+"checked": "2026-10-08",
+"company": "Gordon Food Service",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9653986,
+"flags": [],
+"key": "gordon food service|software engineer intern transportation routing",
+"last_seen": "2026-10-08",
+"locations": [
+"Wyoming, MI"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Transportation Routing",
+"url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"
+},
 "simplify:gordon food service:43abf6b4-05c4-4720-bda6-aaf7db1a6c71": {
 "checked": "2026-10-06",
 "company": "Gordon Food Service",
@@ -19029,6 +19135,24 @@
 "title": "People Analytics Co-op",
 "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8002711003"
 },
+"simplify:koch industries:cc8ac2c6-0874-480d-89fe-1ba79e6af0d9": {
+"checked": "2026-10-08",
+"company": "Koch Industries",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9653857,
+"flags": [],
+"key": "koch industries|data science intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791469362,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
+},
 "simplify:l3harris technologies:d6145bb9-e227-4e58-93d0-88787216d111": {
 "checked": "2026-10-04",
 "company": "L3Harris Technologies",
@@ -19227,6 +19351,24 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937"
+},
+"simplify:leidos:92b36766-febe-474d-941e-0bf16bc2ecc0": {
+"checked": "2026-10-08",
+"company": "Leidos",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9654071,
+"flags": [],
+"key": "leidos|systems integration and software engineer intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Atlantic City, NJ"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Integration and Software Engineer Intern",
+"url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"
 },
 "simplify:leidos:e3e1417f-9aa4-44e8-8ee8-c075f7d2f7db": {
 "checked": "2026-10-07",
@@ -19596,6 +19738,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
+},
+"simplify:lowe's:6ef197b4-1ae6-4a42-a81e-80e6283959fd": {
+"checked": "2026-10-08",
+"company": "Lowe's",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9653943,
+"flags": [],
+"key": "lowe's|pro services reporting intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Mooresville, NC"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "PRO Services Reporting Intern",
+"url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698"
 },
 "simplify:lpl financial holdings:14051ce6-a050-4a8e-851b-555583f7ba2c": {
 "checked": "2026-09-28",
@@ -26200,7 +26360,7 @@
 "first_seen_ts": 1790903173.4485197,
 "flags": [],
 "key": "rtx|flight control software engineer intern",
-"last_seen": "2026-10-07",
+"last_seen": "2026-10-08",
 "locations": [
 "Cedar Rapids, IA"
 ],
@@ -26899,6 +27059,24 @@
 "src": "simplify",
 "title": "Platform System Engineering Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078"
+},
+"simplify:rugged robotics:06c059c8-97ea-4a18-89f3-647a18372e06": {
+"checked": "2026-10-08",
+"company": "Rugged Robotics",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9653904,
+"flags": [],
+"key": "rugged robotics|robotics software intern co op",
+"last_seen": "2026-10-08",
+"locations": [
+"Houston, TX"
+],
+"posted_ts": 1791469052,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Software Intern Co-op",
+"url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
 },
 "simplify:s&c electric company:258d5748-3766-4b86-b1f1-7672e1c66cef": {
 "checked": "2026-10-07",
@@ -32227,6 +32405,24 @@
 "src": "simplify",
 "title": "AI Research Assistant Intern",
 "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/AI-Research-Assistant_JR104812"
+},
+"simplify:university of virginia:61113397-5045-45a9-8385-92577d546a89": {
+"checked": "2026-10-08",
+"company": "University of Virginia",
+"deadline": null,
+"first_seen": "2026-10-08",
+"first_seen_ts": 1791478749.9623008,
+"flags": [],
+"key": "university of virginia|technical research assistant intern",
+"last_seen": "2026-10-08",
+"locations": [
+"Charlottesville, VA"
+],
+"posted_ts": 1787529600,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Research Assistant Intern",
+"url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Darden-Technical-Research-Assistant--Student-Wage---Remote-_R0086583"
 },
 "simplify:upbound group:2ec492a7-10a0-47cc-8cbb-9c22a5ba396c": {
 "company": "Upbound Group",
