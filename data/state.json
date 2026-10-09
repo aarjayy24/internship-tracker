@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-09",
@@ -5158,6 +5160,78 @@
 "title": "Technology Advisory Intern",
 "url": "https://jobs.lever.co/Aprio/85d3d741-99dc-4a73-8837-951c9ddf646c/apply"
 },
+"simplify:aptiv:48a2a7ae-ec5a-4743-a183-da80a429505a": {
+"checked": "2026-10-09",
+"company": "Aptiv",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427495,
+"flags": [],
+"key": "aptiv|compiler intern compiler team",
+"last_seen": "2026-10-09",
+"locations": [
+"Walnut Creek, CA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Compiler Intern - Compiler Team",
+"url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"
+},
+"simplify:aptiv:7f8ded4e-5bcc-463e-baf8-7a13f3369116": {
+"checked": "2026-10-09",
+"company": "Aptiv",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.142758,
+"flags": [],
+"key": "aptiv|embedded software engineer intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Walnut Creek, CA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"
+},
+"simplify:aptiv:d264e688-c953-468e-a492-487e9683cb63": {
+"checked": "2026-10-09",
+"company": "Aptiv",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.142768,
+"flags": [],
+"key": "aptiv|software engineer intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Walnut Creek, CA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387"
+},
+"simplify:aptiv:e8314098-af0f-4c4a-988b-ea69c0698a13": {
+"checked": "2026-10-09",
+"company": "Aptiv",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427634,
+"flags": [],
+"key": "aptiv|software engineer intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Walnut Creek, CA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
+},
 "simplify:aqr capital management:33d87281-2914-4356-ad13-441114284934": {
 "checked": "2026-10-05",
 "company": "AQR Capital Management",
@@ -6278,6 +6352,24 @@
 "src": "simplify",
 "title": "GIS Specialist Intern",
 "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1"
+},
+"simplify:barry-wehmiller:2c3f5dd7-36fd-40f7-a178-66ba6ac4ffea": {
+"checked": "2026-10-09",
+"company": "Barry-Wehmiller",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427972,
+"flags": [],
+"key": "barry-wehmiller|software engineer intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"
 },
 "simplify:bass pro shops:24ee0ceb-0e78-42b5-9fd4-47bbbf594757": {
 "checked": "2026-10-06",
@@ -12259,14 +12351,14 @@
 "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
 },
 "simplify:edison international:344f9541-1bdc-41ab-8c57-ba63a9e11517": {
-"checked": "2026-09-28",
+"checked": "2026-10-09",
 "company": "Edison International",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9928246,
 "flags": [],
 "key": "edison international|computer science intern",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-09",
 "locations": [
 "Alhambra, CA",
 "Pomona, CA",
@@ -18546,6 +18638,24 @@
 "title": "Data Engineering Intern",
 "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002"
 },
+"simplify:john deere:18bad5bf-089e-4921-991f-09e20254da1d": {
+"checked": "2026-10-09",
+"company": "John Deere",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427765,
+"flags": [],
+"key": "john deere|product engineering student intern robotics",
+"last_seen": "2026-10-09",
+"locations": [
+"Champaign, IL"
+],
+"posted_ts": 1791555957,
+"rolling": false,
+"src": "simplify",
+"title": "Product Engineering Student Intern - Robotics",
+"url": "https://johndeere.eightfold.ai/careers/job/137483758357"
+},
 "simplify:john deere:27ef919b-f4a9-4f27-b484-e742c76fc774": {
 "checked": "2026-10-05",
 "company": "John Deere",
@@ -20440,6 +20550,24 @@
 "title": "Data Science Intern - Algorithms",
 "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
 },
+"simplify:macy's:05912fa9-0a66-430e-9feb-f3411c4ef531": {
+"checked": "2026-10-09",
+"company": "Macy's",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427717,
+"flags": [],
+"key": "macy's|data systems intern multiple teams",
+"last_seen": "2026-10-09",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791295541,
+"rolling": false,
+"src": "simplify",
+"title": "Data Systems Intern - Multiple Teams",
+"url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388"
+},
 "simplify:macy's:f0290968-f103-48af-89e4-6c57d1500413": {
 "checked": "2026-10-06",
 "company": "Macy's",
@@ -21411,6 +21539,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://www.metacareers.com/jobs/1952991802037374"
+},
+"simplify:meta:babf8103-ce88-446d-ae83-d600bf03ebdc": {
+"checked": "2026-10-09",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427896,
+"flags": [],
+"key": "meta|research scientist intern audio machine learning and computer vision",
+"last_seen": "2026-10-09",
+"locations": [
+"Burlingame, CA",
+"Redmond, WA"
+],
+"posted_ts": 1791555240,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision",
+"url": "https://www.metacareers.com/jobs/2211974449401350"
 },
 "simplify:meta:bb6a3336-da15-4b50-b989-9e84766d0e86": {
 "checked": "2026-10-07",
@@ -25573,6 +25720,24 @@
 "title": "Software Development Engineer Intern",
 "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
 },
+"simplify:radiance technologies:08534f02-cdda-4163-8227-8adc00591296": {
+"checked": "2026-10-09",
+"company": "Radiance Technologies",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427934,
+"flags": [],
+"key": "radiance technologies|modeling simulation engineer intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Huntsville, AL"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Modeling & Simulation Engineer Intern",
+"url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Modeling---Simulation-Engineer-Intern_HR102472"
+},
 "simplify:radiance technologies:140fab22-0b1d-498c-a250-8373856250d9": {
 "checked": "2026-10-06",
 "company": "Radiance Technologies",
@@ -28044,6 +28209,24 @@
 "title": "Quantitative Research Intern",
 "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076"
 },
+"simplify:schonfeld:2bc31101-6642-4ce8-9de0-bd8422a0ea1e": {
+"checked": "2026-10-09",
+"company": "Schonfeld",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.142784,
+"flags": [],
+"key": "schonfeld|quantitative developer intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1791555926,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Developer Intern",
+"url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092"
+},
 "simplify:schonfeld:3fbfec6a-6a08-4eb5-af05-582e9d6c9f63": {
 "checked": "2026-10-05",
 "company": "Schonfeld",
@@ -28061,6 +28244,24 @@
 "src": "simplify",
 "title": "Systematic COO Intern",
 "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172059"
+},
+"simplify:schonfeld:6e0b1f7b-ab3e-439e-ae35-827c4fa4d1ae": {
+"checked": "2026-10-09",
+"company": "Schonfeld",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791558234.1427808,
+"flags": [],
+"key": "schonfeld|quantitative research intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1791555926,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Research Intern",
+"url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120"
 },
 "simplify:schonfeld:9e38ba0d-ec3d-410d-9e74-03cba82dd023": {
 "checked": "2026-10-05",
