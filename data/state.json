@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-09",
@@ -2489,6 +2487,25 @@
 "src": "microsoft",
 "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
+},
+"microsoft:microsoft:1970393556962891": {
+"checked": "2026-10-09",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791576287.4921725,
+"flags": [],
+"key": "microsoft|ai software engineering intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Redmond, WA, US",
+"Mountain View, CA, US"
+],
+"posted_ts": 1791564167,
+"rolling": true,
+"src": "microsoft",
+"title": "AI Software Engineering Intern",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
 },
 "microsoft:microsoft:1970393556982258": {
 "checked": "2026-09-28",
@@ -19124,6 +19141,24 @@
 "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"
 },
+"simplify:johnson & johnson:d3a06147-0758-442a-a7b5-578fcc38219a": {
+"checked": "2026-10-09",
+"company": "Johnson & Johnson",
+"deadline": "2026-11-07",
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791576287.4962587,
+"flags": [],
+"key": "johnson & johnson|strategic insight and analytics co op",
+"last_seen": "2026-10-09",
+"locations": [
+"Horsham, PA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Strategic Insight and Analytics Co-op",
+"url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640"
+},
 "simplify:johnson & johnson:fab9af01-5b7a-416b-9ede-43f39adb375b": {
 "checked": "2026-10-06",
 "company": "Johnson & Johnson",
@@ -24444,6 +24479,60 @@
 "title": "AI Research Intern",
 "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true"
 },
+"simplify:papa john's:21f70fe2-fdef-49f7-a4f9-b5dd331e3acd": {
+"checked": "2026-10-09",
+"company": "Papa John's",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791576287.4962702,
+"flags": [],
+"key": "papa john's|digital development intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Digital Development Intern",
+"url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
+},
+"simplify:papa john's:8b95518e-7880-4858-a78a-07273d000e53": {
+"checked": "2026-10-09",
+"company": "Papa John's",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791576287.496265,
+"flags": [],
+"key": "papa john's|data science intern",
+"last_seen": "2026-10-09",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157"
+},
+"simplify:parsons:64994a10-7a52-4808-b7b9-40c15e254d93": {
+"checked": "2026-10-09",
+"company": "Parsons",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791576287.4962745,
+"flags": [],
+"key": "parsons|software engineer co op",
+"last_seen": "2026-10-09",
+"locations": [
+"Centreville, VA"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
+},
 "simplify:parsons:f865648f-b814-4503-ba7b-112c3f3fe9f1": {
 "checked": "2026-10-04",
 "company": "Parsons",
@@ -27442,6 +27531,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721"
+},
+"simplify:rtx:8dff8685-3a17-4f9c-b1d4-6d01c0258242": {
+"checked": "2026-10-09",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-09",
+"first_seen_ts": 1791576287.4943354,
+"flags": [],
+"key": "rtx|software engineer co op spring summer 2027",
+"last_seen": "2026-10-09",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1789084800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op - Spring/Summer 2027",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682"
 },
 "simplify:rtx:96a2bb42-3d8d-415b-ad67-993931ebeac4": {
 "checked": "2026-09-29",
