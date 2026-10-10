@@ -5467,6 +5467,24 @@
 "title": "Software Developer Intern",
 "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
 },
+"simplify:arizona state university:6f1a27e9-3515-4a43-a644-80dbddacc4bb": {
+"checked": "2026-10-10",
+"company": "Arizona State University",
+"deadline": null,
+"first_seen": "2026-10-10",
+"first_seen_ts": 1791630429.2389808,
+"flags": [],
+"key": "arizona state university|student web developer content specialist intern",
+"last_seen": "2026-10-10",
+"locations": [
+"Tempe, AZ"
+],
+"posted_ts": 1791590400,
+"rolling": false,
+"src": "simplify",
+"title": "Student Web Developer & Content Specialist Intern",
+"url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1546"
+},
 "simplify:arizona state university:db2eb29a-0c4b-4164-a226-eb8dbfc81719": {
 "checked": "2026-10-09",
 "company": "Arizona State University",
@@ -16091,7 +16109,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-08",
+"last_seen": "2026-10-10",
 "locations": [
 "Seattle, WA"
 ],
@@ -16109,7 +16127,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "locations": [
 "NYC"
 ],
@@ -26439,7 +26457,7 @@
 "first_seen_ts": 1790573041.9949546,
 "flags": [],
 "key": "ragle inc|software engineer intern",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "locations": [
 "North Richland Hills, TX"
 ],
@@ -26457,7 +26475,7 @@
 "first_seen_ts": 1790573041.9932628,
 "flags": [],
 "key": "ragle inc|data analytics intern",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "locations": [
 "North Richland Hills, TX"
 ],
@@ -26475,7 +26493,7 @@
 "first_seen_ts": 1790573041.992712,
 "flags": [],
 "key": "ragle inc|data engineering intern",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "locations": [
 "North Richland Hills, TX"
 ],
@@ -28234,6 +28252,24 @@
 "src": "simplify",
 "title": "Software Engineering Co-op - Summer/Fall 2027",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738"
+},
+"simplify:rtx:ce67de6b-014f-45b0-8b18-54b623767679": {
+"checked": "2026-10-10",
+"company": "RTX",
+"deadline": "2026-10-14",
+"first_seen": "2026-10-10",
+"first_seen_ts": 1791630429.238969,
+"flags": [],
+"key": "rtx|software engineering intern",
+"last_seen": "2026-10-10",
+"locations": [
+"Melbourne, FL"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467"
 },
 "simplify:rtx:d0427656-991f-42e4-96a3-51a38b3e5d8e": {
 "checked": "2026-09-30",
@@ -33670,7 +33706,7 @@
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",
