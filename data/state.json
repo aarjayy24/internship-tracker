@@ -19253,6 +19253,24 @@
 "title": "2027 Internship - Weapon Control",
 "url": "https://careers.jhuapl.edu/jobs/59901?icims=1"
 },
+"simplify:johns hopkins applied physics laboratory:cc5558b2-1bda-49b9-a95f-0a93489f72e2": {
+"checked": "2026-10-10",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-10",
+"first_seen_ts": 1791674958.2087302,
+"flags": [],
+"key": "johns hopkins applied physics laboratory|data science autonomous systems intern data science autonomous systems critical infrastructure protection",
+"last_seen": "2026-10-10",
+"locations": [
+"Laurel, MD"
+],
+"posted_ts": 1791670057,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+"url": "https://careers.jhuapl.edu/jobs/60432?icims=1"
+},
 "simplify:johns hopkins applied physics laboratory:d35f3d80-1382-4ac7-96f7-d7e26e2368c5": {
 "checked": "2026-10-05",
 "company": "Johns Hopkins Applied Physics Laboratory",
