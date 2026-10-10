@@ -10783,7 +10783,7 @@
 "first_seen_ts": 1791133006.232987,
 "flags": [],
 "key": "costar group|associate software engineer intern",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-10",
 "locations": [
 "San Diego, CA"
 ],
@@ -28003,6 +28003,24 @@
 "src": "simplify",
 "title": "Software Engineer Co-op - Spring/Summer 2027",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682"
+},
+"simplify:rtx:8f6341ff-47e2-4a91-8d5d-fca1f79014c0": {
+"checked": "2026-10-10",
+"company": "RTX",
+"deadline": "2026-10-14",
+"first_seen": "2026-10-10",
+"first_seen_ts": 1791648778.5860684,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-10",
+"locations": [
+"Melbourne, FL"
+],
+"posted_ts": 1791504000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918"
 },
 "simplify:rtx:96a2bb42-3d8d-415b-ad67-993931ebeac4": {
 "checked": "2026-09-29",
