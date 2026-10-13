@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-13 · 1612 roles · 221 with a stated deadline · 47 rolling
+Updated 2026-10-13 · 1613 roles · 221 with a stated deadline · 48 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -18,10 +18,10 @@ Updated 2026-10-13 · 1612 roles · 221 with a stated deadline · 47 rolling
 | **Oct 14 (1d)** | Robinhood | [Software Engineering Intern, Web (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963) | Menlo Park, CA; New York, NY |
 | **Oct 14 (1d)** | Robinhood | [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | Menlo Park, CA |
 | **Oct 14 (1d)** | Centene | [Medical Economics Analyst Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1) | Florida |
+| **Oct 14 (1d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1) | Annapolis Junction, MD |
 | **Oct 14 (1d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918) | Melbourne, FL |
 | **Oct 14 (1d)** | RTX | [AI Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596) | NYC |
 | **Oct 14 (1d)** | RTX | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467) | Melbourne, FL |
-| **Oct 14 (1d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895-1) | Annapolis Junction, MD |
 | **Oct 15 (2d)** | Cox | [Data Scientist Co-op](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033) | Atlanta, GA |
 | **Oct 15 (2d)** | Fidelity Investments | [Quantitative Research Intern - Multi-Asset Systematic Research Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) | Boston, MA |
 | **Oct 15 (2d)** | General Motors | [Race Strategy & Analytics Intern - IndyCar](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) | Concord, NC |
@@ -113,7 +113,7 @@ Updated 2026-10-13 · 1612 roles · 221 with a stated deadline · 47 rolling
 | Oct 26 (13d) | KeyBank | [Corporate Center – Measurement & Impact Intern](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-Corporate-Center---360-Measurement---Impact-Intern_R-42583) | Brooklyn, OH |
 | Oct 27 (14d) | GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) | Sharonville, OH, Saugus, MA |
 
-## ⭐ Top companies (62)
+## ⭐ Top companies (63)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@ Updated 2026-10-13 · 1612 roles · 221 with a stated deadline · 47 rolling
 | Google | [Forward Deployed Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) | NYC, Sunnyvale, CA | — | 2026-10-12 |  |
 | Databricks | [Software Engineering Intern (2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | Bellevue, Washington; Mountain View, California; San Francis | — | 2026-10-12 |  |
 | Meta | [Research Scientist Intern - Spatial Audio Capture and Reproduction](https://www.metacareers.com/jobs/1674394627579563) | Redmond, WA | — | 2026-10-09 |  |
+| Microsoft | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA, US, Mountain View, CA, US | rolling | 2026-10-09 |  |
 | Meta | [Research Scientist Intern - Audio - Machine Learning and Computer Vision](https://www.metacareers.com/jobs/2211974449401350) | Burlingame, CA, Redmond, WA | — | 2026-10-09 |  |
 | NVIDIA | [Research Intern - World Models and Synthetic Data for Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) | Santa Clara, CA | — | 2026-10-09 |  |
 | Amazon | [Data Engineer Intern](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Seattle, WA | — | 2026-10-08 |  |
