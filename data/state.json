@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-13",
@@ -53,7 +51,7 @@
 "Seattle, Washington, USA"
 ],
 "posted_ts": 1789603200.0,
-"rolling": false,
+"rolling": true,
 "src": "amazon",
 "title": "Software Development Engineer Intern - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"
@@ -1845,6 +1843,24 @@
 "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
 },
+"greenhouse:waymo:8279620": {
+"checked": "2026-10-13",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6891787,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd machine learning planning prediction",
+"last_seen": "2026-10-13",
+"locations": [
+"Mountain View, CA, USA"
+],
+"posted_ts": 1791926166.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
+},
 "greenhouse:xai:5255111007": {
 "checked": "2026-10-09",
 "company": "xAI",
@@ -2617,6 +2633,61 @@
 "src": "microsoft",
 "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
+},
+"microsoft:microsoft:1970393557040333": {
+"checked": "2026-10-13",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6894765,
+"flags": [],
+"key": "microsoft|research intern machine learning for biology and healthcare",
+"last_seen": "2026-10-13",
+"locations": [
+"Cambridge, MA, US"
+],
+"posted_ts": 1791917916,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - Machine Learning for Biology and Healthcare",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557040333"
+},
+"microsoft:microsoft:1970393557040502": {
+"checked": "2026-10-13",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6894698,
+"flags": [],
+"key": "microsoft|research intern machine learning and statistics",
+"last_seen": "2026-10-13",
+"locations": [
+"Cambridge, MA, US",
+"Redmond, WA, US"
+],
+"posted_ts": 1791935104,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - Machine Learning and Statistics",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557040502"
+},
+"simplify:7-eleven:07b72404-06cc-425a-80c5-b8a9a253652a": {
+"checked": "2026-10-13",
+"company": "7-Eleven",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934748,
+"flags": [],
+"key": "7-eleven|ai analyst ai automation specialist intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Irving, TX"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "AI Analyst / AI Automation Specialist Intern",
+"url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017"
 },
 "simplify:7-eleven:f47413a2-57f3-47b6-bf52-f5fe59da4e45": {
 "checked": "2026-10-09",
@@ -5056,6 +5127,24 @@
 "title": "Software Engineer Intern",
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
 },
+"simplify:ann & robert h. lurie children\u2019s hospital of chicago:eee2cda6-34bf-4430-85cc-b95a21954618": {
+"checked": "2026-10-13",
+"company": "Ann & Robert H. Lurie Children\u2019s Hospital of Chicago",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934445,
+"flags": [],
+"key": "ann & robert h. lurie children\u2019s hospital of chicago|research student assistant behavioral health intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Research Student Assistant-Behavioral Health Intern",
+"url": "https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Research-Student-Assistant-Behavioral-Health_JR2026-2801"
+},
 "simplify:antares nuclear:9d3deed3-7476-4d1b-ac11-2072ffe638ff": {
 "checked": "2026-10-13",
 "company": "Antares Nuclear",
@@ -6055,6 +6144,28 @@
 "title": "Software Engineer Intern",
 "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
 },
+"simplify:atoms:2751af83-9f4f-48b8-8aba-6f534e9681e7": {
+"checked": "2026-10-13",
+"company": "Atoms",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6899395,
+"flags": [],
+"key": "atoms|software engineer intern summer 2027",
+"last_seen": "2026-10-13",
+"locations": [
+"Seattle, WA",
+"SF",
+"LA",
+"NYC",
+"Mountain View, CA"
+],
+"posted_ts": 1786141165,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002"
+},
 "simplify:atoms:a6830740-e492-4a48-bc09-9e1cb04273be": {
 "checked": "2026-10-13",
 "company": "Atoms",
@@ -6344,16 +6455,19 @@
 "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691"
 },
 "simplify:axon:f968b448-0edf-43ed-9f4c-8954bef0183b": {
+"checked": "2026-10-13",
 "company": "Axon",
+"deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.994425,
 "flags": [],
 "key": "axon|software engineer intern r d program",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-13",
 "locations": [
 "Seattle, WA"
 ],
 "posted_ts": 1789194770,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - R&D Program",
 "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003"
@@ -7943,6 +8057,48 @@
 "title": "Embedded Software Engineer Co-op - Audio Tech",
 "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278"
 },
+"simplify:boston consulting group:191ec10e-48aa-42a6-a296-acd2f1d46586": {
+"checked": "2026-10-13",
+"company": "Boston Consulting Group",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934316,
+"flags": [],
+"key": "boston consulting group|forward deployed ai engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Boston, MA",
+"LA",
+"Chicago, IL",
+"NYC"
+],
+"posted_ts": 1791929848,
+"rolling": false,
+"src": "simplify",
+"title": "Forward Deployed AI Engineer Intern",
+"url": "https://careers.bcg.com/global/en/job/59702"
+},
+"simplify:boston consulting group:71573abd-2d22-4f73-b614-94625aa6bdfe": {
+"checked": "2026-10-13",
+"company": "Boston Consulting Group",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935816,
+"flags": [],
+"key": "boston consulting group|forward deployed ai scientist intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Boston, MA",
+"LA",
+"Chicago, IL",
+"NYC"
+],
+"posted_ts": 1791929850,
+"rolling": false,
+"src": "simplify",
+"title": "Forward Deployed AI Scientist Intern",
+"url": "https://careers.bcg.com/global/en/job/59703"
+},
 "simplify:boston scientific:1a872d07-40d8-4b98-8f0f-15127543ae64": {
 "checked": "2026-09-28",
 "company": "Boston Scientific",
@@ -7980,14 +8136,14 @@
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487"
 },
 "simplify:boston scientific:521a56a4-f683-4861-8565-e081a72736c1": {
-"checked": "2026-10-03",
+"checked": "2026-10-13",
 "company": "Boston Scientific",
 "deadline": null,
 "first_seen": "2026-10-03",
 "first_seen_ts": 1790990632.2847717,
 "flags": [],
 "key": "boston scientific|software engineer intern r d",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-13",
 "locations": [
 "Arden Hills, MN"
 ],
@@ -9274,6 +9430,24 @@
 "src": "simplify",
 "title": "Software Developer Intern",
 "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554"
+},
+"simplify:cai:891648a3-4448-4a46-8766-35e298d86a6e": {
+"checked": "2026-10-13",
+"company": "CAI",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934817,
+"flags": [],
+"key": "cai|programmer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Allentown, PA"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Programmer Intern",
+"url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523"
 },
 "simplify:capital one:4ba115ac-a103-4581-a244-f76fc0921727": {
 "checked": "2026-10-12",
@@ -11582,6 +11756,25 @@
 "title": "Software Engineer Intern - Summer",
 "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
 },
+"simplify:datarobot:348b5edc-892b-42e5-8da3-5eaf1dc12c7a": {
+"checked": "2026-10-13",
+"company": "DataRobot",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693463,
+"flags": [],
+"key": "datarobot|deep learning research engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Boston, MA",
+"Massachusetts"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "Deep Learning Research Engineer Intern",
+"url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Deep-Learning-Research-Engineer-Intern_R-102754"
+},
 "simplify:decagon:886b58df-3da6-4888-8b8d-ac9eef06b1a7": {
 "checked": "2026-10-13",
 "company": "Decagon",
@@ -12603,6 +12796,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
+},
+"simplify:drivetime:ebb1e212-e617-4401-b8c1-187cf3be6bd3": {
+"checked": "2026-10-13",
+"company": "DriveTime",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935742,
+"flags": [],
+"key": "drivetime|data analytics intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Dallas, TX",
+"Tempe, AZ"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern",
+"url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502"
 },
 "simplify:dropbox:425aaabf-7af3-4cd6-b041-c9f26fe0e736": {
 "checked": "2026-09-28",
@@ -15166,6 +15378,24 @@
 "title": "Data Science Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
 },
+"simplify:gallup:bda4abe8-aa5b-41a0-bb34-7806e4ff2679": {
+"checked": "2026-10-13",
+"company": "Gallup",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935623,
+"flags": [],
+"key": "gallup|data engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"SF"
+],
+"posted_ts": 1791929066,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009"
+},
 "simplify:garda capital partners:d935bae6-e667-4bd1-b10d-4431b5555110": {
 "checked": "2026-10-12",
 "company": "Garda Capital Partners",
@@ -15997,6 +16227,24 @@
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1"
+},
+"simplify:general dynamics information technology:7c9b6750-0d26-497a-bb9c-75cbaede0d91": {
+"checked": "2026-10-13",
+"company": "General Dynamics Information Technology",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934545,
+"flags": [],
+"key": "general dynamics information technology|ai and data analytics intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Sterling, VA"
+],
+"posted_ts": 1791849600,
+"rolling": true,
+"src": "simplify",
+"title": "AI and Data Analytics Intern",
+"url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269"
 },
 "simplify:general dynamics information technology:885c31c2-b9cf-41f2-be56-c1727400c1da": {
 "checked": "2026-10-13",
@@ -17348,6 +17596,24 @@
 "title": "Machine Learning Intern",
 "url": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false"
 },
+"simplify:h&r block:cb062e22-3c1a-451f-a4b8-bcb8167ea270": {
+"checked": "2026-10-13",
+"company": "H&R Block",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935027,
+"flags": [],
+"key": "h&r block|software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Kansas City, MO"
+],
+"posted_ts": 1790633786,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://careers.hrblock.com/jobs/76987?icims=1"
+},
 "simplify:hadrian:8028ea71-392c-4173-9d2a-1dc31c5a4571": {
 "checked": "2026-10-12",
 "company": "Hadrian",
@@ -17531,6 +17797,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams",
 "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply"
+},
+"simplify:hewlett packard enterprise:27a95130-d285-4542-8d8e-e60cabf4b119": {
+"checked": "2026-10-13",
+"company": "Hewlett Packard Enterprise",
+"deadline": "2027-02-26",
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934144,
+"flags": [],
+"key": "hewlett packard enterprise|hpc ai networking intern network transport",
+"last_seen": "2026-10-13",
+"locations": [
+"Chippewa Falls, WI",
+"Fort Collins, CO"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "HPC AI Networking Intern - Network Transport",
+"url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416"
 },
 "simplify:hewlett packard enterprise:32a927aa-3bb5-4165-a071-577c818b9b67": {
 "checked": "2026-10-13",
@@ -19537,6 +19822,24 @@
 "title": "Quant Research Intern - Systematic Trading",
 "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1"
 },
+"simplify:jain global:602db96f-f754-408e-b396-d3bdadbc3dac": {
+"checked": "2026-10-13",
+"company": "Jain Global",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693511,
+"flags": [],
+"key": "jain global|quantitative developer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Developer Intern",
+"url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608"
+},
 "simplify:jane street:626bb7ad-7fc6-4fd0-99cd-31a7fb23cef3": {
 "checked": "2026-10-05",
 "company": "Jane Street",
@@ -20592,6 +20895,42 @@
 "title": "Summer Analyst Intern - Insurance Risk - Data Science",
 "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004"
 },
+"simplify:kla:0409c750-f9d4-4b63-ae69-f095bd0c95ee": {
+"checked": "2026-10-13",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934392,
+"flags": [],
+"key": "kla|ai engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Ann Arbor, MI"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineer Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821-2"
+},
+"simplify:kla:2ceb1cdc-f5a5-4650-8fd1-1c54af7450ce": {
+"checked": "2026-10-13",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693428,
+"flags": [],
+"key": "kla|software engineer intern ai",
+"last_seen": "2026-10-13",
+"locations": [
+"Ann Arbor, MI"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - AI",
+"url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2"
+},
 "simplify:kla:39bae66b-6dad-496c-bd59-19b0d064eac5": {
 "checked": "2026-10-13",
 "company": "KLA",
@@ -20609,6 +20948,24 @@
 "src": "simplify",
 "title": "Algorithm Engineer Intern - GPU/CUDA",
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044"
+},
+"simplify:kla:5641eed2-7dd2-4dc6-8834-2db9066a87f3": {
+"checked": "2026-10-13",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934357,
+"flags": [],
+"key": "kla|ai engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Ann Arbor, MI"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineer Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821"
 },
 "simplify:kla:6b312831-205c-40b2-bb44-e02ee5c53de8": {
 "checked": "2026-10-13",
@@ -20682,6 +21039,24 @@
 "title": "Applications Development Engineer Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507"
 },
+"simplify:kla:da7d3279-c791-439f-9eef-0970e4a0d0cb": {
+"checked": "2026-10-13",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934202,
+"flags": [],
+"key": "kla|machine learning engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Milpitas, CA"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Engineer Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872"
+},
 "simplify:kla:e99b784e-8115-4c4d-a6d5-084115592c66": {
 "checked": "2026-10-13",
 "company": "KLA",
@@ -20699,6 +21074,24 @@
 "src": "simplify",
 "title": "Algorithm Engineer Intern - GPU/CUDA",
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044-2"
+},
+"simplify:kla:f25ac517-b641-4c69-87e1-685fcf4b4dbc": {
+"checked": "2026-10-13",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934242,
+"flags": [],
+"key": "kla|software engineer intern ai",
+"last_seen": "2026-10-13",
+"locations": [
+"Ann Arbor, MI"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - AI",
+"url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817"
 },
 "simplify:klaviyo:155087e9-02c4-4e9c-af43-3d7e5a3a6091": {
 "checked": "2026-10-13",
@@ -21866,6 +22259,21 @@
 "title": "Geographic Information Systems Intern/Co-op",
 "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411"
 },
+"simplify:marketstar:8eebdfbb-7dbb-49ee-9d30-efd2ef2c3c36": {
+"company": "MarketStar",
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935067,
+"flags": [],
+"key": "marketstar|data engineering and analytics intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Massachusetts"
+],
+"posted_ts": 1791849600,
+"src": "simplify",
+"title": "Data Engineering and Analytics Intern",
+"url": "https://wasatchproperty.wd1.myworkdayjobs.com/en-US/MarketStarCareers/job/MarketStar-Massachusetts/Data-Engineering-and-Analytics-Intern_R22577"
+},
 "simplify:marmon holdings:04c61af9-3fff-42ea-b8cb-7e2f17ca3778": {
 "checked": "2026-10-12",
 "company": "Marmon Holdings",
@@ -22214,6 +22622,24 @@
 "src": "simplify",
 "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
 "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378"
+},
+"simplify:medpace:ae3e214d-ad36-44cf-9706-a3988951b4d2": {
+"checked": "2026-10-13",
+"company": "Medpace",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934786,
+"flags": [],
+"key": "medpace|python developer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Cincinnati, OH"
+],
+"posted_ts": 1791929698,
+"rolling": false,
+"src": "simplify",
+"title": "Python Developer Intern",
+"url": "https://careers.medpace.com/jobs/13059?icims=1"
 },
 "simplify:medpace:d6b556fe-abad-41f9-80f2-0377ef5e9b34": {
 "checked": "2026-10-12",
@@ -22708,6 +23134,61 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"
 },
+"simplify:meta:011d85a2-4a19-4a98-8741-666607401044": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693551,
+"flags": [],
+"key": "meta|research scientist intern multiple teams",
+"last_seen": "2026-10-13",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1791929215,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Multiple Teams",
+"url": "https://www.metacareers.com/jobs/2192664358300823"
+},
+"simplify:meta:074d9b09-f0c7-418f-b609-8f4b443a2fea": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935554,
+"flags": [],
+"key": "meta|research scientist intern ai compute foundation",
+"last_seen": "2026-10-13",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1791929213,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - AI & Compute Foundation",
+"url": "https://www.metacareers.com/jobs/1866761794487684"
+},
+"simplify:meta:16f3944c-2006-402c-b670-5e04679732c3": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693547,
+"flags": [],
+"key": "meta|research scientist intern egocentric vision language models",
+"last_seen": "2026-10-13",
+"locations": [
+"Redmond, WA",
+"Sunnyvale, CA"
+],
+"posted_ts": 1791929216,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Egocentric Vision-Language Models",
+"url": "https://www.metacareers.com/jobs/2067000203934229"
+},
 "simplify:meta:4f41f3de-17ab-49df-b857-cb501dbde8e5": {
 "checked": "2026-10-13",
 "company": "Meta",
@@ -22744,6 +23225,24 @@
 "src": "simplify",
 "title": "Research Scientist Intern - Robotics",
 "url": "https://www.metacareers.com/jobs/2586686598441521"
+},
+"simplify:meta:7084a49e-3850-40ca-983c-00543e76c91a": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935236,
+"flags": [],
+"key": "meta|research scientist intern vlm and omni model post training",
+"last_seen": "2026-10-13",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted_ts": 1791929216,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - VLM and Omni Model Post-Training",
+"url": "https://www.metacareers.com/jobs/2988199118196184"
 },
 "simplify:meta:7f1252c2-2dd8-4334-9c9c-8ace10b21273": {
 "checked": "2026-10-07",
@@ -22840,6 +23339,81 @@
 "title": "Data Scientist Intern - Product Analytics",
 "url": "https://www.metacareers.com/jobs/929757023499411"
 },
+"simplify:meta:d6a59007-c376-4c64-b058-0ba8d130fb04": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935344,
+"flags": [],
+"key": "meta|research scientist intern 3d world modeling robotics and generative ai",
+"last_seen": "2026-10-13",
+"locations": [
+"Burlingame, CA",
+"Redmond, WA",
+"Sunnyvale, CA"
+],
+"posted_ts": 1791929217,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+"url": "https://www.metacareers.com/jobs/1839680137188723"
+},
+"simplify:meta:f2895a6a-273a-415c-b0e0-977de7af90e6": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935287,
+"flags": [],
+"key": "meta|research scientist intern multimodal generative ai and robotics",
+"last_seen": "2026-10-13",
+"locations": [
+"Redmond, WA",
+"Sunnyvale, CA"
+],
+"posted_ts": 1791929215,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+"url": "https://www.metacareers.com/jobs/1139865145249047"
+},
+"simplify:meta:f891cd20-6938-4a8d-8079-4f5f42c0048e": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935425,
+"flags": [],
+"key": "meta|research scientist intern ai system co design",
+"last_seen": "2026-10-13",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1791929215,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - AI & System Co-Design",
+"url": "https://www.metacareers.com/jobs/1062032900196411"
+},
+"simplify:meta:fd6d73ce-4a0a-41b5-b4a5-234b26df5eff": {
+"checked": "2026-10-13",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693538,
+"flags": [],
+"key": "meta|research scientist intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1791929215,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern",
+"url": "https://www.metacareers.com/jobs/3364701000388712"
+},
 "simplify:metlife:7ad6c160-b084-4ec2-9be1-3617d01137d1": {
 "checked": "2026-10-07",
 "company": "MetLife",
@@ -22860,6 +23434,24 @@
 "src": "simplify",
 "title": "Global Technology Intern",
 "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701"
+},
+"simplify:metropolitan transportation authority:7804474e-b183-49d7-a358-ac0f785a930a": {
+"checked": "2026-10-13",
+"company": "Metropolitan Transportation Authority",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935673,
+"flags": [],
+"key": "metropolitan transportation authority|data analyst intern power control center",
+"last_seen": "2026-10-13",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791930029,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst Intern - Power Control Center",
+"url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/omtWAfw5?nl=1&nl=1&fr=false"
 },
 "simplify:mfs:6150d12b-9d14-4251-a01a-b5422b9f7028": {
 "checked": "2026-10-09",
@@ -23563,6 +24155,26 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
+},
+"simplify:motorola:c61201f4-b86e-4bb7-b84f-193387bd5c65": {
+"checked": "2026-10-13",
+"company": "Motorola",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693487,
+"flags": [],
+"key": "motorola|software engineering co op intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Chicago, IL",
+"Schaumburg, IL",
+"Illinois"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op Intern",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641"
 },
 "simplify:motorola:cd3e7aeb-84d9-4069-aa81-e1afa527a3d0": {
 "checked": "2026-10-13",
@@ -24415,6 +25027,25 @@
 "src": "simplify",
 "title": "IT Software Engineer Intern",
 "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
+},
+"simplify:netflix:fa621e40-4b60-4912-8246-670d0d5554a6": {
+"checked": "2026-10-13",
+"company": "Netflix",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693467,
+"flags": [],
+"key": "netflix|software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"LA",
+"Los Gatos, CA"
+],
+"posted_ts": 1791929715,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://explore.jobs.netflix.net/careers/job/790318904468"
 },
 "simplify:netsmart:86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
 "checked": "2026-10-12",
@@ -25303,6 +25934,24 @@
 "src": "simplify",
 "title": "Deep Learning Computer Architecture Intern",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
+},
+"simplify:nvidia:41449f01-bdeb-458c-9422-d62de8a1f245": {
+"checked": "2026-10-13",
+"company": "NVIDIA",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693495,
+"flags": [],
+"key": "nvidia|sparse linear algebra libraries intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Sparse Linear Algebra Libraries Intern",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429"
 },
 "simplify:nvidia:4cf30745-6f3b-4afc-b4a7-8c156b74804c": {
 "checked": "2026-10-12",
@@ -27907,6 +28556,24 @@
 "title": "Software Developer Intern - Product Engineering",
 "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
 },
+"simplify:rhombus:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7": {
+"checked": "2026-10-13",
+"company": "Rhombus",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934905,
+"flags": [],
+"key": "rhombus|software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Sacramento, CA"
+],
+"posted_ts": 1791929466,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply"
+},
 "simplify:riot games:33ae8cab-9f3b-486e-9f60-5c43fd1f1e48": {
 "checked": "2026-10-09",
 "company": "Riot Games",
@@ -28320,6 +28987,24 @@
 "title": "Junior Machine Learning Engineer Intern",
 "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142"
 },
+"simplify:rolls-royce:bb94a732-f483-4037-8b53-5bc77b5cb33f": {
+"checked": "2026-10-13",
+"company": "Rolls-Royce",
+"deadline": "2026-10-31",
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934505,
+"flags": [],
+"key": "rolls-royce|integrated control systems engineer intern software",
+"last_seen": "2026-10-13",
+"locations": [
+"Indianapolis, IN"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Integrated Control Systems Engineer Intern - Software",
+"url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452"
+},
 "simplify:rovisys:1a7491a2-4bd2-4f12-8ae7-887a36860442": {
 "checked": "2026-10-12",
 "company": "RoviSys",
@@ -28496,6 +29181,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986"
+},
+"simplify:rtx:0c9f983c-f1b8-4bca-b322-145dd1b08a99": {
+"checked": "2026-10-13",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6914,
+"flags": [],
+"key": "rtx|software engineering intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Huntsville, AL"
+],
+"posted_ts": 1788912000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655"
 },
 "simplify:rtx:107197c3-30d5-45c2-b0b2-4a499d03531d": {
 "checked": "2026-09-29",
@@ -29288,7 +29991,7 @@
 "first_seen_ts": 1791416364.5519483,
 "flags": [],
 "key": "rtx|software engineering co op",
-"last_seen": "2026-10-12",
+"last_seen": "2026-10-13",
 "locations": [
 "Cedar Rapids, IA"
 ],
@@ -30072,6 +30775,24 @@
 "title": "Data Science Intern",
 "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692"
 },
+"simplify:schweitzer engineering laboratories:39fa3b6e-c238-4958-a741-72035b1798f4": {
+"checked": "2026-10-13",
+"company": "Schweitzer Engineering Laboratories",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693571,
+"flags": [],
+"key": "schweitzer engineering laboratories|software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Spokane Valley, WA"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231"
+},
 "simplify:schweitzer engineering laboratories:50be2257-187c-46a4-aedc-d35d1f37a185": {
 "checked": "2026-10-13",
 "company": "Schweitzer Engineering Laboratories",
@@ -30197,6 +30918,48 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply"
+},
+"simplify:servicenow:290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a": {
+"checked": "2026-10-13",
+"company": "ServiceNow",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935146,
+"flags": [],
+"key": "servicenow|software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Santa Clara, CA",
+"West Palm Beach, FL",
+"Kirkland, WA",
+"San Diego, CA"
+],
+"posted_ts": 1791929235,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689"
+},
+"simplify:servicenow:e7154c19-1906-4634-9226-1da16eb77416": {
+"checked": "2026-10-13",
+"company": "ServiceNow",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935189,
+"flags": [],
+"key": "servicenow|ai engineering associate software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Santa Clara, CA",
+"West Palm Beach, FL",
+"Kirkland, WA",
+"San Diego, CA"
+],
+"posted_ts": 1791929238,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineering Associate Software Engineer Intern",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889"
 },
 "simplify:shield ai:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
 "checked": "2026-10-13",
@@ -30758,6 +31521,24 @@
 "title": "Software Development Intern",
 "url": "https://simventions.jibeapply.com/jobs/1631?icims=1"
 },
+"simplify:skydio:4cd89228-5cf0-4015-8a13-f56507d88e39": {
+"checked": "2026-10-13",
+"company": "Skydio",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693459,
+"flags": [],
+"key": "skydio|embedded software engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"San Mateo, CA"
+],
+"posted_ts": 1791929815,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true"
+},
 "simplify:skydio:d3f54d58-9f89-4689-b91d-f9e03013c3ca": {
 "checked": "2026-10-12",
 "company": "Skydio",
@@ -31111,16 +31892,19 @@
 "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019"
 },
 "simplify:state affairs:d9aac9f7-0c18-43c3-a877-644cfdbdb57a": {
+"checked": "2026-10-13",
 "company": "State Affairs",
+"deadline": null,
 "first_seen": "2026-10-07",
 "first_seen_ts": 1791416364.5519729,
 "flags": [],
 "key": "state affairs|software engineer intern",
-"last_seen": "2026-10-08",
+"last_seen": "2026-10-13",
 "locations": [
 "Washington, DC"
 ],
 "posted_ts": 1791411567,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"
@@ -34719,6 +35503,24 @@
 "title": "GIS Intern",
 "url": "https://careers.trccompanies.com/jobs/26961?icims=1"
 },
+"simplify:trc companies:e93466ad-f96b-44c2-b4a5-5537e957772b": {
+"checked": "2026-10-13",
+"company": "TRC Companies",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935587,
+"flags": [],
+"key": "trc companies|safety intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Exton, PA"
+],
+"posted_ts": 1791929136,
+"rolling": false,
+"src": "simplify",
+"title": "Safety Intern",
+"url": "https://careers.trccompanies.com/jobs/27074?icims=1"
+},
 "simplify:trimble:ca3d442d-982e-4251-b443-6e607ffd2504": {
 "checked": "2026-10-12",
 "company": "Trimble",
@@ -35042,6 +35844,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors"
+},
+"simplify:unity:10418cfa-4ae1-4f7a-8a52-bb2d1772ad29": {
+"checked": "2026-10-13",
+"company": "Unity",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6934707,
+"flags": [],
+"key": "unity|machine learning engineer intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Washington",
+"Mountain View, CA"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Engineer Intern",
+"url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965"
 },
 "simplify:universal health services:af65cbd5-11f8-4a7d-a45a-939597dd3471": {
 "checked": "2026-10-12",
@@ -36138,6 +36959,24 @@
 "title": "Data Science Intern",
 "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902"
 },
+"simplify:walgreens:d67d82ad-8fcb-40e5-9792-beb487215244": {
+"checked": "2026-10-13",
+"company": "Walgreens",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.6935778,
+"flags": [],
+"key": "walgreens|data science intern",
+"last_seen": "2026-10-13",
+"locations": [
+"Deerfield, IL"
+],
+"posted_ts": 1791929906,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191"
+},
 "simplify:walleye capital:0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175": {
 "checked": "2026-10-12",
 "company": "Walleye Capital",
@@ -36391,6 +37230,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - MS/PhD",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
+},
+"simplify:waymo:342edb51-b682-4daa-80fd-21c355143f3e": {
+"checked": "2026-10-13",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-13",
+"first_seen_ts": 1791935892.693499,
+"flags": [],
+"key": "waymo|machine learning intern planning prediction",
+"last_seen": "2026-10-13",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1791929442,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Intern - Planning/Prediction",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
 },
 "simplify:waymo:3475b425-7296-4926-a897-0f74a61038af": {
 "checked": "2026-10-10",
