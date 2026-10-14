@@ -14093,6 +14093,24 @@
 "title": "Computer Vision & 3D Asset Reconstruction Intern",
 "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012"
 },
+"simplify:equifax:5d1b7629-e234-4106-9f15-07fca21aa8a3": {
+"checked": "2026-10-14",
+"company": "Equifax",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015225,
+"flags": [],
+"key": "equifax|technology intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Alpharetta, GA"
+],
+"posted_ts": 1788825600,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Intern",
+"url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00178955"
+},
 "simplify:equipmentshare:b527b34d-0364-42a6-9fbc-c21274a053eb": {
 "checked": "2026-09-29",
 "company": "EquipmentShare",
@@ -15941,6 +15959,24 @@
 "title": "CIC Systems Engineer Co-op",
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-2"
 },
+"simplify:ge vernova:42f5973e-2aff-404f-84c2-f2aaba6998d1": {
+"checked": "2026-10-14",
+"company": "GE Vernova",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015147,
+"flags": [],
+"key": "ge vernova|ai post training and model alignment intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Post-Training and Model Alignment Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2"
+},
 "simplify:ge vernova:50656933-26e4-497e-99e3-1114aaae5ed4": {
 "checked": "2026-10-12",
 "company": "GE Vernova",
@@ -15958,6 +15994,42 @@
 "src": "simplify",
 "title": "Energy Optimization Software Engineer Intern - Summer 2027",
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1"
+},
+"simplify:ge vernova:52d27012-e8f4-44a4-a41e-6b12bff77a14": {
+"checked": "2026-10-14",
+"company": "GE Vernova",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015097,
+"flags": [],
+"key": "ge vernova|ai evaluation benchmarking intern agi",
+"last_seen": "2026-10-14",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Evaluation & Benchmarking Intern - AGI",
+"url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1"
+},
+"simplify:ge vernova:74ab41ac-2b49-458f-98f3-d3c4172f9e1f": {
+"checked": "2026-10-14",
+"company": "GE Vernova",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015185,
+"flags": [],
+"key": "ge vernova|ai evaluation benchmarking intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Evaluation & Benchmarking Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2"
 },
 "simplify:ge vernova:7e8834d8-2571-478a-aaeb-8bb9c3fbb656": {
 "checked": "2026-10-12",
@@ -16031,6 +16103,24 @@
 "title": "Software Engineer Co-op - Critical Infrastructure Communication",
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1"
 },
+"simplify:ge vernova:a42bb64b-5118-4414-b5bb-ebe063b71b10": {
+"checked": "2026-10-14",
+"company": "GE Vernova",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015004,
+"flags": [],
+"key": "ge vernova|power system intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Power System Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
+},
 "simplify:ge vernova:adc00b6f-fe39-46b8-a7d1-0f4ea72504eb": {
 "checked": "2026-09-28",
 "company": "GE Vernova",
@@ -16084,6 +16174,42 @@
 "src": "simplify",
 "title": "SCS Commercial Strategy & Growth Intern",
 "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2"
+},
+"simplify:ge vernova:dfc6d5d9-fa48-468c-999b-1116299c47c2": {
+"checked": "2026-10-14",
+"company": "GE Vernova",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0014946,
+"flags": [],
+"key": "ge vernova|ai post training and model alignment intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Post-Training and Model Alignment Intern",
+"url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1"
+},
+"simplify:ge vernova:e03ff208-7120-46eb-9f94-cf23a4aa840e": {
+"checked": "2026-10-14",
+"company": "GE Vernova",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0014853,
+"flags": [],
+"key": "ge vernova|grid foundational models intern agi",
+"last_seen": "2026-10-14",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Grid Foundational Models Intern - AGI",
+"url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3"
 },
 "simplify:ge vernova:f2ae7111-d087-4a82-b8fa-18fbe8b01901": {
 "checked": "2026-10-12",
@@ -17799,14 +17925,14 @@
 "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true"
 },
 "simplify:hcsc:118adc1e-4c91-45e1-8654-5297c47e9a9c": {
-"checked": "2026-10-07",
+"checked": "2026-10-14",
 "company": "HCSC",
-"deadline": "2026-10-30",
+"deadline": null,
 "first_seen": "2026-10-07",
 "first_seen_ts": 1791416364.5518672,
 "flags": [],
 "key": "hcsc|systems analyst intern",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-14",
 "locations": [
 "Chicago, IL",
 "Richardson, TX"
@@ -17818,14 +17944,14 @@
 "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498"
 },
 "simplify:hcsc:f8f58448-a30c-4f0b-bd35-a8b3aee51172": {
-"checked": "2026-10-07",
+"checked": "2026-10-14",
 "company": "HCSC",
-"deadline": "2026-10-30",
+"deadline": null,
 "first_seen": "2026-10-07",
 "first_seen_ts": 1791416364.5518622,
 "flags": [],
 "key": "hcsc|enterprise data analyst intern",
-"last_seen": "2026-10-08",
+"last_seen": "2026-10-14",
 "locations": [
 "Chicago, IL",
 "Richardson, TX"
@@ -19859,6 +19985,24 @@
 "title": "Data Analytics / AI Intern - Summer 2027",
 "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
 },
+"simplify:j.m. smucker:53234b9a-baaf-49c1-88e1-4e5356cdcbd8": {
+"checked": "2026-10-14",
+"company": "J.M. Smucker",
+"deadline": "2026-12-07",
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.001539,
+"flags": [],
+"key": "j.m. smucker|net revenue optimization intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Orrville, OH"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Net Revenue Optimization Intern",
+"url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006"
+},
 "simplify:jabil:b422fbdd-5320-4c3c-898d-cf986da0640f": {
 "checked": "2026-10-07",
 "company": "Jabil",
@@ -20986,6 +21130,44 @@
 "src": "simplify",
 "title": "Intern - IT",
 "url": "https://careers.kindermorgan.com/jobs/6171?icims=1"
+},
+"simplify:kion group:08348ecb-6917-4687-aa67-6d71cdd2be04": {
+"checked": "2026-10-14",
+"company": "KION Group",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015345,
+"flags": [],
+"key": "kion group|software engineer intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Grand Rapids, MI",
+"Wauwatosa, WI"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732"
+},
+"simplify:kion group:f61cb2b1-1f8c-4df4-b629-ac92ac784f82": {
+"checked": "2026-10-14",
+"company": "KION Group",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015435,
+"flags": [],
+"key": "kion group|software engineer intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Grand Rapids, MI",
+"Wauwatosa, WI"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1"
 },
 "simplify:kkr:50597a72-b855-4e2f-a7fe-130439c9ff69": {
 "checked": "2026-10-13",
@@ -26791,6 +26973,24 @@
 "title": "Software Engineer Co-op",
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
 },
+"simplify:parsons:b135be7e-bf73-4526-9c91-0158ffed7bce": {
+"checked": "2026-10-14",
+"company": "Parsons",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015054,
+"flags": [],
+"key": "parsons|software engineer intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Huntsville, AL"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
+},
 "simplify:parsons:f865648f-b814-4503-ba7b-112c3f3fe9f1": {
 "checked": "2026-10-11",
 "company": "Parsons",
@@ -27503,6 +27703,42 @@
 "src": "simplify",
 "title": "Software Developer Intern",
 "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+},
+"simplify:point72:07d9a5af-4f9d-4e8b-bd5b-609ba7e2a32e": {
+"checked": "2026-10-14",
+"company": "Point72",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015304,
+"flags": [],
+"key": "point72|data scientist intern",
+"last_seen": "2026-10-14",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791987660,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://boards.greenhouse.io/point72/jobs/8885299002"
+},
+"simplify:point72:bcdcec45-2483-4ebd-8b02-b763219eecec": {
+"checked": "2026-10-14",
+"company": "Point72",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1792003873.0015266,
+"flags": [],
+"key": "point72|software engineer intern",
+"last_seen": "2026-10-14",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791987659,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://boards.greenhouse.io/point72/jobs/8885733002"
 },
 "simplify:polaris:43314ea5-8533-4883-a5e5-5afdc6cff866": {
 "checked": "2026-10-12",
@@ -28728,7 +28964,7 @@
 "first_seen_ts": 1791854628.4735706,
 "flags": [],
 "key": "rf-smart|software support engineer intern",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "locations": [
 "Jacksonville, FL"
 ],

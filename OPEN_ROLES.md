@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-14 · 1631 roles · 215 with a stated deadline · 51 rolling
+Updated 2026-10-14 · 1647 roles · 216 with a stated deadline · 51 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -184,23 +184,36 @@ Updated 2026-10-14 · 1631 roles · 215 with a stated deadline · 51 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1556)
+## Everyone else (1572)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Point72 | [Data Scientist Intern](https://boards.greenhouse.io/point72/jobs/8885299002) | NYC | — | 2026-10-14 |  |
+| Point72 | [Software Engineer Intern](https://boards.greenhouse.io/point72/jobs/8885733002) | NYC | — | 2026-10-14 |  |
 | TikTok | [Machine Learning Engineer Intern - E-Commerce User Growth](https://lifeattiktok.com/search/7694357619162532149) | Seattle, WA | — | 2026-10-14 |  |
 | L3Harris Technologies | [Associate Software Engineering Intern](https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors) | Chantilly, VA | — | 2026-10-14 |  |
 | Phillips 66 | [University Intern - ERI Analytical Solutions](https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors) | Bartlesville, OK | — | 2026-10-14 |  |
 | Field AI | [Research Scientist Intern - Robot Learning & Manipulation](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply) | Irvine, CA | — | 2026-10-14 |  |
 | Assurant | [Data Support Analyst Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717) | Chicago, IL | rolling | 2026-10-14 |  |
 | Northrop Grumman | [Software Embedded Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697) | Annapolis, MD | **Oct 17 (3d)** | 2026-10-14 |  |
+| GE Vernova | [Grid Foundational Models Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3) | Bellevue, WA | — | 2026-10-14 |  |
+| GE Vernova | [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) | Bellevue, WA | — | 2026-10-14 |  |
+| GE Vernova | [Power System Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2) | Bellevue, WA | — | 2026-10-14 |  |
+| Parsons | [Software Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299) | Huntsville, AL | — | 2026-10-14 |  |
+| GE Vernova | [AI Evaluation & Benchmarking Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1) | Bellevue, WA | — | 2026-10-14 |  |
+| GE Vernova | [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2) | Bellevue, WA | — | 2026-10-14 |  |
+| GE Vernova | [AI Evaluation & Benchmarking Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2) | Bellevue, WA | — | 2026-10-14 |  |
+| KION Group | [Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732) | Grand Rapids, MI, Wauwatosa, WI | — | 2026-10-14 |  |
+| J.M. Smucker | [Net Revenue Optimization Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) | Orrville, OH | Dec 7 (54d) | 2026-10-14 |  |
+| KION Group | [Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732-1) | Grand Rapids, MI, Wauwatosa, WI | — | 2026-10-14 |  |
 | Aptiv | [ADAS Engineer Intern - Camera Perception](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551) | Troy, MI | — | 2026-10-14 |  |
 | KLA | [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) | Milpitas, CA | — | 2026-10-14 |  |
 | KLA | [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921) | Milpitas, CA | — | 2026-10-14 |  |
 | Ascension | [Integrated Participant Solutions Analytics Intern](https://jobs.ascension.org/us/en/job/2026-465198) | St. Louis, MO | — | 2026-10-14 |  |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241) | Orlando, FL | — | 2026-10-14 |  |
-| Rockwell Automation | [Information Technology Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) | Milwaukee, WI | — | 2026-10-14 |  |
+| Equifax | [Technology Intern](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00178955) | Alpharetta, GA | — | 2026-10-14 |  |
 | Blue Origin | [Avionics Software Intern](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) | Washington, LA, Denver, CO | rolling | 2026-10-14 |  |
+| Rockwell Automation | [Information Technology Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) | Milwaukee, WI | — | 2026-10-14 |  |
 | Rockwell Automation | [Information Technology Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-1) | Milwaukee, WI | — | 2026-10-14 |  |
 | Metropolitan Transportation Authority | [Data Analyst Intern - Power Control Center](https://jobs.jobvite.com/metropolitantransportationauthority/job/omtWAfw5?nl=1&nl=1&fr=false) | NYC | — | 2026-10-13 |  |
 | Walgreens | [Data Science Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191) | Deerfield, IL | — | 2026-10-13 |  |
@@ -237,6 +250,7 @@ Updated 2026-10-14 · 1631 roles · 215 with a stated deadline · 51 rolling
 | Koch Industries | [Digital Technology & Data Intern](https://koch.avature.net/en_US/careers/JobDetail/195465) | Auburn Hills, MI | — | 2026-10-13 |  |
 | Ascension | [Master Data Management Intern](https://jobs.ascension.org/us/en/job/2026-465180) | St. Louis, MO | — | 2026-10-13 |  |
 | Ascension | [Data Science Intern](https://jobs.ascension.org/us/en/job/2026-465186) | St. Louis, MO | — | 2026-10-13 |  |
+| RF-SMART | [Software Support Engineer Intern](https://job-boards.greenhouse.io/rfsmart/jobs/5427723008) | Jacksonville, FL | — | 2026-10-13 |  |
 | Electronic Arts | [Data and AI Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238) | Austin, TX | — | 2026-10-13 |  |
 | MEMX | [Data Engineer Intern](https://job-boards.greenhouse.io/memx/jobs/5450442008) | NYC | — | 2026-10-13 |  |
 | Keysight Technologies | [Test Engineering Intern Tech 3](https://jobs.keysight.com/jobs/54786?icims=1) | Santa Clara, CA | — | 2026-10-13 |  |
@@ -398,6 +412,8 @@ Updated 2026-10-14 · 1631 roles · 215 with a stated deadline · 51 rolling
 | GE Vernova | [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1) | Longmont, CO | Nov 13 (30d) | 2026-10-07 |  |
 | GE Vernova | [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2) | Longmont, CO | Nov 13 (30d) | 2026-10-07 |  |
 | GE Vernova | [SCS Commercial Intern - : AI Data Mining Agent](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-1) | Atlanta, GA | Nov 13 (30d) | 2026-10-07 |  |
+| HCSC | [Systems Analyst Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498) | Chicago, IL, Richardson, TX | — | 2026-10-07 |  |
+| HCSC | [Enterprise Data Analyst Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505) | Chicago, IL, Richardson, TX | — | 2026-10-07 |  |
 | ICF International | [Data Analytics Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) | Reston, VA | — | 2026-10-07 |  |
 | ICF International | [Data Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) | Remote in USA, Reston, VA | — | 2026-10-07 |  |
 | Leidos | [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193990) | Remote in USA | — | 2026-10-07 |  |
