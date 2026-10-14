@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-14 · 1621 roles · 213 with a stated deadline · 49 rolling
+Updated 2026-10-14 · 1625 roles · 214 with a stated deadline · 50 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (93)
+## ⏰ Deadlines in the next 14 days (94)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -82,6 +82,7 @@ Updated 2026-10-14 · 1621 roles · 213 with a stated deadline · 49 rolling
 | **Oct 17 (3d)** | Xcel Energy | [Asset Strategy & Budget Integration Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Asset-Strategy---Budget-Integration-Intern--CO_JR115564-1) | Henderson, CO |
 | **Oct 17 (3d)** | Xcel Energy | [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) | Denver, CO |
 | **Oct 17 (3d)** | Xcel Energy | [Load Research & Energy and Demand Forecasting Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1) | Denver, CO |
+| **Oct 17 (3d)** | Northrop Grumman | [Software Embedded Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697) | Annapolis, MD |
 | **Oct 18 (4d)** | NVIDIA | [Software Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | Santa Clara, CA |
 | **Oct 19 (5d)** | Denver | [Data Analytics College Intern - Analytics and Innovation](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1) | Denver, CO |
 | **Oct 19 (5d)** | Nike | [Software Engineer Intern](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) | Beaverton, OR |
@@ -181,7 +182,7 @@ Updated 2026-10-14 · 1621 roles · 213 with a stated deadline · 49 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1547)
+## Everyone else (1551)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -189,9 +190,13 @@ Updated 2026-10-14 · 1621 roles · 213 with a stated deadline · 49 rolling
 | L3Harris Technologies | [Associate Software Engineering Intern](https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors) | Chantilly, VA | — | 2026-10-14 |  |
 | Phillips 66 | [University Intern - ERI Analytical Solutions](https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors) | Bartlesville, OK | — | 2026-10-14 |  |
 | Field AI | [Research Scientist Intern - Robot Learning & Manipulation](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply) | Irvine, CA | — | 2026-10-14 |  |
-| KLA | [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921) | Milpitas, CA | — | 2026-10-14 |  |
+| Assurant | [Data Support Analyst Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717) | Chicago, IL | rolling | 2026-10-14 |  |
+| Northrop Grumman | [Software Embedded Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697) | Annapolis, MD | **Oct 17 (3d)** | 2026-10-14 |  |
 | Aptiv | [ADAS Engineer Intern - Camera Perception](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551) | Troy, MI | — | 2026-10-14 |  |
 | KLA | [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) | Milpitas, CA | — | 2026-10-14 |  |
+| KLA | [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921) | Milpitas, CA | — | 2026-10-14 |  |
+| Ascension | [Integrated Participant Solutions Analytics Intern](https://jobs.ascension.org/us/en/job/2026-465198) | St. Louis, MO | — | 2026-10-14 |  |
+| Rockwell Automation | [Information Technology Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2) | Milwaukee, WI | — | 2026-10-14 |  |
 | Metropolitan Transportation Authority | [Data Analyst Intern - Power Control Center](https://jobs.jobvite.com/metropolitantransportationauthority/job/omtWAfw5?nl=1&nl=1&fr=false) | NYC | — | 2026-10-13 |  |
 | Walgreens | [Data Science Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191) | Deerfield, IL | — | 2026-10-13 |  |
 | Boston Consulting Group | [Forward Deployed AI Scientist Intern](https://careers.bcg.com/global/en/job/59703) | Boston, MA, LA, Chicago, IL, NYC | — | 2026-10-13 |  |

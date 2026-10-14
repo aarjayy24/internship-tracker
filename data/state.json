@@ -5759,6 +5759,24 @@
 "title": "Data Science Intern",
 "url": "https://jobs.ascension.org/us/en/job/2026-465186"
 },
+"simplify:ascension:7787c1ea-7ca3-47f9-913d-8d035d331bd9": {
+"checked": "2026-10-14",
+"company": "Ascension",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791969095.6947722,
+"flags": [],
+"key": "ascension|integrated participant solutions analytics intern",
+"last_seen": "2026-10-14",
+"locations": [
+"St. Louis, MO"
+],
+"posted_ts": 1791843477,
+"rolling": false,
+"src": "simplify",
+"title": "Integrated Participant Solutions Analytics Intern",
+"url": "https://jobs.ascension.org/us/en/job/2026-465198"
+},
 "simplify:ascension:7f9efb23-69aa-4042-9954-1336de391b9b": {
 "checked": "2026-10-13",
 "company": "Ascension",
@@ -5868,6 +5886,24 @@
 "src": "simplify",
 "title": "Product Analyst Intern - Housing",
 "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659"
+},
+"simplify:assurant:e4f05acb-267f-4e89-a2e9-9ab46db0ddab": {
+"checked": "2026-10-14",
+"company": "Assurant",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791969095.6947525,
+"flags": [],
+"key": "assurant|data support analyst intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1791936000,
+"rolling": true,
+"src": "simplify",
+"title": "Data Support Analyst Intern",
+"url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717"
 },
 "simplify:astera labs:411c83a0-4d72-4c68-a248-f7d4a5a525c1": {
 "checked": "2026-10-13",
@@ -25698,6 +25734,24 @@
 "title": "Software Engineer Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
 },
+"simplify:northrop grumman:785bc0ed-564f-4e73-bdae-30e780d1629b": {
+"checked": "2026-10-14",
+"company": "Northrop Grumman",
+"deadline": "2026-10-17",
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791969095.6947613,
+"flags": [],
+"key": "northrop grumman|software embedded engineer intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Annapolis, MD"
+],
+"posted_ts": 1791936000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Embedded Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697"
+},
 "simplify:northrop grumman:78a00951-890f-474e-94ee-6e0cc1a2b9f7": {
 "checked": "2026-10-07",
 "company": "Northrop Grumman",
@@ -29000,6 +29054,24 @@
 "src": "simplify",
 "title": "Flight Software Intern",
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
+},
+"simplify:rockwell automation:000e1d44-e8bb-4c3a-82f2-c413e25e95cc": {
+"checked": "2026-10-14",
+"company": "Rockwell Automation",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791969095.6947668,
+"flags": [],
+"key": "rockwell automation|information technology intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Milwaukee, WI"
+],
+"posted_ts": 1788220800,
+"rolling": false,
+"src": "simplify",
+"title": "Information Technology Intern",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2"
 },
 "simplify:rockwell automation:10a6747a-1b41-4024-955f-6b38e46e5a4d": {
 "checked": "2026-10-13",
