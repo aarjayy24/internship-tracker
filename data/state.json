@@ -7029,6 +7029,26 @@
 "title": "Software Developer Intern - Avionics Software",
 "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434"
 },
+"simplify:blue origin:da26fe6e-792a-47e7-aeda-05389a823662": {
+"checked": "2026-10-14",
+"company": "Blue Origin",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791988350.6352718,
+"flags": [],
+"key": "blue origin|avionics software intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Washington",
+"LA",
+"Denver, CO"
+],
+"posted_ts": 1788220800,
+"rolling": true,
+"src": "simplify",
+"title": "Avionics Software Intern",
+"url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423"
+},
 "simplify:bluecross blueshield of nebraska:081c3f7a-8349-45b9-a41b-8cf97ca466ba": {
 "checked": "2026-09-28",
 "company": "BlueCross BlueShield of Nebraska",
@@ -13358,6 +13378,24 @@
 "title": "Data and AI Engineer Intern",
 "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-AI-Engineering-Intern-Summer-2027/216238"
 },
+"simplify:electronic arts:a90773c4-8d1d-4ae9-bcd0-5deecca8ed27": {
+"checked": "2026-10-14",
+"company": "Electronic Arts",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791988350.6376374,
+"flags": [],
+"key": "electronic arts|software engineer intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Orlando, FL"
+],
+"posted_ts": 1790633851,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241"
+},
 "simplify:electronic arts:b45557a0-8993-4135-8a47-273587c395f5": {
 "checked": "2026-10-10",
 "company": "Electronic Arts",
@@ -16968,7 +17006,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "locations": [
 "Seattle, WA"
 ],
@@ -16986,7 +17024,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-14",
 "locations": [
 "NYC"
 ],
@@ -29092,6 +29130,24 @@
 "title": "AI Software Engineering Co-op - 6 months - 8 months",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
 },
+"simplify:rockwell automation:6888a509-6e70-41ad-ad5f-a86b6d1be5bc": {
+"checked": "2026-10-14",
+"company": "Rockwell Automation",
+"deadline": null,
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791988350.6376414,
+"flags": [],
+"key": "rockwell automation|information technology intern",
+"last_seen": "2026-10-14",
+"locations": [
+"Milwaukee, WI"
+],
+"posted_ts": 1788220800,
+"rolling": false,
+"src": "simplify",
+"title": "Information Technology Intern",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-1"
+},
 "simplify:rockwell automation:b5399343-6879-4858-98ed-d087567c8913": {
 "checked": "2026-10-13",
 "company": "Rockwell Automation",
@@ -39897,6 +39953,24 @@
 "src": "workday:nvidia",
 "title": "AI Developer Technology Engineering Intern - 2027",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+},
+"workday:nvidia:JR2025334": {
+"checked": "2026-10-14",
+"company": "NVIDIA",
+"deadline": "2026-10-21",
+"first_seen": "2026-10-14",
+"first_seen_ts": 1791988350.6342492,
+"flags": [],
+"key": "nvidia|system software engineering intern gpu 2027",
+"last_seen": "2026-10-14",
+"locations": [
+"Poland Remote"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:nvidia",
+"title": "System Software Engineering Intern, GPU - 2027",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
 },
 "workday:nvidia:JR2025559": {
 "company": "NVIDIA",
