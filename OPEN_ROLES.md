@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-15 · 1645 roles · 209 with a stated deadline · 52 rolling
+Updated 2026-10-15 · 1646 roles · 209 with a stated deadline · 52 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -174,7 +174,7 @@ Updated 2026-10-15 · 1645 roles · 209 with a stated deadline · 52 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1570)
+## Everyone else (1571)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@ Updated 2026-10-15 · 1645 roles · 209 with a stated deadline · 52 rolling
 | MetOx International | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | — | 2026-10-15 |  |
 | Brunswick | [G3 Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160) | Oshkosh, WI | — | 2026-10-15 |  |
 | McKesson | [Technology Intern](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979) | Columbus, OH | — | 2026-10-15 |  |
+| Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395) | Wright-Patterson AFB, OH | — | 2026-10-15 |  |
 | Point72 | [Data Scientist Intern](https://boards.greenhouse.io/point72/jobs/8885299002) | NYC | — | 2026-10-14 |  |
 | Point72 | [Software Engineer Intern](https://boards.greenhouse.io/point72/jobs/8885733002) | NYC | — | 2026-10-14 |  |
 | TikTok | [Machine Learning Engineer Intern - E-Commerce User Growth](https://lifeattiktok.com/search/7694357619162532149) | Seattle, WA | — | 2026-10-14 |  |
