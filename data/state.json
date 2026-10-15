@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-15",
@@ -17298,7 +17296,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-14",
+"last_seen": "2026-10-15",
 "locations": [
 "Seattle, WA"
 ],
@@ -17316,7 +17314,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-14",
+"last_seen": "2026-10-15",
 "locations": [
 "NYC"
 ],
@@ -36800,14 +36798,14 @@
 "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false"
 },
 "simplify:tyler technologies:d6c24595-0dd3-449f-b0ae-d13e256fc740": {
-"checked": "2026-10-07",
+"checked": "2026-10-15",
 "company": "Tyler Technologies",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-15",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",
