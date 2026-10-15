@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-15",
@@ -8534,6 +8536,24 @@
 "src": "simplify",
 "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
 "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
+},
+"simplify:brunswick:5083f980-f378-47f2-9737-61eb9fbeeac0": {
+"checked": "2026-10-15",
+"company": "Brunswick",
+"deadline": null,
+"first_seen": "2026-10-15",
+"first_seen_ts": 1792057037.3353786,
+"flags": [],
+"key": "brunswick|g3 software engineer intern",
+"last_seen": "2026-10-15",
+"locations": [
+"Oshkosh, WI"
+],
+"posted_ts": 1787616000,
+"rolling": false,
+"src": "simplify",
+"title": "G3 Software Engineer Intern",
+"url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160"
 },
 "simplify:brunswick:85b3e408-7ae2-4096-98fa-2eac99fa020a": {
 "checked": "2026-09-28",
@@ -33635,6 +33655,26 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
 "url": "https://www.tesla.com/careers/search/job/281097"
+},
+"simplify:tessera labs:ff40ee27-6821-4bc8-8929-0a9a37fa6d77": {
+"checked": "2026-10-15",
+"company": "Tessera Labs",
+"deadline": null,
+"first_seen": "2026-10-15",
+"first_seen_ts": 1792057037.335371,
+"flags": [],
+"key": "tessera labs|full stack software engineer intern full stack",
+"last_seen": "2026-10-15",
+"locations": [
+"San Jose, CA",
+"Remote in USA",
+"NYC"
+],
+"posted_ts": 1792045761,
+"rolling": false,
+"src": "simplify",
+"title": "Full Stack Software Engineer Intern - Full Stack",
+"url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
 },
 "simplify:texas instruments:43be7a06-92b6-472f-b521-42354bc0a727": {
 "checked": "2026-10-09",
