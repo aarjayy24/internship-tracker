@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-16 · 1663 roles · 211 with a stated deadline · 50 rolling
+Updated 2026-10-16 · 1665 roles · 211 with a stated deadline · 52 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -101,10 +101,12 @@ Updated 2026-10-16 · 1663 roles · 211 with a stated deadline · 50 rolling
 | Oct 30 (14d) | Repsol | [Development Planning Engineer Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1) | The Woodlands, TX |
 | Oct 30 (14d) | Royal Bank of Canada | [Software Development Intern - Wealth Management Technology](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1) | Minneapolis, MN |
 
-## ⭐ Top companies (76)
+## ⭐ Top companies (78)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Microsoft | [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393557042145) | New York, NY, US, Cambridge, MA, US | rolling | 2026-10-16 |  |
+| Microsoft | [Research Intern - MSR AI Interaction and Learning](https://apply.careers.microsoft.com/careers/job/1970393557042156) | Redmond, WA, US, New York, NY, US | rolling | 2026-10-16 |  |
 | Microsoft | [Research Intern - Efficient AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557041731) | Redmond, WA, US | rolling | 2026-10-16 |  |
 | NVIDIA | [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | Poland Remote | **Oct 21 (5d)** | 2026-10-14 |  |
 | Microsoft | [Research Intern - Machine Learning and Statistics](https://apply.careers.microsoft.com/careers/job/1970393557040502) | Cambridge, MA, US, Redmond, WA, US | rolling | 2026-10-13 |  |

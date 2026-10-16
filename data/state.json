@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-16",
@@ -2690,6 +2688,44 @@
 "src": "microsoft",
 "title": "Research Intern - Efficient AI Software Systems",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731"
+},
+"microsoft:microsoft:1970393557042145": {
+"checked": "2026-10-16",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792177155.7450764,
+"flags": [],
+"key": "microsoft|research intern machine learning at msr nyc",
+"last_seen": "2026-10-16",
+"locations": [
+"New York, NY, US",
+"Cambridge, MA, US"
+],
+"posted_ts": 1792172135,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - Machine Learning at MSR NYC",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557042145"
+},
+"microsoft:microsoft:1970393557042156": {
+"checked": "2026-10-16",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792177155.7450855,
+"flags": [],
+"key": "microsoft|research intern msr ai interaction and learning",
+"last_seen": "2026-10-16",
+"locations": [
+"Redmond, WA, US",
+"New York, NY, US"
+],
+"posted_ts": 1792172059,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - MSR AI Interaction and Learning",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
 },
 "simplify:7-eleven:07b72404-06cc-425a-80c5-b8a9a253652a": {
 "checked": "2026-10-13",
