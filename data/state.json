@@ -1,7 +1,7 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:intel": 1
+"microsoft": 1
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -21676,6 +21676,24 @@
 "title": "R&D Software Engineer Intern",
 "url": "https://jobs.keysight.com/jobs/54724?icims=1"
 },
+"simplify:keysight technologies:9087bc41-b156-4019-8980-d8b788c06190": {
+"checked": "2026-10-16",
+"company": "Keysight Technologies",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792131964.8655562,
+"flags": [],
+"key": "keysight technologies|r d software engineer intern",
+"last_seen": "2026-10-16",
+"locations": [
+"Santa Rosa, CA"
+],
+"posted_ts": 1792114622,
+"rolling": false,
+"src": "simplify",
+"title": "R&D Software Engineer Intern",
+"url": "https://jobs.keysight.com/jobs/54673?icims=1"
+},
 "simplify:keysight technologies:b8b19e5d-20b7-445f-8168-507858a3452c": {
 "checked": "2026-10-14",
 "company": "Keysight Technologies",
@@ -36714,6 +36732,24 @@
 "title": "Software Engineer Intern - TikTok Search Architecture",
 "url": "https://lifeattiktok.com/search/7675517686256863541"
 },
+"simplify:tiktok:c6cf89af-fd3e-48e3-b886-b14efade21e6": {
+"checked": "2026-10-16",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792131964.865547,
+"flags": [],
+"key": "tiktok|software engineer intern recommendation performance efficiency",
+"last_seen": "2026-10-16",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1792114830,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Recommendation Performance Efficiency",
+"url": "https://lifeattiktok.com/search/7673636206961641781"
+},
 "simplify:tiktok:cb7c7665-f749-4ac4-82aa-36376548fdc7": {
 "checked": "2026-10-11",
 "company": "TikTok",
@@ -41286,7 +41322,7 @@
 "first_seen_ts": 1790573041.9904006,
 "flags": [],
 "key": "intel|software engineering intern bachelor s",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "5 Locations"
 ],
@@ -41304,7 +41340,7 @@
 "first_seen_ts": 1790573041.9903946,
 "flags": [],
 "key": "intel|software engineering intern graduate",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "5 Locations"
 ],
@@ -41358,7 +41394,7 @@
 "first_seen_ts": 1790573041.9904494,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "Malaysia, Kulim"
 ],
@@ -41394,7 +41430,7 @@
 "first_seen_ts": 1790573041.99046,
 "flags": [],
 "key": "intel|ai ml software app development intern",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "PRC, Chengdu"
 ],
@@ -41430,7 +41466,7 @@
 "first_seen_ts": 1791238749.4626706,
 "flags": [],
 "key": "intel|ai solution architect graduate intern",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "US, California, Santa Clara"
 ],
@@ -41448,7 +41484,7 @@
 "first_seen_ts": 1790799418.6801205,
 "flags": [],
 "key": "intel|research scientist intern graphics ml",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "Virtual US"
 ],
@@ -41466,7 +41502,7 @@
 "first_seen_ts": 1791238749.4626746,
 "flags": [],
 "key": "intel|ai solution architect graduate intern",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "US, California, Santa Clara"
 ],

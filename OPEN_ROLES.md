@@ -81,11 +81,11 @@ Updated 2026-10-16 · 1653 roles · 211 with a stated deadline · 50 rolling
 | **Oct 23 (7d)** | CIBC | [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1) | Chicago, IL |
 | **Oct 23 (7d)** | CIBC | [Software Engineer Intern](https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322) | Chicago, IL |
 | **Oct 23 (7d)** | LabCorp | [Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) | Remote in USA, Milwaukee, WI |
+| **Oct 23 (7d)** | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) | Bellevue, WA |
 | **Oct 23 (7d)** | TC Energy | [Work Management Capabilities & Platforms Intern](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951) | Houston, TX |
 | **Oct 23 (7d)** | The Boeing Company | [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976) | Ridley Park, PA, Seattle, WA, Long Beach, CA, Mesa, AZ, Colo |
 | **Oct 23 (7d)** | The Boeing Company | [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) | Ridley Park, PA, Seattle, WA, Long Beach, CA, Mesa, AZ, Colo |
 | **Oct 23 (7d)** | TIAA | [Enterprise Analytics Intern](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2) | Dallas, TX, Charlotte, NC |
-| **Oct 23 (7d)** | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) | Bellevue, WA |
 | Oct 24 (8d) | LexisNexis Risk Solutions | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955) | Alpharetta, GA |
 | Oct 24 (8d) | LexisNexis Risk Solutions | [Data Analyst Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377) | Alpharetta, GA |
 | Oct 26 (10d) | Expedia Group | [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1) | Seattle, WA, Austin, TX, San Jose, CA |
@@ -186,9 +186,11 @@ Updated 2026-10-16 · 1653 roles · 211 with a stated deadline · 50 rolling
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| TikTok | [Software Engineer Intern - Recommendation Performance Efficiency](https://lifeattiktok.com/search/7673636206961641781) | San Jose, CA | — | 2026-10-16 |  |
+| Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/54673?icims=1) | Santa Rosa, CA | — | 2026-10-16 |  |
 | Inversion Space | [Avionics Embedded Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) | Playa Vista, LA | — | 2026-10-16 |  |
-| Healthpeak Properties | [Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship) | NYC | — | 2026-10-16 |  |
 | Healthpeak Properties | [Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship) | Irvine, CA | — | 2026-10-16 |  |
+| Healthpeak Properties | [Forward Deployed Software Engineer Intern](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship) | NYC | — | 2026-10-16 |  |
 | Axiom Space | [Software Engineer Intern](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) | Houston, TX | — | 2026-10-16 |  |
 | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) | Bellevue, WA | **Oct 23 (7d)** | 2026-10-16 |  |
 | KLA Corporation | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) | Ann Arbor, MI | — | 2026-10-16 |  |
@@ -1759,7 +1761,5 @@ Updated 2026-10-16 · 1653 roles · 211 with a stated deadline · 50 rolling
 | Palantir | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | New York, NY | — | 2026-09-28 |  |
 | Intel | [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | 5 Locations | — | 2026-09-28 |  |
 | Intel | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 5 Locations | — | 2026-09-28 |  |
-| Intel | [DevOps and Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) | Malaysia, Kulim | — | 2026-09-28 |  |
 | Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | Malaysia, Kulim | — | 2026-09-28 |  |
 | Intel | [AI/ML Software App Development Intern](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946) | PRC, Chengdu | — | 2026-09-28 |  |
-| Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) | Malaysia, Penang | — | 2026-09-28 |  |
