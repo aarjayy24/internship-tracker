@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-16",
@@ -4074,6 +4076,24 @@
 "src": "simplify",
 "title": "Digital Co-op",
 "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1"
+},
+"simplify:american bankers association:7eb2dc1e-a2d8-4cd8-a3cf-70178e3bc5d2": {
+"checked": "2026-10-16",
+"company": "American Bankers Association",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792164897.6747487,
+"flags": [],
+"key": "american bankers association|banking policy and economic research intern",
+"last_seen": "2026-10-16",
+"locations": [
+"Washington, DC"
+],
+"posted_ts": 1792108800,
+"rolling": false,
+"src": "simplify",
+"title": "Banking Policy and Economic Research Intern",
+"url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625"
 },
 "simplify:american bankers association:ec2c0694-e2d1-4b6f-a0d8-8246515195c7": {
 "checked": "2026-10-16",
@@ -17622,7 +17642,7 @@
 "first_seen_ts": 1790573041.993119,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "Seattle, WA"
 ],
@@ -17640,7 +17660,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-15",
+"last_seen": "2026-10-16",
 "locations": [
 "NYC"
 ],
@@ -18917,6 +18937,24 @@
 "title": "Market Analytics Graduate Intern",
 "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906"
 },
+"simplify:hilb group:59893888-211a-4a3c-9b02-8095e93f2051": {
+"checked": "2026-10-16",
+"company": "Hilb Group",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792164897.6747534,
+"flags": [],
+"key": "hilb group|benefits analytics intern",
+"last_seen": "2026-10-16",
+"locations": [
+"Hunt Valley, Cockeysville, MD"
+],
+"posted_ts": 1792108800,
+"rolling": false,
+"src": "simplify",
+"title": "Benefits Analytics Intern",
+"url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866"
+},
 "simplify:hitachi:95c4918c-cb96-4b7c-afa4-cb0f50c7378e": {
 "checked": "2026-09-30",
 "company": "Hitachi",
@@ -19990,6 +20028,25 @@
 "src": "simplify",
 "title": "Quantitative Researcher Intern - Summer 2027",
 "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421"
+},
+"simplify:infinitequant:cebe2404-0f14-43f7-a80e-93b201cd0441": {
+"checked": "2026-10-16",
+"company": "InfiniteQuant",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792164897.6727147,
+"flags": [],
+"key": "infinitequant|quantitative developer intern",
+"last_seen": "2026-10-16",
+"locations": [
+"Dubai - United Arab Emirates",
+"NYC"
+],
+"posted_ts": 1788426251,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Developer Intern",
+"url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879"
 },
 "simplify:infinitequant:d55a832d-489f-468a-8688-f419fb8b1b38": {
 "checked": "2026-10-12",
@@ -22144,6 +22201,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - AI",
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817"
+},
+"simplify:kla:f6398163-4e7d-4ddd-aaab-04adafd0ee67": {
+"checked": "2026-10-16",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-16",
+"first_seen_ts": 1792164897.674744,
+"flags": [],
+"key": "kla|research scientist intern plasma light source characterization",
+"last_seen": "2026-10-16",
+"locations": [
+"Ann Arbor, MI"
+],
+"posted_ts": 1791849600,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Plasma Light Source Characterization",
+"url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033"
 },
 "simplify:klaviyo:155087e9-02c4-4e9c-af43-3d7e5a3a6091": {
 "checked": "2026-10-13",
