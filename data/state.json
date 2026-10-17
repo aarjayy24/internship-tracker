@@ -1,8 +1,11 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:capitalone": 1,
-"workday:salesforce": 1
+"workday:adobe": 1,
+"workday:capitalone": 2,
+"workday:intel": 1,
+"workday:nvidia": 1,
+"workday:salesforce": 2
 },
 "jobs": {
 "amazon:amazon:10517567": {
