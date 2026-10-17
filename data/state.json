@@ -1,7 +1,8 @@
 {
 "bootstrapped": true,
 "health": {
-"microsoft": 1
+"workday:capitalone": 1,
+"workday:salesforce": 1
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -2572,7 +2573,7 @@
 "first_seen_ts": 1791400943.0507247,
 "flags": [],
 "key": "microsoft|applied science internship opportunities redmond",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -2644,7 +2645,7 @@
 "first_seen_ts": 1791935892.6894765,
 "flags": [],
 "key": "microsoft|research intern machine learning for biology and healthcare",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "Cambridge, MA, US"
 ],
@@ -2662,7 +2663,7 @@
 "first_seen_ts": 1791935892.6894698,
 "flags": [],
 "key": "microsoft|research intern machine learning and statistics",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "Cambridge, MA, US",
 "Redmond, WA, US"
@@ -2681,7 +2682,7 @@
 "first_seen_ts": 1792115036.9311683,
 "flags": [],
 "key": "microsoft|research intern efficient ai software systems",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -2699,7 +2700,7 @@
 "first_seen_ts": 1792177155.7450764,
 "flags": [],
 "key": "microsoft|research intern machine learning at msr nyc",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "New York, NY, US",
 "Cambridge, MA, US"
@@ -2718,7 +2719,7 @@
 "first_seen_ts": 1792177155.7450855,
 "flags": [],
 "key": "microsoft|research intern msr ai interaction and learning",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "Redmond, WA, US",
 "New York, NY, US"
@@ -6006,7 +6007,7 @@
 "first_seen_ts": 1791854628.4735749,
 "flags": [],
 "key": "ascension|master data management intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-17",
 "locations": [
 "St. Louis, MO"
 ],
@@ -32519,6 +32520,24 @@
 "title": "Robotics Software Intern Co-op",
 "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
 },
+"simplify:ryan:18cf7b99-7951-4d0b-aa42-6f2427d59c44": {
+"checked": "2026-10-17",
+"company": "Ryan",
+"deadline": null,
+"first_seen": "2026-10-17",
+"first_seen_ts": 1792211581.557958,
+"flags": [],
+"key": "ryan|software engineer intern",
+"last_seen": "2026-10-17",
+"locations": [
+"Plano, TX"
+],
+"posted_ts": 1792108800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
+},
 "simplify:ryan:5bfc436a-9656-4284-9854-0a7cfa20e018": {
 "checked": "2026-10-17",
 "company": "Ryan",
@@ -32554,6 +32573,24 @@
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
+},
+"simplify:ryan:9ca48e9a-a09b-4300-802e-47d9b4466d99": {
+"checked": "2026-10-17",
+"company": "Ryan",
+"deadline": null,
+"first_seen": "2026-10-17",
+"first_seen_ts": 1792211581.5579479,
+"flags": [],
+"key": "ryan|software engineer intern",
+"last_seen": "2026-10-17",
+"locations": [
+"Plano, TX"
+],
+"posted_ts": 1792108800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
 },
 "simplify:ryan:a34ec36a-bccc-4e43-93a8-36560196de44": {
 "checked": "2026-10-17",
@@ -37817,6 +37854,24 @@
 "src": "simplify",
 "title": "Systems Research Engineer Intern - GPU Programming",
 "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
+},
+"simplify:together ai:c7ca0cf8-1365-4043-bd33-60b444281d4b": {
+"checked": "2026-10-17",
+"company": "Together AI",
+"deadline": null,
+"first_seen": "2026-10-17",
+"first_seen_ts": 1792211581.5579622,
+"flags": [],
+"key": "together ai|research intern",
+"last_seen": "2026-10-17",
+"locations": [
+"SF"
+],
+"posted_ts": 1792199070,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern",
+"url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007"
 },
 "simplify:tokyo electron:0f0c5146-fe0c-4d96-a9ce-3aba76a9c5e1": {
 "checked": "2026-10-05",
