@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-18",
@@ -2572,7 +2570,7 @@
 "first_seen_ts": 1791400943.0507247,
 "flags": [],
 "key": "microsoft|applied science internship opportunities redmond",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-18",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -2644,7 +2642,7 @@
 "first_seen_ts": 1791935892.6894765,
 "flags": [],
 "key": "microsoft|research intern machine learning for biology and healthcare",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-18",
 "locations": [
 "Cambridge, MA, US"
 ],
@@ -2662,7 +2660,7 @@
 "first_seen_ts": 1791935892.6894698,
 "flags": [],
 "key": "microsoft|research intern machine learning and statistics",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-18",
 "locations": [
 "Cambridge, MA, US",
 "Redmond, WA, US"
@@ -2681,7 +2679,7 @@
 "first_seen_ts": 1792115036.9311683,
 "flags": [],
 "key": "microsoft|research intern efficient ai software systems",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-18",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -2699,7 +2697,7 @@
 "first_seen_ts": 1792177155.7450764,
 "flags": [],
 "key": "microsoft|research intern machine learning at msr nyc",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-18",
 "locations": [
 "New York, NY, US",
 "Cambridge, MA, US"
@@ -2718,7 +2716,7 @@
 "first_seen_ts": 1792177155.7450855,
 "flags": [],
 "key": "microsoft|research intern msr ai interaction and learning",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-18",
 "locations": [
 "Redmond, WA, US",
 "New York, NY, US"
