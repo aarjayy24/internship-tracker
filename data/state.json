@@ -6783,6 +6783,24 @@
 "title": "Software Engineer Intern - R&D Program",
 "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003"
 },
+"simplify:axos bank:0854004d-3797-4a41-92c7-8b23ea92f186": {
+"checked": "2026-10-18",
+"company": "Axos Bank",
+"deadline": null,
+"first_seen": "2026-10-18",
+"first_seen_ts": 1792313898.793215,
+"flags": [],
+"key": "axos bank|data analyst 1 intern",
+"last_seen": "2026-10-18",
+"locations": [
+"Omaha, NE"
+],
+"posted_ts": 1788393600,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst 1 Intern",
+"url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329"
+},
 "simplify:axq capital:553e936d-d5c4-4aff-b6a3-b91ff60b0afb": {
 "checked": "2026-10-12",
 "company": "AXQ Capital",
@@ -10256,6 +10274,26 @@
 "src": "simplify",
 "title": "Embedded Software Engineer Intern",
 "url": "https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply"
+},
+"simplify:chainlink labs:25fc66da-f7d2-4a82-b918-c0645c1eb9db": {
+"company": "Chainlink Labs",
+"first_seen": "2026-10-18",
+"first_seen_ts": 1792313898.7932076,
+"flags": [],
+"key": "chainlink labs|research intern",
+"last_seen": "2026-10-18",
+"locations": [
+"Boston, MA",
+"Seattle, WA",
+"Remote in USA",
+"NYC",
+"Remote in Canada",
+"Remote in Switzerland"
+],
+"posted_ts": 1782338934,
+"src": "simplify",
+"title": "Research Intern",
+"url": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true"
 },
 "simplify:charles schwab:09239b96-d26a-4691-b9ab-9b8b442caa9f": {
 "checked": "2026-10-03",
