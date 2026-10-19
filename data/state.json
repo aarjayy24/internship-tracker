@@ -1,7 +1,7 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:salesforce": 4
+"microsoft": 1
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -1358,6 +1358,24 @@
 "src": "greenhouse:scaleai",
 "title": "Software Engineering Intern (Summer 2027) ",
 "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+},
+"greenhouse:scale ai:4735665005": {
+"checked": "2026-10-19",
+"company": "Scale AI",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4185784,
+"flags": [],
+"key": "scale ai|machine learning research intern summer 2027",
+"last_seen": "2026-10-19",
+"locations": [
+"New York, NY; San Francisco, CA"
+],
+"posted_ts": 1792434189.0,
+"rolling": false,
+"src": "greenhouse:scaleai",
+"title": "Machine Learning Research Intern (Summer 2027)",
+"url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
 },
 "greenhouse:stripe:8128745": {
 "checked": "2026-10-19",
@@ -8313,6 +8331,24 @@
 "title": "Software Developer Intern - University",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403"
 },
+"simplify:borgwarner:d0a36b27-0b6f-4956-9ecb-4952e191ed55": {
+"checked": "2026-10-19",
+"company": "BorgWarner",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.422172,
+"flags": [],
+"key": "borgwarner|epmo support intern",
+"last_seen": "2026-10-19",
+"locations": [
+"Auburn Hills, MI"
+],
+"posted_ts": 1792368000,
+"rolling": false,
+"src": "simplify",
+"title": "EPMO Support Intern",
+"url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129"
+},
 "simplify:bosch home comfort:16b61d0f-fc3f-4be6-91dc-7dbdb0ba1a21": {
 "checked": "2026-10-16",
 "company": "Bosch Home Comfort",
@@ -8665,6 +8701,24 @@
 "src": "simplify",
 "title": "Software Development Engineer Co-op",
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963"
+},
+"simplify:bracebridge capital:5360208a-9885-42bb-a092-21121b730e84": {
+"checked": "2026-10-19",
+"company": "Bracebridge Capital",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4221938,
+"flags": [],
+"key": "bracebridge capital|software engineer co op application development",
+"last_seen": "2026-10-19",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1792420453,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op - Application Development",
+"url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005"
 },
 "simplify:brevan howard:79d2767b-ee67-4702-b2e3-506ab0eb3a30": {
 "checked": "2026-10-13",
@@ -17838,6 +17892,24 @@
 "title": "Software Engineer Intern",
 "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
 },
+"simplify:gm financial:01715d82-9e8f-436e-956d-164b5e0aceb2": {
+"checked": "2026-10-19",
+"company": "GM financial",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4221754,
+"flags": [],
+"key": "gm financial|portfolio analytics intern",
+"last_seen": "2026-10-19",
+"locations": [
+"Fort Worth, TX"
+],
+"posted_ts": 1792419557,
+"rolling": false,
+"src": "simplify",
+"title": "Portfolio Analytics Intern",
+"url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773"
+},
 "simplify:gm financial:0ce857da-f2c3-408f-9dff-60465fa37f40": {
 "checked": "2026-10-13",
 "company": "GM financial",
@@ -18359,6 +18431,27 @@
 "src": "simplify",
 "title": "Data Analytics Intern - Health and Safety - Environmental Health and Safety",
 "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Environment--Health-and-Safety--EHS--Data-Analytics-Intern_R0023530"
+},
+"simplify:graviton:a4c430da-28db-496d-b495-ef52de387970": {
+"checked": "2026-10-19",
+"company": "Graviton",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.422182,
+"flags": [],
+"key": "graviton|quantitative researcher intern",
+"last_seen": "2026-10-19",
+"locations": [
+"London, UK",
+"Amsterdam, Netherlands",
+"NYC",
+"Singapore"
+],
+"posted_ts": 1792418903,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Researcher Intern",
+"url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"
 },
 "simplify:great american insurance company:319f5acd-d41e-4a2d-ba38-489c86ff3b27": {
 "checked": "2026-10-16",
@@ -24020,6 +24113,24 @@
 "title": "Technology Intern",
 "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002"
 },
+"simplify:marvell:226b2e00-45e3-4969-ae52-9edd0338ac22": {
+"checked": "2026-10-19",
+"company": "Marvell",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.422179,
+"flags": [],
+"key": "marvell|ai data science intern",
+"last_seen": "2026-10-19",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1792368000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Data Science Intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1"
+},
 "simplify:marvell:6f576614-627b-4348-9a04-178f26b01381": {
 "checked": "2026-10-13",
 "company": "Marvell",
@@ -24055,6 +24166,24 @@
 "src": "simplify",
 "title": "AI-Native Development Platform Engineer Intern",
 "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
+},
+"simplify:marvell:c35aada5-ad17-4000-baae-c7099528eabb": {
+"checked": "2026-10-19",
+"company": "Marvell",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4221685,
+"flags": [],
+"key": "marvell|ai data science intern",
+"last_seen": "2026-10-19",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1792368000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Data Science Intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846"
 },
 "simplify:mastercard:56d4093a-fc88-43f6-aab0-ae355a913f58": {
 "checked": "2026-09-28",
@@ -26485,7 +26614,7 @@
 "first_seen_ts": 1792108185.029541,
 "flags": [],
 "key": "nationwide|technology intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-19",
 "locations": [
 "Des Moines, IA",
 "Scottsdale, AZ",
@@ -30976,6 +31105,42 @@
 "title": "Product Management AI-Tool Intern - 8 months/40hrs per week",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999"
 },
+"simplify:robert bosch venture capital:b5bb6e1a-1206-4c9a-aea9-5df782a0e67c": {
+"checked": "2026-10-19",
+"company": "Robert Bosch Venture Capital",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4221897,
+"flags": [],
+"key": "robert bosch venture capital|ai research intern wireless foundation models",
+"last_seen": "2026-10-19",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1792418919,
+"rolling": false,
+"src": "simplify",
+"title": "AI Research Intern: Wireless Foundation Models",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136"
+},
+"simplify:robert bosch venture capital:d19bf91f-90c0-4799-9c56-302b3703168a": {
+"checked": "2026-10-19",
+"company": "Robert Bosch Venture Capital",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4221857,
+"flags": [],
+"key": "robert bosch venture capital|software engineering co op",
+"last_seen": "2026-10-19",
+"locations": [
+"Fountain Inn, SC"
+],
+"posted_ts": 1792418919,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682"
+},
 "simplify:robinhood:1c64a304-96bc-447e-ab18-b8bcf93f937f": {
 "company": "Robinhood",
 "first_seen": "2026-09-28",
@@ -32556,6 +32721,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878082"
+},
+"simplify:rtx:f2273a00-fd36-44f4-b959-cffdf589df8a": {
+"checked": "2026-10-19",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.422165,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-19",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1792368000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499"
 },
 "simplify:rtx:f73893bf-cad5-4a20-9e0c-3f0b18a456d7": {
 "checked": "2026-10-09",
@@ -42170,6 +42353,60 @@
 "title": "2027 Intern - Applied and Research Scientist/Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
 },
+"workday:adobe:R172997": {
+"checked": "2026-10-19",
+"company": "Adobe",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4188516,
+"flags": [],
+"key": "adobe|2027 intern data ai innovation",
+"last_seen": "2026-10-19",
+"locations": [
+"San Jose"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:adobe",
+"title": "2027 Intern - Data, AI & Innovation",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997"
+},
+"workday:adobe:R172998": {
+"checked": "2026-10-19",
+"company": "Adobe",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4188387,
+"flags": [],
+"key": "adobe|2027 intern ai architecture",
+"last_seen": "2026-10-19",
+"locations": [
+"San Jose"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:adobe",
+"title": "2027 Intern - AI & Architecture",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
+},
+"workday:adobe:R173000": {
+"checked": "2026-10-19",
+"company": "Adobe",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4188454,
+"flags": [],
+"key": "adobe|2027 intern security engineer",
+"last_seen": "2026-10-19",
+"locations": [
+"Lehi"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:adobe",
+"title": "2027 Intern - Security Engineer",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000"
+},
 "workday:adobe:R173015": {
 "checked": "2026-10-19",
 "company": "Adobe",
@@ -42631,6 +42868,24 @@
 "src": "workday:nvidia",
 "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
+},
+"workday:salesforce:JR364911-1": {
+"checked": "2026-10-19",
+"company": "Salesforce",
+"deadline": null,
+"first_seen": "2026-10-19",
+"first_seen_ts": 1792437343.4188285,
+"flags": [],
+"key": "salesforce|summer 2027 intern software engineer security government",
+"last_seen": "2026-10-19",
+"locations": [
+"California   San Francisco"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:salesforce",
+"title": "Summer 2027 Intern - Software Engineer (Security/Government)",
+"url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
 }
 }
 }
