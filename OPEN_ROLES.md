@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-19 · 1613 roles · 158 with a stated deadline · 51 rolling
+Updated 2026-10-19 · 1616 roles · 159 with a stated deadline · 51 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (50)
+## ⏰ Deadlines in the next 14 days (51)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -56,13 +56,16 @@ Updated 2026-10-19 · 1613 roles · 158 with a stated deadline · 51 rolling
 | Nov 1 (13d) | American Century Investments | [Software Developer Intern](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1) | Kansas City, MO |
 | Nov 1 (13d) | American Century Investments | [Enterprise Data Intern](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751) | Southlake, TX, Kansas City, MO |
 | Nov 1 (13d) | Saab | [Systems Engineer Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1) | East Syracuse, NY |
+| Nov 1 (13d) | Johnson & Johnson | [Quality Data Science Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) | Cincinnati, OH |
 | Nov 2 (14d) | ABB | [AI Engineering ERP Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | Cary, NC |
 | Nov 2 (14d) | The Hartford | [Software Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Hartford, CT |
 
-## ⭐ Top companies (80)
+## ⭐ Top companies (82)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Adobe | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015) | Basel | — | 2026-10-19 |  |
+| Adobe | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Bucharest | — | 2026-10-19 |  |
 | Microsoft | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393557041730) | Redmond, WA, Mountain View, CA | rolling | 2026-10-17 |  |
 | Meta | [Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science](https://www.metacareers.com/jobs/1141752241867684) | Redmond, WA | — | 2026-10-17 |  |
 | Microsoft | [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393557042145) | New York, NY, US, Cambridge, MA, US | rolling | 2026-10-16 |  |
@@ -144,10 +147,11 @@ Updated 2026-10-19 · 1613 roles · 158 with a stated deadline · 51 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1533)
+## Everyone else (1534)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Johnson & Johnson | [Quality Data Science Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) | Cincinnati, OH | Nov 1 (13d) | 2026-10-19 |  |
 | DiDi Global | [Research Intern - Scene Understanding and Planning](https://job-boards.greenhouse.io/didi/jobs/8299748) | San Jose, CA | — | 2026-10-19 |  |
 | CMS Energy | [Learning & Development Intern/Co-op - Data Visualization](https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors) | Michigan | — | 2026-10-19 |  |
 | Axos Bank | [Data Analyst 1 Intern](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329) | Omaha, NE | — | 2026-10-18 |  |
