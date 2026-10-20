@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:salesforce": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-20",
@@ -6260,7 +6258,7 @@
 "first_seen_ts": 1792023782.6573253,
 "flags": [],
 "key": "assurant|software engineer intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-20",
 "locations": [
 "Miami, FL",
 "Chicago, IL",
@@ -8511,6 +8509,24 @@
 "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734"
 },
+"simplify:bosch home comfort:7cbcd7b6-0d36-4f4e-b474-5a37bdb49090": {
+"checked": "2026-10-20",
+"company": "Bosch Home Comfort",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332652,
+"flags": [],
+"key": "bosch home comfort|driving foundations research intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted_ts": 1792534119,
+"rolling": false,
+"src": "simplify",
+"title": "Driving Foundations Research Intern",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000156648989"
+},
 "simplify:bosch home comfort:97b19795-4fdd-4a30-8b4d-fd78592f4793": {
 "checked": "2026-10-05",
 "company": "Bosch Home Comfort",
@@ -8703,14 +8719,14 @@
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
 },
 "simplify:boston scientific:532045a4-58bc-4fef-8105-cae7f1bdcccc": {
-"checked": "2026-10-06",
+"checked": "2026-10-20",
 "company": "Boston Scientific",
 "deadline": null,
 "first_seen": "2026-10-06",
 "first_seen_ts": 1791277846.792314,
 "flags": [],
 "key": "boston scientific|equipment engineering software engineer intern",
-"last_seen": "2026-10-09",
+"last_seen": "2026-10-20",
 "locations": [
 "Maple Grove, MN"
 ],
@@ -12794,6 +12810,24 @@
 "title": "IT Intern",
 "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652"
 },
+"simplify:denver:1b51eb80-5128-4016-830d-222deed0a220": {
+"checked": "2026-10-20",
+"company": "Denver",
+"deadline": "2026-10-23",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332688,
+"flags": [],
+"key": "denver|audit analytics intern ao",
+"last_seen": "2026-10-20",
+"locations": [
+"Denver, CO"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Audit Analytics Intern - AO",
+"url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Downtown-Denver/Audit-Analytics-Intern---AO_R0083613"
+},
 "simplify:denver:ddb3be51-5802-4866-a26c-72803474d6d4": {
 "checked": "2026-10-16",
 "company": "Denver",
@@ -14351,7 +14385,7 @@
 "first_seen_ts": 1790980541.7404811,
 "flags": [],
 "key": "elevance health|data analyst graduate intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-20",
 "locations": [
 "Indianapolis, IN",
 "Richmond, VA",
@@ -14372,7 +14406,7 @@
 "first_seen_ts": 1790980541.7404764,
 "flags": [],
 "key": "elevance health|engineering graduate intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-20",
 "locations": [
 "Indianapolis, IN",
 "Richmond, VA",
@@ -14393,7 +14427,7 @@
 "first_seen_ts": 1790980541.7404852,
 "flags": [],
 "key": "elevance health|data analytics intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-20",
 "locations": [
 "Indianapolis, IN",
 "Richmond, VA",
@@ -14414,7 +14448,7 @@
 "first_seen_ts": 1790980541.740489,
 "flags": [],
 "key": "elevance health|engineering intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-10-20",
 "locations": [
 "Indianapolis, IN",
 "Richmond, VA",
@@ -19544,6 +19578,74 @@
 "title": "Revenue Management Intern - Summer 2027",
 "url": "https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false"
 },
+"simplify:highmark health:1cd8b69a-cba6-4450-b07e-1c57ec86ecad": {
+"checked": "2026-10-20",
+"company": "Highmark Health",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332361,
+"flags": [],
+"key": "highmark health|evaluation analytics graduate intern",
+"last_seen": "2026-10-20",
+"locations": [
+"New Mexico",
+"Washington",
+"Kansas",
+"Pennsylvania",
+"North Dakota",
+"Oregon",
+"Delaware",
+"Iowa",
+"California",
+"Washington, DC",
+"Vermont",
+"Wyoming",
+"Connecticut",
+"Texas",
+"Montana",
+"Florida",
+"New Hampshire",
+"Nevada",
+"South Carolina",
+"South Dakota",
+"Georgia",
+"Arizona",
+"Mississippi",
+"Tennessee",
+"Virginia",
+"Arkansas",
+"Minnesota",
+"Colorado",
+"Nebraska",
+"Rhode Island",
+"Utah",
+"Kentucky",
+"West Virginia",
+"NYC",
+"Maryland",
+"Hawaii",
+"Wisconsin",
+"Maine",
+"Massachusetts",
+"North Carolina",
+"Oklahoma",
+"Missouri",
+"Ohio",
+"New Jersey",
+"Indiana",
+"Louisiana",
+"Alaska",
+"Michigan",
+"Illinois",
+"Alabama",
+"Idaho"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Evaluation Analytics Graduate Intern",
+"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013"
+},
 "simplify:highmark health:29dccfec-8c43-420d-b9be-cb77d19d5499": {
 "checked": "2026-10-19",
 "company": "Highmark Health",
@@ -20950,6 +21052,25 @@
 "title": "Digital Innovation Intern",
 "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1"
 },
+"simplify:inmar intelligence:65762873-a3b8-496c-bce2-a06d3c31cb6c": {
+"checked": "2026-10-20",
+"company": "Inmar Intelligence",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332316,
+"flags": [],
+"key": "inmar intelligence|data science intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Raleigh, NC",
+"Winston-Salem, NC"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711"
+},
 "simplify:innovative defense technologies:0d975f4a-64df-4148-98fd-46ab01f959b8": {
 "checked": "2026-10-13",
 "company": "Innovative Defense Technologies",
@@ -21119,6 +21240,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern/Co-op",
 "url": "http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering"
+},
+"simplify:insomniac games:f3b0993a-b1fc-4fa4-a1f4-bc7129fb05f3": {
+"checked": "2026-10-20",
+"company": "Insomniac Games",
+"deadline": "2026-11-20",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332616,
+"flags": [],
+"key": "insomniac games|engine and tools programming intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Burbank, CA"
+],
+"posted_ts": 1792534152,
+"rolling": false,
+"src": "simplify",
+"title": "Engine and Tools Programming Intern",
+"url": "https://job-boards.greenhouse.io/insomniac/jobs/6227080004"
 },
 "simplify:intel:196825af-df08-45d5-a8e9-0d053f272e7b": {
 "checked": "2026-10-06",
@@ -22577,6 +22716,24 @@
 "src": "simplify",
 "title": "Implementation Analytics Intern - Claims Monitoring & Automation",
 "url": "https://job-boards.greenhouse.io/judihealth/jobs/5429077008"
+},
+"simplify:k1:cd52d493-1bc9-4b16-aadc-1f73f8a88355": {
+"checked": "2026-10-20",
+"company": "K1",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332547,
+"flags": [],
+"key": "k1|ai intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Manhattan Beach, CA"
+],
+"posted_ts": 1792534415,
+"rolling": false,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern"
 },
 "simplify:k2 space:20b0f4b1-dafa-4b0c-bebe-41e1e3676175": {
 "checked": "2026-10-19",
@@ -25652,6 +25809,24 @@
 "title": "Research Scientist Intern - Egocentric Vision-Language Models",
 "url": "https://www.metacareers.com/jobs/2067000203934229"
 },
+"simplify:meta:35a618f9-3e92-414f-9b23-8d8d2130672d": {
+"checked": "2026-10-20",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332273,
+"flags": [],
+"key": "meta|research scientist intern multimodal behavioral ai",
+"last_seen": "2026-10-20",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1792534811,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Multimodal Behavioral AI",
+"url": "https://www.metacareers.com/jobs/1428978125312655"
+},
 "simplify:meta:4f41f3de-17ab-49df-b857-cb501dbde8e5": {
 "checked": "2026-10-20",
 "company": "Meta",
@@ -25743,6 +25918,24 @@
 "src": "simplify",
 "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
 "url": "https://www.metacareers.com/jobs/1674394627579563"
+},
+"simplify:meta:8da922e7-05ce-40d5-b0b8-36805547ece6": {
+"checked": "2026-10-20",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332218,
+"flags": [],
+"key": "meta|research scientist intern computational imaging and robotics",
+"last_seen": "2026-10-20",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1792534813,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Computational Imaging and Robotics",
+"url": "https://www.metacareers.com/jobs/2857194467985784"
 },
 "simplify:meta:913185e4-c0b8-46bb-add7-d4de9eb77339": {
 "checked": "2026-10-14",
@@ -25949,6 +26142,24 @@
 "src": "simplify",
 "title": "Research Scientist Intern",
 "url": "https://www.metacareers.com/jobs/3364701000388712"
+},
+"simplify:metamorphic:d57fb9b7-232f-4e54-b2f8-fbd358ebe6c4": {
+"checked": "2026-10-20",
+"company": "Metamorphic",
+"deadline": "2026-11-10",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332476,
+"flags": [],
+"key": "metamorphic|engineering intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1792534434,
+"rolling": false,
+"src": "simplify",
+"title": "Engineering Intern",
+"url": "https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true"
 },
 "simplify:metlife:7ad6c160-b084-4ec2-9be1-3617d01137d1": {
 "checked": "2026-10-14",
@@ -33640,6 +33851,24 @@
 "title": "Software Engineer Co-op - Spring/Summer 2027",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"
 },
+"simplify:rtx:e8a2975b-62cb-450a-9629-f7210118211b": {
+"checked": "2026-10-20",
+"company": "RTX",
+"deadline": "2026-10-23",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332397,
+"flags": [],
+"key": "rtx|software engineering intern",
+"last_seen": "2026-10-20",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+},
 "simplify:rtx:f1498361-ba76-45f9-9d85-dfac75b061a9": {
 "company": "RTX",
 "first_seen": "2026-09-28",
@@ -33816,6 +34045,24 @@
 "src": "simplify",
 "title": "Application Development Intern",
 "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820"
+},
+"simplify:ryan:a83008e3-bd87-4c41-92f2-3a50d3b0bcfc": {
+"checked": "2026-10-20",
+"company": "Ryan",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332082,
+"flags": [],
+"key": "ryan|application engineering intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Plano, TX"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Application Engineering Intern",
+"url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1"
 },
 "simplify:ryan:c7c5c8d2-37c7-4b14-89b5-e0318a1fad90": {
 "checked": "2026-10-17",
@@ -34164,6 +34411,24 @@
 "title": "Software Engineer Intern",
 "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911"
 },
+"simplify:salesforce:ea35e6ba-134e-48fe-b946-e6109877602e": {
+"checked": "2026-10-20",
+"company": "Salesforce",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332511,
+"flags": [],
+"key": "salesforce|ai research intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "AI Research Intern",
+"url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"
+},
 "simplify:saronic:36ded0a7-bb49-4395-ad3a-32a1fa86b8b2": {
 "checked": "2026-10-19",
 "company": "Saronic",
@@ -34434,6 +34699,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
+},
+"simplify:schweitzer engineering laboratories:7a73e6f4-b7ad-4f5e-990c-f6638569032e": {
+"checked": "2026-10-20",
+"company": "Schweitzer Engineering Laboratories",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332583,
+"flags": [],
+"key": "schweitzer engineering laboratories|software engineer intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Pullman, WA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190"
 },
 "simplify:scout clean energy:c63a51bb-9db9-4bab-91a4-279cec884af5": {
 "checked": "2026-10-20",
@@ -35180,6 +35463,24 @@
 "src": "simplify",
 "title": "Embedded Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true"
+},
+"simplify:skydio:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5": {
+"checked": "2026-10-20",
+"company": "Skydio",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332438,
+"flags": [],
+"key": "skydio|mobile software engineer intern",
+"last_seen": "2026-10-20",
+"locations": [
+"San Mateo, CA"
+],
+"posted_ts": 1792534507,
+"rolling": false,
+"src": "simplify",
+"title": "Mobile Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true"
 },
 "simplify:skydio:a79f7fb4-d7b1-4429-a9e6-94c1462ee5d1": {
 "checked": "2026-10-15",
@@ -43290,6 +43591,24 @@
 "title": "Robotics Center Intern - Multiple Teams",
 "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8681156002"
 },
+"simplify:zillow:00e04eac-1e56-4e4d-ad08-1472c68a0683": {
+"checked": "2026-10-20",
+"company": "Zillow",
+"deadline": "2026-11-05",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.9332163,
+"flags": [],
+"key": "zillow|applied scientist intern economics",
+"last_seen": "2026-10-20",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Applied Scientist Intern - Economics",
+"url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1"
+},
 "simplify:zimmer biomet holdings:052eb803-66af-435a-9f6d-069e2aa8d052": {
 "checked": "2026-10-20",
 "company": "Zimmer Biomet Holdings",
@@ -44129,6 +44448,24 @@
 "src": "workday:salesforce",
 "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
+},
+"workday:salesforce:JR365111-1": {
+"checked": "2026-10-20",
+"company": "Salesforce",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792536203.929093,
+"flags": [],
+"key": "salesforce|summer 2027 intern ai research",
+"last_seen": "2026-10-20",
+"locations": [
+"California - Palo Alto"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:salesforce",
+"title": "Summer 2027 Intern - AI Research",
+"url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"
 }
 }
 }
