@@ -2764,7 +2764,7 @@
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
 },
 "simplify:7-eleven:07b72404-06cc-425a-80c5-b8a9a253652a": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "7-Eleven",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -5437,7 +5437,7 @@
 "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
 },
 "simplify:ann & robert h. lurie children\u2019s hospital of chicago:eee2cda6-34bf-4430-85cc-b95a21954618": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Ann & Robert H. Lurie Children\u2019s Hospital of Chicago",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -8587,7 +8587,7 @@
 "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278"
 },
 "simplify:boston consulting group:191ec10e-48aa-42a6-a296-acd2f1d46586": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Boston Consulting Group",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -8608,7 +8608,7 @@
 "url": "https://careers.bcg.com/global/en/job/59702"
 },
 "simplify:boston consulting group:71573abd-2d22-4f73-b614-94625aa6bdfe": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Boston Consulting Group",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -12576,7 +12576,7 @@
 "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
 },
 "simplify:datarobot:348b5edc-892b-42e5-8da3-5eaf1dc12c7a": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "DataRobot",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -13653,7 +13653,7 @@
 "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
 },
 "simplify:drivetime:ebb1e212-e617-4401-b8c1-187cf3be6bd3": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "DriveTime",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -16435,7 +16435,7 @@
 "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
 },
 "simplify:gallup:bda4abe8-aa5b-41a0-bb34-7806e4ff2679": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Gallup",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -18998,7 +18998,7 @@
 "url": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false"
 },
 "simplify:h&r block:cb062e22-3c1a-451f-a4b8-bcb8167ea270": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "H&R Block",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -19236,7 +19236,7 @@
 "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply"
 },
 "simplify:hewlett packard enterprise:27a95130-d285-4542-8d8e-e60cabf4b119": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Hewlett Packard Enterprise",
 "deadline": "2027-02-26",
 "first_seen": "2026-10-13",
@@ -21685,7 +21685,7 @@
 "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1"
 },
 "simplify:jain global:602db96f-f754-408e-b396-d3bdadbc3dac": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Jain Global",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -22482,6 +22482,26 @@
 "title": "Quantitative Research Intern - Risk and Treasury",
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978"
 },
+"simplify:jp morgan chase:f9299641-0cec-447d-8ed6-26445441d4ec": {
+"checked": "2026-10-20",
+"company": "JP Morgan Chase",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792496985.364547,
+"flags": [],
+"key": "jp morgan chase|machine learning summer associate intern nlp",
+"last_seen": "2026-10-20",
+"locations": [
+"Palo Alto, CA",
+"Seattle, WA",
+"NYC"
+],
+"posted_ts": 1792487487,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Summer Associate Intern - NLP",
+"url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"
+},
 "simplify:judi health:8a42bb1e-8594-4567-9b1b-3293a2451a1f": {
 "checked": "2026-10-20",
 "company": "Judi Health",
@@ -22958,7 +22978,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1"
 },
 "simplify:kla:0409c750-f9d4-4b63-ae69-f095bd0c95ee": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -22994,7 +23014,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2"
 },
 "simplify:kla:2ceb1cdc-f5a5-4650-8fd1-1c54af7450ce": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -23030,7 +23050,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044"
 },
 "simplify:kla:5641eed2-7dd2-4dc6-8834-2db9066a87f3": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -23192,7 +23212,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044-2"
 },
 "simplify:kla:f25ac517-b641-4c69-87e1-685fcf4b4dbc": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -23334,6 +23354,25 @@
 "src": "simplify",
 "title": "Associate Software Engineering Intern",
 "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors"
+},
+"simplify:l3harris technologies:7b0b49ae-7a2d-4ad2-9957-e53861b27064": {
+"checked": "2026-10-20",
+"company": "L3Harris Technologies",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792496985.3645372,
+"flags": [],
+"key": "l3harris technologies|software engineer intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Clinton, MD",
+"Clifton, NJ"
+],
+"posted_ts": 1790633316,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors"
 },
 "simplify:l3harris technologies:82b9b534-5821-4221-a411-921d4751ae32": {
 "checked": "2026-10-15",
@@ -25010,7 +25049,7 @@
 "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378"
 },
 "simplify:medpace:ae3e214d-ad36-44cf-9706-a3988951b4d2": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Medpace",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -25931,7 +25970,7 @@
 "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"
 },
 "simplify:metropolitan transportation authority:7804474e-b183-49d7-a358-ac0f785a930a": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Metropolitan Transportation Authority",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -31705,7 +31744,7 @@
 "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
 },
 "simplify:rhombus:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Rhombus",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -32226,7 +32265,7 @@
 "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142"
 },
 "simplify:rolls-royce:bb94a732-f483-4037-8b53-5bc77b5cb33f": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Rolls-Royce",
 "deadline": "2026-10-31",
 "first_seen": "2026-10-13",
@@ -34013,6 +34052,25 @@
 "title": "Software Engineer Intern",
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
 },
+"simplify:salesforce:46965922-9d94-4b6d-9e87-ff3889d5d343": {
+"checked": "2026-10-20",
+"company": "Salesforce",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792496985.3645525,
+"flags": [],
+"key": "salesforce|software engineer intern",
+"last_seen": "2026-10-20",
+"locations": [
+"SF",
+"Bellevue, WA"
+],
+"posted_ts": 1792368000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
+},
 "simplify:salesforce:c87cc8c3-da35-4f50-9ee0-cc9cac12c4b0": {
 "checked": "2026-10-19",
 "company": "Salesforce",
@@ -34268,7 +34326,7 @@
 "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692"
 },
 "simplify:schweitzer engineering laboratories:39fa3b6e-c238-4958-a741-72035b1798f4": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Schweitzer Engineering Laboratories",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -34412,7 +34470,7 @@
 "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply"
 },
 "simplify:servicenow:290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "ServiceNow",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -34433,7 +34491,7 @@
 "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689"
 },
 "simplify:servicenow:e7154c19-1906-4634-9226-1da16eb77416": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "ServiceNow",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -35032,7 +35090,7 @@
 "url": "https://simventions.jibeapply.com/jobs/1631?icims=1"
 },
 "simplify:skydio:4cd89228-5cf0-4015-8a13-f56507d88e39": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Skydio",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -39286,7 +39344,7 @@
 "url": "https://careers.trccompanies.com/jobs/26961?icims=1"
 },
 "simplify:trc companies:e93466ad-f96b-44c2-b4a5-5537e957772b": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "TRC Companies",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -39646,7 +39704,7 @@
 "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors"
 },
 "simplify:unity:10418cfa-4ae1-4f7a-8a52-bb2d1772ad29": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Unity",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -40326,6 +40384,24 @@
 "title": "Technology Intern - Summer Internship Program",
 "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722"
 },
+"simplify:verizon communications:069f3f4c-adc9-4e2d-919c-045fd3bef6b6": {
+"checked": "2026-10-20",
+"company": "Verizon Communications",
+"deadline": "2026-10-24",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792496985.364557,
+"flags": [],
+"key": "verizon communications|call routing optimization engineer intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Basking Ridge, Bernards, NJ"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Call Routing Optimization Engineer Intern",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398"
+},
 "simplify:verizon communications:4d75efc0-61e0-48f4-955d-15ea4c188bae": {
 "checked": "2026-09-29",
 "company": "Verizon Communications",
@@ -40834,7 +40910,7 @@
 "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902"
 },
 "simplify:walgreens:d67d82ad-8fcb-40e5-9792-beb487215244": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Walgreens",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -41124,7 +41200,7 @@
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
 },
 "simplify:waymo:342edb51-b682-4daa-80fd-21c355143f3e": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "Waymo",
 "deadline": null,
 "first_seen": "2026-10-13",

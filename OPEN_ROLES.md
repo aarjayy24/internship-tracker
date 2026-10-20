@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-20 · 1648 roles · 161 with a stated deadline · 51 rolling
+Updated 2026-10-20 · 1652 roles · 162 with a stated deadline · 51 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (52)
+## ⏰ Deadlines in the next 14 days (53)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -30,6 +30,7 @@ Updated 2026-10-20 · 1648 roles · 161 with a stated deadline · 51 rolling
 | **Oct 23 (3d)** | TIAA | [Enterprise Analytics Intern](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--TIAA-Enterprise-Analytics_R261000118-2) | Dallas, TX, Charlotte, NC |
 | **Oct 24 (4d)** | LexisNexis Risk Solutions | [Data Science Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955) | Alpharetta, GA |
 | **Oct 24 (4d)** | LexisNexis Risk Solutions | [Data Analyst Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377) | Alpharetta, GA |
+| **Oct 24 (4d)** | Verizon Communications | [Call Routing Optimization Engineer Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398) | Basking Ridge, Bernards, NJ |
 | **Oct 26 (6d)** | Expedia Group | [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306-1) | Seattle, WA, Austin, TX, San Jose, CA |
 | **Oct 26 (6d)** | Expedia Group | [Software Development Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1) | Seattle, WA, Austin, TX, San Jose, CA |
 | **Oct 26 (6d)** | Expedia Group | [Applied Science Intern](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---Masters---2027---Austin--San-Jose--Seattle_R-110379-1) | Seattle, WA, Austin, TX, San Jose, CA |
@@ -61,7 +62,7 @@ Updated 2026-10-20 · 1648 roles · 161 with a stated deadline · 51 rolling
 | Nov 2 (13d) | The Hartford | [Software Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Hartford, CT |
 | Nov 3 (14d) | Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) | Dayton, OH, Knoxville, TN, Portsmouth, NH, Princeton, NJ, La |
 
-## ⭐ Top companies (93)
+## ⭐ Top companies (94)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -70,6 +71,7 @@ Updated 2026-10-20 · 1648 roles · 161 with a stated deadline · 51 rolling
 | Meta | [Optical Engineering AI and Data Analytics Intern](https://www.metacareers.com/jobs/1851348099357899) | Sunnyvale, CA | — | 2026-10-20 |  |
 | Meta | [Research Scientist Intern - 3D-grounded Generalist Model for Robotics](https://www.metacareers.com/jobs/2267351860492630) | Redmond, WA | — | 2026-10-20 |  |
 | Meta | [Research Scientist Intern - Smart Glasses in Wearables AI](https://www.metacareers.com/jobs/1584033410435097) | Burlingame, CA, Menlo Park, CA | — | 2026-10-20 |  |
+| Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) | SF, Bellevue, WA | — | 2026-10-20 |  |
 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA | — | 2026-10-19 |  |
 | Salesforce | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) | SF, Bellevue, WA | — | 2026-10-19 |  |
 | Adobe | [2027 Intern - Data, AI & Innovation](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | San Jose | — | 2026-10-19 |  |
@@ -159,12 +161,14 @@ Updated 2026-10-20 · 1648 roles · 161 with a stated deadline · 51 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1555)
+## Everyone else (1558)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| JP Morgan Chase | [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Palo Alto, CA, Seattle, WA, NYC | — | 2026-10-20 |  |
 | Boston Scientific | [R&D Software Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563514) | Arden Hills, MN | — | 2026-10-20 |  |
 | Palantir | [Software Engineer Intern - Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply) | NYC | — | 2026-10-20 |  |
+| Verizon Communications | [Call Routing Optimization Engineer Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398) | Basking Ridge, Bernards, NJ | **Oct 24 (4d)** | 2026-10-20 |  |
 | Palantir | [Software Engineer, Internship - Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) | New York, NY | — | 2026-10-20 |  |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262) | Orlando, FL | — | 2026-10-20 |  |
 | Electronic Arts | [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250) | Orlando, FL | — | 2026-10-20 |  |
@@ -178,11 +182,12 @@ Updated 2026-10-20 · 1648 roles · 161 with a stated deadline · 51 rolling
 | Navy Federal | [AI Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645) | Vienna, VA | — | 2026-10-20 |  |
 | Horizon Industries | [Appian Intern](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5457606008) | Vienna, VA | — | 2026-10-20 |  |
 | Lawrence Livermore National Laboratory (LLNL) | [Predictive Science Academic Alliance Program 4 Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990016225626) | Livermore, CA | — | 2026-10-20 |  |
+| Associated Bank | [Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672) | Minneapolis, MN | — | 2026-10-20 |  |
 | Associated Bank | [Corporate Intern - Digital Delivery - Artificial Intelligence](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639) | Milwaukee, WI | — | 2026-10-20 |  |
 | General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643) | Egg Harbor Township, NJ | rolling | 2026-10-20 |  |
 | Rogue Fitness | [AI Engineer Intern](https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005) | Columbus, OH | — | 2026-10-20 |  |
 | RTX | [Software Engineering Co-op - Summer / Fall 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368) | Cedar Rapids, IA | — | 2026-10-20 |  |
-| Associated Bank | [Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672) | Minneapolis, MN | — | 2026-10-20 |  |
+| L3Harris Technologies | [Software Engineer Intern](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors) | Clinton, MD, Clifton, NJ | — | 2026-10-20 |  |
 | Paccar | [Warranty Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors) | Kirkland, WA | — | 2026-10-19 |  |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/54805?icims=1) | Santa Clara, CA | — | 2026-10-19 |  |
 | Point72 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002) | NYC | — | 2026-10-19 |  |
