@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:salesforce": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-20",
@@ -43611,6 +43613,24 @@
 "src": "workday:adobe",
 "title": "2027 Intern - Security Engineer",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000"
+},
+"workday:adobe:R173001": {
+"checked": "2026-10-20",
+"company": "Adobe",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792525599.350399,
+"flags": [],
+"key": "adobe|2027 intern security engineer",
+"last_seen": "2026-10-20",
+"locations": [
+"San Jose"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:adobe",
+"title": "2027 Intern - Security Engineer",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"
 },
 "workday:adobe:R173015": {
 "checked": "2026-10-19",
