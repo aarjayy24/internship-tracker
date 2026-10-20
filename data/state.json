@@ -3588,6 +3588,24 @@
 "title": "Data Governance Intern",
 "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076"
 },
+"simplify:allstate:ba0364a9-1ac6-476c-bce0-118895d7a5ed": {
+"checked": "2026-10-20",
+"company": "Allstate",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8344195,
+"flags": [],
+"key": "allstate|software engineer intern",
+"last_seen": "2026-10-20",
+"locations": [
+"North Carolina"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
+},
 "simplify:alston & bird law firm:d0cef856-98c0-4742-86ea-e16297da53fb": {
 "checked": "2026-10-20",
 "company": "Alston & Bird Law Firm",
@@ -11592,6 +11610,24 @@
 "src": "simplify",
 "title": "Trading Analytics Intern",
 "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429"
+},
+"simplify:constellation brands:82aec07a-0fa9-4cd0-8404-4c493e5561c9": {
+"checked": "2026-10-20",
+"company": "Constellation Brands",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8343914,
+"flags": [],
+"key": "constellation brands|ai enablement intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Rochester, NY"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "AI Enablement Intern",
+"url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526"
 },
 "simplify:constellation energy:6f0ac1d2-020c-4403-bbe7-85b5e31d912d": {
 "checked": "2026-10-20",
@@ -33227,6 +33263,24 @@
 "title": "Systems Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
 },
+"simplify:rtx:a5702f5f-906d-4b1f-8b18-e4034368a2cb": {
+"checked": "2026-10-20",
+"company": "RTX",
+"deadline": "2026-10-24",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8343997,
+"flags": [],
+"key": "rtx|software engineer co op",
+"last_seen": "2026-10-20",
+"locations": [
+"Aurora, CO"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452"
+},
 "simplify:rtx:a6d20bfd-fd5e-467c-9b88-327066eed625": {
 "checked": "2026-09-30",
 "company": "RTX",
@@ -33511,6 +33565,24 @@
 "src": "simplify",
 "title": "Factory Enablement Digital Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474"
+},
+"simplify:rtx:d6b959d0-3774-41d6-bc89-d62b84ca38bf": {
+"checked": "2026-10-20",
+"company": "RTX",
+"deadline": "2026-10-24",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8343961,
+"flags": [],
+"key": "rtx|software engineer co op",
+"last_seen": "2026-10-20",
+"locations": [
+"Richardson, TX"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545"
 },
 "simplify:rtx:d9192af9-44cc-4afc-bb53-481c9e5acabf": {
 "checked": "2026-09-30",
@@ -35307,6 +35379,24 @@
 "title": "Digital Testing & Optimization Intern",
 "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012"
 },
+"simplify:space dynamics laboratory:10497907-6a16-498a-a06a-e40113931577": {
+"checked": "2026-10-20",
+"company": "Space Dynamics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8344092,
+"flags": [],
+"key": "space dynamics laboratory|ai enabled requirements engineering intern",
+"last_seen": "2026-10-20",
+"locations": [
+"North Logan, UT"
+],
+"posted_ts": 1792506847,
+"rolling": false,
+"src": "simplify",
+"title": "AI-Enabled Requirements Engineering Intern",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern"
+},
 "simplify:space dynamics laboratory:2e5df730-d9a8-47e0-aac3-c386a7274276": {
 "checked": "2026-10-06",
 "company": "Space Dynamics Laboratory",
@@ -36353,6 +36443,25 @@
 "title": "Full Stack Software Engineer Intern - Full Stack",
 "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
 },
+"simplify:texas instruments:2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a": {
+"checked": "2026-10-20",
+"company": "Texas Instruments",
+"deadline": null,
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8344038,
+"flags": [],
+"key": "texas instruments|software engineer intern compiler",
+"last_seen": "2026-10-20",
+"locations": [
+"Sugar Land, TX",
+"United States"
+],
+"posted_ts": 1792506992,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Compiler",
+"url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103"
+},
 "simplify:texas instruments:43be7a06-92b6-472f-b521-42354bc0a727": {
 "checked": "2026-10-16",
 "company": "Texas Instruments",
@@ -36957,14 +37066,14 @@
 "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
 },
 "simplify:the hartford:612d47bb-ecd4-42e3-8669-3af521907136": {
-"checked": "2026-10-13",
+"checked": "2026-10-20",
 "company": "The Hartford",
-"deadline": "2026-10-17",
+"deadline": "2026-11-20",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9951005,
 "flags": [],
 "key": "the hartford|data science intern summer 2027",
-"last_seen": "2026-10-17",
+"last_seen": "2026-10-20",
 "locations": [
 "Chicago, IL",
 "Charlotte, NC",
@@ -40402,6 +40511,42 @@
 "title": "Call Routing Optimization Engineer Intern",
 "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398"
 },
+"simplify:verizon communications:10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d": {
+"checked": "2026-10-20",
+"company": "Verizon Communications",
+"deadline": "2026-10-24",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8343854,
+"flags": [],
+"key": "verizon communications|call routing optimization engineering intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Basking Ridge, Bernards, NJ"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Call Routing Optimization Engineering Intern",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394"
+},
+"simplify:verizon communications:47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b": {
+"checked": "2026-10-20",
+"company": "Verizon Communications",
+"deadline": "2026-10-24",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8343694,
+"flags": [],
+"key": "verizon communications|data science intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Basking Ridge, Bernards, NJ"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419"
+},
 "simplify:verizon communications:4d75efc0-61e0-48f4-955d-15ea4c188bae": {
 "checked": "2026-09-29",
 "company": "Verizon Communications",
@@ -40419,6 +40564,24 @@
 "src": "simplify",
 "title": "Data Science Intern - Network and Technology",
 "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
+},
+"simplify:verizon communications:cb08255f-ab56-485d-a46a-26e0cb2ada69": {
+"checked": "2026-10-20",
+"company": "Verizon Communications",
+"deadline": "2026-10-24",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.8343804,
+"flags": [],
+"key": "verizon communications|data science intern",
+"last_seen": "2026-10-20",
+"locations": [
+"Basking Ridge, Bernards, NJ"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417"
 },
 "simplify:verkada:20898b37-1e46-4759-b318-1a51ae4d1200": {
 "checked": "2026-10-19",
@@ -40563,6 +40726,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - IT",
 "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"
+},
+"simplify:vertex pharmaceuticals:c6a828f1-5ffe-4585-929f-87f96db8518b": {
+"checked": "2026-10-20",
+"company": "Vertex Pharmaceuticals",
+"deadline": "2026-11-15",
+"first_seen": "2026-10-20",
+"first_seen_ts": 1792511472.834415,
+"flags": [],
+"key": "vertex pharmaceuticals|commercial analytics co op commercial analytics",
+"last_seen": "2026-10-20",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Commercial Analytics Co-op - Commercial Analytics",
+"url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1"
 },
 "simplify:vertiv:48fe73cf-84c7-4a22-bfd9-952a666e8607": {
 "checked": "2026-10-20",
