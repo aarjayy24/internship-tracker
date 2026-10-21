@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:intel": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-21",
@@ -1538,14 +1540,14 @@
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
 },
 "greenhouse:waymo:8203200": {
-"checked": "2026-09-28",
+"checked": "2026-10-21",
 "company": "Waymo",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9900994,
 "flags": [],
 "key": "waymo|2027 summer intern bs ms software engineering maneuvering tech",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-21",
 "locations": [
 "San Francisco, California"
 ],
