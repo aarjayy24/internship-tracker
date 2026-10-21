@@ -19602,6 +19602,24 @@
 "title": "Data Science Intern",
 "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632"
 },
+"simplify:hewlett packard enterprise:6e49745f-bd43-4f9c-86b7-ac3cd8172873": {
+"checked": "2026-10-21",
+"company": "Hewlett Packard Enterprise",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792581363.5352423,
+"flags": [],
+"key": "hewlett packard enterprise|embedded software engineer intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Roseville, CA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088"
+},
 "simplify:hewlett packard enterprise:99625c56-8f56-42c3-a5d9-6eb33cfa33fa": {
 "checked": "2026-10-16",
 "company": "Hewlett Packard Enterprise",
@@ -29376,6 +29394,24 @@
 "title": "Software Development Co-op",
 "url": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN"
 },
+"simplify:nvidia:12d5d73d-0f5a-459e-aede-1f15093ed6ed": {
+"checked": "2026-10-21",
+"company": "NVIDIA",
+"deadline": "2026-10-31",
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792581363.53525,
+"flags": [],
+"key": "nvidia|applied research intern integrated sensing and communications",
+"last_seen": "2026-10-21",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Applied Research Intern - Integrated Sensing and Communications",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027"
+},
 "simplify:nvidia:3affcaac-d7f9-45d1-8139-19defc762e13": {
 "checked": "2026-09-28",
 "company": "NVIDIA",
@@ -29429,6 +29465,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
+},
+"simplify:nvidia:66380619-8481-4fe4-947a-26176558c345": {
+"checked": "2026-10-21",
+"company": "NVIDIA",
+"deadline": "2026-10-31",
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792581363.5352457,
+"flags": [],
+"key": "nvidia|systems software intern aerial phy",
+"last_seen": "2026-10-21",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Software Intern - Aerial PHY",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
 },
 "simplify:nvidia:be628885-fde3-4b73-bb0a-58e11856e97b": {
 "checked": "2026-10-20",
@@ -32345,6 +32399,24 @@
 "title": "Software Developer Intern - Product Engineering",
 "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
 },
+"simplify:rhoda ai:b3c0d835-cfc4-48e9-8841-d656e80fb21c": {
+"checked": "2026-10-21",
+"company": "Rhoda AI",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792581363.5352378,
+"flags": [],
+"key": "rhoda ai|software engineer intern inference",
+"last_seen": "2026-10-21",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1792563163,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Inference",
+"url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true"
+},
 "simplify:rhombus:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7": {
 "checked": "2026-10-20",
 "company": "Rhombus",
@@ -32493,6 +32565,24 @@
 "src": "simplify",
 "title": "Software Engineering Intern - Applications - Infotainment & Mobile",
 "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true"
+},
+"simplify:robert bosch venture capital:3e95934a-d25a-49d5-af4b-1a2eeb4b3eef": {
+"checked": "2026-10-21",
+"company": "Robert Bosch Venture Capital",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792581363.5352309,
+"flags": [],
+"key": "robert bosch venture capital|calibration process optimization intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Farmington Hills, MI"
+],
+"posted_ts": 1792563438,
+"rolling": false,
+"src": "simplify",
+"title": "Calibration Process Optimization Intern",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075"
 },
 "simplify:robert bosch venture capital:6def32a2-38d9-47cf-8a10-2e7a23785b01": {
 "checked": "2026-10-19",
@@ -40240,6 +40330,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+},
+"simplify:trustage:8b26c26a-93b7-4702-b463-83420efc11af": {
+"checked": "2026-10-21",
+"company": "TruStage",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792581363.5352538,
+"flags": [],
+"key": "trustage|information technology development and infrastructure intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Madison, WI"
+],
+"posted_ts": 1788912000,
+"rolling": false,
+"src": "simplify",
+"title": "Information Technology Development and Infrastructure Intern",
+"url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
 },
 "simplify:twg global:1e0ac563-c8ac-4d94-a5c6-f43115f22027": {
 "checked": "2026-10-19",
