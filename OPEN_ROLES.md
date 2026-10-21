@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
+Updated 2026-10-21 · 1706 roles · 186 with a stated deadline · 50 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (66)
+## ⏰ Deadlines in the next 14 days (67)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -47,6 +47,7 @@ Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
 | **Oct 27 (6d)** | GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) | Sharonville, OH, Saugus, MA |
 | **Oct 27 (6d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127) | Tewksbury, MA |
 | **Oct 28 (7d)** | TC Energy | [Measurement Services Intern](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976) | Charleston, WV |
+| Oct 29 (8d) | American Family Insurance Group | [Data Engineer Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675) | Madison, WI |
 | Oct 30 (9d) | CoStar Group | [Technology Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673) | Irvine, CA |
 | Oct 30 (9d) | GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) | Niskayuna, NY |
 | Oct 30 (9d) | GE Vernova | [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) | Niskayuna, NY |
@@ -75,10 +76,13 @@ Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
 | Nov 3 (13d) | Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) | Dayton, OH, Knoxville, TN, Portsmouth, NH, Princeton, NJ, La |
 | Nov 3 (13d) | Xcel Energy | [Grid Data Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) | Minneapolis, MN |
 
-## ⭐ Top companies (104)
+## ⭐ Top companies (107)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Meta | [Research Scientist Intern - Foundational Models for Robotics Research](https://www.metacareers.com/jobs/1078644001656413) | Menlo Park, CA | — | 2026-10-21 |  |
+| Meta | [Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR](https://www.metacareers.com/jobs/1075160338670575) | Burlingame, CA, Redmond, WA | — | 2026-10-21 |  |
+| Meta | [Research Scientist Intern - Robot Foundation Models](https://www.metacareers.com/jobs/27730225806654441) | Redmond, WA | — | 2026-10-21 |  |
 | LinkedIn | [Software Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000156616169) | Mountain View, CA | — | 2026-10-21 |  |
 | Meta | [Research Scientist Intern](https://www.metacareers.com/jobs/1510576574212840) | Menlo Park, CA | — | 2026-10-21 |  |
 | Uber | [Software Engineer Intern](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) | Seattle, WA, SF, Sunnyvale, CA | — | 2026-10-21 |  |
@@ -184,10 +188,16 @@ Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1587)
+## Everyone else (1599)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| John Deere | [Software Engineer Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483990019) | Cary, NC | — | 2026-10-21 |  |
+| Trace3 | [Data and Analytics Engineer Intern](https://job-boards.greenhouse.io/trace3/jobs/8274818) | Irvine, CA | — | 2026-10-21 |  |
+| Aon | [IT / AI Engineer Intern](https://jobs.aon.com/jobs/110099?icims=1) | Chicago, IL | — | 2026-10-21 |  |
+| Metalenz | [Camera Software Intern](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true) | Boston, MA | — | 2026-10-21 |  |
+| L3Harris Technologies | [Software Engineer Intern](https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors) | Salt Lake City, UT | — | 2026-10-21 |  |
+| Safran | [Software Engineering Intern](https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors) | Bedford, NH | — | 2026-10-21 |  |
 | Massachusetts School Building Authority | [Capital Planning Data Assistant Co-op](https://jobs.lever.co/massschoolbuildings/d50b947b-cfb4-463a-8a1b-44fcbe26de6e/apply) | Boston, MA | — | 2026-10-21 |  |
 | DP World | [Application Analyst Intern](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400) | Itasca, IL | — | 2026-10-21 |  |
 | Robert Bosch Venture Capital | [Calibration Process Optimization Intern](https://jobs.smartrecruiters.com/BoschGroup/744000156585075) | Farmington Hills, MI | — | 2026-10-21 |  |
@@ -197,6 +207,12 @@ Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
 | Fidelity Investments | [Machine Learning Co-op](https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135960) | Boston, MA | **Oct 22 (1d)** | 2026-10-21 |  |
 | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053) | Roy, UT | **Oct 24 (3d)** | 2026-10-21 |  |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127) | Tewksbury, MA | **Oct 27 (6d)** | 2026-10-21 |  |
+| Parsons | [Computer Vision/Robotics Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402) | Westminster, CO | — | 2026-10-21 |  |
+| American Family Insurance Group | [Data Engineer Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675) | Madison, WI | Oct 29 (8d) | 2026-10-21 |  |
+| Hitachi | [Software Engineering Co-op](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733) | Greenville, SC | — | 2026-10-21 |  |
+| ICF International | [Seasonal Associate Intern - Full Stack Developer](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571) | Remote in USA | — | 2026-10-21 |  |
+| ICF International | [Full-Stack Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570) | Remote in USA | — | 2026-10-21 |  |
+| ABB | [Power BI Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437) | Cary, NC | Nov 13 (23d) | 2026-10-21 |  |
 | DriveWealth | [AI Consulting Associate Program Product Owner Intern](https://boards.greenhouse.io/drivewealth/jobs/8038087003) | Chicago, IL, NYC | — | 2026-10-21 |  |
 | DriveWealth | [AI Consulting Associate Program – AI Engineer Intern](https://boards.greenhouse.io/drivewealth/jobs/8039350003) | Chicago, IL, NYC | — | 2026-10-21 |  |
 | DriveWealth | [AI Consulting Associate Program Brokerage Intern](https://boards.greenhouse.io/drivewealth/jobs/8039368003) | Chicago, IL | — | 2026-10-21 |  |
@@ -963,6 +979,7 @@ Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
 | GM financial | [Software Development Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795) | Arlington, TX | — | 2026-09-28 |  |
 | Bitmovin | [Technical Graduate Intern](https://bitmovin.com/careers/8660599002?gh_jid=8660599002) | Denver, CO | — | 2026-09-28 |  |
 | W.R. Berkley | [Software Developer Intern - Java](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) | Urbandale, IA | — | 2026-09-28 |  |
+| Waymo | [Software Engineering Intern - Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | SF | — | 2026-09-28 |  |
 | Waymo | [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | San Francisco, California | — | 2026-09-28 |  |
 | Cloudflare | [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) | In-Office | rolling | 2026-09-28 |  |
 | onsemi | [Data and Visualization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) | Hopewell Junction, NY | — | 2026-09-28 |  |
@@ -1774,4 +1791,3 @@ Updated 2026-10-21 · 1691 roles · 184 with a stated deadline · 50 rolling
 | Intel | [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) | 5 Locations | — | 2026-09-28 |  |
 | Intel | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 5 Locations | — | 2026-09-28 |  |
 | Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | Malaysia, Kulim | — | 2026-09-28 |  |
-| Intel | [AI/ML Software App Development Intern](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946) | PRC, Chengdu | — | 2026-09-28 |  |

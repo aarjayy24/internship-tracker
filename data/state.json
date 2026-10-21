@@ -1,7 +1,7 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:intel": 1
+"microsoft": 1
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -2838,6 +2838,24 @@
 "title": "Application Engineering Intern - Summer 2027",
 "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706"
 },
+"simplify:abb:38820a89-81bd-460a-9b63-b3f7eea30e73": {
+"checked": "2026-10-21",
+"company": "ABB",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952327,
+"flags": [],
+"key": "abb|power bi intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Power BI Intern",
+"url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437"
+},
 "simplify:abb:6bda3b7e-e573-454c-a89e-e40b16ecac2c": {
 "checked": "2026-10-11",
 "company": "ABB",
@@ -4945,6 +4963,24 @@
 "title": "Software Engineer Intern - Enterprise Technology Services",
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084"
 },
+"simplify:american family insurance group:22e0e398-2efa-4443-a503-6e3431e6d5a4": {
+"checked": "2026-10-21",
+"company": "American Family Insurance Group",
+"deadline": "2026-10-29",
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.595207,
+"flags": [],
+"key": "american family insurance group|data engineer intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Madison, WI"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675"
+},
 "simplify:american family insurance group:76c67bd8-fe68-4164-844f-a009b786af36": {
 "checked": "2026-10-17",
 "company": "American Family Insurance Group",
@@ -5527,6 +5563,24 @@
 "src": "simplify",
 "title": "Quant Developer / Quant Research Intern",
 "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true"
+},
+"simplify:aon:e7350a2d-fa26-4da5-908e-82eb0a7a4b34": {
+"checked": "2026-10-21",
+"company": "Aon",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5951965,
+"flags": [],
+"key": "aon|it ai engineer intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1792621144,
+"rolling": false,
+"src": "simplify",
+"title": "IT / AI Engineer Intern",
+"url": "https://jobs.aon.com/jobs/110099?icims=1"
 },
 "simplify:apex analytix:00026218-6b9b-420f-a490-b3b29742cf17": {
 "checked": "2026-10-06",
@@ -20200,6 +20254,24 @@
 "title": "Benefits Analytics Intern",
 "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866"
 },
+"simplify:hitachi:94057ce1-d225-4aad-9dbd-a1095973d2aa": {
+"checked": "2026-10-21",
+"company": "Hitachi",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952215,
+"flags": [],
+"key": "hitachi|software engineering co op",
+"last_seen": "2026-10-21",
+"locations": [
+"Greenville, SC"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733"
+},
 "simplify:hitachi:95c4918c-cb96-4b7c-afa4-cb0f50c7378e": {
 "checked": "2026-09-30",
 "company": "Hitachi",
@@ -20874,6 +20946,24 @@
 "title": "AI Engineer Intern",
 "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1"
 },
+"simplify:icf international:24537423-4d5f-4c4e-96e3-47f55defe704": {
+"checked": "2026-10-21",
+"company": "ICF International",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952256,
+"flags": [],
+"key": "icf international|seasonal associate intern full stack developer",
+"last_seen": "2026-10-21",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Seasonal Associate Intern - Full Stack Developer",
+"url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571"
+},
 "simplify:icf international:285be14e-467c-40bd-9e7d-e1efeee8735f": {
 "checked": "2026-10-15",
 "company": "ICF International",
@@ -20909,6 +20999,24 @@
 "src": "simplify",
 "title": "Data Analytics Intern",
 "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1"
+},
+"simplify:icf international:73395dc9-ae40-45b9-b46a-7c823d29cc98": {
+"checked": "2026-10-21",
+"company": "ICF International",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952291,
+"flags": [],
+"key": "icf international|full stack developer intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Full-Stack Developer Intern",
+"url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570"
 },
 "simplify:icf international:8938d4f1-3093-43eb-a443-bd11de15a159": {
 "checked": "2026-10-21",
@@ -22391,6 +22499,24 @@
 "title": "Data & Analytics Intern",
 "url": "https://johndeere.eightfold.ai/careers/job/137482673640"
 },
+"simplify:john deere:a7ba68b4-0c20-417e-b048-21ba6077cdc9": {
+"checked": "2026-10-21",
+"company": "John Deere",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5951927,
+"flags": [],
+"key": "john deere|software engineer student intern product engineering",
+"last_seen": "2026-10-21",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1792621411,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Student Intern - Product Engineering",
+"url": "https://johndeere.eightfold.ai/careers/job/137483990019"
+},
 "simplify:john deere:e4598e3c-3f8e-443e-9334-67f7e7d4869a": {
 "checked": "2026-10-17",
 "company": "John Deere",
@@ -23845,6 +23971,24 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://koch.avature.net/en_US/careers/JobDetail/195341"
+},
+"simplify:l3harris technologies:24f45ded-bd89-4b9b-98cf-b15de7bddf97": {
+"checked": "2026-10-21",
+"company": "L3Harris Technologies",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5951746,
+"flags": [],
+"key": "l3harris technologies|software engineer intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Salt Lake City, UT"
+],
+"posted_ts": 1792613877,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors"
 },
 "simplify:l3harris technologies:366e660d-5c35-4cbb-96f2-522106ea4a77": {
 "checked": "2026-10-20",
@@ -26344,6 +26488,24 @@
 "title": "Optical Engineering AI and Data Analytics Intern",
 "url": "https://www.metacareers.com/jobs/1851348099357899"
 },
+"simplify:meta:aacdee8b-5d3f-4b0b-ba7e-f6f590ca5792": {
+"checked": "2026-10-21",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952184,
+"flags": [],
+"key": "meta|research scientist intern robot foundation models",
+"last_seen": "2026-10-21",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1792620483,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Robot Foundation Models",
+"url": "https://www.metacareers.com/jobs/27730225806654441"
+},
 "simplify:meta:b8db69f4-9b3f-4c48-9334-daa51e9d5fc7": {
 "checked": "2026-10-20",
 "company": "Meta",
@@ -26361,6 +26523,25 @@
 "src": "simplify",
 "title": "Research Scientist Intern - 3D-grounded Generalist Model for Robotics",
 "url": "https://www.metacareers.com/jobs/2267351860492630"
+},
+"simplify:meta:b97c016f-9c98-43d8-b626-302f1ee28c77": {
+"checked": "2026-10-21",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.595215,
+"flags": [],
+"key": "meta|research scientist intern low power scene reconstruction for ar vr",
+"last_seen": "2026-10-21",
+"locations": [
+"Burlingame, CA",
+"Redmond, WA"
+],
+"posted_ts": 1792620483,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
+"url": "https://www.metacareers.com/jobs/1075160338670575"
 },
 "simplify:meta:babf8103-ce88-446d-ae83-d600bf03ebdc": {
 "checked": "2026-10-16",
@@ -26398,6 +26579,24 @@
 "src": "simplify",
 "title": "Data Scientist Intern - Product Analytics",
 "url": "https://www.metacareers.com/jobs/929757023499411"
+},
+"simplify:meta:cfaefc82-5787-4e0b-8091-f6b29bce3bda": {
+"checked": "2026-10-21",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952113,
+"flags": [],
+"key": "meta|research scientist intern foundational models for robotics research",
+"last_seen": "2026-10-21",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1792620483,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Foundational Models for Robotics Research",
+"url": "https://www.metacareers.com/jobs/1078644001656413"
 },
 "simplify:meta:d406eb27-7b16-48d4-a6b9-5dc91655644c": {
 "checked": "2026-10-17",
@@ -26528,6 +26727,24 @@
 "src": "simplify",
 "title": "Research Scientist Intern",
 "url": "https://www.metacareers.com/jobs/3364701000388712"
+},
+"simplify:metalenz:b381b011-e575-41c8-ae41-8f24bc2299d7": {
+"checked": "2026-10-21",
+"company": "Metalenz",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5952034,
+"flags": [],
+"key": "metalenz|camera software intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1792620834,
+"rolling": false,
+"src": "simplify",
+"title": "Camera Software Intern",
+"url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true"
 },
 "simplify:metamorphic:d57fb9b7-232f-4e54-b2f8-fbd358ebe6c4": {
 "checked": "2026-10-20",
@@ -30380,6 +30597,24 @@
 "src": "simplify",
 "title": "Software Engineer Co-op",
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
+},
+"simplify:parsons:697dae09-767d-472a-a894-401a312cd1c9": {
+"checked": "2026-10-21",
+"company": "Parsons",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5951998,
+"flags": [],
+"key": "parsons|computer vision robotics intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Westminster, CO"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Computer Vision/Robotics Intern",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402"
 },
 "simplify:parsons:b135be7e-bf73-4526-9c91-0158ffed7bce": {
 "checked": "2026-10-14",
@@ -34852,6 +35087,24 @@
 "src": "simplify",
 "title": "Software Engineer Co-op",
 "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
+},
+"simplify:safran:4ce71aa4-5e3f-49cc-a75d-febb20ca81ba": {
+"checked": "2026-10-21",
+"company": "Safran",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5951807,
+"flags": [],
+"key": "safran|software engineering intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Bedford, NH"
+],
+"posted_ts": 1792613579,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors"
 },
 "simplify:sage:0aa38a85-7be2-4d60-8ec3-0002a9643512": {
 "checked": "2026-10-19",
@@ -40317,6 +40570,24 @@
 "title": "Data Science Intern",
 "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
 },
+"simplify:trace3:bf1f43e3-d62e-4bdd-954f-a48e648fa7ba": {
+"checked": "2026-10-21",
+"company": "Trace3",
+"deadline": null,
+"first_seen": "2026-10-21",
+"first_seen_ts": 1792623736.5951874,
+"flags": [],
+"key": "trace3|data and analytics engineer intern",
+"last_seen": "2026-10-21",
+"locations": [
+"Irvine, CA"
+],
+"posted_ts": 1792621334,
+"rolling": false,
+"src": "simplify",
+"title": "Data and Analytics Engineer Intern",
+"url": "https://job-boards.greenhouse.io/trace3/jobs/8274818"
+},
 "simplify:tradeweb:ff8fadb8-1a36-463a-9258-da2a9fe79a54": {
 "checked": "2026-10-20",
 "company": "Tradeweb",
@@ -42744,14 +43015,14 @@
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
 },
 "simplify:waymo:ad26d172-59a3-4f93-9750-94d260cfb4e5": {
-"checked": "2026-09-29",
+"checked": "2026-10-21",
 "company": "Waymo",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99499,
 "flags": [],
 "key": "waymo|software engineering intern maneuvering tech",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-21",
 "locations": [
 "SF"
 ],
