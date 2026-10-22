@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-22",
@@ -1485,6 +1483,24 @@
 "title": "2027 Summer Intern, BS/MS, Software Engineer",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
 },
+"greenhouse:waymo:8197554": {
+"checked": "2026-10-22",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.351013,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd quantitative software engineer",
+"last_seen": "2026-10-22",
+"locations": [
+"Mountain View, California, United States | San Francisco, California, United States"
+],
+"posted_ts": 1789589312.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
+},
 "greenhouse:waymo:8198218": {
 "checked": "2026-10-19",
 "company": "Waymo",
@@ -2455,14 +2471,14 @@
 "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
 },
 "microsoft:microsoft:1970393556922922": {
-"checked": "2026-10-08",
+"checked": "2026-10-22",
 "company": "Microsoft",
 "deadline": null,
 "first_seen": "2026-10-01",
 "first_seen_ts": 1790850384.3064969,
 "flags": [],
 "key": "microsoft|software engineer fullstack product web services intern opportunities for university students",
-"last_seen": "2026-10-08",
+"last_seen": "2026-10-22",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -11626,6 +11642,24 @@
 "title": "People Analytics Intern",
 "url": "https://boards.greenhouse.io/embed/job_app?token=8175517"
 },
+"simplify:colibri group:e76fd68e-0dcf-4634-a0cb-8ecf5d2d5ec8": {
+"checked": "2026-10-22",
+"company": "Colibri Group",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.3558404,
+"flags": [],
+"key": "colibri group|product builder returnship intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Pleasanton, CA"
+],
+"posted_ts": 1790978708,
+"rolling": false,
+"src": "simplify",
+"title": "Product Builder Returnship Intern",
+"url": "https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply"
+},
 "simplify:collier aerospace:3c16cf25-2344-4449-8c12-a8dd16ebdaf2": {
 "checked": "2026-10-20",
 "company": "Collier Aerospace",
@@ -15365,6 +15399,24 @@
 "src": "simplify",
 "title": "Computer Vision & 3D Asset Reconstruction Intern",
 "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012"
+},
+"simplify:eqt corporation:0feda082-a3a6-4e55-8793-5ef9cafd6978": {
+"checked": "2026-10-22",
+"company": "EQT Corporation",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.3558295,
+"flags": [],
+"key": "eqt corporation|midstream services intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Canonsburg, PA"
+],
+"posted_ts": 1792678484,
+"rolling": false,
+"src": "simplify",
+"title": "Midstream Services Intern",
+"url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5459572008"
 },
 "simplify:equifax:5d1b7629-e234-4106-9f15-07fca21aa8a3": {
 "checked": "2026-10-14",
@@ -23176,7 +23228,7 @@
 "first_seen_ts": 1790573041.994533,
 "flags": [],
 "key": "johnson & johnson|technology and digital quality intern",
-"last_seen": "2026-10-20",
+"last_seen": "2026-10-22",
 "locations": [
 "Horsham, PA",
 "Raritan, NJ"
@@ -24225,6 +24277,24 @@
 "src": "simplify",
 "title": "Associate Software Engineer Intern",
 "url": "https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors"
+},
+"simplify:l3harris technologies:95d0fbdb-14f6-4eaf-a46b-3f06591a562b": {
+"checked": "2026-10-22",
+"company": "L3Harris Technologies",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.3558354,
+"flags": [],
+"key": "l3harris technologies|image processing engineer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Tulsa, OK"
+],
+"posted_ts": 1792677964,
+"rolling": false,
+"src": "simplify",
+"title": "Image Processing Engineer Intern",
+"url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors"
 },
 "simplify:l3harris technologies:d6145bb9-e227-4e58-93d0-88787216d111": {
 "checked": "2026-10-18",
@@ -26575,6 +26645,25 @@
 "src": "simplify",
 "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
 "url": "https://www.metacareers.com/jobs/2988199118196184"
+},
+"simplify:meta:770d0c2e-5cd5-4716-b307-3db3d3f8e1ce": {
+"checked": "2026-10-22",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.3558497,
+"flags": [],
+"key": "meta|research scientist intern central applied science",
+"last_seen": "2026-10-22",
+"locations": [
+"Menlo Park, CA",
+"NYC"
+],
+"posted_ts": 1792679304,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Central Applied Science",
+"url": "https://www.metacareers.com/jobs/1582569213186235"
 },
 "simplify:meta:7f1252c2-2dd8-4334-9c9c-8ace10b21273": {
 "checked": "2026-10-21",
@@ -34823,6 +34912,24 @@
 "title": "Software Engineering Co-op - Summer/Fall 2027",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738"
 },
+"simplify:rtx:ce026bae-c60a-419e-8307-847eafa898fd": {
+"checked": "2026-10-22",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.3558452,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Aurora, CO"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
+},
 "simplify:rtx:ce67de6b-014f-45b0-8b18-54b623767679": {
 "checked": "2026-10-10",
 "company": "RTX",
@@ -37640,6 +37747,21 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017"
+},
+"simplify:target:8ee871d8-4385-49e0-9f0d-1f89f3ed0863": {
+"company": "Target",
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792689250.3532119,
+"flags": [],
+"key": "target|software engineer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Brooklyn Park, MN"
+],
+"posted_ts": 1788998400,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
 },
 "simplify:tarrant regional water district:22d244c4-56e5-4139-a741-e4cdcc0d8842": {
 "checked": "2026-10-19",
