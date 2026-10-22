@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-22 · 1698 roles · 184 with a stated deadline · 51 rolling
+Updated 2026-10-22 · 1699 roles · 184 with a stated deadline · 51 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -76,13 +76,14 @@ Updated 2026-10-22 · 1698 roles · 184 with a stated deadline · 51 rolling
 | Nov 3 (12d) | Xcel Energy | [Grid Data Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) | Minneapolis, MN |
 | Nov 5 (14d) | Zillow | [Applied Scientist Intern - Economics](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle, WA |
 
-## ⭐ Top companies (109)
+## ⭐ Top companies (110)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Meta | [Research Scientist Intern - Central Applied Science](https://www.metacareers.com/jobs/1582569213186235) | Menlo Park, CA, NYC | — | 2026-10-22 |  |
 | Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge](https://apply.careers.microsoft.com/careers/job/1970393557044765) | Cambridge, MA, US | rolling | 2026-10-22 |  |
 | NVIDIA | [Product Management MBA Intern - Gaming, Content Creation, And PC AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Canada, Santa Clara, CA, United States | — | 2026-10-22 |  |
+| Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California | — | 2026-10-22 |  |
 | Meta | [Research Scientist Intern - Robot Foundation Models](https://www.metacareers.com/jobs/27730225806654441) | Redmond, WA | — | 2026-10-21 |  |
 | Meta | [Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR](https://www.metacareers.com/jobs/1075160338670575) | Burlingame, CA, Redmond, WA | — | 2026-10-21 |  |
 | Meta | [Research Scientist Intern - Foundational Models for Robotics Research](https://www.metacareers.com/jobs/1078644001656413) | Menlo Park, CA | — | 2026-10-21 |  |
@@ -200,8 +201,8 @@ Updated 2026-10-22 · 1698 roles · 184 with a stated deadline · 51 rolling
 | OpenArt AI | [Early Adopter & Product Builder Intern - Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | San Carlos, CA | — | 2026-10-22 |  |
 | Keysight Technologies | [Software Engineer Intern](https://jobs.keysight.com/jobs/55115?icims=1) | Calabasas, CA | — | 2026-10-22 |  |
 | Aptiv | [Software Development Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) | Troy, MI | — | 2026-10-22 |  |
-| Uline | [Software Developer Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537) | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, | — | 2026-10-22 |  |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520) | Aurora, CO | — | 2026-10-22 |  |
+| Uline | [Software Developer Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537) | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, | — | 2026-10-22 |  |
 | ManTech | [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) | Remote in USA, Stafford, VA | — | 2026-10-22 |  |
 | Walrus | [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true) | NYC | — | 2026-10-22 |  |
 | NOX METALS | [Factory Deployed Intern](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) | Detroit, MI | — | 2026-10-22 |  |

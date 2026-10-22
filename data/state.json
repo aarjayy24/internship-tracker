@@ -835,6 +835,24 @@
 "title": "Software Engineering Intern (2027)",
 "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
 },
+"greenhouse:databricks:6866538002": {
+"checked": "2026-10-22",
+"company": "Databricks",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792701274.8343616,
+"flags": [],
+"key": "databricks|data science intern 2027 start",
+"last_seen": "2026-10-22",
+"locations": [
+"Mountain View, California; San Francisco, California"
+],
+"posted_ts": 1692308494.0,
+"rolling": false,
+"src": "greenhouse:databricks",
+"title": "Data Science Intern (2027 Start)",
+"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"
+},
 "greenhouse:datadog:8052118": {
 "checked": "2026-10-19",
 "company": "Datadog",
