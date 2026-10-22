@@ -2934,7 +2934,7 @@
 "first_seen_ts": 1790573041.994887,
 "flags": [],
 "key": "abundant|research intern fellow",
-"last_seen": "2026-10-21",
+"last_seen": "2026-10-22",
 "locations": [
 "SF"
 ],
@@ -12512,6 +12512,24 @@
 "src": "simplify",
 "title": "Intern",
 "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445"
+},
+"simplify:crusoe:fd1af9f8-2356-4f0f-b005-ab9f523e4e24": {
+"checked": "2026-10-22",
+"company": "Crusoe",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792650157.736413,
+"flags": [],
+"key": "crusoe|software engineer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"SF"
+],
+"posted_ts": 1792633321,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true"
 },
 "simplify:csx:180c2b69-a897-4c36-9460-0eac1066b869": {
 "checked": "2026-10-19",
@@ -23518,6 +23536,24 @@
 "title": "R&D Software Engineer Intern",
 "url": "https://jobs.keysight.com/jobs/54724?icims=1"
 },
+"simplify:keysight technologies:7a944b5d-00b3-4976-a381-49c8b71abe4c": {
+"checked": "2026-10-22",
+"company": "Keysight Technologies",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792650157.7364082,
+"flags": [],
+"key": "keysight technologies|software engineer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Calabasas, CA"
+],
+"posted_ts": 1792631014,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.keysight.com/jobs/55115?icims=1"
+},
 "simplify:keysight technologies:7aa1a15a-c14e-4ed7-bccb-cb92212f2636": {
 "checked": "2026-10-17",
 "company": "Keysight Technologies",
@@ -29901,6 +29937,26 @@
 "title": "Applied Research Intern - Integrated Sensing and Communications",
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027"
 },
+"simplify:nvidia:2afc5cb6-5d17-4a8f-b6e4-6f77835d6041": {
+"checked": "2026-10-22",
+"company": "NVIDIA",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792650157.7363927,
+"flags": [],
+"key": "nvidia|product management mba intern gaming content creation and pc ai",
+"last_seen": "2026-10-22",
+"locations": [
+"Canada",
+"Santa Clara, CA",
+"United States"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
+},
 "simplify:nvidia:3affcaac-d7f9-45d1-8139-19defc762e13": {
 "checked": "2026-09-28",
 "company": "NVIDIA",
@@ -30230,6 +30286,24 @@
 "src": "simplify",
 "title": "Data and Visualization Intern",
 "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638"
+},
+"simplify:openart ai:9183556c-e8a0-41e3-96d3-0650e4310267": {
+"checked": "2026-10-22",
+"company": "OpenArt AI",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792650157.736403,
+"flags": [],
+"key": "openart ai|early adopter product builder intern creative ai",
+"last_seen": "2026-10-22",
+"locations": [
+"San Carlos, CA"
+],
+"posted_ts": 1792631366,
+"rolling": false,
+"src": "simplify",
+"title": "Early Adopter & Product Builder Intern - Creative AI",
+"url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true"
 },
 "simplify:opengov:b731d89f-de32-476b-8f27-2de284b5110d": {
 "checked": "2026-10-15",
