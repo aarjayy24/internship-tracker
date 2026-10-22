@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-22 · 1685 roles · 183 with a stated deadline · 50 rolling
+Updated 2026-10-22 · 1689 roles · 183 with a stated deadline · 50 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -188,13 +188,15 @@ Updated 2026-10-22 · 1685 roles · 183 with a stated deadline · 50 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1578)
+## Everyone else (1582)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Crusoe | [Software Engineer Intern](https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true) | SF | — | 2026-10-22 |  |
 | OpenArt AI | [Early Adopter & Product Builder Intern - Creative AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | San Carlos, CA | — | 2026-10-22 |  |
 | Keysight Technologies | [Software Engineer Intern](https://jobs.keysight.com/jobs/55115?icims=1) | Calabasas, CA | — | 2026-10-22 |  |
+| Aptiv | [Software Development Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) | Troy, MI | — | 2026-10-22 |  |
+| Uline | [Software Developer Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537) | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, | — | 2026-10-22 |  |
 | ManTech | [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) | Remote in USA, Stafford, VA | — | 2026-10-22 |  |
 | Walrus | [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true) | NYC | — | 2026-10-22 |  |
 | NOX METALS | [Factory Deployed Intern](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) | Detroit, MI | — | 2026-10-22 |  |
@@ -208,6 +210,8 @@ Updated 2026-10-22 · 1685 roles · 183 with a stated deadline · 50 rolling
 | The Aerospace Corporation | [Embedded Software Engineer Grad Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950) | El Segundo, CA | — | 2026-10-22 |  |
 | The Aerospace Corporation | [Embedded Software Engineer Intern - Multiple Teams](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949) | El Segundo, CA | — | 2026-10-22 |  |
 | Zillow | [Software Development Engineer Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) | Seattle, WA, Remote in USA | — | 2026-10-22 |  |
+| CoStar Group | [Associate Embedded Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949) | Sunnyvale, CA | — | 2026-10-22 |  |
+| Textron | [Autonomy Engineer Intern - Air Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925) | Hunt Valley, Cockeysville, MD | — | 2026-10-22 |  |
 | John Deere | [Software Engineer Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483990019) | Cary, NC | — | 2026-10-21 |  |
 | Trace3 | [Data and Analytics Engineer Intern](https://job-boards.greenhouse.io/trace3/jobs/8274818) | Irvine, CA | — | 2026-10-21 |  |
 | Aon | [IT / AI Engineer Intern](https://jobs.aon.com/jobs/110099?icims=1) | Chicago, IL | — | 2026-10-21 |  |

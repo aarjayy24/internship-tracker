@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-22",
@@ -5921,6 +5923,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387"
+},
+"simplify:aptiv:e55cdbec-8071-4669-8bde-c2507d6275ee": {
+"checked": "2026-10-22",
+"company": "Aptiv",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792671138.4595034,
+"flags": [],
+"key": "aptiv|software development intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Troy, MI"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Development Intern",
+"url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"
 },
 "simplify:aptiv:e8314098-af0f-4c4a-988b-ea69c0698a13": {
 "checked": "2026-10-16",
@@ -12116,6 +12136,24 @@
 "src": "simplify",
 "title": "AI Engineer Intern",
 "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W"
+},
+"simplify:costar group:0f1bea68-104b-4a4a-b7e1-562e9c4a1b50": {
+"checked": "2026-10-22",
+"company": "CoStar Group",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792671138.4595115,
+"flags": [],
+"key": "costar group|associate embedded software engineer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Embedded Software Engineer Intern",
+"url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949"
 },
 "simplify:costar group:4430d739-ddf1-4b1c-966a-d5e29f89a980": {
 "checked": "2026-10-18",
@@ -38131,6 +38169,24 @@
 "title": "Software Engineer Intern",
 "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
 },
+"simplify:textron:de308300-adab-4771-916f-fb126c60ad40": {
+"checked": "2026-10-22",
+"company": "Textron",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792671138.4595168,
+"flags": [],
+"key": "textron|autonomy engineer intern air systems",
+"last_seen": "2026-10-22",
+"locations": [
+"Hunt Valley, Cockeysville, MD"
+],
+"posted_ts": 1788255605,
+"rolling": false,
+"src": "simplify",
+"title": "Autonomy Engineer Intern - Air Systems",
+"url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
+},
 "simplify:the aerospace corporation:3c5aa30b-a574-4c60-b5bb-5d75268f2945": {
 "checked": "2026-10-22",
 "company": "The Aerospace Corporation",
@@ -41392,6 +41448,28 @@
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
+},
+"simplify:uline:e41fbb04-5d3a-4afb-bf00-859f48e0a2aa": {
+"checked": "2026-10-22",
+"company": "Uline",
+"deadline": null,
+"first_seen": "2026-10-22",
+"first_seen_ts": 1792671138.4595206,
+"flags": [],
+"key": "uline|software developer intern",
+"last_seen": "2026-10-22",
+"locations": [
+"Waukegan, IL",
+"Milwaukee, WI",
+"Glenview, IL",
+"Pleasant Prairie, WI",
+"Kenosha, WI"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
 },
 "simplify:united launch alliance:e6dbbc55-6f12-4929-aae1-6c7b7e14a24b": {
 "checked": "2026-10-19",
