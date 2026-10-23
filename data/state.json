@@ -3822,6 +3822,24 @@
 "title": "IT Analytics Intern",
 "url": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"
 },
+"simplify:amazon:180099af-2203-4310-be0d-11ae56d10f78": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276413,
+"flags": [],
+"key": "amazon|software engineer intern embedded systems",
+"last_seen": "2026-10-23",
+"locations": [
+"United States"
+],
+"posted_ts": 1792719938,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Embedded Systems",
+"url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
+},
 "simplify:amazon:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": {
 "checked": "2026-10-19",
 "company": "Amazon",
@@ -3880,6 +3898,43 @@
 "title": "Software Engineer Intern",
 "url": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"
 },
+"simplify:amazon:4169c155-cad3-467e-b8f4-6435181c35ba": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276382,
+"flags": [],
+"key": "amazon|software engineer intern aws database",
+"last_seen": "2026-10-23",
+"locations": [
+"United States"
+],
+"posted_ts": 1792719942,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - AWS Database",
+"url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
+},
+"simplify:amazon:4c1e849b-6ed3-4fc8-a84b-1f9dd177b17a": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276358,
+"flags": [],
+"key": "amazon|associate delivery consultant intern aws professional services",
+"last_seen": "2026-10-23",
+"locations": [
+"Arlington County, Arlington, VA",
+"NYC"
+],
+"posted_ts": 1792719928,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Delivery Consultant Intern - AWS Professional Services",
+"url": "https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services"
+},
 "simplify:amazon:5d67cf04-fc5c-491b-9cb4-99484583ff17": {
 "checked": "2026-10-21",
 "company": "Amazon",
@@ -3898,6 +3953,60 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Embedded Systems",
 "url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa"
+},
+"simplify:amazon:b528e2b6-04c3-46be-bd21-cac3f2e018bb": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276325,
+"flags": [],
+"key": "amazon|systems development engineer intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1792719940,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Development Engineer Intern",
+"url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
+},
+"simplify:amazon:e7367bf7-aaea-4883-ab30-ea927d7b66a9": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276299,
+"flags": [],
+"key": "amazon|software engineer intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1792719940,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+},
+"simplify:amazon:e91b16a1-3d02-4a4f-a1f4-9e894c60c881": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.027626,
+"flags": [],
+"key": "amazon|data science intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1792719946,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student"
 },
 "simplify:amazon:ea127849-c2ce-48a3-8ef5-8024831dc02e": {
 "checked": "2026-10-19",
@@ -3922,6 +4031,24 @@
 "src": "simplify",
 "title": "Software Development Engineer Intern - Robotics",
 "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
+},
+"simplify:amazon:f4933265-5ae6-420b-b9b2-7b0c2bb825af": {
+"checked": "2026-10-23",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276198,
+"flags": [],
+"key": "amazon|applied science intern master s student science",
+"last_seen": "2026-10-23",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1792719944,
+"rolling": false,
+"src": "simplify",
+"title": "Applied Science Intern - Master's Student Science",
+"url": "https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting"
 },
 "simplify:amca:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e": {
 "checked": "2026-10-21",
@@ -11284,6 +11411,24 @@
 "title": "Artificial Intelligence Innovation Development Intern",
 "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"
 },
+"simplify:circle k:78be02f0-f685-4c52-be58-2170c2d99779": {
+"checked": "2026-10-23",
+"company": "Circle K",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792738128.0276437,
+"flags": [],
+"key": "circle k|real estate strategy reporting intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Charlotte, NC"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "Real Estate Strategy & Reporting Intern",
+"url": "https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Real-Estate-Strategy---Reporting-Intern_R630515-1"
+},
 "simplify:circleback:75892e9b-bebc-4e60-9e4b-a763af8e0759": {
 "checked": "2026-10-19",
 "company": "Circleback",
@@ -13143,7 +13288,7 @@
 "first_seen_ts": 1791854628.4734275,
 "flags": [],
 "key": "databricks|software engineer intern",
-"last_seen": "2026-10-22",
+"last_seen": "2026-10-23",
 "locations": [
 "SF",
 "Bellevue, WA",
@@ -13164,7 +13309,7 @@
 "first_seen_ts": 1792712018.6907425,
 "flags": [],
 "key": "databricks|data science intern",
-"last_seen": "2026-10-22",
+"last_seen": "2026-10-23",
 "locations": [
 "SF",
 "Mountain View, CA"
@@ -22739,14 +22884,14 @@
 "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942"
 },
 "simplify:itron:6236ea31-fdc8-485d-a8fc-b2fe9c0aa953": {
-"checked": "2026-10-07",
+"checked": "2026-10-23",
 "company": "Itron",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790735197.0058887,
 "flags": [],
 "key": "itron|data science intern distributed intelligence",
-"last_seen": "2026-10-13",
+"last_seen": "2026-10-23",
 "locations": [
 "Liberty Lake, WA"
 ],
