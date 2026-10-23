@@ -4421,6 +4421,24 @@
 "title": "Machine Learning Intern/Co-op - Multiple Teams",
 "url": "https://careers.amd.com/jobs/91170?icims=1"
 },
+"simplify:amend consulting:5f9b61ea-c697-42d6-a9f1-fc9dbc1e6318": {
+"checked": "2026-10-23",
+"company": "AMEND Consulting",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.3480105,
+"flags": [],
+"key": "amend consulting|quality assurance analyst co op intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Cincinnati, OH"
+],
+"posted_ts": 1783520095,
+"rolling": false,
+"src": "simplify",
+"title": "Quality Assurance Analyst Co-op Intern",
+"url": "https://job-boards.greenhouse.io/amendconsulting/jobs/4113831009"
+},
 "simplify:ameren:39304d92-2b98-45ee-9a39-8f4f5ac43185": {
 "checked": "2026-10-05",
 "company": "Ameren",
@@ -4855,14 +4873,14 @@
 "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375"
 },
 "simplify:american express:838b7d8e-c2bf-4395-b660-6f3484019451": {
-"checked": "2026-09-28",
+"checked": "2026-10-23",
 "company": "American Express",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991635,
 "flags": [],
 "key": "american express|ai engineer intern enterprise technology services",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-23",
 "locations": [
 "Sunrise, FL"
 ],
@@ -5924,14 +5942,14 @@
 "url": "https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true"
 },
 "simplify:appian:31b95070-c5a6-4523-b7d4-54fbaa062677": {
-"checked": "2026-09-28",
+"checked": "2026-10-23",
 "company": "Appian",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.991017,
 "flags": [],
 "key": "appian|software engineer intern",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-23",
 "locations": [
 "McLean, VA"
 ],
@@ -7125,6 +7143,24 @@
 "src": "simplify",
 "title": "Marketplace Intelligence Intern",
 "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Marketplace-Intelligence-Internship---Summer-2027_R_14506"
+},
+"simplify:auto-owners insurance:52280fbc-05cd-4714-a6fa-72ff9c3d0f9f": {
+"checked": "2026-10-23",
+"company": "Auto-Owners Insurance",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.3457272,
+"flags": [],
+"key": "auto-owners insurance|predictive modeler intern summer 2027",
+"last_seen": "2026-10-23",
+"locations": [
+"Lansing, MI"
+],
+"posted_ts": 1787274930,
+"rolling": false,
+"src": "simplify",
+"title": "Predictive Modeler Intern - Summer 2027",
+"url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833"
 },
 "simplify:auto-owners insurance:89458fa4-671a-4f16-80d0-b17bfb3af74d": {
 "checked": "2026-10-19",
@@ -19906,6 +19942,24 @@
 "title": "Application Developer Co-op",
 "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
 },
+"simplify:gritt:d420dac2-093d-43dd-9e1c-8bf39bdbbb26": {
+"checked": "2026-10-23",
+"company": "Gritt",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.3480153,
+"flags": [],
+"key": "gritt|ml cloud infrastructure engineer intern",
+"last_seen": "2026-10-23",
+"locations": [
+"South SF"
+],
+"posted_ts": 1784596484,
+"rolling": false,
+"src": "simplify",
+"title": "ML & Cloud Infrastructure Engineer Intern",
+"url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application?embed=true"
+},
 "simplify:grow financial federal credit union:bc661e4d-29a0-4de4-bbeb-52f943d960c8": {
 "checked": "2026-10-20",
 "company": "Grow Financial Federal Credit Union",
@@ -22866,14 +22920,14 @@
 "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1"
 },
 "simplify:itron:1e39ef9b-ab50-405f-808e-28002f4fc72f": {
-"checked": "2026-10-07",
+"checked": "2026-10-23",
 "company": "Itron",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790735197.0058827,
 "flags": [],
 "key": "itron|data science intern distributed intelligence",
-"last_seen": "2026-10-14",
+"last_seen": "2026-10-23",
 "locations": [
 "Liberty Lake, WA"
 ],
@@ -23879,6 +23933,49 @@
 "src": "simplify",
 "title": "Quantitative Research Intern - Risk and Treasury",
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978"
+},
+"simplify:jp morgan chase:98635871-6276-41e4-ad95-172485704a2c": {
+"checked": "2026-10-23",
+"company": "JP Morgan Chase",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.3454025,
+"flags": [],
+"key": "jp morgan chase|data ai intern analyst",
+"last_seen": "2026-10-23",
+"locations": [
+"Palo Alto, CA",
+"Newark, DE",
+"Plano, TX",
+"Chicago, IL",
+"Jersey City, NJ",
+"Columbus, OH",
+"NYC",
+"Wilmington, DE"
+],
+"posted_ts": 1785738259,
+"rolling": false,
+"src": "simplify",
+"title": "Data & AI Intern - Analyst",
+"url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869"
+},
+"simplify:jp morgan chase:c603c749-ab7d-489e-a4f7-a962ea05b835": {
+"checked": "2026-10-23",
+"company": "JP Morgan Chase",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.345397,
+"flags": [],
+"key": "jp morgan chase|quantitative research intern markets analyst",
+"last_seen": "2026-10-23",
+"locations": [
+"NYC"
+],
+"posted_ts": 1785738260,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Research Intern - Markets - Analyst",
+"url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038"
 },
 "simplify:jp morgan chase:f9299641-0cec-447d-8ed6-26445441d4ec": {
 "checked": "2026-10-20",
@@ -28044,6 +28141,24 @@
 "src": "simplify",
 "title": "Data Engineering Intern",
 "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979"
+},
+"simplify:michelin:5894643a-c28e-4199-a424-35a670e0526f": {
+"checked": "2026-10-23",
+"company": "Michelin",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.3461785,
+"flags": [],
+"key": "michelin|r d testing intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Greenville, SC"
+],
+"posted_ts": 1788220800,
+"rolling": false,
+"src": "simplify",
+"title": "R&D Testing Intern",
+"url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Spring-2027---R-D-Testing--Greenville--SC-_R-2026033240"
 },
 "simplify:micron technology:108398c2-db25-4f0a-89ab-ebcf383dc142": {
 "checked": "2026-10-20",
@@ -33212,6 +33327,24 @@
 "title": "People Services Data Analytics Intern",
 "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307"
 },
+"simplify:qts:ce71deaf-609d-4056-a87f-79161320e181": {
+"checked": "2026-10-23",
+"company": "QTS",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.348019,
+"flags": [],
+"key": "qts|sustainability intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Duluth, GA"
+],
+"posted_ts": 1787702400,
+"rolling": false,
+"src": "simplify",
+"title": "Sustainability Intern",
+"url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Sustainability_R2026-1900"
+},
 "simplify:quadrillion:53663e4c-42be-4d2a-ba0f-ac7a0d65da22": {
 "checked": "2026-10-19",
 "company": "Quadrillion",
@@ -38140,6 +38273,24 @@
 "title": "Full Stack Developer Co-op",
 "url": "https://specteraerospace.bamboohr.com/careers/122/"
 },
+"simplify:spherix global insights us inc:2c1e4de1-dc7c-4c61-a87f-e32d307d8d5c": {
+"checked": "2026-10-23",
+"company": "SPHERIX GLOBAL INSIGHTS US INC",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792757559.3453026,
+"flags": [],
+"key": "spherix global insights us inc|market research insights intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Exton, PA"
+],
+"posted_ts": 1784787190,
+"rolling": false,
+"src": "simplify",
+"title": "Market Research Insights Intern",
+"url": "https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship"
+},
 "simplify:spirit aerosystems:e1603af0-76f6-45ef-9e17-0d369d550c96": {
 "checked": "2026-10-05",
 "company": "Spirit AeroSystems",
@@ -40664,14 +40815,14 @@
 "url": "https://lifeattiktok.com/search/7670738362521520437"
 },
 "simplify:tiktok:3f7978bc-c83d-4088-abff-540cb9036839": {
-"checked": "2026-09-28",
+"checked": "2026-10-23",
 "company": "TikTok",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9927957,
 "flags": [],
 "key": "tiktok|ecosystem analyst intern tiktok live",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-23",
 "locations": [
 "LA"
 ],
