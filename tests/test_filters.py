@@ -20,6 +20,14 @@ class FilterTests(unittest.TestCase):
                   "AI Engineer Intern"]:
             self.assertTrue(self.keep(t), t)
 
+    def test_fde_roles_kept(self):
+        for t in ["Forward Deployed Engineer Intern - Summer 2027",
+                  "Forward Deployed Software Engineer, Internship",
+                  "FDE Intern (Summer 2027)",
+                  "Deployed Engineer Intern"]:
+            self.assertTrue(self.keep(t), t)
+        self.assertFalse(self.keep("Forward Deployed Engineer"))   # not an internship
+
     def test_irrelevant_dropped(self):
         for t in ["Internal Communications Manager",          # 'intern' substring
                   "Hardware Engineering Intern, BS/MS, Summer 2027",

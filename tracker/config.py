@@ -58,6 +58,7 @@ ROLE_PATTERNS = [
     r"data engineer", r"analytics", r"data analyst", r"quantitative research",
     r"quant research", r"backend", r"back-end", r"full.?stack", r"platform engineer",
     r"infrastructure engineer", r"software engineering intern", r"security engineer",
+    r"forward.?deployed", r"\bfde\b", r"deployed (software )?engineer",   # FDE roles
 ]
 # Titles containing these are never relevant, even if a role pattern matches.
 EXCLUDE_PATTERNS = [
