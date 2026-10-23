@@ -2835,6 +2835,24 @@
 "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765"
 },
+"microsoft:microsoft:1970393557044771": {
+"checked": "2026-10-23",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0252774,
+"flags": [],
+"key": "microsoft|software engineering intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Tulsa, OK, US"
+],
+"posted_ts": 1792771804,
+"rolling": true,
+"src": "microsoft",
+"title": "Software Engineering Intern",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557044771"
+},
 "simplify:7-eleven:07b72404-06cc-425a-80c5-b8a9a253652a": {
 "checked": "2026-10-20",
 "company": "7-Eleven",
@@ -3016,6 +3034,24 @@
 "title": "Research Intern Fellow",
 "url": "https://jobs.ashbyhq.com/abundant/4da99916-c29b-49a2-8e2d-1964b1838e11/application?embed=true"
 },
+"simplify:aci worldwide:59c91bb5-c7b2-4849-9e8e-c13518b6dd45": {
+"checked": "2026-10-23",
+"company": "ACI Worldwide",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288105,
+"flags": [],
+"key": "aci worldwide|technology intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Norcross, GA"
+],
+"posted_ts": 1789682817,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Intern",
+"url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943"
+},
 "simplify:acima:08b81f58-c3c3-4212-a0ac-e8bc42112895": {
 "checked": "2026-09-29",
 "company": "Acima",
@@ -3033,6 +3069,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
+},
+"simplify:adobe:31ee782b-3421-455d-9cc1-e5c1fc84b692": {
+"checked": "2026-10-23",
+"company": "Adobe",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288815,
+"flags": [],
+"key": "adobe|ai architecture intern",
+"last_seen": "2026-10-23",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1792368000,
+"rolling": false,
+"src": "simplify",
+"title": "AI & Architecture Intern",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
 },
 "simplify:adobe:a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
 "checked": "2026-10-19",
@@ -3381,6 +3435,24 @@
 "title": "IT Engineer Intern - Early Careers",
 "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
 },
+"simplify:afterquery:02ebb866-b1d7-41a3-9547-177c4e83565c": {
+"checked": "2026-10-23",
+"company": "AfterQuery",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288033,
+"flags": [],
+"key": "afterquery|research scholar intern",
+"last_seen": "2026-10-23",
+"locations": [
+"SF"
+],
+"posted_ts": 1789510814,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scholar Intern",
+"url": "https://jobs.ashbyhq.com/AfterQuery/68053d93-6d15-4b4a-8a04-65aa5646feb2/application?embed=true"
+},
 "simplify:agco:c890b3c3-40a5-4b61-a4f8-1c635d53c234": {
 "checked": "2026-10-17",
 "company": "AGCO",
@@ -3443,6 +3515,24 @@
 "src": "simplify",
 "title": "Summer Intern - Data Office",
 "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655"
+},
+"simplify:airbus:bd93c9e1-34c6-4861-bd78-38f25dccb3ae": {
+"checked": "2026-10-23",
+"company": "Airbus",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288475,
+"flags": [],
+"key": "airbus|operational excellence analyst intern data analytics operational excellence",
+"last_seen": "2026-10-23",
+"locations": [
+"Mobile, AL"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "Operational Excellence Analyst Intern - Data Analytics - Operational Excellence",
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship-2027---Data-Analytics---Operational-Excellence_JR10442492"
 },
 "simplify:akuna capital university:13b103af-8b5c-4685-9b00-18ce29399f40": {
 "checked": "2026-10-19",
@@ -6267,6 +6357,24 @@
 "title": "Quantitative Researcher \u2013 Intern",
 "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002"
 },
+"simplify:aramco americas:08c7a9a4-0fd0-4812-8402-73293523d1b4": {
+"checked": "2026-10-23",
+"company": "Aramco Americas",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.028791,
+"flags": [],
+"key": "aramco americas|research and development intern boston research center 2027 summer student program",
+"last_seen": "2026-10-23",
+"locations": [
+"Cambridge, MA"
+],
+"posted_ts": 1788906473,
+"rolling": false,
+"src": "simplify",
+"title": "Research and Development Intern - Boston Research Center - 2027 Summer Student Program",
+"url": "https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program"
+},
 "simplify:aramco americas:4f1a3c2c-b21c-4ba1-89ea-4313b9d6e0f6": {
 "checked": "2026-10-19",
 "company": "Aramco Americas",
@@ -7895,6 +8003,24 @@
 "src": "simplify",
 "title": "Epidemiology / Biostatistics Intern",
 "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949"
+},
+"simplify:blue cross blue shield of michigan:601997d3-10ff-480d-b969-07e2d092725a": {
+"checked": "2026-10-23",
+"company": "Blue Cross Blue Shield of Michigan",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288517,
+"flags": [],
+"key": "blue cross blue shield of michigan|data analytics intern hedis",
+"last_seen": "2026-10-23",
+"locations": [
+"Detroit, MI"
+],
+"posted_ts": 1790605147,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern - HEDIS",
+"url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838"
 },
 "simplify:blue origin:613d2234-c5db-4237-b98d-1cca8bafc69d": {
 "checked": "2026-10-19",
@@ -10503,18 +10629,21 @@
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
 },
 "simplify:caci:e772b664-062b-4315-9007-69460c23019c": {
+"checked": "2026-10-23",
 "company": "CACI",
+"deadline": "2026-11-23",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9945552,
 "flags": [],
 "key": "caci|software engineer intern summer 2027",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-23",
 "locations": [
 "Remote in USA",
 "Sterling, VA",
 "Denver, CO"
 ],
 "posted_ts": 1789344000,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
@@ -10740,6 +10869,26 @@
 "src": "simplify",
 "title": "Corporate Intern - Autonomy & Intelligent Systems Engineering",
 "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394"
+},
+"simplify:caterpillar:b5513c72-0126-472b-af07-cd37e80ee5b1": {
+"checked": "2026-10-23",
+"company": "Caterpillar",
+"deadline": "2026-11-09",
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0287998,
+"flags": [],
+"key": "caterpillar|corporate intern digital and analytics",
+"last_seen": "2026-10-23",
+"locations": [
+"Peoria, IL",
+"Chicago, IL",
+"Irving, TX"
+],
+"posted_ts": 1788393600,
+"rolling": false,
+"src": "simplify",
+"title": "Corporate Intern - Digital and Analytics",
+"url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Digital-and-Analytics_R0000392335"
 },
 "simplify:cencora:85ec94f8-b794-406d-b74b-06e49b725a08": {
 "checked": "2026-09-29",
@@ -12224,6 +12373,24 @@
 "title": "IT Data Engineering Intern",
 "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
 },
+"simplify:constellation energy:c32610f4-7f0d-42bd-8186-eb8b18ba634d": {
+"checked": "2026-10-23",
+"company": "Constellation Energy",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288196,
+"flags": [],
+"key": "constellation energy|quantitative analytics data science intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Baltimore, MD"
+],
+"posted_ts": 1790633785,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Analytics & Data Science Intern",
+"url": "https://jobs.constellationenergy.com/jobs/139494?icims=1"
+},
 "simplify:constellation energy:fe0f0f3d-3ecc-46df-85f6-1122898c33f5": {
 "checked": "2026-10-20",
 "company": "Constellation Energy",
@@ -12639,6 +12806,24 @@
 "src": "simplify",
 "title": "Associate Software Engineer Intern",
 "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674"
+},
+"simplify:costar group:fec5c82d-3e40-46de-bad2-93a1b2669f21": {
+"checked": "2026-10-23",
+"company": "CoStar Group",
+"deadline": "2026-10-30",
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288148,
+"flags": [],
+"key": "costar group|associate software engineer intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Irvine, CA"
+],
+"posted_ts": 1789516800,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Software Engineer Intern",
+"url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736"
 },
 "simplify:country financial:26621e42-f0f2-4777-9b7f-f505c5e66a92": {
 "checked": "2026-09-28",
@@ -16021,6 +16206,30 @@
 "title": "Data Intern 2",
 "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors"
 },
+"simplify:ernst & young:1aabc22e-1fb5-4112-982f-6ac8f727c097": {
+"checked": "2026-10-23",
+"company": "Ernst & Young",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0287955,
+"flags": [],
+"key": "ernst & young|associate intern multiple teams",
+"last_seen": "2026-10-23",
+"locations": [
+"Boston, MA",
+"SF",
+"LA",
+"San Jose, CA",
+"Dallas, TX",
+"Chicago, IL",
+"NYC"
+],
+"posted_ts": 1788819145,
+"rolling": false,
+"src": "simplify",
+"title": "Associate Intern - Multiple Teams",
+"url": "https://eyglobal.yello.co/jobs/os6PjvRXE64CjFU87aT3hw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+},
 "simplify:ernst & young:4f65c1a2-2842-4064-92f3-14fbb0e9cf06": {
 "checked": "2026-10-19",
 "company": "Ernst & Young",
@@ -16110,6 +16319,26 @@
 "src": "simplify",
 "title": "Data and Intelligence Delivery Intern - Assurance",
 "url": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+},
+"simplify:ernst & young:ede8c3f5-fd50-49d4-b347-bece731058ad": {
+"checked": "2026-10-23",
+"company": "Ernst & Young",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0287857,
+"flags": [],
+"key": "ernst & young|vector capitalization intern multiple teams",
+"last_seen": "2026-10-23",
+"locations": [
+"Houston, TX",
+"Dallas, TX",
+"Atlanta, GA"
+],
+"posted_ts": 1788530856,
+"rolling": false,
+"src": "simplify",
+"title": "Vector Capitalization Intern - Multiple Teams",
+"url": "https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
 },
 "simplify:ernst & young:f818d803-75b1-4afe-a3e5-d7e9f66bbac2": {
 "checked": "2026-10-20",
@@ -21637,6 +21866,24 @@
 "title": "Data Analytics Intern",
 "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146"
 },
+"simplify:iat insurance group:ab6d1cf4-f0b7-43c9-be13-a1185c95297f": {
+"checked": "2026-10-23",
+"company": "IAT Insurance Group",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.028857,
+"flags": [],
+"key": "iat insurance group|data engineering visualization intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Raleigh, NC"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineering & Visualization Intern",
+"url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441"
+},
 "simplify:iat insurance group:f4db16dc-9fd7-499a-b809-554855fcb08f": {
 "checked": "2026-10-19",
 "company": "IAT Insurance Group",
@@ -24399,14 +24646,14 @@
 "url": "https://careers.kindermorgan.com/jobs/6032?icims=1"
 },
 "simplify:kinder morgan:da988f75-9e9a-499e-b213-c3f9c3db52e5": {
-"checked": "2026-09-29",
+"checked": "2026-10-23",
 "company": "Kinder Morgan",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9942558,
 "flags": [],
 "key": "kinder morgan|esg intern",
-"last_seen": "2026-10-05",
+"last_seen": "2026-10-23",
 "locations": [
 "Houston, TX"
 ],
@@ -25856,14 +26103,14 @@
 "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
 },
 "simplify:lseg:0fd4122e-ceb7-4f97-8f55-aaab32d000d7": {
-"checked": "2026-09-29",
+"checked": "2026-10-23",
 "company": "LSEG",
 "deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9950745,
 "flags": [],
 "key": "lseg|engineering intern multiple teams",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-23",
 "locations": [
 "Boston, MA"
 ],
@@ -25910,14 +26157,14 @@
 "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1"
 },
 "simplify:lseg:58e8369f-2689-4d99-a38e-37e807ad938d": {
-"checked": "2026-09-29",
+"checked": "2026-10-23",
 "company": "LSEG",
 "deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.995083,
 "flags": [],
 "key": "lseg|engineering intern multiple teams",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-23",
 "locations": [
 "Boston, MA"
 ],
@@ -25946,14 +26193,14 @@
 "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
 },
 "simplify:lseg:e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44": {
-"checked": "2026-09-29",
+"checked": "2026-10-23",
 "company": "LSEG",
 "deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9950774,
 "flags": [],
 "key": "lseg|engineering intern",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-23",
 "locations": [
 "NYC"
 ],
@@ -25964,14 +26211,14 @@
 "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569"
 },
 "simplify:lseg:f4082cd5-efa8-433b-a046-a2780c5286b5": {
-"checked": "2026-09-29",
+"checked": "2026-10-23",
 "company": "LSEG",
 "deadline": "2026-10-30",
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9950802,
 "flags": [],
 "key": "lseg|engineering intern",
-"last_seen": "2026-10-04",
+"last_seen": "2026-10-23",
 "locations": [
 "NYC"
 ],
@@ -26160,6 +26407,24 @@
 "src": "simplify",
 "title": "Data Systems Intern - Multiple Teams",
 "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388"
+},
+"simplify:macy's:2d1205f2-cb07-4355-a160-2ae1b57ed991": {
+"checked": "2026-10-23",
+"company": "Macy's",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288072,
+"flags": [],
+"key": "macy's|summer internship technology",
+"last_seen": "2026-10-23",
+"locations": [
+"Johns Creek, GA"
+],
+"posted_ts": 1790028537,
+"rolling": false,
+"src": "simplify",
+"title": "Summer Internship - Technology",
+"url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293"
 },
 "simplify:macy's:acf27f9f-528e-464f-b056-c55c4943f5d9": {
 "checked": "2026-10-22",
@@ -28904,6 +29169,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Product Development - Summer 2027",
 "url": "https://careers.msasafety.com/jobs/9993?icims=1"
+},
+"simplify:muon space:733a4e9a-123e-4033-bfa1-d81fb7521453": {
+"checked": "2026-10-23",
+"company": "Muon Space",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288649,
+"flags": [],
+"key": "muon space|gnc software engineer intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1790730549,
+"rolling": false,
+"src": "simplify",
+"title": "GNC Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007"
 },
 "simplify:muon space:aa9bd6f2-fc80-4c29-8eb6-486d2a116c7b": {
 "checked": "2026-10-21",
@@ -31815,6 +32098,24 @@
 "title": "Panasonic Transformation Group Intern",
 "url": "https://careers.na.panasonic.com/jobs/51629?icims=1"
 },
+"simplify:panasonic holdings:77d3a898-3115-43a0-a5c8-6bc7f55d1cae": {
+"checked": "2026-10-23",
+"company": "Panasonic Holdings",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288386,
+"flags": [],
+"key": "panasonic holdings|panasonic transformation group intern",
+"last_seen": "2026-10-23",
+"locations": [
+"De Soto, KS"
+],
+"posted_ts": 1790633341,
+"rolling": false,
+"src": "simplify",
+"title": "Panasonic Transformation Group Intern",
+"url": "https://careers.na.panasonic.com/jobs/51289?icims=1"
+},
 "simplify:panasonic holdings:8277b93b-f1ee-4795-ac80-d8304e6f9a1b": {
 "checked": "2026-10-23",
 "company": "Panasonic Holdings",
@@ -32161,6 +32462,24 @@
 "title": "R&D Engineer Intern",
 "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Key-West-FL/R-D-Engineer-Intern_REQ_0000083331"
 },
+"simplify:pennsylvania state university:4686a41a-e15f-4233-8277-21cb6d26a8c2": {
+"checked": "2026-10-23",
+"company": "Pennsylvania State University",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.025342,
+"flags": [],
+"key": "pennsylvania state university|cse researcher narayanan intern v",
+"last_seen": "2026-10-23",
+"locations": [
+"State College, PA"
+],
+"posted_ts": 1777932585,
+"rolling": false,
+"src": "simplify",
+"title": "CSE Researcher-Narayanan Intern - V",
+"url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1"
+},
 "simplify:pennsylvania state university:69430fc1-dbac-4fba-8c07-697012305db3": {
 "checked": "2026-10-19",
 "company": "Pennsylvania State University",
@@ -32178,6 +32497,24 @@
 "src": "simplify",
 "title": "Guidance and Control Research & Development Intern",
 "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1"
+},
+"simplify:pennsylvania state university:db089b66-2eb9-4065-b881-267a2232df72": {
+"checked": "2026-10-23",
+"company": "Pennsylvania State University",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.025352,
+"flags": [],
+"key": "pennsylvania state university|cse researcher narayanan intern v",
+"last_seen": "2026-10-23",
+"locations": [
+"State College, PA"
+],
+"posted_ts": 1778537331,
+"rolling": false,
+"src": "simplify",
+"title": "CSE Researcher-Narayanan Intern - V",
+"url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078336-1"
 },
 "simplify:pennsylvania state university:f314730e-f20b-4616-a2f5-0a38cc3aed0b": {
 "checked": "2026-10-17",
@@ -35843,6 +36180,24 @@
 "title": "AI Engineering Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596"
 },
+"simplify:rtx:ba02c1f4-7c0e-4af7-9491-23050dd2fa93": {
+"checked": "2026-10-23",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288236,
+"flags": [],
+"key": "rtx|ags software engineering co op",
+"last_seen": "2026-10-23",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "AGS Software Engineering Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
+},
 "simplify:rtx:bb375f16-35dc-4f64-966b-0d9da2a004a3": {
 "checked": "2026-10-15",
 "company": "RTX",
@@ -38855,6 +39210,24 @@
 "title": "Robot Manipulation Intern",
 "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278"
 },
+"simplify:synchrony financial:37c49cf0-32b3-401f-a00e-3f878679c268": {
+"checked": "2026-10-23",
+"company": "Synchrony Financial",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288613,
+"flags": [],
+"key": "synchrony financial|digital technology center intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Stamford, CT"
+],
+"posted_ts": 1790208000,
+"rolling": false,
+"src": "simplify",
+"title": "Digital Technology Center Intern",
+"url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
+},
 "simplify:t-mobile:a8967f38-53a7-4716-80c1-8ba4fc0fb06b": {
 "checked": "2026-10-23",
 "company": "T-Mobile",
@@ -39087,6 +39460,24 @@
 "src": "simplify",
 "title": "Data Engineer Intern - Global Technology & Solutions",
 "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797"
+},
+"simplify:td bank:b9b52922-5041-4125-b7c7-84b0dd7df700": {
+"checked": "2026-10-23",
+"company": "TD Bank",
+"deadline": "2026-11-13",
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.02878,
+"flags": [],
+"key": "td bank|graduate leadership program commercial banking intern",
+"last_seen": "2026-10-23",
+"locations": [
+"NYC"
+],
+"posted_ts": 1788134400,
+"rolling": false,
+"src": "simplify",
+"title": "Graduate Leadership Program Commercial Banking Intern",
+"url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612"
 },
 "simplify:teledyne:46378d7c-8f2b-4684-9119-6454bb14df9b": {
 "checked": "2026-10-19",
@@ -42400,6 +42791,25 @@
 "title": "Software Engineer Intern",
 "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288"
 },
+"simplify:transunion:c9443ff8-a611-4d5a-b7eb-50e96c3035cf": {
+"checked": "2026-10-23",
+"company": "TransUnion",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288277,
+"flags": [],
+"key": "transunion|financial services argus advisory intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Chicago, IL",
+"White Plains, NY"
+],
+"posted_ts": 1790553600,
+"rolling": false,
+"src": "simplify",
+"title": "Financial Services Argus Advisory Intern",
+"url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/White-Plains-New-York/Financial-Services---Argus-Advisory-Internship---Summer-2027_19042627"
+},
 "simplify:travelers:c6dd05de-594d-4fa3-8da1-c646ae0eca31": {
 "checked": "2026-10-22",
 "company": "Travelers",
@@ -42797,6 +43207,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
+},
+"simplify:ul solutions:f60317b7-57f8-4a35-8a4a-001aa5b31e8d": {
+"checked": "2026-10-23",
+"company": "UL Solutions",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288424,
+"flags": [],
+"key": "ul solutions|data science intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Northbrook, IL",
+"Chicago, IL"
+],
+"posted_ts": 1790633172,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629"
 },
 "simplify:uline:92343958-c226-4f1d-95e4-e809c57cb437": {
 "checked": "2026-10-12",
@@ -44031,6 +44460,24 @@
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004"
 },
+"simplify:viatris:f1e0a5b1-cd00-4864-9585-52fb514ec81f": {
+"checked": "2026-10-23",
+"company": "Viatris",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288682,
+"flags": [],
+"key": "viatris|student worker intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1790640000,
+"rolling": false,
+"src": "simplify",
+"title": "Student Worker Intern",
+"url": "https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339"
+},
 "simplify:viget:b058e4f4-66d1-4259-8983-1c888392410d": {
 "checked": "2026-10-23",
 "company": "Viget",
@@ -44214,6 +44661,24 @@
 "title": "Data Science Intern",
 "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191"
 },
+"simplify:walgreens:dafceed7-cef2-4577-9a27-bdccb6cd29a1": {
+"checked": "2026-10-23",
+"company": "Walgreens",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.028878,
+"flags": [],
+"key": "walgreens|mobile app developer intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Deerfield, IL"
+],
+"posted_ts": 1792016618,
+"rolling": false,
+"src": "simplify",
+"title": "Mobile App Developer Intern",
+"url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1950723"
+},
 "simplify:walleye capital:0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175": {
 "checked": "2026-10-19",
 "company": "Walleye Capital",
@@ -44359,6 +44824,24 @@
 "src": "simplify",
 "title": "Information Technology Development Intern",
 "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
+},
+"simplify:waymo:07ec9414-a580-4b59-87ad-55bc953f8447": {
+"checked": "2026-10-23",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288312,
+"flags": [],
+"key": "waymo|depot automation intern",
+"last_seen": "2026-10-23",
+"locations": [
+"SF"
+],
+"posted_ts": 1790633910,
+"rolling": false,
+"src": "simplify",
+"title": "Depot Automation Intern",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8234553"
 },
 "simplify:waymo:107e54c4-e35f-4131-8faf-6a6ab9998ca9": {
 "checked": "2026-09-28",
@@ -45288,6 +45771,24 @@
 "title": "Data Solution Engineer Intern",
 "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false"
 },
+"simplify:west monroe:227eaf66-d175-4549-a0d2-b5ca1db29a3a": {
+"checked": "2026-10-23",
+"company": "West Monroe",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288746,
+"flags": [],
+"key": "west monroe|market research associate intern",
+"last_seen": "2026-10-23",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1791269205,
+"rolling": false,
+"src": "simplify",
+"title": "Market Research Associate Intern",
+"url": "https://westmonroe.com/careers/job-details-students?gh_jid=6166314004"
+},
 "simplify:west monroe:5281ba0d-1f7f-4621-97e0-69d1d1f1f51f": {
 "checked": "2026-10-20",
 "company": "West Monroe",
@@ -45377,6 +45878,24 @@
 "src": "simplify",
 "title": "Labs Asset Foundry Consulting Intern",
 "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6169873004"
+},
+"simplify:west monroe:c3465a2c-2b53-48e3-8dd2-3c11df883e30": {
+"checked": "2026-10-23",
+"company": "West Monroe",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.0288715,
+"flags": [],
+"key": "west monroe|data analytics consulting intern",
+"last_seen": "2026-10-23",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791269203,
+"rolling": false,
+"src": "simplify",
+"title": "Data & Analytics Consulting Intern",
+"url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167567004"
 },
 "simplify:west monroe:c798dbef-6333-4990-8f5a-9774baf7a93a": {
 "checked": "2026-10-06",
@@ -45828,6 +46347,24 @@
 "src": "simplify",
 "title": "Software Engineering Intern - Wit",
 "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242287007"
+},
+"simplify:william blair:62a58db2-7867-4166-bfeb-81e7fc0f9aac": {
+"checked": "2026-10-23",
+"company": "William Blair",
+"deadline": null,
+"first_seen": "2026-10-23",
+"first_seen_ts": 1792775546.028835,
+"flags": [],
+"key": "william blair|technology intern wit data science",
+"last_seen": "2026-10-23",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1790633778,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Intern - Wit - Data Science",
+"url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242280007"
 },
 "simplify:william blair:dc550f37-4505-4a97-8560-642d1cc2f0e9": {
 "checked": "2026-10-20",
