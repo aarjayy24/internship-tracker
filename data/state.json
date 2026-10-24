@@ -1,10 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:adobe": 1,
-"workday:intel": 1,
-"workday:nvidia": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-24",
@@ -6074,14 +6070,14 @@
 "url": "https://jobs.aon.com/jobs/110099?icims=1"
 },
 "simplify:apex analytix:00026218-6b9b-420f-a490-b3b29742cf17": {
-"checked": "2026-10-06",
+"checked": "2026-10-24",
 "company": "APEX Analytix",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9947848,
 "flags": [],
 "key": "apex analytix|data analyst intern summer 2027",
-"last_seen": "2026-10-07",
+"last_seen": "2026-10-24",
 "locations": [
 "Greensboro, NC"
 ],
@@ -13157,6 +13153,24 @@
 "title": "Automation Developer Intern",
 "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000"
 },
+"simplify:country financial:6d12bdd4-f0e3-4ced-9e3d-481bc829fb72": {
+"checked": "2026-10-24",
+"company": "COUNTRY Financial",
+"deadline": null,
+"first_seen": "2026-10-24",
+"first_seen_ts": 1792841577.0417478,
+"flags": [],
+"key": "country financial|consumer insights intern",
+"last_seen": "2026-10-24",
+"locations": [
+"Bloomington, IL"
+],
+"posted_ts": 1788825600,
+"rolling": false,
+"src": "simplify",
+"title": "Consumer Insights Intern",
+"url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030"
+},
 "simplify:country financial:a70cad86-89f9-4f7c-881d-a22840ad91ee": {
 "checked": "2026-09-28",
 "company": "COUNTRY Financial",
@@ -15686,7 +15700,7 @@
 "first_seen_ts": 1791253260.450769,
 "flags": [],
 "key": "electronic arts|software engineer intern",
-"last_seen": "2026-10-20",
+"last_seen": "2026-10-24",
 "locations": [
 "Orlando, FL"
 ],
@@ -23078,14 +23092,14 @@
 "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458"
 },
 "simplify:intel:196825af-df08-45d5-a8e9-0d053f272e7b": {
-"checked": "2026-10-06",
+"checked": "2026-10-24",
 "company": "Intel",
 "deadline": null,
 "first_seen": "2026-10-06",
 "first_seen_ts": 1791253260.4507143,
 "flags": [],
 "key": "intel|ai solution architect intern",
-"last_seen": "2026-10-07",
+"last_seen": "2026-10-24",
 "locations": [
 "Santa Clara, CA"
 ],
@@ -24293,7 +24307,9 @@
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717"
 },
 "simplify:johnson & johnson:47b1aeb6-587f-4d70-974c-6dd226fbf9e7": {
+"checked": "2026-10-24",
 "company": "Johnson & Johnson",
+"deadline": "2026-11-02",
 "first_seen": "2026-10-24",
 "first_seen_ts": 1792823463.3867981,
 "flags": [],
@@ -24303,6 +24319,7 @@
 "Spring House, PA"
 ],
 "posted_ts": 1792713600,
+"rolling": false,
 "src": "simplify",
 "title": "Laboratory Automation Systems Intern",
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
