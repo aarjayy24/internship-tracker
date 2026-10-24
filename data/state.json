@@ -1,6 +1,10 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:adobe": 1,
+"workday:intel": 1,
+"workday:nvidia": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-24",
@@ -19982,7 +19986,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-22",
+"last_seen": "2026-10-24",
 "locations": [
 "NYC"
 ],
@@ -20011,14 +20015,14 @@
 "url": "https://higher.gs.com/roles/171564?type=students"
 },
 "simplify:goldman sachs:5bdec003-2a02-42a4-a602-467541840552": {
-"checked": "2026-10-06",
+"checked": "2026-10-24",
 "company": "Goldman Sachs",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-10-06",
+"last_seen": "2026-10-24",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -20029,14 +20033,14 @@
 "url": "https://higher.gs.com/roles/171565?type=students"
 },
 "simplify:goldman sachs:792220f4-3ba1-4cf8-843e-e23208ba8d24": {
-"checked": "2026-09-28",
+"checked": "2026-10-24",
 "company": "Goldman Sachs",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-09-28",
+"last_seen": "2026-10-24",
 "locations": [
 "Dallas, TX"
 ],
@@ -24287,6 +24291,21 @@
 "src": "simplify",
 "title": "Project Delivery Digital Engineering & Property Services Co-op",
 "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717"
+},
+"simplify:johnson & johnson:47b1aeb6-587f-4d70-974c-6dd226fbf9e7": {
+"company": "Johnson & Johnson",
+"first_seen": "2026-10-24",
+"first_seen_ts": 1792823463.3867981,
+"flags": [],
+"key": "johnson & johnson|laboratory automation systems intern",
+"last_seen": "2026-10-24",
+"locations": [
+"Spring House, PA"
+],
+"posted_ts": 1792713600,
+"src": "simplify",
+"title": "Laboratory Automation Systems Intern",
+"url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
 },
 "simplify:johnson & johnson:4c2e5fe2-a3e6-4d00-ac53-11343dc121dc": {
 "checked": "2026-10-13",

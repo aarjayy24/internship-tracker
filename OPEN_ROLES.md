@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-24 · 1728 roles · 174 with a stated deadline · 57 rolling
+Updated 2026-10-24 · 1732 roles · 174 with a stated deadline · 57 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -214,13 +214,14 @@ Updated 2026-10-24 · 1728 roles · 174 with a stated deadline · 57 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1594)
+## Everyone else (1598)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8304574) | San Francisco, CA, USA | — | 2026-10-24 |  |
 | Waymo | [Summer Intern - Multiple Teams](https://careers.withwaymo.com/jobs?gh_jid=8304574) | SF | — | 2026-10-24 |  |
 | Sardine | [Engineering Intern](https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true) | Remote in USA, Remote in Canada | — | 2026-10-24 |  |
+| Johnson & Johnson | [Laboratory Automation Systems Intern](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027) | Spring House, PA | — | 2026-10-24 |  |
 | Brookfield | [Artificial Intelligence Intern - Renewable Power & Transition](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | Toronto, ON, Canada, NYC | — | 2026-10-24 |  |
 | John Deere | [Software Engineer Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483990265) | Waterloo, IA, Cary, NC | — | 2026-10-23 |  |
 | Siemens | [Python Backend Developer Intern - Energy Flexibility Platform](https://siemens.avature.net/en_US/externaljobs/JobDetail/526984) | Princeton, NJ | — | 2026-10-23 |  |
@@ -1606,6 +1607,9 @@ Updated 2026-10-24 · 1728 roles · 174 with a stated deadline · 57 rolling
 | American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | Charlotte, NC | — | 2026-09-28 |  |
 | American Express | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | NYC | — | 2026-09-28 |  |
 | Freeform | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | — | 2026-09-28 |  |
+| Goldman Sachs | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | — | 2026-09-28 |  |
+| Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | — | 2026-09-28 |  |
+| Goldman Sachs | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) | NYC | — | 2026-09-28 |  |
 | Notion | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | SF, NYC | — | 2026-09-28 |  |
 | ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | San Jose, CA | — | 2026-09-28 |  |
 | ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | — | 2026-09-28 |  |
