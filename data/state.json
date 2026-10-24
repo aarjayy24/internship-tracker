@@ -20851,6 +20851,24 @@
 "title": "Enterprise Data Analyst Intern",
 "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505"
 },
+"simplify:hcsc:fbf3d29b-15cb-4390-9bb9-28010e5bcb46": {
+"checked": "2026-10-24",
+"company": "HCSC",
+"deadline": null,
+"first_seen": "2026-10-24",
+"first_seen_ts": 1792853422.259085,
+"flags": [],
+"key": "hcsc|security data classification intern",
+"last_seen": "2026-10-24",
+"locations": [
+"Richardson, TX"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "Security Data Classification Intern",
+"url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513"
+},
 "simplify:hd supply:09cac698-c1c9-40d2-92e8-212671869939": {
 "checked": "2026-09-28",
 "company": "HD Supply",
@@ -41154,6 +41172,24 @@
 "src": "simplify",
 "title": "Payments Forum Intern - Spring/Summer 2027",
 "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1"
+},
+"simplify:the federal reserve system:b45ea2d4-167c-47bc-bce8-92927650a1bc": {
+"checked": "2026-10-24",
+"company": "The Federal Reserve System",
+"deadline": "2026-10-29",
+"first_seen": "2026-10-24",
+"first_seen_ts": 1792853422.2590725,
+"flags": [],
+"key": "the federal reserve system|policy analysis intern",
+"last_seen": "2026-10-24",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Policy & Analysis Intern",
+"url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766"
 },
 "simplify:the hartford:113452f5-8851-4266-8cfa-6e8ba357281e": {
 "checked": "2026-10-19",
