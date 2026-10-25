@@ -13961,6 +13961,42 @@
 "title": "Supplier Process Engineer Co-op",
 "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298595"
 },
+"simplify:dell technologies:ac0eeab5-5595-4d4b-978c-2ca02dc6caa7": {
+"checked": "2026-10-25",
+"company": "Dell Technologies",
+"deadline": null,
+"first_seen": "2026-10-25",
+"first_seen_ts": 1792920108.849314,
+"flags": [],
+"key": "dell technologies|data science intern",
+"last_seen": "2026-10-25",
+"locations": [
+"Round Rock, TX"
+],
+"posted_ts": 1792909347,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413"
+},
+"simplify:dell technologies:b6d6b0bb-fbf2-42b7-96c6-7aa4a2e656ac": {
+"checked": "2026-10-25",
+"company": "Dell Technologies",
+"deadline": null,
+"first_seen": "2026-10-25",
+"first_seen_ts": 1792920108.8493032,
+"flags": [],
+"key": "dell technologies|graduate analytics intern",
+"last_seen": "2026-10-25",
+"locations": [
+"Texas"
+],
+"posted_ts": 1792909346,
+"rolling": false,
+"src": "simplify",
+"title": "Graduate Analytics Intern",
+"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412"
+},
 "simplify:dell technologies:d1133c90-ab4b-4fc5-a598-143f98f88793": {
 "checked": "2026-10-25",
 "company": "Dell Technologies",
