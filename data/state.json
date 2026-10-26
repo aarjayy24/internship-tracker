@@ -999,6 +999,24 @@
 "title": "Software Engineer, Intern (Summer 2027)",
 "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
 },
+"greenhouse:glean:4747670005": {
+"checked": "2026-10-26",
+"company": "Glean",
+"deadline": null,
+"first_seen": "2026-10-26",
+"first_seen_ts": 1793050570.9089901,
+"flags": [],
+"key": "glean|software engineer intern summer 2027",
+"last_seen": "2026-10-26",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1793042795.0,
+"rolling": false,
+"src": "greenhouse:gleanwork",
+"title": "Software Engineer, Intern (Summer 2027)",
+"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005"
+},
 "greenhouse:imc:4823924101": {
 "checked": "2026-10-26",
 "company": "IMC",
