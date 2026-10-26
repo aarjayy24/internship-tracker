@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-26 · 1656 roles · 168 with a stated deadline · 57 rolling
+Updated 2026-10-26 · 1660 roles · 169 with a stated deadline · 58 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (63)
+## ⏰ Deadlines in the next 14 days (64)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -60,6 +60,7 @@ Updated 2026-10-26 · 1656 roles · 168 with a stated deadline · 57 rolling
 | Nov 6 (11d) | GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) | Lynn, MA, Evendale, OH |
 | Nov 6 (11d) | General Motors | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA |
 | Nov 6 (11d) | General Motors | [Software Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) | Sunnyvale, CA, Warren, MI |
+| Nov 6 (11d) | CVS Health | [Innovation & Technology Intern - Data Engineering](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1) | Irving, TX |
 | Nov 7 (12d) | Amgen | [Software Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) | Remote in USA |
 | Nov 7 (12d) | Amgen | [Software Engineer Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745) | Remote in USA |
 | Nov 7 (12d) | Amgen | [Machine Learning Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | Remote in USA |
@@ -210,15 +211,18 @@ Updated 2026-10-26 · 1656 roles · 168 with a stated deadline · 57 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1523)
+## Everyone else (1527)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Vigil Labs | [Software Engineer Intern](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) | Palo Alto, CA | — | 2026-10-26 |  |
+| CVS Health | [Innovation & Technology Intern - Data Engineering](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1) | Irving, TX | Nov 6 (11d) | 2026-10-26 |  |
+| PTC | [Software Engineer Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) | Boston, MA | — | 2026-10-26 |  |
+| Wells Fargo | [Technology Intern - Early Careers - Data Engineering](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) | Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX | — | 2026-10-26 |  |
 | ConnectPrep | [Data Analyst Intern](https://apply.workable.com/connectprep/j/1AF4F8C65F/apply) | Remote in USA | — | 2026-10-26 |  |
+| Hewlett Packard Enterprise | [AI/ML Developer Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) | San Jose, CA | Feb 26 (123d) | 2026-10-26 |  |
 | Skydio | [Autonomy Engineer Intern - Deep Learning / Computer Vision](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) | San Mateo, CA | — | 2026-10-26 |  |
 | Skydio | [Autonomy Engineer Intern](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true) | San Mateo, CA | — | 2026-10-26 |  |
-| Hewlett Packard Enterprise | [AI/ML Developer Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) | San Jose, CA | Feb 26 (123d) | 2026-10-26 |  |
 | Dell Technologies | [Data Science Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | Round Rock, TX | — | 2026-10-25 |  |
 | Dell Technologies | [Graduate Analytics Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) | Texas | — | 2026-10-25 |  |
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8304574) | San Francisco, CA, USA | — | 2026-10-24 |  |
@@ -431,6 +435,7 @@ Updated 2026-10-26 · 1656 roles · 168 with a stated deadline · 57 rolling
 | Navy Federal | [AI Engineering Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645) | Vienna, VA | — | 2026-10-20 |  |
 | Horizon Industries | [Appian Intern](https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5457606008) | Vienna, VA | — | 2026-10-20 |  |
 | Lawrence Livermore National Laboratory (LLNL) | [Predictive Science Academic Alliance Program 4 Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990016225626) | Livermore, CA | — | 2026-10-20 |  |
+| General Dynamics Information Technology | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643) | Egg Harbor Township, NJ | rolling | 2026-10-20 |  |
 | L3Harris Technologies | [Software Engineer Intern](https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors) | Clinton, MD, Clifton, NJ | — | 2026-10-20 |  |
 | Paccar | [Warranty Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors) | Kirkland, WA | — | 2026-10-19 |  |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/54805?icims=1) | Santa Clara, CA | — | 2026-10-19 |  |

@@ -13553,6 +13553,24 @@
 "title": "Innovation & Technology Data Engineering Intern",
 "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090"
 },
+"simplify:cvs health:4bc89fb6-aa1c-4885-baa5-14d7ba2a7849": {
+"checked": "2026-10-26",
+"company": "CVS Health",
+"deadline": "2026-11-06",
+"first_seen": "2026-10-26",
+"first_seen_ts": 1793034070.2301486,
+"flags": [],
+"key": "cvs health|innovation technology intern data engineering",
+"last_seen": "2026-10-26",
+"locations": [
+"Irving, TX"
+],
+"posted_ts": 1792972800,
+"rolling": false,
+"src": "simplify",
+"title": "Innovation & Technology Intern - Data Engineering",
+"url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1"
+},
 "simplify:cvs health:4da3ddc6-8559-489a-b239-8d419ece6bad": {
 "checked": "2026-10-22",
 "company": "CVS Health",
@@ -19051,7 +19069,7 @@
 "first_seen_ts": 1792459600.0282981,
 "flags": [],
 "key": "general dynamics information technology|software developer intern",
-"last_seen": "2026-10-20",
+"last_seen": "2026-10-26",
 "locations": [
 "Egg Harbor Township, NJ"
 ],
@@ -34146,6 +34164,24 @@
 "title": "Data & AI Engineering Intern",
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
 },
+"simplify:ptc:8005e595-614b-4b9a-9c29-cb113c52566a": {
+"checked": "2026-10-26",
+"company": "PTC",
+"deadline": null,
+"first_seen": "2026-10-26",
+"first_seen_ts": 1793034070.230159,
+"flags": [],
+"key": "ptc|software engineer intern",
+"last_seen": "2026-10-26",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1792972800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
+},
 "simplify:publicis groupe:ef40c957-572d-4f46-9bab-b7378678804d": {
 "checked": "2026-10-20",
 "company": "Publicis Groupe",
@@ -46744,6 +46780,26 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Early Careers - Software Engineering",
 "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285"
+},
+"simplify:wells fargo:7e450fbd-9292-460d-988b-8583bf42ae43": {
+"checked": "2026-10-26",
+"company": "Wells Fargo",
+"deadline": null,
+"first_seen": "2026-10-26",
+"first_seen_ts": 1793034070.2301662,
+"flags": [],
+"key": "wells fargo|technology intern early careers data engineering",
+"last_seen": "2026-10-26",
+"locations": [
+"Iselin, Woodbridge Township, NJ",
+"Charlotte, NC",
+"Irving, TX"
+],
+"posted_ts": 1792972800,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Intern - Early Careers - Data Engineering",
+"url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066"
 },
 "simplify:west bend insurance:3ef4e51d-c8f0-4792-b2b3-bca136dbe3bb": {
 "checked": "2026-10-20",
