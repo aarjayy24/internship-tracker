@@ -9568,7 +9568,7 @@
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734"
 },
 "simplify:bosch home comfort:7cbcd7b6-0d36-4f4e-b474-5a37bdb49090": {
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "company": "Bosch Home Comfort",
 "deadline": null,
 "first_seen": "2026-10-20",
@@ -20526,14 +20526,14 @@
 "url": "https://higher.gs.com/roles/177808?type=students"
 },
 "simplify:goldman sachs:443c0a68-63ca-4026-94b7-cf3e555f2d0f": {
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "company": "Goldman Sachs",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-26",
+"last_seen": "2026-10-27",
 "locations": [
 "NYC"
 ],
@@ -20569,7 +20569,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-10-26",
+"last_seen": "2026-10-27",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -20587,7 +20587,7 @@
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-26",
+"last_seen": "2026-10-27",
 "locations": [
 "Dallas, TX"
 ],
@@ -24023,7 +24023,7 @@
 "url": "http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering"
 },
 "simplify:insomniac games:f3b0993a-b1fc-4fa4-a1f4-bc7129fb05f3": {
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "company": "Insomniac Games",
 "deadline": "2026-11-20",
 "first_seen": "2026-10-20",
@@ -39540,7 +39540,7 @@
 "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
 },
 "simplify:schweitzer engineering laboratories:7a73e6f4-b7ad-4f5e-990c-f6638569032e": {
-"checked": "2026-10-20",
+"checked": "2026-10-27",
 "company": "Schweitzer Engineering Laboratories",
 "deadline": null,
 "first_seen": "2026-10-20",
@@ -39724,6 +39724,24 @@
 "src": "simplify",
 "title": "AI Engineering Associate Software Engineer Intern",
 "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889"
+},
+"simplify:sherwin-williams:1def6b3e-6143-4509-9f6c-ca677a3669ec": {
+"checked": "2026-10-27",
+"company": "Sherwin-Williams",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793098968.8733327,
+"flags": [],
+"key": "sherwin-williams|r d product systems intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Cleveland, OH"
+],
+"posted_ts": 1793081249,
+"rolling": false,
+"src": "simplify",
+"title": "R&D Product Systems Intern",
+"url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417"
 },
 "simplify:shield ai:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
 "checked": "2026-10-27",
@@ -46963,6 +46981,60 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Software Engineer",
 "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
+},
+"simplify:visa:6700105f-c97f-4e96-a186-4814ab00fa72": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": "2026-11-06",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793098968.8733568,
+"flags": [],
+"key": "visa|data science intern data and ai team",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern - Data and AI Team",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W"
+},
+"simplify:visa:9b71b062-0254-4731-8c73-14ea6becaeb3": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": "2026-11-06",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793098968.8733444,
+"flags": [],
+"key": "visa|data science intern data and ai team",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern - Data and AI Team",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"
+},
+"simplify:visa:be8d5807-1506-4439-94ef-cbbc4820f02b": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": "2026-11-06",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793098968.873352,
+"flags": [],
+"key": "visa|product management intern data and ai team",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Product Management Intern - Data and AI Team",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W"
 },
 "simplify:voloridge:d429d89b-a684-47e8-a3c8-32639ab0d9c8": {
 "checked": "2026-10-26",
