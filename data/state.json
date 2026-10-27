@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-27",
@@ -15036,6 +15038,24 @@
 "title": "Electric Transmission Asset Analyst Intern - Digital Solutions Team",
 "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Asset-Analyst-(Digital-Solutions-Team)-VA-23060/1441549200/?ats=successfactors"
 },
+"simplify:dominion energy:78b657c3-9149-493f-b46d-abe43d480e0a": {
+"checked": "2026-10-27",
+"company": "Dominion Energy",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787857,
+"flags": [],
+"key": "dominion energy|power systems time series analytics intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Glen Allen, VA"
+],
+"posted_ts": 1793111426,
+"rolling": false,
+"src": "simplify",
+"title": "Power Systems Time-Series Analytics Intern",
+"url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors"
+},
 "simplify:domino data lab:c7dca39a-27ef-4e1d-a94e-b69ede82a562": {
 "checked": "2026-10-26",
 "company": "Domino Data Lab",
@@ -16886,6 +16906,24 @@
 "title": "Computer Vision & 3D Asset Reconstruction Intern",
 "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012"
 },
+"simplify:eqt corporation:018f57c0-2519-4072-80fe-679c055ee4d6": {
+"checked": "2026-10-27",
+"company": "EQT Corporation",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7786317,
+"flags": [],
+"key": "eqt corporation|ai intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1793110276,
+"rolling": false,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008"
+},
 "simplify:eqt corporation:0feda082-a3a6-4e55-8793-5ef9cafd6978": {
 "checked": "2026-10-22",
 "company": "EQT Corporation",
@@ -18339,7 +18377,7 @@
 "first_seen_ts": 1791215816.6926506,
 "flags": [],
 "key": "fresenius medical care|software engineering co op",
-"last_seen": "2026-10-23",
+"last_seen": "2026-10-27",
 "locations": [
 "Lawrence, MA"
 ],
@@ -28428,6 +28466,24 @@
 "title": "Data Scientist Intern",
 "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879"
 },
+"simplify:mayo clinic:51056e1e-d945-4e0d-a103-a44b919853a3": {
+"checked": "2026-10-27",
+"company": "Mayo Clinic",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7786415,
+"flags": [],
+"key": "mayo clinic|graduate engineer intern software development",
+"last_seen": "2026-10-27",
+"locations": [
+"Rochester, MN"
+],
+"posted_ts": 1793110020,
+"rolling": false,
+"src": "simplify",
+"title": "Graduate Engineer Intern - Software Development",
+"url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190"
+},
 "simplify:mayo clinic:9291f378-57b9-4c71-8aae-6c9724506399": {
 "checked": "2026-10-27",
 "company": "Mayo Clinic",
@@ -32413,6 +32469,25 @@
 "src": "simplify",
 "title": "AI & Data Analytics Intern",
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223"
+},
+"simplify:nissan:ba6baa73-28e0-4b0f-b45d-543363c573e1": {
+"checked": "2026-10-27",
+"company": "Nissan",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787762,
+"flags": [],
+"key": "nissan|ai intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Dallas, TX",
+"Franklin, TN"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219"
 },
 "simplify:njm insurance group:0adb2d84-b56e-47f1-b4ca-f0267547814c": {
 "checked": "2026-10-27",
@@ -37275,6 +37350,24 @@
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939"
 },
+"simplify:rtx:02949bdd-a9da-44b8-9c23-836dbfc84187": {
+"checked": "2026-10-27",
+"company": "RTX",
+"deadline": "2026-10-31",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787926,
+"flags": [],
+"key": "rtx|secure software intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Woburn, MA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Secure Software Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
+},
 "simplify:rtx:0444d324-7733-4696-a2b1-2fb982558dcc": {
 "checked": "2026-10-06",
 "company": "RTX",
@@ -37762,6 +37855,24 @@
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895"
 },
+"simplify:rtx:6c29c238-5adb-4065-abd8-c8c9179900b5": {
+"checked": "2026-10-27",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787895,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074"
+},
 "simplify:rtx:6d72adc9-d3c0-4b7b-95ee-85e523701bab": {
 "company": "RTX",
 "first_seen": "2026-10-06",
@@ -38224,6 +38335,24 @@
 "title": "Software Engineering Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
 },
+"simplify:rtx:aabec184-6bb9-483c-a9cb-d16e4cea6a01": {
+"checked": "2026-10-27",
+"company": "RTX",
+"deadline": "2026-10-31",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787964,
+"flags": [],
+"key": "rtx|embedded software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Goleta, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782"
+},
 "simplify:rtx:b449def0-7da4-4dfc-b873-38eb657e5911": {
 "checked": "2026-10-09",
 "company": "RTX",
@@ -38259,6 +38388,24 @@
 "src": "simplify",
 "title": "AGS Software Engineering Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
+},
+"simplify:rtx:ba329d2f-c0c8-448c-a44a-8b5c240afe6a": {
+"checked": "2026-10-27",
+"company": "RTX",
+"deadline": "2026-10-29",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7786596,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Fort Wayne, IN"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090-1"
 },
 "simplify:rtx:bb375f16-35dc-4f64-966b-0d9da2a004a3": {
 "checked": "2026-10-15",
@@ -42589,6 +42736,24 @@
 "src": "simplify",
 "title": "Advanced Analytics Intern",
 "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622"
+},
+"simplify:the federal reserve system:5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0": {
+"checked": "2026-10-27",
+"company": "The Federal Reserve System",
+"deadline": "2026-11-21",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778781,
+"flags": [],
+"key": "the federal reserve system|rein data intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "REIN Data Intern",
+"url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089"
 },
 "simplify:the federal reserve system:5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00": {
 "checked": "2026-09-28",
@@ -46982,6 +47147,114 @@
 "title": "Software Engineer Intern - Software Engineer",
 "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
 },
+"simplify:visa:08f0c2cf-eaef-46a2-a967-d9b0af6ca50b": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787502,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Ashburn, VA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W"
+},
+"simplify:visa:27ce0059-c008-45e2-93c4-f9e612b9f8e8": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787676,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
+},
+"simplify:visa:394fd625-992b-45aa-9d72-e2ae53a17bf3": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778765,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
+},
+"simplify:visa:4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787473,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W"
+},
+"simplify:visa:58b2fdc7-432f-48f0-80a9-5e970ba2b3e0": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787623,
+"flags": [],
+"key": "visa|sophomore program software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Ashburn, VA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Sophomore Program Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1"
+},
+"simplify:visa:6575060e-aaff-40ad-933f-71de9e71e926": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": "2026-11-05",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787704,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Denver, CO"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1"
+},
 "simplify:visa:6700105f-c97f-4e96-a186-4814ab00fa72": {
 "checked": "2026-10-27",
 "company": "Visa",
@@ -46999,6 +47272,60 @@
 "src": "simplify",
 "title": "Data Science Intern - Data and AI Team",
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W"
+},
+"simplify:visa:78503d4f-7c6f-45bb-bad9-1bd6eadd974b": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778759,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
+},
+"simplify:visa:7d6d0c79-df4a-4100-b0e6-68dc43dade2a": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787359,
+"flags": [],
+"key": "visa|sophomore program software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Ashburn, VA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Sophomore Program Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W"
+},
+"simplify:visa:86cb1b02-b094-4e5e-94bf-bb2c80d2c69e": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787445,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W"
 },
 "simplify:visa:9b71b062-0254-4731-8c73-14ea6becaeb3": {
 "checked": "2026-10-27",
@@ -47018,6 +47345,60 @@
 "title": "Data Science Intern - Data and AI Team",
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"
 },
+"simplify:visa:aaed6a57-f590-49ac-8e77-d080f6f2de89": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": "2026-11-05",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7786477,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Denver, CO"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W"
+},
+"simplify:visa:aecfefcb-c6a4-4161-ac54-0464570e82a9": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778756,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"
+},
+"simplify:visa:b6f3c11d-afce-4ebd-b16f-8f3bfb75b164": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778773,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Ashburn, VA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1"
+},
 "simplify:visa:be8d5807-1506-4439-94ef-cbbc4820f02b": {
 "checked": "2026-10-27",
 "company": "Visa",
@@ -47035,6 +47416,96 @@
 "src": "simplify",
 "title": "Product Management Intern - Data and AI Team",
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W"
+},
+"simplify:visa:d03f3f61-cfe8-441f-90db-b9831bc5205c": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7786555,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W"
+},
+"simplify:visa:d23757ff-eac9-4620-bfc5-fc65e0a43ed5": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": "2026-11-06",
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778624,
+"flags": [],
+"key": "visa|product management intern data and ai team",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Product Management Intern - Data and AI Team",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"
+},
+"simplify:visa:e0a98377-2ab5-44f4-a19a-bb11a98699a1": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7786522,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Bellevue, WA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1"
+},
+"simplify:visa:ea89ecc3-ebf3-48b1-8f0a-a496dfa9755b": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.778741,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W"
+},
+"simplify:visa:f5506af0-7205-497f-8afc-70c81179f25a": {
+"checked": "2026-10-27",
+"company": "Visa",
+"deadline": null,
+"first_seen": "2026-10-27",
+"first_seen_ts": 1793118531.7787533,
+"flags": [],
+"key": "visa|software engineer intern",
+"last_seen": "2026-10-27",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1"
 },
 "simplify:voloridge:d429d89b-a684-47e8-a3c8-32639ab0d9c8": {
 "checked": "2026-10-26",
