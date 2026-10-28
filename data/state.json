@@ -10321,6 +10321,25 @@
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/bti36021/jobs/8155152"
 },
+"simplify:build ai:30c6d297-23fb-4b7e-b20e-ac0db63e5600": {
+"checked": "2026-10-28",
+"company": "Build AI",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.106962,
+"flags": [],
+"key": "build ai|research intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF",
+"Shenzhen, Guangdong Province, China"
+],
+"posted_ts": 1788048000,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern",
+"url": "https://jobs.ashbyhq.com/build-ai/14e404c4-e189-4e49-9ef7-238da9655caf/application?embed=true"
+},
 "simplify:burlington stores:8de05538-819d-40af-a938-46dd512caaeb": {
 "checked": "2026-10-26",
 "company": "Burlington Stores",
@@ -15793,6 +15812,24 @@
 "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
 "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003"
 },
+"simplify:drivewealth:80919054-b40e-4ff9-9a11-e6e21dcf9d98": {
+"checked": "2026-10-28",
+"company": "DriveWealth",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069837,
+"flags": [],
+"key": "drivewealth|ai consulting associate program product owner intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "AI Consulting Associate Program Product Owner Intern",
+"url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
+},
 "simplify:drivewealth:ea672c45-89c1-45e5-afb3-0a7061e3ea16": {
 "checked": "2026-10-28",
 "company": "DriveWealth",
@@ -15811,6 +15848,24 @@
 "src": "simplify",
 "title": "AI Consulting Associate Program Product Owner Intern",
 "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003"
+},
+"simplify:drivewealth:eba86e55-1480-473d-814f-7d863ebba833": {
+"checked": "2026-10-28",
+"company": "DriveWealth",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.106977,
+"flags": [],
+"key": "drivewealth|ai consulting associate program ai engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
+"url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true"
 },
 "simplify:drivewealth:f53a894a-ab47-4376-99ff-d2e440e9c33d": {
 "checked": "2026-10-21",
@@ -18715,6 +18770,24 @@
 "src": "simplify",
 "title": "Engineer Intern",
 "url": "https://jobs.ashbyhq.com/FSH/baa9ae85-a578-4017-a41a-fc4999a4e077/application?embed=true"
+},
+"simplify:futo:4f0257bc-0588-4ab9-b230-b1111acb93ed": {
+"checked": "2026-10-28",
+"company": "FUTO",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069477,
+"flags": [],
+"key": "futo|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1793150194,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply"
 },
 "simplify:gaf:9d869222-f96c-43a5-8aae-4150d28e05af": {
 "checked": "2026-10-27",
@@ -24513,6 +24586,24 @@
 "title": "Rotational Data Analytics Intern",
 "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458"
 },
+"simplify:integrate:2ad07235-f2f9-4156-b729-afd7942895fc": {
+"checked": "2026-10-28",
+"company": "Integrate",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069655,
+"flags": [],
+"key": "integrate|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1792454400,
+"rolling": true,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true"
+},
 "simplify:intel:196825af-df08-45d5-a8e9-0d053f272e7b": {
 "checked": "2026-10-24",
 "company": "Intel",
@@ -29649,6 +29740,42 @@
 "title": "Research Scientist Intern",
 "url": "https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application?embed=true"
 },
+"simplify:mercor:43850a1d-aa6b-41a9-b694-ec3587c1ce15": {
+"checked": "2026-10-28",
+"company": "Mercor",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069899,
+"flags": [],
+"key": "mercor|research engineer intern benchmarking",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Research Engineer Intern - Benchmarking",
+"url": "https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application?embed=true"
+},
+"simplify:mercor:9e31b9c6-a13e-4823-bc04-621b085d2198": {
+"checked": "2026-10-28",
+"company": "Mercor",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069865,
+"flags": [],
+"key": "mercor|research engineer intern multiple teams",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Research Engineer Intern - Multiple Teams",
+"url": "https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application?embed=true"
+},
 "simplify:mercor:a713c0fc-8fe6-4def-ab15-d55db5742ac4": {
 "checked": "2026-10-27",
 "company": "Mercor",
@@ -29797,6 +29924,24 @@
 "src": "simplify",
 "title": "Research Scientist Intern - Multimodal Behavioral AI",
 "url": "https://www.metacareers.com/jobs/1428978125312655"
+},
+"simplify:meta:3ca07823-9706-45cc-8542-c0aa2140bda4": {
+"checked": "2026-10-28",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069422,
+"flags": [],
+"key": "meta|research scientist intern ads recommendations",
+"last_seen": "2026-10-28",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1793150523,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Ads Recommendations",
+"url": "https://www.metacareers.com/jobs/1691709792593561"
 },
 "simplify:meta:4f41f3de-17ab-49df-b857-cb501dbde8e5": {
 "checked": "2026-10-27",
@@ -34287,6 +34432,24 @@
 "title": "Software Engineer Intern",
 "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
 },
+"simplify:old mission:cf73adb5-c92f-4caf-8bbc-8d6e4ab23e39": {
+"checked": "2026-10-28",
+"company": "Old Mission",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069515,
+"flags": [],
+"key": "old mission|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1784073600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true"
+},
 "simplify:omnicom group:6708f1a7-80a4-417b-8ac6-2ac316b42287": {
 "checked": "2026-10-07",
 "company": "Omnicom Group",
@@ -34653,6 +34816,24 @@
 "src": "simplify",
 "title": "Field Service Data Analyst Intern",
 "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors"
+},
+"simplify:paccar:49e57c55-743b-457d-b17f-64d6b36a90c6": {
+"checked": "2026-10-28",
+"company": "Paccar",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.106969,
+"flags": [],
+"key": "paccar|application developer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Chillicothe, OH"
+],
+"posted_ts": 1793149905,
+"rolling": false,
+"src": "simplify",
+"title": "Application Developer Intern",
+"url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
 },
 "simplify:paccar:905705a1-d2c7-4fa5-8e63-beef794c9d9c": {
 "checked": "2026-10-28",
@@ -35600,6 +35781,24 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true"
 },
+"simplify:perspective therapeutics:a5292077-b7c5-403d-ab85-8809ba8c335c": {
+"checked": "2026-10-28",
+"company": "Perspective Therapeutics",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1070023,
+"flags": [],
+"key": "perspective therapeutics|ai innovation intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1793150868,
+"rolling": false,
+"src": "simplify",
+"title": "AI Innovation Intern",
+"url": "https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe/AI-Innovation-Intern"
+},
 "simplify:philips:476ebb5a-f574-486f-be24-b89fb51a1040": {
 "checked": "2026-10-07",
 "company": "Philips",
@@ -36057,6 +36256,42 @@
 "src": "simplify",
 "title": "Data Engineer Intern",
 "url": "https://jobs.postholdings.com/jobs/31960?icims=1"
+},
+"simplify:powertown:76cd5351-c440-48c5-b2c0-d6cf8f24b499": {
+"checked": "2026-10-28",
+"company": "Powertown",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069586,
+"flags": [],
+"key": "powertown|machine learning engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1788566400,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Engineer Intern",
+"url": "https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true"
+},
+"simplify:powertown:88a5d35e-6e51-427b-83b4-ac738b09910a": {
+"checked": "2026-10-28",
+"company": "Powertown",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069553,
+"flags": [],
+"key": "powertown|forward deployed engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1788566400,
+"rolling": false,
+"src": "simplify",
+"title": "Forward Deployed Engineer Intern",
+"url": "https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true"
 },
 "simplify:primer:a5f886cf-d5b6-41ac-9bfc-98833aff9bb6": {
 "checked": "2026-10-26",
@@ -37022,6 +37257,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Device Team",
 "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
+},
+"simplify:relling:b0a42e09-b82d-47a1-9ef7-123014b6678d": {
+"checked": "2026-10-28",
+"company": "Relling",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069796,
+"flags": [],
+"key": "relling|robotics software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1790899200,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true"
 },
 "simplify:repsol:249d2a83-d20a-41e7-b20f-ea879c5a1480": {
 "checked": "2026-10-19",
@@ -39208,6 +39461,24 @@
 "title": "Software Engineer Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414"
 },
+"simplify:rtx:bbafedf8-3027-4b87-9939-79a79a2b3655": {
+"checked": "2026-10-28",
+"company": "RTX",
+"deadline": "2026-10-30",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069994,
+"flags": [],
+"key": "rtx|receiver processing architecture software engineer intern exciter",
+"last_seen": "2026-10-28",
+"locations": [
+"Marlborough, MA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Receiver \u2013 & Processing Architecture Software Engineer Intern - Exciter",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187"
+},
 "simplify:rtx:bbe59360-d6e5-4189-9126-da097b9c93c6": {
 "checked": "2026-10-27",
 "company": "RTX",
@@ -40199,6 +40470,24 @@
 "title": "AI Research Intern",
 "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"
 },
+"simplify:samsung:8463f3ca-a1af-4b4a-93b8-145006e74a83": {
+"checked": "2026-10-28",
+"company": "Samsung",
+"deadline": "2027-01-25",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069942,
+"flags": [],
+"key": "samsung|power thermal simulation software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1793146945,
+"rolling": false,
+"src": "simplify",
+"title": "Power-Thermal Simulation Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003"
+},
 "simplify:sardine:860a5d35-fd73-4f09-9dab-71f9950473cf": {
 "checked": "2026-10-24",
 "company": "Sardine",
@@ -40524,6 +40813,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190"
+},
+"simplify:scout ai:82185a0f-af48-47f8-a2bc-af676ba67dc3": {
+"checked": "2026-10-28",
+"company": "Scout AI",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069727,
+"flags": [],
+"key": "scout ai|ai engineer intern fury team",
+"last_seen": "2026-10-28",
+"locations": [
+"Sunnyvale, CA"
+],
+"posted_ts": 1792713600,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineer Intern - Fury Team",
+"url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true"
 },
 "simplify:scout clean energy:4ba74901-00f0-4bbb-ad4c-53459035ae6f": {
 "checked": "2026-10-27",
@@ -41414,6 +41721,24 @@
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://simventions.jibeapply.com/jobs/1631?icims=1"
+},
+"simplify:skyband systems:34d06bf1-ef11-45be-a54b-2ab801dc747a": {
+"checked": "2026-10-28",
+"company": "Skyband Systems",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793166443.1069305,
+"flags": [],
+"key": "skyband systems|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Kirkland, WA"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/skyband%20systems/1e68c6d9-c810-418d-9171-f2a23f013d06/application?embed=true"
 },
 "simplify:skydio:4cd89228-5cf0-4015-8a13-f56507d88e39": {
 "checked": "2026-10-20",
