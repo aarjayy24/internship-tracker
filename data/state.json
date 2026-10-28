@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-28",
@@ -201,6 +199,24 @@
 "src": "amazon",
 "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
 "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+},
+"amazon:amazon:10591833": {
+"checked": "2026-10-28",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793224094.1459231,
+"flags": [],
+"key": "amazon|2027 applied science internship robotics united states",
+"last_seen": "2026-10-28",
+"locations": [
+"North Reading, Massachusetts, USA"
+],
+"posted_ts": 1793145600.0,
+"rolling": false,
+"src": "amazon",
+"title": "2027 Applied Science Internship - Robotics - United States",
+"url": "https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"
 },
 "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
 "checked": "2026-10-27",
@@ -2946,6 +2962,24 @@
 "src": "microsoft",
 "title": "Software Engineering Intern",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771"
+},
+"microsoft:microsoft:1970393557049981": {
+"checked": "2026-10-28",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793224094.1459584,
+"flags": [],
+"key": "microsoft|research intern machine learning and optimization redmond",
+"last_seen": "2026-10-28",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1793201011,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - Machine Learning and Optimization - Redmond",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557049981"
 },
 "simplify:42dot:8e8c10af-4384-4d41-b1c2-6163b49e50f2": {
 "checked": "2026-10-28",
