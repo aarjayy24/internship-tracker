@@ -1,7 +1,7 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:intel": 1
+"microsoft": 1
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -3147,6 +3147,24 @@
 "title": "Research Intern Fellow",
 "url": "https://jobs.ashbyhq.com/abundant/4da99916-c29b-49a2-8e2d-1964b1838e11/application?embed=true"
 },
+"simplify:ace hardware:bff9a492-ed06-4a94-8f0d-75a782dcefd8": {
+"checked": "2026-10-28",
+"company": "Ace Hardware",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.605621,
+"flags": [],
+"key": "ace hardware|it associate software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Oak Brook, IL"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "IT Associate Software Engineer Intern",
+"url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"
+},
 "simplify:aci worldwide:59c91bb5-c7b2-4849-9e8e-c13518b6dd45": {
 "checked": "2026-10-23",
 "company": "ACI Worldwide",
@@ -3772,6 +3790,24 @@
 "src": "simplify",
 "title": "Entry-Level C++ Software Engineer Intern",
 "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
+},
+"simplify:allegion:5d11caab-2ae8-4dbf-9d64-b3e5984a4d30": {
+"checked": "2026-10-28",
+"company": "Allegion",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056106,
+"flags": [],
+"key": "allegion|software systems engineering intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Golden, CO"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Systems Engineering Intern",
+"url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"
 },
 "simplify:allen control systems:3317833d-ccb8-4a20-b49c-8ff24b724fdf": {
 "checked": "2026-10-26",
@@ -18848,6 +18884,24 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply"
 },
+"simplify:gaf:5bc997c6-4537-44f7-b7f7-dc92398953e6": {
+"checked": "2026-10-28",
+"company": "GAF",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056159,
+"flags": [],
+"key": "gaf|r d commercial product development engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Parsippany-Troy Hills, NJ"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "R&D Commercial Product Development Engineer Intern",
+"url": "https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/R-D-Commercial-Product-Development-Engineer-Intern_26417"
+},
 "simplify:gaf:9d869222-f96c-43a5-8aae-4150d28e05af": {
 "checked": "2026-10-27",
 "company": "GAF",
@@ -24383,6 +24437,24 @@
 "src": "simplify",
 "title": "Quantitative Developer Internship - Summer 2027",
 "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134"
+},
+"simplify:infleqtion:b8ebd7b8-bd94-4af7-8d80-9bdd6cfa8c52": {
+"checked": "2026-10-28",
+"company": "Infleqtion",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056058,
+"flags": [],
+"key": "infleqtion|quantum software intern quantum software",
+"last_seen": "2026-10-28",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1793196709,
+"rolling": false,
+"src": "simplify",
+"title": "Quantum Software Intern - Quantum Software",
+"url": "https://apply.workable.com/coldquanta/j/EB77DE8198/apply"
 },
 "simplify:ingredion:c2e6377c-2c49-47ed-a0e6-12520a2d17a4": {
 "checked": "2026-10-26",
@@ -39987,6 +40059,25 @@
 "title": "Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884"
 },
+"simplify:rtx:e20b7038-01d7-4798-a53d-313f94bd9e80": {
+"checked": "2026-10-28",
+"company": "RTX",
+"deadline": "2026-11-03",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056254,
+"flags": [],
+"key": "rtx|software engineer co op",
+"last_seen": "2026-10-28",
+"locations": [
+"Marlborough, MA",
+"Tewksbury, MA"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Co-op",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
+},
 "simplify:rtx:e6eed6a3-2c62-4035-8952-30b4577d84e3": {
 "checked": "2026-09-30",
 "company": "RTX",
@@ -42270,6 +42361,24 @@
 "src": "simplify",
 "title": "Data Quality Intern",
 "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Data-Quality-Intern_R2876-1"
+},
+"simplify:sonos:67c38e84-2904-4f41-b7d9-11a2d287366b": {
+"checked": "2026-10-28",
+"company": "Sonos",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056294,
+"flags": [],
+"key": "sonos|software product management intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Product Management Intern",
+"url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1"
 },
 "simplify:sonos:a112aec0-b0c5-4320-952b-6fcfb8025583": {
 "checked": "2026-10-28",
@@ -44558,6 +44667,25 @@
 "src": "simplify",
 "title": "AI/ML Engineer Intern",
 "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
+},
+"simplify:the robotics company:853459b2-c907-4b61-a41c-69da277ba8fb": {
+"checked": "2026-10-28",
+"company": "The Robotics Company",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056,
+"flags": [],
+"key": "the robotics company|engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF",
+"Z\u00fcrich, Switzerland"
+],
+"posted_ts": 1791244800,
+"rolling": false,
+"src": "simplify",
+"title": "Engineer Intern",
+"url": "https://jobs.ashbyhq.com/the-robotics-company/a85ed44f-f321-42fb-ad09-f67f930e6cde/application?embed=true"
 },
 "simplify:the toro company:06f8582b-d2e1-4928-8269-999eb07e3aa1": {
 "checked": "2026-10-20",
@@ -49038,6 +49166,39 @@
 "title": "Software Engineer Intern",
 "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"
 },
+"simplify:vsp vision:5a6710d9-eb37-4044-b352-2b23303dd73c": {
+"checked": "2026-10-28",
+"company": "VSP Vision",
+"deadline": "2027-01-28",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6055865,
+"flags": [],
+"key": "vsp vision|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
+},
+"simplify:vsp vision:d54ad503-0917-4cd9-8e73-8ecd6fe2d56d": {
+"company": "VSP Vision",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6055782,
+"flags": [],
+"key": "vsp vision|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1793145600,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071"
+},
 "simplify:vsp vision:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf": {
 "checked": "2026-10-28",
 "company": "VSP Vision",
@@ -50087,6 +50248,24 @@
 "title": "Data Science Intern - Commercialization Testing",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
 },
+"simplify:webfx:0b8c6fb2-17bf-4a14-9cb9-90b1c075aec5": {
+"checked": "2026-10-28",
+"company": "WebFX",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6056337,
+"flags": [],
+"key": "webfx|web developer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Harrisburg, PA"
+],
+"posted_ts": 1789344000,
+"rolling": false,
+"src": "simplify",
+"title": "Web Developer Intern",
+"url": "https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true"
+},
 "simplify:wec energy group:1192c27b-cd32-49d0-b4a3-98a8f23f46ae": {
 "checked": "2026-10-12",
 "company": "WEC Energy Group",
@@ -51034,6 +51213,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
+},
+"simplify:worldengine ai:8a663ec7-fe0a-4e60-a261-2a2d6db4b95b": {
+"checked": "2026-10-28",
+"company": "WorldEngine AI",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793208360.6055934,
+"flags": [],
+"key": "worldengine ai|research intern robotics data real to sim",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern - Robotics Data - Real-to-Sim",
+"url": "https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true"
 },
 "simplify:xai:507939af-b1b0-42a5-b103-4c941f8ec184": {
 "checked": "2026-10-23",
