@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:intel": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-28",
@@ -8194,7 +8196,7 @@
 "first_seen_ts": 1790573041.9958634,
 "flags": [],
 "key": "bedrock robotics|safety engineer intern agentic safety case assessment",
-"last_seen": "2026-10-27",
+"last_seen": "2026-10-28",
 "locations": [
 "SF"
 ],
@@ -11387,6 +11389,24 @@
 "title": "Programmer Intern",
 "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523"
 },
+"simplify:cams:3d71e6c6-0c7a-4c03-b33e-1aa5b68f53e8": {
+"checked": "2026-10-28",
+"company": "CAMS",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049045,
+"flags": [],
+"key": "cams|application performance monitoring predictive analytics engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Houston, TX"
+],
+"posted_ts": 1793167454,
+"rolling": false,
+"src": "simplify",
+"title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
+"url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply"
+},
 "simplify:capital one:4ba115ac-a103-4581-a244-f76fc0921727": {
 "checked": "2026-10-26",
 "company": "Capital One",
@@ -11830,6 +11850,27 @@
 "src": "simplify",
 "title": "Investment Data & Technology Intern - Central Solutions",
 "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929"
+},
+"simplify:certa:f7843e36-e0e4-4531-866f-60aa4149321f": {
+"checked": "2026-10-28",
+"company": "Certa",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049133,
+"flags": [],
+"key": "certa|frontend engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"London, UK",
+"Remote in India",
+"SF",
+"Jaipur, Rajasthan, India"
+],
+"posted_ts": 1793168940,
+"rolling": false,
+"src": "simplify",
+"title": "Frontend Engineer Intern",
+"url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true"
 },
 "simplify:cesiumastro:1f4b8669-695e-4ecc-970c-eaef0de39d99": {
 "checked": "2026-10-27",
@@ -15112,6 +15153,24 @@
 "src": "simplify",
 "title": "Information Technology Intern",
 "url": "https://careers.div.energy/jobs/2734?icims=1"
+},
+"simplify:dmodel:79ec19fe-f2a5-48e8-98db-ee895f0b50c8": {
+"checked": "2026-10-28",
+"company": "dmodel",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.504886,
+"flags": [],
+"key": "dmodel|technical intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1787788800,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Intern",
+"url": "https://jobs.ashbyhq.com/dmodel/761f9285-496a-4033-848b-7045fdc0b77c/application?embed=true"
 },
 "simplify:docusign:2119e688-2d27-422f-998b-c9ebd97413f3": {
 "checked": "2026-10-24",
@@ -20935,7 +20994,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-27",
+"last_seen": "2026-10-28",
 "locations": [
 "NYC"
 ],
@@ -20971,7 +21030,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-10-27",
+"last_seen": "2026-10-28",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -20989,7 +21048,7 @@
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-27",
+"last_seen": "2026-10-28",
 "locations": [
 "Dallas, TX"
 ],
@@ -25097,6 +25156,24 @@
 "title": "Data Analytics / AI Intern - Summer 2027",
 "url": "https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false"
 },
+"simplify:ixian robotics:0291dc48-d38e-41a2-8ec1-6679aa4b7d0f": {
+"checked": "2026-10-28",
+"company": "Ixian Robotics",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5048797,
+"flags": [],
+"key": "ixian robotics|software intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Intern",
+"url": "https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true"
+},
 "simplify:j.m. smucker:53234b9a-baaf-49c1-88e1-4e5356cdcbd8": {
 "checked": "2026-10-28",
 "company": "J.M. Smucker",
@@ -27462,6 +27539,42 @@
 "src": "simplify",
 "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
 "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761"
+},
+"simplify:laminar:f50200ae-9d5d-4692-bd20-24e9ac535f98": {
+"checked": "2026-10-28",
+"company": "Laminar",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5048935,
+"flags": [],
+"key": "laminar|technical intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1788134400,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Intern",
+"url": "https://jobs.ashbyhq.com/laminar-jobs/b8bf92af-a213-4f50-a22c-4a2413c4ab87/application?embed=true"
+},
+"simplify:latent defense:41346207-66b3-4202-87c1-e27c8ad4e155": {
+"checked": "2026-10-28",
+"company": "Latent Defense",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049257,
+"flags": [],
+"key": "latent defense|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"NYC"
+],
+"posted_ts": 1776211200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487/application?embed=true"
 },
 "simplify:lawrence livermore national laboratory (llnl):2ad246b5-cec8-494e-8ed3-f7165ae5ea88": {
 "checked": "2026-10-27",
@@ -34527,6 +34640,24 @@
 "title": "AI Research Intern",
 "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true"
 },
+"simplify:one robot:3d47d098-864b-4807-8862-799cd08354db": {
+"checked": "2026-10-28",
+"company": "One Robot",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5048664,
+"flags": [],
+"key": "one robot|machine learning intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1784851200,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Intern",
+"url": "https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true"
+},
 "simplify:onsemi:1471d571-8c78-4a1d-8de2-247bdee89637": {
 "checked": "2026-10-22",
 "company": "onsemi",
@@ -34634,6 +34765,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true"
+},
+"simplify:openmind:b6fe71a5-af19-464d-ba1a-1d74bf7a3a0c": {
+"checked": "2026-10-28",
+"company": "OpenMind",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049193,
+"flags": [],
+"key": "openmind|engineering intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1786406400,
+"rolling": false,
+"src": "simplify",
+"title": "Engineering Intern",
+"url": "https://jobs.ashbyhq.com/openmind/7367a37a-37d9-42d8-91d4-f4d3e42f3e29/application?embed=true"
 },
 "simplify:opensesame:815329f1-cd74-499b-977c-33adb4f5150c": {
 "checked": "2026-10-22",
@@ -36293,6 +36442,25 @@
 "title": "Forward Deployed Engineer Intern",
 "url": "https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true"
 },
+"simplify:pramaana labs:ea2b4f4b-5a4a-4fa7-aba8-91b060057825": {
+"checked": "2026-10-28",
+"company": "Pramaana Labs",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049,
+"flags": [],
+"key": "pramaana labs|research intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Palo Alto, CA",
+"Bengaluru, Karnataka, India"
+],
+"posted_ts": 1790121600,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern",
+"url": "https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true"
+},
 "simplify:primer:a5f886cf-d5b6-41ac-9bfc-98833aff9bb6": {
 "checked": "2026-10-26",
 "company": "Primer",
@@ -36746,6 +36914,42 @@
 "src": "simplify",
 "title": "Sustainability Intern",
 "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Sustainability_R2026-1900"
+},
+"simplify:quadric:7d4422bd-d3e5-46bf-aab9-1aa024e2e435": {
+"checked": "2026-10-28",
+"company": "Quadric",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.504911,
+"flags": [],
+"key": "quadric|deep learning compiler intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Burlingame, CA"
+],
+"posted_ts": 1792713600,
+"rolling": false,
+"src": "simplify",
+"title": "Deep Learning Compiler Intern",
+"url": "https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true"
+},
+"simplify:quadric:e9ea1661-68e7-422e-8093-f10f51fb0d07": {
+"checked": "2026-10-28",
+"company": "Quadric",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049076,
+"flags": [],
+"key": "quadric|ai kernel engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Burlingame, CA"
+],
+"posted_ts": 1792713600,
+"rolling": false,
+"src": "simplify",
+"title": "AI Kernel Engineer Intern",
+"url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true"
 },
 "simplify:quadrillion:53663e4c-42be-4d2a-ba0f-ac7a0d65da22": {
 "checked": "2026-10-26",
@@ -38208,6 +38412,25 @@
 "src": "simplify",
 "title": "Integrated Control Systems Engineer Intern - Software",
 "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452"
+},
+"simplify:rosaiclabs:4df74a84-8306-470c-a342-936bd9335db1": {
+"checked": "2026-10-28",
+"company": "RosaicLabs",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049286,
+"flags": [],
+"key": "rosaiclabs|software engineering intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Austin, TX",
+"Santa Clara, CA"
+],
+"posted_ts": 1793180285,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply"
 },
 "simplify:rovisys:1a7491a2-4bd2-4f12-8ae7-887a36860442": {
 "checked": "2026-10-19",
@@ -40976,6 +41199,24 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply"
 },
+"simplify:serval:e86150cf-386f-4eac-99a4-224ea7eacfc3": {
+"checked": "2026-10-28",
+"company": "Serval",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049224,
+"flags": [],
+"key": "serval|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1783980732,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true"
+},
 "simplify:servicenow:290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a": {
 "checked": "2026-10-27",
 "company": "ServiceNow",
@@ -41035,6 +41276,42 @@
 "src": "simplify",
 "title": "R&D Product Systems Intern",
 "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417"
+},
+"simplify:shield ai:2507d753-2e29-4433-be1b-355a19295f16": {
+"checked": "2026-10-28",
+"company": "Shield AI",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5048838,
+"flags": [],
+"key": "shield ai|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1792972800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
+},
+"simplify:shield ai:6510633a-12fb-403f-b2e5-b91ca20197b7": {
+"checked": "2026-10-28",
+"company": "Shield AI",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5048757,
+"flags": [],
+"key": "shield ai|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1790121600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
 },
 "simplify:shield ai:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
 "checked": "2026-10-27",
@@ -42843,6 +43120,24 @@
 "src": "simplify",
 "title": "Quantitative Research Intern",
 "url": "https://careers-sig.icims.com/jobs/10820/job?mobile=true&needsRedirect=false"
+},
+"simplify:sycamore:a19b6b71-cdc8-4602-94e3-b3a50b1f9ba9": {
+"checked": "2026-10-28",
+"company": "Sycamore",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.504931,
+"flags": [],
+"key": "sycamore|engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1792540800,
+"rolling": false,
+"src": "simplify",
+"title": "Engineer Intern",
+"url": "https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3/application?embed=true"
 },
 "simplify:symbotic:0da41e04-d7cb-426a-87b7-932940f159f8": {
 "checked": "2026-10-27",
@@ -48725,6 +49020,42 @@
 "title": "Quantitative Research Intern",
 "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"
 },
+"simplify:vsp vision:178d0613-9e8b-480c-b35e-f7b89b94e02e": {
+"checked": "2026-10-28",
+"company": "VSP Vision",
+"deadline": "2027-01-28",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.50489,
+"flags": [],
+"key": "vsp vision|software engineer intern",
+"last_seen": "2026-10-28",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"
+},
+"simplify:vsp vision:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf": {
+"checked": "2026-10-28",
+"company": "VSP Vision",
+"deadline": "2027-01-28",
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5048974,
+"flags": [],
+"key": "vsp vision|software engineer intern technology innovation",
+"last_seen": "2026-10-28",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Technology Innovation",
+"url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
+},
 "simplify:w.r. berkley:bf48dd2b-e7b1-4338-a911-cb29771f7cce": {
 "checked": "2026-10-20",
 "company": "W.R. Berkley",
@@ -51196,6 +51527,24 @@
 "src": "simplify",
 "title": "Robotics Center Intern - Multiple Teams",
 "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8681156002"
+},
+"simplify:xterra ai:c5ebe3fd-12f6-4de5-b7ce-becce7b7b5c2": {
+"checked": "2026-10-28",
+"company": "Xterra AI",
+"deadline": null,
+"first_seen": "2026-10-28",
+"first_seen_ts": 1793187686.5049164,
+"flags": [],
+"key": "xterra ai|research scientist intern",
+"last_seen": "2026-10-28",
+"locations": [
+"SF"
+],
+"posted_ts": 1776124800,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern",
+"url": "https://jobs.ashbyhq.com/xterra%20ai/bc481f5a-3365-4048-8533-0c7728db512b/application?embed=true"
 },
 "simplify:zillow:00e04eac-1e56-4e4d-ad08-1472c68a0683": {
 "checked": "2026-10-27",
