@@ -3377,6 +3377,42 @@
 "title": "Applied and Research Scientist/Engineer Intern",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
 },
+"simplify:advanced space:7bc539ab-f191-44a4-b03e-dce55640d12d": {
+"checked": "2026-10-29",
+"company": "Advanced Space",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964114,
+"flags": [],
+"key": "advanced space|machine learning intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Westminster, CO"
+],
+"posted_ts": 1787602950,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Intern",
+"url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009"
+},
+"simplify:advanced space:8281f41a-114f-4b46-bd00-8660449e0b4a": {
+"checked": "2026-10-29",
+"company": "Advanced Space",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964071,
+"flags": [],
+"key": "advanced space|software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Westminster, CO"
+],
+"posted_ts": 1787603868,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"
+},
 "simplify:aecom:92df1c73-b83b-4d1f-9366-ef07d2fa6bd7": {
 "checked": "2026-10-22",
 "company": "AECOM",
@@ -7518,6 +7554,24 @@
 "title": "Backend Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
 },
+"simplify:astronics:3d956618-19c8-41b1-beb3-388e234964d5": {
+"checked": "2026-10-29",
+"company": "Astronics",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964155,
+"flags": [],
+"key": "astronics|software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Kirkland, WA"
+],
+"posted_ts": 1791223865,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009"
+},
 "simplify:atc:522ac210-b20d-4896-b96f-00dd172cb82a": {
 "checked": "2026-10-20",
 "company": "ATC",
@@ -10773,6 +10827,24 @@
 "title": "Sustainability Intern",
 "url": "https://burlington.wd5.myworkdayjobs.com/BurlingtonCareers/job/00000---Burlington-Corporate-Office/Sustainability-Intern---Summer-2027_R104521"
 },
+"simplify:burns engineering:a56c3be4-35d8-45ca-a8f7-c98206f9e105": {
+"checked": "2026-10-29",
+"company": "Burns Engineering",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964398,
+"flags": [],
+"key": "burns engineering|software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1793040714,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009"
+},
 "simplify:bytedance:1077cb58-5992-4ad8-acb0-7980b9360baa": {
 "checked": "2026-10-26",
 "company": "ByteDance",
@@ -11420,6 +11492,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
+},
+"simplify:caci:16383177-59a6-4e58-94ba-2fb28a3c779a": {
+"checked": "2026-10-29",
+"company": "CACI",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3963978,
+"flags": [],
+"key": "caci|software engineering co op intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Rochester, NY"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op Intern",
+"url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"
 },
 "simplify:caci:2afb885b-d426-47bd-9dc0-80b026d499f5": {
 "checked": "2026-09-29",
@@ -12340,6 +12430,24 @@
 "src": "simplify",
 "title": "Research Intern",
 "url": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true"
+},
+"simplify:charles river analytics:29824d46-1292-4645-be50-863c4e2b43f8": {
+"checked": "2026-10-29",
+"company": "Charles River Analytics",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964195,
+"flags": [],
+"key": "charles river analytics|ai scientist intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Cambridge, MA"
+],
+"posted_ts": 1793282089,
+"rolling": false,
+"src": "simplify",
+"title": "AI Scientist Intern",
+"url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8333895"
 },
 "simplify:charles schwab:09239b96-d26a-4691-b9ab-9b8b442caa9f": {
 "checked": "2026-10-03",
@@ -15566,6 +15674,24 @@
 "src": "simplify",
 "title": "Operational Analytics Intern",
 "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282"
+},
+"simplify:divcowest:7a7f7d6a-505a-4b29-afcc-af4eb8cbc647": {
+"checked": "2026-10-29",
+"company": "DivcoWest",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964317,
+"flags": [],
+"key": "divcowest|ai intern",
+"last_seen": "2026-10-29",
+"locations": [
+"SF"
+],
+"posted_ts": 1778262768,
+"rolling": false,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009"
 },
 "simplify:diversified energy:57409b22-372d-4871-b5ff-c7bfa79beb07": {
 "checked": "2026-10-25",
@@ -26201,6 +26327,24 @@
 "title": "Power Platform & Analytics Intern",
 "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133"
 },
+"simplify:jm family:f82632d8-09d1-4568-bbaf-aa4a5ecb312a": {
+"checked": "2026-10-29",
+"company": "JM Family",
+"deadline": "2026-11-07",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3963904,
+"flags": [],
+"key": "jm family|software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Deerfield Beach, FL"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
+},
 "simplify:john deere:0056240c-a4a3-48c5-8715-8b3ed04b1590": {
 "checked": "2026-10-24",
 "company": "John Deere",
@@ -35614,6 +35758,24 @@
 "title": "Machine Learning Intern",
 "url": "https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true"
 },
+"simplify:oneethos:e7dad441-1919-402c-8936-123968e0e6b3": {
+"checked": "2026-10-29",
+"company": "OneEthos",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964357,
+"flags": [],
+"key": "oneethos|research and development intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1792511877,
+"rolling": false,
+"src": "simplify",
+"title": "Research and Development Intern",
+"url": "https://job-boards.greenhouse.io/oneethos/jobs/4459193009"
+},
 "simplify:onsemi:1471d571-8c78-4a1d-8de2-247bdee89637": {
 "checked": "2026-10-29",
 "company": "onsemi",
@@ -38015,6 +38177,24 @@
 "title": "Machine Learning Research Engineer Intern",
 "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009"
 },
+"simplify:quantiq:fef80be2-32b2-45c7-8fd7-acdeba3b2295": {
+"checked": "2026-10-29",
+"company": "Quantiq",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964026,
+"flags": [],
+"key": "quantiq|software developer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1781714041,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009"
+},
 "simplify:quantum signal ai:726360c4-caf8-48cc-bc62-9dc9ba9eaca4": {
 "checked": "2026-10-27",
 "company": "Quantum Signal AI",
@@ -38050,6 +38230,25 @@
 "src": "simplify",
 "title": "Embedded and Real-Time Software Intern",
 "url": "https://quantumsignalai.applytojob.com/apply/23a7Z79zfn/Embedded-And-RealTime-Software-Intern"
+},
+"simplify:qube research & technologies:956d7e6e-0435-403d-877c-4026d34ea7cc": {
+"checked": "2026-10-29",
+"company": "Qube Research & Technologies",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3964236,
+"flags": [],
+"key": "qube research & technologies|technology intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Chicago, IL",
+"NYC"
+],
+"posted_ts": 1793012494,
+"rolling": true,
+"src": "simplify",
+"title": "Technology Intern",
+"url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002"
 },
 "simplify:qumulo:c2cbd149-9096-42ca-b785-b8ab7d96e3cf": {
 "checked": "2026-10-27",
@@ -41781,6 +41980,22 @@
 "title": "AI Research Intern",
 "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"
 },
+"simplify:sallie mae:c24dc4cf-1483-4344-a627-727c9a26aeb3": {
+"company": "Sallie Mae",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.3963792,
+"flags": [],
+"key": "sallie mae|data science and engineering intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Newark, DE",
+"Arlington County, Arlington, VA"
+],
+"posted_ts": 1793232000,
+"src": "simplify",
+"title": "Data Science and Engineering Intern",
+"url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
+},
 "simplify:samsung:8463f3ca-a1af-4b4a-93b8-145006e74a83": {
 "checked": "2026-10-28",
 "company": "Samsung",
@@ -43430,6 +43645,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1"
+},
+"simplify:sonos:54c83f6c-0c22-45e4-8f12-5db6bf3defd8": {
+"checked": "2026-10-29",
+"company": "Sonos",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.396444,
+"flags": [],
+"key": "sonos|software engineer intern partner engineering",
+"last_seen": "2026-10-29",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Partner Engineering",
+"url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1"
 },
 "simplify:sonos:67c38e84-2904-4f41-b7d9-11a2d287366b": {
 "checked": "2026-10-28",
@@ -48383,6 +48616,24 @@
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://twosigma.avature.net/careers/JobDetail/13945"
+},
+"simplify:two six technologies:bfa01257-724c-4c7e-9a32-1bd1a99d9b9e": {
+"checked": "2026-10-29",
+"company": "Two Six Technologies",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793303111.396428,
+"flags": [],
+"key": "two six technologies|systems software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Arlington County, Arlington, VA"
+],
+"posted_ts": 1793283993,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004"
 },
 "simplify:tyler technologies:170b4dbe-36bf-488f-8c87-9759f8f3fc2b": {
 "checked": "2026-10-27",
