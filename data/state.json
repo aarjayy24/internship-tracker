@@ -2981,6 +2981,24 @@
 "title": "Research Intern - Machine Learning and Optimization - Redmond",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981"
 },
+"microsoft:microsoft:1970393557050150": {
+"checked": "2026-10-29",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3960807,
+"flags": [],
+"key": "microsoft|applied scientist internship opportunities turing",
+"last_seen": "2026-10-29",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1793279443,
+"rolling": true,
+"src": "microsoft",
+"title": "Applied Scientist: Internship Opportunities, Turing",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557050150"
+},
 "simplify:42dot:8e8c10af-4384-4d41-b1c2-6163b49e50f2": {
 "checked": "2026-10-28",
 "company": "42dot",
@@ -3253,6 +3271,24 @@
 "title": "AI & Architecture Intern",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
 },
+"simplify:adobe:a25226c4-ad0d-4016-a9eb-072e72a8b5f0": {
+"checked": "2026-10-29",
+"company": "Adobe",
+"deadline": "2026-11-01",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.399267,
+"flags": [],
+"key": "adobe|technical support consultant intern",
+"last_seen": "2026-10-29",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Support Consultant Intern",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786"
+},
 "simplify:adobe:a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
 "checked": "2026-10-26",
 "company": "Adobe",
@@ -3299,6 +3335,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+},
+"simplify:adobe:e7d2687d-8b7e-4615-88e6-df7f4f101331": {
+"checked": "2026-10-29",
+"company": "Adobe",
+"deadline": "2026-11-01",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3992639,
+"flags": [],
+"key": "adobe|technical support consultant intern",
+"last_seen": "2026-10-29",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Support Consultant Intern",
+"url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785"
 },
 "simplify:adobe:f9901050-1d31-45ee-b404-d04b7838e9c6": {
 "checked": "2026-10-27",
@@ -9053,6 +9107,24 @@
 "title": "Systems Engineer Intern - Summer Games",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366"
 },
+"simplify:booz allen:0b789ff7-5e0b-41ba-98b2-35370afdd223": {
+"checked": "2026-10-29",
+"company": "Booz Allen",
+"deadline": "2027-01-25",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3966382,
+"flags": [],
+"key": "booz allen|software developer intern university",
+"last_seen": "2026-10-29",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1787875200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern - University",
+"url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
+},
 "simplify:booz allen:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc": {
 "checked": "2026-10-26",
 "company": "Booz Allen",
@@ -9160,6 +9232,24 @@
 "src": "simplify",
 "title": "Software Developer Intern",
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335"
+},
+"simplify:booz allen:21c2dbb5-58dc-42ce-b2f5-f7a3eed6a47f": {
+"checked": "2026-10-29",
+"company": "Booz Allen",
+"deadline": "2027-01-25",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3967957,
+"flags": [],
+"key": "booz allen|data scientist intern university summer games",
+"last_seen": "2026-10-29",
+"locations": [
+"Fort Walton Beach, FL"
+],
+"posted_ts": 1788220800,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern - University - Summer Games",
+"url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409"
 },
 "simplify:booz allen:2a70d2af-b4c8-49d1-89ce-0d0c37cb942a": {
 "checked": "2026-10-23",
@@ -27538,6 +27628,24 @@
 "title": "Research Scientist Intern - Plasma Light Source Characterization",
 "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1"
 },
+"simplify:kla corporation:4c771974-b2f4-4181-8fca-dc0284874d28": {
+"checked": "2026-10-29",
+"company": "KLA Corporation",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3992605,
+"flags": [],
+"key": "kla corporation|software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Milpitas, CA"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
+},
 "simplify:kla corporation:4eaa723e-570b-4a9d-88de-a5f01e273d96": {
 "checked": "2026-10-23",
 "company": "KLA Corporation",
@@ -27807,6 +27915,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872"
+},
+"simplify:kla:e2a5cc10-9c89-4d98-a6f5-862cad47dd47": {
+"checked": "2026-10-29",
+"company": "KLA",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.399254,
+"flags": [],
+"key": "kla|software engineer intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Milpitas, CA"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721"
 },
 "simplify:kla:e99b784e-8115-4c4d-a6d5-084115592c66": {
 "checked": "2026-10-27",
@@ -36796,6 +36922,24 @@
 "title": "AI Innovation Intern",
 "url": "https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe/AI-Innovation-Intern"
 },
+"simplify:philips:0ad97afd-e0ba-4720-ae97-7e1ad0f20d62": {
+"checked": "2026-10-29",
+"company": "Philips",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3992472,
+"flags": [],
+"key": "philips|ai analytics analyst intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Nashville, TN"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "AI & Analytics Analyst Intern",
+"url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"
+},
 "simplify:philips:476ebb5a-f574-486f-be24-b89fb51a1040": {
 "checked": "2026-10-07",
 "company": "Philips",
@@ -44716,6 +44860,24 @@
 "title": "Physics Engine Development Engineer Intern - Optimus",
 "url": "https://www.tesla.com/careers/search/job/282147"
 },
+"simplify:tesla:92028585-06ce-429a-8702-8cc1d5ce13f5": {
+"checked": "2026-10-29",
+"company": "Tesla",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3992574,
+"flags": [],
+"key": "tesla|data engineer intern energy",
+"last_seen": "2026-10-29",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1793267933,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern - Energy",
+"url": "https://www.tesla.com/careers/search/job/287982"
+},
 "simplify:tesla:c5bd1b3f-c4a1-4606-b687-e4afcc112363": {
 "checked": "2026-10-26",
 "company": "Tesla",
@@ -51566,6 +51728,24 @@
 "title": "Data & Analytics Consulting Intern",
 "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167557004"
 },
+"simplify:west monroe:67af29a3-58ac-47dc-9fc4-c94be1828e2f": {
+"checked": "2026-10-29",
+"company": "West Monroe",
+"deadline": null,
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3992512,
+"flags": [],
+"key": "west monroe|software engineering consultant intern ai concentration",
+"last_seen": "2026-10-29",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791269207,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Consultant Intern - AI Concentration",
+"url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004"
+},
 "simplify:west monroe:7771e28f-19b8-42e9-8cfb-42c1b63e5f24": {
 "checked": "2026-10-20",
 "company": "West Monroe",
@@ -52034,6 +52214,24 @@
 "src": "simplify",
 "title": "Backend Software Engineer Intern - Java & AI - Master's",
 "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"
+},
+"simplify:wgu:0c948dc9-1eb1-44a6-86f9-c0695549d3b4": {
+"checked": "2026-10-29",
+"company": "WGU",
+"deadline": "2026-11-06",
+"first_seen": "2026-10-29",
+"first_seen_ts": 1793283863.3992414,
+"flags": [],
+"key": "wgu|data governance intern",
+"last_seen": "2026-10-29",
+"locations": [
+"Salt Lake City, UT"
+],
+"posted_ts": 1792108800,
+"rolling": false,
+"src": "simplify",
+"title": "Data Governance Intern",
+"url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370"
 },
 "simplify:whataburger:d08dd87d-40ca-4a83-836d-c5003f3f8cc8": {
 "checked": "2026-10-29",
