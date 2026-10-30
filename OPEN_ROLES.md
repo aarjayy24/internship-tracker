@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-30 · 1841 roles · 208 with a stated deadline · 65 rolling
+Updated 2026-10-30 · 1849 roles · 209 with a stated deadline · 65 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (98)
+## ⏰ Deadlines in the next 14 days (99)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -54,6 +54,7 @@ Updated 2026-10-30 · 1841 roles · 208 with a stated deadline · 65 rolling
 | **Nov 2 (3d)** | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) | Boulder, CO |
 | **Nov 2 (3d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169) | Sterling, VA |
 | **Nov 2 (3d)** | The Hartford | [Software Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Hartford, CT |
+| **Nov 2 (3d)** | RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | Cedar Rapids, IA |
 | **Nov 3 (4d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791) | Sterling, VA |
 | **Nov 3 (4d)** | RTX | [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371) | Marlborough, MA, Tewksbury, MA |
 | **Nov 3 (4d)** | Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) | Dayton, OH, Knoxville, TN, Portsmouth, NH, Princeton, NJ, La |
@@ -269,12 +270,20 @@ Updated 2026-10-30 · 1841 roles · 208 with a stated deadline · 65 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1684)
+## Everyone else (1692)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Newmont | [Resource Modeling Intern](https://jobs.newmont.com/us/en/job/45053) | Denver, CO | — | 2026-10-30 |  |
+| Waymo | [MS/PhD Intern - Weather Perception](https://careers.withwaymo.com/jobs?gh_jid=8335511) | SF | — | 2026-10-30 |  |
 | Axon | [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003) | Seattle, WA, Arlington County, Arlington, VA | — | 2026-10-30 |  |
 | Dee Zee | [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471) | Des Moines, IA | — | 2026-10-30 |  |
+| SageSure | [Data Science Product Analyst Intern](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) | Fairfield, CA | — | 2026-10-30 |  |
+| Ncino | [Software Engineer Intern](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) | Lehi, UT | — | 2026-10-30 |  |
+| F&G | [IT Software Engineer Intern - Summer](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003) | Des Moines, IA | — | 2026-10-30 |  |
+| C3.ai | [Software Engineer Intern](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) | Redwood City, CA | — | 2026-10-30 |  |
+| C3.ai | [Data Scientist Intern](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) | Redwood City, CA | — | 2026-10-30 |  |
+| RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | Cedar Rapids, IA | **Nov 2 (3d)** | 2026-10-30 |  |
 | Pennsylvania State University | [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | University Park, State College, PA | — | 2026-10-30 |  |
 | Toyota Research Institute | [Human Interactive Driving Research Intern - Learning-Based Control for Safe Autonomous Driving](https://jobs.lever.co/tri/e67d9f3e-f731-4f66-ab87-bdc45fe45d88/apply) | Los Altos, CA | — | 2026-10-29 |  |
 | Overland AI | [Software Engineering Intern](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) | Seattle, WA | — | 2026-10-29 |  |

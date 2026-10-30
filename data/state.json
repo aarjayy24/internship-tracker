@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-30",
@@ -11530,6 +11532,42 @@
 "title": "Software Engineer Intern",
 "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
 },
+"simplify:c3.ai:5a3db098-8c38-40fa-be03-1d93ebd0e299": {
+"checked": "2026-10-30",
+"company": "C3.ai",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2691483,
+"flags": [],
+"key": "c3.ai|software engineer intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Redwood City, CA"
+],
+"posted_ts": 1788199749,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
+},
+"simplify:c3.ai:fc548cb2-6ef0-4989-985c-dcdcc863281d": {
+"checked": "2026-10-30",
+"company": "C3.ai",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2691443,
+"flags": [],
+"key": "c3.ai|data scientist intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Redwood City, CA"
+],
+"posted_ts": 1787350807,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002"
+},
 "simplify:caci:02f8a929-c160-48c2-818b-cebd23779a18": {
 "checked": "2026-10-27",
 "company": "CACI",
@@ -18711,6 +18749,24 @@
 "src": "simplify",
 "title": "Mobile Engineer Intern",
 "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306"
+},
+"simplify:f&g:9cb3446e-3c82-4d8d-b018-8c325d2f08b3": {
+"checked": "2026-10-30",
+"company": "F&G",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2691514,
+"flags": [],
+"key": "f&g|it software engineer intern summer",
+"last_seen": "2026-10-30",
+"locations": [
+"Des Moines, IA"
+],
+"posted_ts": 1789491512,
+"rolling": false,
+"src": "simplify",
+"title": "IT Software Engineer Intern - Summer",
+"url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003"
 },
 "simplify:f5:1fd32548-9b70-43de-815b-740a8ac20359": {
 "checked": "2026-10-28",
@@ -34591,6 +34647,24 @@
 "title": "Associate Intern",
 "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32324"
 },
+"simplify:ncino:b5646bd6-fe0f-4ecd-9059-5522d8fa320e": {
+"checked": "2026-10-30",
+"company": "Ncino",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2691364,
+"flags": [],
+"key": "ncino|software engineer intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Lehi, UT"
+],
+"posted_ts": 1790789205,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009"
+},
 "simplify:nebius:b380c306-bed2-4e4a-8c77-71a792a86621": {
 "checked": "2026-10-04",
 "company": "Nebius",
@@ -34753,6 +34827,24 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"
+},
+"simplify:newmont:b1af74c5-7bce-4b61-a57f-bdbb3cb3926e": {
+"checked": "2026-10-30",
+"company": "Newmont",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2691581,
+"flags": [],
+"key": "newmont|resource modeling intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Denver, CO"
+],
+"posted_ts": 1793341775,
+"rolling": false,
+"src": "simplify",
+"title": "Resource Modeling Intern",
+"url": "https://jobs.newmont.com/us/en/job/45053"
 },
 "simplify:newrez:df045001-6540-4f6a-989a-92d2042973dd": {
 "checked": "2026-10-26",
@@ -40959,6 +41051,24 @@
 "title": "Embedded Software Engineer Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"
 },
+"simplify:rtx:44a036f1-8b46-4596-939b-e10b3f0e8761": {
+"checked": "2026-10-30",
+"company": "RTX",
+"deadline": "2026-11-02",
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2661247,
+"flags": [],
+"key": "rtx|software engineer intern summer 2027",
+"last_seen": "2026-10-30",
+"locations": [
+"Cedar Rapids, IA"
+],
+"posted_ts": 1786665600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Summer 2027",
+"url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
+},
 "simplify:rtx:44d51ce5-b0d7-47ab-93d2-24148841c53d": {
 "checked": "2026-10-25",
 "company": "RTX",
@@ -42534,6 +42644,24 @@
 "src": "simplify",
 "title": "Data Scientist Intern",
 "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006"
+},
+"simplify:sagesure:515bc7ee-5cb6-4df0-904a-19e675ac3476": {
+"checked": "2026-10-30",
+"company": "SageSure",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.2691643,
+"flags": [],
+"key": "sagesure|data science product analyst intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Fairfield, CA"
+],
+"posted_ts": 1793132246,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Product Analyst Intern",
+"url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006"
 },
 "simplify:sagesure:7c5bf4c8-4460-4368-ae88-3abf181dd598": {
 "checked": "2026-10-30",
@@ -52330,6 +52458,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - Road Understanding",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
+},
+"simplify:waymo:9e32aee0-7914-4f32-ba07-f8e59cdbd480": {
+"checked": "2026-10-30",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793352185.269155,
+"flags": [],
+"key": "waymo|ms phd intern weather perception",
+"last_seen": "2026-10-30",
+"locations": [
+"SF"
+],
+"posted_ts": 1793323300,
+"rolling": false,
+"src": "simplify",
+"title": "MS/PhD Intern - Weather Perception",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8335511"
 },
 "simplify:waymo:9f31b43a-95ad-41c8-aef4-c59287ea5477": {
 "checked": "2026-10-27",
