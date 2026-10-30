@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-30",
@@ -219,6 +217,24 @@
 "src": "amazon",
 "title": "2027 Applied Science Internship - Robotics - United States",
 "url": "https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"
+},
+"amazon:amazon:10593521": {
+"checked": "2026-10-30",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9283478,
+"flags": [],
+"key": "amazon|software development engineer intern machine learning automated reasoning summer 2027",
+"last_seen": "2026-10-30",
+"locations": [
+"Seattle, Washington, USA"
+],
+"posted_ts": 1793318400.0,
+"rolling": false,
+"src": "amazon",
+"title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+"url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
 },
 "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
 "checked": "2026-10-27",
@@ -7430,6 +7446,24 @@
 "title": "Data Support Analyst Intern",
 "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717"
 },
+"simplify:astera labs:22021546-205a-467d-b274-f4cf864649f6": {
+"checked": "2026-10-30",
+"company": "Astera Labs",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9315343,
+"flags": [],
+"key": "astera labs|ai product management intern",
+"last_seen": "2026-10-30",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1793369971,
+"rolling": false,
+"src": "simplify",
+"title": "AI Product Management Intern",
+"url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005"
+},
 "simplify:astera labs:411c83a0-4d72-4c68-a248-f7d4a5a525c1": {
 "checked": "2026-10-27",
 "company": "Astera Labs",
@@ -7836,6 +7870,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern",
 "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"
+},
+"simplify:atricure:0d21e8b2-0056-4b2f-98f1-e4bb4d29f89b": {
+"checked": "2026-10-30",
+"company": "AtriCure",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9315405,
+"flags": [],
+"key": "atricure|it erp data migration co op",
+"last_seen": "2026-10-30",
+"locations": [
+"Mason, OH"
+],
+"posted_ts": 1793367797,
+"rolling": false,
+"src": "simplify",
+"title": "IT ERP Data Migration Co-op",
+"url": "https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009"
 },
 "simplify:aurora innovation:049cea50-d78a-47ec-bcdf-991d89ae226a": {
 "checked": "2026-10-27",
@@ -27158,6 +27210,24 @@
 "title": "Computer Engineer Intern - Shipboard Systems Group",
 "url": "https://careers.jhuapl.edu/jobs/60049?icims=1"
 },
+"simplify:johns hopkins applied physics laboratory:54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c": {
+"checked": "2026-10-30",
+"company": "Johns Hopkins Applied Physics Laboratory",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9315276,
+"flags": [],
+"key": "johns hopkins applied physics laboratory|robotics engineer intern maritime systems",
+"last_seen": "2026-10-30",
+"locations": [
+"Laurel, MD"
+],
+"posted_ts": 1793366160,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Engineer Intern - Maritime Systems",
+"url": "https://careers.jhuapl.edu/jobs/60742?icims=1"
+},
 "simplify:johns hopkins applied physics laboratory:7d75bd70-f568-420d-985e-c8ccd2632c8f": {
 "checked": "2026-10-27",
 "company": "Johns Hopkins Applied Physics Laboratory",
@@ -29795,6 +29865,25 @@
 "title": "Data Extraction Co-op",
 "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469150009"
 },
+"simplify:lila sciences:e80cf952-ea40-42d7-ba9b-35bc354becaa": {
+"checked": "2026-10-30",
+"company": "Lila Sciences",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.931524,
+"flags": [],
+"key": "lila sciences|bayesian methods co op",
+"last_seen": "2026-10-30",
+"locations": [
+"Cambridge, MA",
+"SF"
+],
+"posted_ts": 1793363762,
+"rolling": false,
+"src": "simplify",
+"title": "Bayesian Methods Co-op",
+"url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469148009"
+},
 "simplify:linkedin:5635b14b-45dd-4bb0-925f-0231622eb338": {
 "checked": "2026-10-28",
 "company": "LinkedIn",
@@ -31714,6 +31803,25 @@
 "src": "simplify",
 "title": "Research Scientist Intern - Ads Recommendations",
 "url": "https://www.metacareers.com/jobs/1691709792593561"
+},
+"simplify:meta:3e1eb658-735d-4768-9b73-ba22a1206ce2": {
+"checked": "2026-10-30",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9315438,
+"flags": [],
+"key": "meta|research scientist intern photorealistic telepresence",
+"last_seen": "2026-10-30",
+"locations": [
+"Redmond, WA",
+"Pittsburgh, PA"
+],
+"posted_ts": 1793370887,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Photorealistic Telepresence",
+"url": "https://www.metacareers.com/jobs/1358944629494375"
 },
 "simplify:meta:4f41f3de-17ab-49df-b857-cb501dbde8e5": {
 "checked": "2026-10-27",
@@ -35244,6 +35352,42 @@
 "src": "simplify",
 "title": "AI Intern",
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219"
+},
+"simplify:nissan:bf045bbb-19b5-4bf0-a8de-2d2a06103832": {
+"checked": "2026-10-30",
+"company": "Nissan",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.931531,
+"flags": [],
+"key": "nissan|purchasing transformation intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Franklin, TN"
+],
+"posted_ts": 1793318400,
+"rolling": false,
+"src": "simplify",
+"title": "Purchasing Transformation Intern",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282"
+},
+"simplify:nissan:e85773e5-be39-450d-a53f-459b77948b4d": {
+"checked": "2026-10-30",
+"company": "Nissan",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9315372,
+"flags": [],
+"key": "nissan|procurement transformation intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Franklin, TN"
+],
+"posted_ts": 1793318400,
+"rolling": false,
+"src": "simplify",
+"title": "Procurement Transformation Intern",
+"url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279"
 },
 "simplify:njm insurance group:0adb2d84-b56e-47f1-b4ca-f0267547814c": {
 "checked": "2026-10-27",
@@ -51608,6 +51752,24 @@
 "title": "Quantitative Research Intern",
 "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"
 },
+"simplify:voyager technologies:d70a18b1-4e20-4567-af5a-45ade24493b2": {
+"checked": "2026-10-30",
+"company": "Voyager Technologies",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793376422.9315186,
+"flags": [],
+"key": "voyager technologies|software engineer intern",
+"last_seen": "2026-10-30",
+"locations": [
+"Long Beach, CA"
+],
+"posted_ts": 1790633176,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
+},
 "simplify:vsp vision:178d0613-9e8b-480c-b35e-f7b89b94e02e": {
 "checked": "2026-10-28",
 "company": "VSP Vision",
@@ -55210,14 +55372,14 @@
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
 },
 "workday:salesforce:JR364911-1": {
-"checked": "2026-10-19",
+"checked": "2026-10-30",
 "company": "Salesforce",
 "deadline": null,
 "first_seen": "2026-10-19",
 "first_seen_ts": 1792437343.4188285,
 "flags": [],
 "key": "salesforce|summer 2027 intern software engineer security government",
-"last_seen": "2026-10-21",
+"last_seen": "2026-10-30",
 "locations": [
 "California   San Francisco"
 ],
