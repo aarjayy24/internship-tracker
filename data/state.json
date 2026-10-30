@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-30",
@@ -1538,6 +1540,24 @@
 "src": "greenhouse:stripe",
 "title": "Data Analyst, Intern",
 "url": "https://stripe.com/jobs/search?gh_jid=8194291"
+},
+"greenhouse:stripe:8333074": {
+"checked": "2026-10-30",
+"company": "Stripe",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793392987.5907116,
+"flags": [],
+"key": "stripe|master s machine learning engineer intern",
+"last_seen": "2026-10-30",
+"locations": [
+"San Francisco, New York City, Seattle"
+],
+"posted_ts": 1793377166.0,
+"rolling": false,
+"src": "greenhouse:stripe",
+"title": "Master's Machine Learning Engineer, Intern",
+"url": "https://stripe.com/jobs/search?gh_jid=8333074"
 },
 "greenhouse:waymo:8167323": {
 "checked": "2026-09-28",
@@ -55415,7 +55435,7 @@
 "first_seen_ts": 1793146272.972754,
 "flags": [],
 "key": "salesforce|summer 2027 intern forward deployed engineer global public sector",
-"last_seen": "2026-10-29",
+"last_seen": "2026-10-30",
 "locations": [
 "Arkansas   Remote"
 ],
@@ -55424,6 +55444,24 @@
 "src": "workday:salesforce",
 "title": "Summer 2027 Intern - Forward Deployed Engineer \u2013 Global Public Sector",
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
+},
+"workday:salesforce:JR366248": {
+"checked": "2026-10-30",
+"company": "Salesforce",
+"deadline": null,
+"first_seen": "2026-10-30",
+"first_seen_ts": 1793392987.591053,
+"flags": [],
+"key": "salesforce|ai labs summer internship emerging talent",
+"last_seen": "2026-10-30",
+"locations": [
+"California   San Francisco"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:salesforce",
+"title": "AI Labs Summer Internship, Emerging Talent",
+"url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248"
 }
 }
 }

@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-30 · 1859 roles · 209 with a stated deadline · 65 rolling
+Updated 2026-10-30 · 1862 roles · 209 with a stated deadline · 65 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -108,12 +108,14 @@ Updated 2026-10-30 · 1859 roles · 209 with a stated deadline · 65 rolling
 | Nov 13 (14d) | Merck | [International Pricing Analytics Intern - International Pricing Analytics](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041) | Upper Gwynedd Township, PA, Rahway, NJ |
 | Nov 13 (14d) | TD Bank | [Graduate Leadership Program Commercial Banking Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612) | NYC |
 
-## ⭐ Top companies (160)
+## ⭐ Top companies (163)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Stripe | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York City, Seattle | — | 2026-10-30 |  |
 | Meta | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/1358944629494375) | Redmond, WA, Pittsburgh, PA | — | 2026-10-30 |  |
 | Amazon | [Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Seattle, Washington, USA | — | 2026-10-30 |  |
+| Salesforce | [AI Labs Summer Internship, Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248) | California   San Francisco | — | 2026-10-30 |  |
 | Microsoft | [Applied Scientist Intern](https://apply.careers.microsoft.com/careers/job/1970393557050150) | Redmond, WA | rolling | 2026-10-29 |  |
 | Meta | [Research Scientist Intern - Scam and Trust](https://www.metacareers.com/jobs/2355649268510104) | Menlo Park, CA | — | 2026-10-29 |  |
 | Meta | [Research Scientist Intern - AI Infra](https://www.metacareers.com/jobs/4603165899971826) | Menlo Park, CA | — | 2026-10-29 |  |
@@ -138,6 +140,7 @@ Updated 2026-10-30 · 1859 roles · 209 with a stated deadline · 65 rolling
 | Amazon | [Database Engineer Intern](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Seattle, WA, East Palo Alto, CA | — | 2026-10-28 |  |
 | Salesforce | [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) | Arkansas, Ohio | — | 2026-10-28 |  |
 | Salesforce | [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) | Arkansas, Ohio | — | 2026-10-28 |  |
+| Salesforce | [Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) | Arkansas   Remote | — | 2026-10-28 |  |
 | Meta | [Research Scientist Intern - Foundation Model Optimization](https://www.metacareers.com/jobs/1435245618154892) | Burlingame, CA, Menlo Park, CA | — | 2026-10-27 |  |
 | Meta | [Research Scientist Intern - Search](https://www.metacareers.com/jobs/2171476533578976) | Menlo Park, CA | — | 2026-10-27 |  |
 | Meta | [Research Scientist Intern - Generative Recommendation Systems](https://www.metacareers.com/jobs/3265378000517806) | Menlo Park, CA | — | 2026-10-27 |  |
