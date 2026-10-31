@@ -6381,6 +6381,24 @@
 "title": "Computer Science Intern - Summer 2027",
 "url": "https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply"
 },
+"simplify:andreessen horowitz:e00d51e8-391a-473d-a100-37fa803e306d": {
+"checked": "2026-10-31",
+"company": "Andreessen Horowitz",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793424658.9852011,
+"flags": [],
+"key": "andreessen horowitz|research intern frontier",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1793401464,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern - Frontier",
+"url": "https://a16z.com/about/jobs/?gh_jid=8046730003"
+},
 "simplify:anduril:a529ee18-b6a1-4596-bc3a-31cb1890b708": {
 "checked": "2026-10-27",
 "company": "Anduril",
@@ -19517,6 +19535,24 @@
 "src": "simplify",
 "title": "Embedded Software Engineer Intern - Platform",
 "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006"
+},
+"simplify:firework:016fa4b5-f0be-4f7d-9eaa-5a420aa83638": {
+"checked": "2026-10-31",
+"company": "Firework",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793424658.9852047,
+"flags": [],
+"key": "firework|data engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"San Mateo, CA"
+],
+"posted_ts": 1793411155,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply"
 },
 "simplify:first citizens bancshares:074a0da6-73e2-402d-90a7-ca4bf302d862": {
 "checked": "2026-10-07",
@@ -32904,6 +32940,24 @@
 "title": "Research Scientist Intern - Feed Recommendations",
 "url": "https://www.metacareers.com/jobs/29044546168568671"
 },
+"simplify:meta:e985983d-927d-468b-9444-57275a4b4f73": {
+"checked": "2026-10-31",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793424658.9851956,
+"flags": [],
+"key": "meta|research scientist intern video recsys",
+"last_seen": "2026-10-31",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1793408528,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Video Recsys",
+"url": "https://www.metacareers.com/jobs/1553890293163197"
+},
 "simplify:meta:ee44b333-d82d-4c69-8df1-fb3bb9a942ba": {
 "checked": "2026-10-28",
 "company": "Meta",
@@ -36753,6 +36807,24 @@
 "title": "Factory Deployed Intern",
 "url": "https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true"
 },
+"simplify:nvidia:02243e49-7e4c-44aa-9dd1-0ba4a235d93d": {
+"checked": "2026-10-31",
+"company": "NVIDIA",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793424658.9823573,
+"flags": [],
+"key": "nvidia|developer and performance technology intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Santa Clara, CA"
+],
+"posted_ts": 1787097600,
+"rolling": true,
+"src": "simplify",
+"title": "Developer and Performance Technology Intern",
+"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
+},
 "simplify:nvidia:12d5d73d-0f5a-459e-aede-1f15093ed6ed": {
 "checked": "2026-10-28",
 "company": "NVIDIA",
@@ -36792,14 +36864,14 @@
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
 },
 "simplify:nvidia:3affcaac-d7f9-45d1-8139-19defc762e13": {
-"checked": "2026-09-28",
+"checked": "2026-10-31",
 "company": "NVIDIA",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.99168,
 "flags": [],
 "key": "nvidia|deep learning computer architecture intern",
-"last_seen": "2026-09-29",
+"last_seen": "2026-10-31",
 "locations": [
 "Santa Clara, CA"
 ],
@@ -55901,7 +55973,7 @@
 "first_seen_ts": 1790573041.990338,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning computer architecture",
-"last_seen": "2026-10-30",
+"last_seen": "2026-10-31",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -55919,7 +55991,7 @@
 "first_seen_ts": 1790573041.9903336,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships systems software engineering",
-"last_seen": "2026-10-30",
+"last_seen": "2026-10-31",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -55937,7 +56009,7 @@
 "first_seen_ts": 1790573041.990342,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships software engineering",
-"last_seen": "2026-10-30",
+"last_seen": "2026-10-31",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -55955,7 +56027,7 @@
 "first_seen_ts": 1790573041.9903455,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning",
-"last_seen": "2026-10-30",
+"last_seen": "2026-10-31",
 "locations": [
 "US, CA, Santa Clara"
 ],
