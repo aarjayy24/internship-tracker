@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-10-31",
@@ -8412,6 +8414,24 @@
 "title": "Back-End Software Engineer Intern",
 "url": "https://award.co/position?gh_jid=4322220004"
 },
+"simplify:axa:ce8c7adb-0ba0-4fdd-b6e8-4832a9f1043d": {
+"checked": "2026-10-31",
+"company": "AXA",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444475,
+"flags": [],
+"key": "axa|underwriting data analytics intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1793281980,
+"rolling": false,
+"src": "simplify",
+"title": "Underwriting Data & Analytics Intern",
+"url": "https://careers.axa.com/jobs/25498?icims=1"
+},
 "simplify:axiom space:55d8577a-649c-47a8-a60f-2fc353841220": {
 "checked": "2026-10-30",
 "company": "Axiom Space",
@@ -9020,6 +9040,42 @@
 "src": "simplify",
 "title": "RPA Automation Intern",
 "url": "https://jobs.bjc.org/jobs/116509?icims=1"
+},
+"simplify:blackhawk network holdings:15129436-ae9b-4bc6-8628-b77a5b2874fb": {
+"checked": "2026-10-31",
+"company": "Blackhawk Network Holdings",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443385,
+"flags": [],
+"key": "blackhawk network holdings|technology intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Pleasanton, CA"
+],
+"posted_ts": 1788195240,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Intern",
+"url": "https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1"
+},
+"simplify:blackhawk network holdings:6b57ac18-b109-4566-a7ef-80abeefd8757": {
+"checked": "2026-10-31",
+"company": "Blackhawk Network Holdings",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443323,
+"flags": [],
+"key": "blackhawk network holdings|technology intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Coppell, TX"
+],
+"posted_ts": 1788195840,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Intern",
+"url": "https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1"
 },
 "simplify:blackrock:87b11fea-2c1b-4427-b741-a7acd9fd822b": {
 "checked": "2026-10-27",
@@ -19572,6 +19628,24 @@
 "title": "IT Intern - Software Developer",
 "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
 },
+"simplify:first citizens bancshares:47d45caa-b7cf-4f72-b59d-2b3c52395472": {
+"checked": "2026-10-31",
+"company": "First Citizens BancShares",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443566,
+"flags": [],
+"key": "first citizens bancshares|summer intern ai innovation",
+"last_seen": "2026-10-31",
+"locations": [
+"Raleigh, NC"
+],
+"posted_ts": 1793377320,
+"rolling": false,
+"src": "simplify",
+"title": "Summer Intern - AI Innovation",
+"url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1"
+},
 "simplify:first citizens bancshares:876c9bab-5273-42b9-94c4-323238fbe1a8": {
 "checked": "2026-10-14",
 "company": "First Citizens BancShares",
@@ -19589,6 +19663,24 @@
 "src": "simplify",
 "title": "Outreach Analytics Intern",
 "url": "https://firstcitizens.jibeapply.com/jobs/35906?icims=1"
+},
+"simplify:first citizens bancshares:dc225990-b400-400e-a1e3-c5d7dadb10f2": {
+"checked": "2026-10-31",
+"company": "First Citizens BancShares",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244352,
+"flags": [],
+"key": "first citizens bancshares|data analyst intern enterprise data analyst data products",
+"last_seen": "2026-10-31",
+"locations": [
+"Raleigh, NC"
+],
+"posted_ts": 1793106060,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+"url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1"
 },
 "simplify:first national bank:3201641c-0fb8-4501-a614-976eeaa47ef5": {
 "checked": "2026-10-12",
@@ -26550,6 +26642,276 @@
 "src": "simplify",
 "title": "Software Development Intern - Software Development - React",
 "url": "https://jobs.smartrecruiters.com/Interco/744000158581114"
+},
+"simplify:intercontinental exchange:054da912-83d7-407d-92b6-28e69322dbf6": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444127,
+"flags": [],
+"key": "intercontinental exchange|software engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ice.jibeapply.com/jobs/14077?icims=1"
+},
+"simplify:intercontinental exchange:16eb930e-0ac5-48f4-b2e1-0092e4756c31": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443907,
+"flags": [],
+"key": "intercontinental exchange|agentic ai data science intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Agentic AI Data Science Intern",
+"url": "https://ice.jibeapply.com/jobs/14070?icims=1"
+},
+"simplify:intercontinental exchange:2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244409,
+"flags": [],
+"key": "intercontinental exchange|software engineer intern java",
+"last_seen": "2026-10-31",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Java",
+"url": "https://ice.jibeapply.com/jobs/14078?icims=1"
+},
+"simplify:intercontinental exchange:6a174ad0-4fd8-4f76-829f-53459f3b42f1": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444055,
+"flags": [],
+"key": "intercontinental exchange|regulatory products intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Regulatory Products Intern",
+"url": "https://ice.jibeapply.com/jobs/14101?icims=1"
+},
+"simplify:intercontinental exchange:71b8953a-ea1d-4908-ae9c-af9ae857ee7b": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244402,
+"flags": [],
+"key": "intercontinental exchange|data analyst intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst Intern",
+"url": "https://ice.jibeapply.com/jobs/14089?icims=1"
+},
+"simplify:intercontinental exchange:7815ee26-83c0-49c1-9736-e247a0fd427f": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244387,
+"flags": [],
+"key": "intercontinental exchange|quantitative research intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Research Intern",
+"url": "https://ice.jibeapply.com/jobs/14057?icims=1"
+},
+"simplify:intercontinental exchange:9511f77b-8a3f-49b1-b411-bee7198a96c1": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244398,
+"flags": [],
+"key": "intercontinental exchange|trading system development intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Trading System Development Intern",
+"url": "https://ice.jibeapply.com/jobs/14102?icims=1"
+},
+"simplify:intercontinental exchange:b4e0a3a3-103b-4d99-a55c-4456842414c8": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443833,
+"flags": [],
+"key": "intercontinental exchange|software engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ice.jibeapply.com/jobs/14105?icims=1"
+},
+"simplify:intercontinental exchange:b65ac50b-2392-426a-b4d6-9ab44f279396": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443943,
+"flags": [],
+"key": "intercontinental exchange|financial engineering intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Financial Engineering Intern",
+"url": "https://ice.jibeapply.com/jobs/14059?icims=1"
+},
+"simplify:intercontinental exchange:c36f55e4-dbea-400e-9a05-5483dc5c1b07": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443793,
+"flags": [],
+"key": "intercontinental exchange|quantitative financial analytics intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Quantitative Financial Analytics Intern",
+"url": "https://ice.jibeapply.com/jobs/14055?icims=1"
+},
+"simplify:intercontinental exchange:cf2700e0-abee-490a-b004-5fba4e9f4867": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244375,
+"flags": [],
+"key": "intercontinental exchange|audit analytics intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Atlanta, GA"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Audit Analytics Intern",
+"url": "https://ice.jibeapply.com/jobs/14069?icims=1"
+},
+"simplify:intercontinental exchange:edd669e1-e493-4446-99d3-e8e668188696": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443676,
+"flags": [],
+"key": "intercontinental exchange|integration intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Integration Intern",
+"url": "https://ice.jibeapply.com/jobs/14071?icims=1"
+},
+"simplify:intercontinental exchange:f0f5bd69-8f2a-4aef-ba3a-87a576d04121": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443643,
+"flags": [],
+"key": "intercontinental exchange|software engineering intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Jacksonville, FL"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://ice.jibeapply.com/jobs/14075?icims=1"
+},
+"simplify:intercontinental exchange:f58cb7db-54c6-41d1-8762-0f0c2661bc7d": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443602,
+"flags": [],
+"key": "intercontinental exchange|data science intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://ice.jibeapply.com/jobs/14113?icims=1"
+},
+"simplify:intercontinental exchange:faa08c14-59dc-4c59-8e3f-0120fe71c3b8": {
+"checked": "2026-10-31",
+"company": "Intercontinental Exchange",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443714,
+"flags": [],
+"key": "intercontinental exchange|index analyst intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1792786140,
+"rolling": false,
+"src": "simplify",
+"title": "Index Analyst Intern",
+"url": "https://ice.jibeapply.com/jobs/14100?icims=1"
 },
 "simplify:intuit:1795d6df-fcca-45dc-836d-41a82dc36894": {
 "checked": "2026-10-26",
@@ -38355,6 +38717,24 @@
 "title": "Research and Development Engineer Intern",
 "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"
 },
+"simplify:peraton:4c60792c-0069-4c3e-bed6-f6ab0bc5610c": {
+"checked": "2026-10-31",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444434,
+"flags": [],
+"key": "peraton|mission systems software and edge computing intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Oklahoma"
+],
+"posted_ts": 1792008480,
+"rolling": false,
+"src": "simplify",
+"title": "Mission Systems Software and Edge Computing Intern",
+"url": "https://peraton.jibeapply.com/jobs/172378?icims=1"
+},
 "simplify:peraton:5c53841c-7751-499e-a270-dec2580e62e6": {
 "checked": "2026-10-23",
 "company": "Peraton",
@@ -38372,6 +38752,24 @@
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false"
+},
+"simplify:peraton:681c6933-2937-47c4-9608-44e26bd1cb06": {
+"checked": "2026-10-31",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444353,
+"flags": [],
+"key": "peraton|sustainability engineer co op",
+"last_seen": "2026-10-31",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1790784420,
+"rolling": false,
+"src": "simplify",
+"title": "Sustainability Engineer Co-op",
+"url": "https://peraton.jibeapply.com/jobs/171537?icims=1"
 },
 "simplify:peraton:a3c8fc71-5658-4914-be57-ce61c100da82": {
 "checked": "2026-10-19",
@@ -38391,6 +38789,80 @@
 "src": "simplify",
 "title": "Data Science Intern",
 "url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false"
+},
+"simplify:peraton:abdd970b-9c82-4b36-8726-8b1974f2ab7e": {
+"checked": "2026-10-31",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244439,
+"flags": [],
+"key": "peraton|software developer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Topeka, KS"
+],
+"posted_ts": 1791477780,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer Intern",
+"url": "https://peraton.jibeapply.com/jobs/172061?icims=1"
+},
+"simplify:peraton:cde86f58-8020-4b23-a2f5-f3b3b886a06d": {
+"checked": "2026-10-31",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444248,
+"flags": [],
+"key": "peraton|software engineering co op",
+"last_seen": "2026-10-31",
+"locations": [
+"San Diego, CA"
+],
+"posted_ts": 1790788080,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Co-op",
+"url": "https://peraton.jibeapply.com/jobs/171547?icims=1"
+},
+"simplify:peraton:d42fcbc7-e5de-4e30-bd8f-7a29b210a33e": {
+"checked": "2026-10-31",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444317,
+"flags": [],
+"key": "peraton|software engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Blacksburg, VA",
+"Herndon, VA"
+],
+"posted_ts": 1788878100,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://peraton.jibeapply.com/jobs/169665?icims=1"
+},
+"simplify:peraton:e465c8aa-a8c9-4adc-b8ea-163ff4e05c3e": {
+"checked": "2026-10-31",
+"company": "Peraton",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244428,
+"flags": [],
+"key": "peraton|data science intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Blacksburg, VA",
+"Herndon, VA"
+],
+"posted_ts": 1788962040,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://peraton.jibeapply.com/jobs/170320?icims=1"
 },
 "simplify:peraton:e6d169c5-4031-467b-a077-10fc12f8df10": {
 "checked": "2026-10-19",
@@ -39158,6 +39630,24 @@
 "title": "Research Intern",
 "url": "https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true"
 },
+"simplify:pretium:dff0eb47-2fa8-4636-9c21-34ff0fca9959": {
+"checked": "2026-10-31",
+"company": "Pretium",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443225,
+"flags": [],
+"key": "pretium|ai data innovation intern",
+"last_seen": "2026-10-31",
+"locations": [
+"NYC"
+],
+"posted_ts": 1791312596,
+"rolling": false,
+"src": "simplify",
+"title": "AI, Data & Innovation Intern",
+"url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002"
+},
 "simplify:primer:a5f886cf-d5b6-41ac-9bfc-98833aff9bb6": {
 "checked": "2026-10-26",
 "company": "Primer",
@@ -39431,6 +39921,60 @@
 "src": "simplify",
 "title": "Arena Engineering Intern",
 "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955"
+},
+"simplify:publicis groupe:0706bb2f-8031-40cc-9e45-2952f9353f95": {
+"checked": "2026-10-31",
+"company": "Publicis Groupe",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244345,
+"flags": [],
+"key": "publicis groupe|software engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1788965700,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://publicisgroupe.jibeapply.com/jobs/172577?icims=1"
+},
+"simplify:publicis groupe:86741bed-09a2-4ca8-b7f9-be2c6f5019d1": {
+"checked": "2026-10-31",
+"company": "Publicis Groupe",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.244348,
+"flags": [],
+"key": "publicis groupe|software engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Irving, TX"
+],
+"posted_ts": 1788894060,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://publicisgroupe.jibeapply.com/jobs/173034?icims=1"
+},
+"simplify:publicis groupe:88eaf5f9-1259-44ff-ab84-75c4d2d6eb63": {
+"checked": "2026-10-31",
+"company": "Publicis Groupe",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2443419,
+"flags": [],
+"key": "publicis groupe|software engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1788894060,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1"
 },
 "simplify:publicis groupe:ef40c957-572d-4f46-9bab-b7378678804d": {
 "checked": "2026-10-27",
@@ -46419,6 +46963,42 @@
 "src": "simplify",
 "title": "Technical Engineering Intern",
 "url": "https://synopsys.avature.net/careers/JobDetail/19536"
+},
+"simplify:systems planning and analysis:1000756a-02f1-412a-94b0-5ebdad09465d": {
+"checked": "2026-10-31",
+"company": "Systems Planning and Analysis",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444205,
+"flags": [],
+"key": "systems planning and analysis|data engineering analytics tools intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Washington, DC"
+],
+"posted_ts": 1792186320,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineering & Analytics Tools Intern",
+"url": "https://spa.jibeapply.com/jobs/23634?icims=1"
+},
+"simplify:systems planning and analysis:f4f35bed-74e7-4e07-a1ef-07c8f4fbf615": {
+"checked": "2026-10-31",
+"company": "Systems Planning and Analysis",
+"deadline": null,
+"first_seen": "2026-10-31",
+"first_seen_ts": 1793445033.2444158,
+"flags": [],
+"key": "systems planning and analysis|data engineer intern",
+"last_seen": "2026-10-31",
+"locations": [
+"Alexandria, VA"
+],
+"posted_ts": 1793223900,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://spa.jibeapply.com/jobs/23698?icims=1"
 },
 "simplify:t-mobile:06cae492-38dc-4006-8d0c-4e89e122c1f5": {
 "checked": "2026-10-29",

@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-10-31 · 1879 roles · 206 with a stated deadline · 67 rolling
+Updated 2026-10-31 · 1911 roles · 206 with a stated deadline · 67 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -286,7 +286,7 @@ Updated 2026-10-31 · 1879 roles · 206 with a stated deadline · 67 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1708)
+## Everyone else (1740)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@ Updated 2026-10-31 · 1879 roles · 206 with a stated deadline · 67 rolling
 | Keysight Technologies | [Quality Engineer Intern](https://jobs.keysight.com/jobs/54736?icims=1) | Roseville, CA | — | 2026-10-31 |  |
 | Lila Sciences | [AI-Driven Equation Discovery Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) | Cambridge, MA, SF | — | 2026-10-31 |  |
 | The New York Times | [Backend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005) | NYC | — | 2026-10-31 |  |
+| First Citizens BancShares | [Summer Intern - AI Innovation](https://firstcitizens.jibeapply.com/jobs/36311?icims=1) | Raleigh, NC | — | 2026-10-31 |  |
 | ASML | [Product Engineer Computational Model Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Product-Engineer-Computational-Model_J-00355245) | San Jose, CA | Nov 30 (30d) | 2026-10-31 |  |
 | Barclays | [Client Data & Engineering Group Summer Intern - Chief Client Office](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731) | NYC | — | 2026-10-31 |  |
 | Dow Jones | [Data Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894) | NYC | Nov 13 (13d) | 2026-10-31 |  |
@@ -317,15 +318,46 @@ Updated 2026-10-31 · 1879 roles · 206 with a stated deadline · 67 rolling
 | University of Miami | [Data Science & AI Intern](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144) | Miami, FL | — | 2026-10-31 |  |
 | University of Miami | [Data Science & AI Intern](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549) | Miami, FL | — | 2026-10-31 |  |
 | VSP Vision | [AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072) | Remote in USA | **Nov 6 (6d)** | 2026-10-31 |  |
+| AXA | [Underwriting Data & Analytics Intern](https://careers.axa.com/jobs/25498?icims=1) | NYC | — | 2026-10-31 |  |
+| Systems Planning and Analysis | [Data Engineer Intern](https://spa.jibeapply.com/jobs/23698?icims=1) | Alexandria, VA | — | 2026-10-31 |  |
 | Protagonist | [Software Engineer Intern](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) | Washington, DC | — | 2026-10-31 |  |
+| First Citizens BancShares | [Data Analyst Intern - Enterprise Data Analyst - Data Products](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) | Raleigh, NC | — | 2026-10-31 |  |
 | NextToken | [Applied Research Intern](https://jobs.ashbyhq.com/nexttoken/f202a966-912e-40b8-b55a-8cca851eef5e/application?embed=true) | SF, Mountain View, CA | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1) | NYC | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Software Engineering Intern](https://ice.jibeapply.com/jobs/14075?icims=1) | Jacksonville, FL | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Integration Intern](https://ice.jibeapply.com/jobs/14071?icims=1) | Jacksonville, FL | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Index Analyst Intern](https://ice.jibeapply.com/jobs/14100?icims=1) | NYC | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Audit Analytics Intern](https://ice.jibeapply.com/jobs/14069?icims=1) | Atlanta, GA | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Quantitative Financial Analytics Intern](https://ice.jibeapply.com/jobs/14055?icims=1) | Atlanta, GA | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Software Engineer Intern](https://ice.jibeapply.com/jobs/14105?icims=1) | NYC | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Quantitative Research Intern](https://ice.jibeapply.com/jobs/14057?icims=1) | Atlanta, GA | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Agentic AI Data Science Intern](https://ice.jibeapply.com/jobs/14070?icims=1) | Jacksonville, FL | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Financial Engineering Intern](https://ice.jibeapply.com/jobs/14059?icims=1) | Atlanta, GA | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Trading System Development Intern](https://ice.jibeapply.com/jobs/14102?icims=1) | NYC | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Data Analyst Intern](https://ice.jibeapply.com/jobs/14089?icims=1) | Jacksonville, FL | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Regulatory Products Intern](https://ice.jibeapply.com/jobs/14101?icims=1) | NYC | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Software Engineer Intern - Java](https://ice.jibeapply.com/jobs/14078?icims=1) | Jacksonville, FL | — | 2026-10-31 |  |
+| Intercontinental Exchange | [Software Engineer Intern](https://ice.jibeapply.com/jobs/14077?icims=1) | Jacksonville, FL | — | 2026-10-31 |  |
+| Systems Planning and Analysis | [Data Engineering & Analytics Tools Intern](https://spa.jibeapply.com/jobs/23634?icims=1) | Washington, DC | — | 2026-10-31 |  |
 | AiDash | [Software Engineer Intern - Backend](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | Palo Alto, CA | — | 2026-10-31 |  |
+| Peraton | [Mission Systems Software and Edge Computing Intern](https://peraton.jibeapply.com/jobs/172378?icims=1) | Oklahoma | — | 2026-10-31 |  |
+| Peraton | [Software Developer Intern](https://peraton.jibeapply.com/jobs/172061?icims=1) | Topeka, KS | — | 2026-10-31 |  |
+| Pretium | [AI, Data & Innovation Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002) | NYC | — | 2026-10-31 |  |
 | Farmers Mutual Hail | [Data Architect Intern](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009) | West Des Moines, IA | — | 2026-10-31 |  |
+| Peraton | [Software Engineering Co-op](https://peraton.jibeapply.com/jobs/171547?icims=1) | San Diego, CA | — | 2026-10-31 |  |
+| Peraton | [Sustainability Engineer Co-op](https://peraton.jibeapply.com/jobs/171537?icims=1) | San Diego, CA | — | 2026-10-31 |  |
 | Brain Co. | [Machine Learning Engineer – Applied AI Intern](https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true) | SF | — | 2026-10-31 |  |
 | SESCO | [Quantitative Research and Trading Intern](https://job-boards.greenhouse.io/sesco/jobs/4284446009) | Pittsburgh, PA | — | 2026-10-31 |  |
 | Brain Co. | [AI Platform Engineer Intern](https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true) | SF | — | 2026-10-31 |  |
 | Brain Co. | [AI Product Intern](https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true) | SF | — | 2026-10-31 |  |
 | Farmers Mutual Hail | [Software Developer Intern](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009) | West Des Moines, IA | — | 2026-10-31 |  |
+| Publicis Groupe | [Software Engineer Intern](https://publicisgroupe.jibeapply.com/jobs/172577?icims=1) | Boston, MA | — | 2026-10-31 |  |
+| Peraton | [Data Science Intern](https://peraton.jibeapply.com/jobs/170320?icims=1) | Blacksburg, VA, Herndon, VA | — | 2026-10-31 |  |
+| Publicis Groupe | [Software Engineer Intern](https://publicisgroupe.jibeapply.com/jobs/173032?icims=1) | Chicago, IL | — | 2026-10-31 |  |
+| Publicis Groupe | [Software Engineer Intern](https://publicisgroupe.jibeapply.com/jobs/173034?icims=1) | Irving, TX | — | 2026-10-31 |  |
+| Peraton | [Software Engineer Intern](https://peraton.jibeapply.com/jobs/169665?icims=1) | Blacksburg, VA, Herndon, VA | — | 2026-10-31 |  |
+| Blackhawk Network Holdings | [Technology Intern](https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1) | Coppell, TX | — | 2026-10-31 |  |
+| Blackhawk Network Holdings | [Technology Intern](https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1) | Pleasanton, CA | — | 2026-10-31 |  |
 | Astera Labs | [AI Product Management Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005) | San Jose, CA | — | 2026-10-30 |  |
 | AtriCure | [IT ERP Data Migration Co-op](https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009) | Mason, OH | — | 2026-10-30 |  |
 | Johns Hopkins Applied Physics Laboratory | [Robotics Engineer Intern - Maritime Systems](https://careers.jhuapl.edu/jobs/60742?icims=1) | Laurel, MD | — | 2026-10-30 |  |
