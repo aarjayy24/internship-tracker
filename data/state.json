@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-01",
@@ -2709,14 +2707,14 @@
 "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
 },
 "microsoft:microsoft:1970393556922930": {
-"checked": "2026-10-08",
+"checked": "2026-11-01",
 "company": "Microsoft",
 "deadline": null,
 "first_seen": "2026-10-01",
 "first_seen_ts": 1790874329.5472558,
 "flags": [],
 "key": "microsoft|software engineer security identity intern opportunities for university students redmond",
-"last_seen": "2026-10-08",
+"last_seen": "2026-11-01",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -22465,7 +22463,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-10-31",
+"last_seen": "2026-11-01",
 "locations": [
 "NYC"
 ],
@@ -22501,7 +22499,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-10-31",
+"last_seen": "2026-11-01",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -22519,7 +22517,7 @@
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-10-31",
+"last_seen": "2026-11-01",
 "locations": [
 "Dallas, TX"
 ],
