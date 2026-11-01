@@ -50968,6 +50968,24 @@
 "title": "Safety Intern",
 "url": "https://careers.trccompanies.com/jobs/27074?icims=1"
 },
+"simplify:trg:406b0816-39b7-4e44-bdd9-17030f08c8f2": {
+"checked": "2026-11-01",
+"company": "TRG",
+"deadline": null,
+"first_seen": "2026-11-01",
+"first_seen_ts": 1793562657.7620301,
+"flags": [],
+"key": "trg|full stack application developer intern",
+"last_seen": "2026-11-01",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1793545518,
+"rolling": false,
+"src": "simplify",
+"title": "Full Stack Application Developer Intern",
+"url": "https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US"
+},
 "simplify:trimble:ca3d442d-982e-4251-b443-6e607ffd2504": {
 "checked": "2026-10-27",
 "company": "Trimble",
