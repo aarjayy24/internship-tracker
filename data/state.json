@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-01",
@@ -17406,14 +17408,14 @@
 "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
 },
 "simplify:edison international:344f9541-1bdc-41ab-8c57-ba63a9e11517": {
-"checked": "2026-10-23",
+"checked": "2026-11-01",
 "company": "Edison International",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9928246,
 "flags": [],
 "key": "edison international|computer science intern",
-"last_seen": "2026-10-25",
+"last_seen": "2026-11-01",
 "locations": [
 "Alhambra, CA",
 "Pomona, CA",
@@ -26216,7 +26218,7 @@
 "first_seen_ts": 1792164897.6727147,
 "flags": [],
 "key": "infinitequant|quantitative developer intern",
-"last_seen": "2026-10-31",
+"last_seen": "2026-11-01",
 "locations": [
 "Dubai - United Arab Emirates",
 "NYC"
