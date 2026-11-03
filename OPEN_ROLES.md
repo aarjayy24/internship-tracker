@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
+Updated 2026-11-03 · 1904 roles · 188 with a stated deadline · 70 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -87,18 +87,19 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | Nov 14 (11d) | The Federal Reserve System | [Innovation Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) | Atlanta, GA |
 | Nov 15 (12d) | Vertex Pharmaceuticals | [Commercial Analytics Co-op - Commercial Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1) | Boston, MA |
 
-## ⭐ Top companies (168)
+## ⭐ Top companies (169)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Meta | [Research Scientist Intern - FM Quality ML](https://www.metacareers.com/jobs/1125383989877928) | Menlo Park, CA | — | 2026-11-03 |  |
 | Meta | [Research Scientist Intern - PAR Safety Evals and Red Teaming](https://www.metacareers.com/jobs/1272664685039241) | Menlo Park, CA, NYC | — | 2026-11-03 |  |
 | Meta | [Research Scientist Intern - Robotic Control Policy](https://www.metacareers.com/jobs/1872420890835857) | Redmond, WA | — | 2026-11-03 |  |
 | Meta | [Research Scientist Intern - Interactive Physics Simulation for Robotics](https://www.metacareers.com/jobs/1143164681833409) | Redmond, WA | — | 2026-11-03 |  |
 | Microsoft | [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557044764) | United States | rolling | 2026-11-03 |  |
 | Microsoft | [Research Intern - Foundational Models & Agent](https://apply.careers.microsoft.com/careers/job/1970393557052982) | Redmond, WA | rolling | 2026-11-03 |  |
 | Microsoft | [Software Engineer: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557044764) | Aliso Viejo, CA, US | rolling | 2026-11-03 |  |
-| NVIDIA | [Math Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) | Canada, Santa Clara, CA, United States | — | 2026-11-03 |  |
 | NVIDIA | [AI Compiler and Kernel Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) | Austin, TX | — | 2026-11-03 |  |
+| NVIDIA | [Math Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) | Canada, Santa Clara, CA, United States | — | 2026-11-03 |  |
 | Meta | [Research Scientist Intern - Video Recsys](https://www.metacareers.com/jobs/1553890293163197) | Menlo Park, CA | — | 2026-10-31 |  |
 | Amazon | [Software Development Engineer Intern](https://amazon.jobs/en/jobs/10593872/software-development-engineer) | Cupertino, CA | — | 2026-10-31 |  |
 | Amazon | [Software Engineer Intern - Machine Learning/Automated Reasoning](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Boston, MA, Seattle, WA, Austin, TX, Irvine, CA, Arlington C | — | 2026-10-31 |  |
@@ -260,12 +261,14 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1728)
+## Everyone else (1735)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Two Six Technologies | [Research Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004) | Arlington County, Arlington, VA | — | 2026-11-03 |  |
 | Paccar | [Software Developer Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors) | Denton, TX | — | 2026-11-03 |  |
 | onepot | [Machine Learning Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) | South SF | — | 2026-11-03 |  |
+| Mosaic | [Artificial Intelligence Co-op Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420) | Lithia, FL | Dec 17 (44d) | 2026-11-03 |  |
 | Koch Industries | [Project Controls Analyst Co-op](https://koch.avature.net/en_US/careers/JobDetail/197162) | Wichita, KS | — | 2026-11-03 |  |
 | Costco | [CDS Intern - Innovation](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10998) | Issaquah, WA | — | 2026-11-03 |  |
 | Costco | [CDS Intern - Software Engineer - IT Retail Media](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013) | Issaquah, WA | — | 2026-11-03 |  |
@@ -318,6 +321,7 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | Epic Games | [Tools Programmer Intern - Graphics](https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004) | Cary, NC | — | 2026-11-03 |  |
 | Costco | [CDS Intern - ECM Platform Management](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11010) | Issaquah, WA | — | 2026-11-03 |  |
 | Costco | [Software Developer Intern - Software Engineer - Costco Travel](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021) | Issaquah, WA | — | 2026-11-03 |  |
+| ICF International | [Energy Researcher Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418) | Arlington County, Arlington, VA, Reston, VA, NYC | — | 2026-11-03 |  |
 | First Citizens BancShares | [Data Analyst Intern - Enterprise Data Analyst - Data Products](https://firstcitizens.jibeapply.com/jobs/36234?icims=1) | Raleigh, NC | — | 2026-11-02 |  |
 | ParetoHealth | [Software Engineer Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) | Philadelphia, PA | — | 2026-11-02 |  |
 | ParetoHealth | [Analytics Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) | Philadelphia, PA | — | 2026-11-02 |  |
@@ -449,6 +453,7 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | KLA | [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721) | Milpitas, CA | — | 2026-10-29 |  |
 | PTC | [Arena Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955) | San Mateo, CA | — | 2026-10-29 |  |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791) | Sterling, VA | **Nov 3 (today)** | 2026-10-29 |  |
+| RTX | [Sustainment Data and Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110) | East Hartford, CT | ~~Oct 31~~ passed, still listed | 2026-10-29 |  |
 | Sallie Mae | [Data Science and Engineering Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) | Newark, DE, Arlington County, Arlington, VA | — | 2026-10-29 |  |
 | Sanofi | [US Advanced Analytics Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218) | Cambridge, MA, Morristown, NJ | **Nov 5 (2d)** | 2026-10-29 |  |
 | Schweitzer Engineering Laboratories | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468) | Charlotte, NC | — | 2026-10-29 |  |
@@ -928,6 +933,7 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | ICF International | [AI Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521) | Reston, VA | — | 2026-10-15 |  |
 | ICF International | [Software Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) | Reston, VA | — | 2026-10-15 |  |
 | Jain Global | [Compliance Technology Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607) | NYC | — | 2026-10-15 |  |
+| LSEG | [Software Engineer Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1) | NYC | rolling | 2026-10-15 |  |
 | Nissan Global | [AI Robotics Research Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267) | Santa Clara, CA | — | 2026-10-15 |  |
 | Nissan Global | [People Analytics Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/People-Analytics-Intern---Summer-2027---Franklin--TN_R00214301) | Franklin, TN | — | 2026-10-15 |  |
 | Snap | [Generative Media Research Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | LA | — | 2026-10-15 |  |
@@ -1165,6 +1171,7 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | TikTok | [Client Solutions Intern](https://lifeattiktok.com/search/7677467052537776437) | San Jose, CA | — | 2026-10-04 |  |
 | Fannie Mae | [Technology Program Intern](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810) | Plano, TX, Reston, VA | — | 2026-10-04 |  |
 | TikTok | [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) | San Jose, CA | — | 2026-10-04 |  |
+| Nebius | [ML Solution Architect Intern](https://careers.nebius.com/?gh_jid=4883829101) | Remote in USA | — | 2026-10-04 |  |
 | TikTok | [Leave of Absence Analyst Project Intern](https://lifeattiktok.com/search/7662343067223263541) | San Jose, CA | — | 2026-10-04 |  |
 | ByteDance | [Student Researcher - AI Foundation Model Infrastructure](https://jobs.bytedance.com/en/position/7623552947364317445/detail) | Seattle, WA | — | 2026-10-04 |  |
 | Arc | [Software Engineer Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) | Torrance, CA | — | 2026-10-03 |  |
@@ -1696,6 +1703,7 @@ Updated 2026-11-03 · 1896 roles · 186 with a stated deadline · 69 rolling
 | C3.ai | [Software Engineer Intern](https://c3.ai/job-description/8739037002?gh_jid=8739037002) | Redwood City, CA | — | 2026-09-28 |  |
 | Robert Bosch Venture Capital | [Calibration Process Data Science Intern - 8 months/40 hours per week](https://jobs.smartrecruiters.com/BoschGroup/744000146524429) | Farmington Hills, MI | — | 2026-09-28 |  |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19858?icims=1) | Chandler, AZ | — | 2026-09-28 |  |
+| Arch Capital Group | [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) | Farmington, CT | — | 2026-09-28 |  |
 | CACI | [Software Engineer Co-op - Summer & Fall 2027](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354) | Danbury, CT | — | 2026-09-28 |  |
 | Cardinal Health | [Data and Analytics Intern - Summer 2027](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913) | Dublin, OH | — | 2026-09-28 |  |
 | DraftKings | [Analytics Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR14927) | Boston, MA | — | 2026-09-28 |  |

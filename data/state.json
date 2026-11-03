@@ -7127,14 +7127,14 @@
 "url": "https://careers.arcfield.com/jobs/8759?icims=1"
 },
 "simplify:arch capital group:483a6e7d-49d9-4b1b-823b-1c0e3be6b318": {
-"checked": "2026-10-17",
+"checked": "2026-11-03",
 "company": "Arch Capital Group",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9923072,
 "flags": [],
 "key": "arch capital group|data and analytics intern",
-"last_seen": "2026-10-19",
+"last_seen": "2026-11-03",
 "locations": [
 "Farmington, CT"
 ],
@@ -12760,7 +12760,7 @@
 "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710"
 },
 "simplify:centerstone:d1de8028-28e6-48cb-8e97-084b44da57ce": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Centerstone",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -14024,7 +14024,7 @@
 "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549"
 },
 "simplify:cohesity:b3b5266a-b857-4999-8c6f-daa45fa2c9e6": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Cohesity",
 "deadline": "2027-01-31",
 "first_seen": "2026-10-27",
@@ -16713,7 +16713,7 @@
 "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Asset-Analyst-(Digital-Solutions-Team)-VA-23060/1441549200/?ats=successfactors"
 },
 "simplify:dominion energy:78b657c3-9149-493f-b46d-abe43d480e0a": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Dominion Energy",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -18762,7 +18762,7 @@
 "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Computer-Vision---3D-Asset-Reconstruction-Student-Employee_REQ-4012"
 },
 "simplify:eqt corporation:018f57c0-2519-4072-80fe-679c055ee4d6": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "EQT Corporation",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -21560,7 +21560,7 @@
 "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Data-Science-Intern---Summer-2027_JR17001"
 },
 "simplify:generac:224fe741-c383-4815-9832-c2d6f6e1096f": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Generac",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -24768,7 +24768,7 @@
 "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175"
 },
 "simplify:highmark health:bfbf3ca8-38df-48d8-9039-e1b886870dca": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Highmark Health",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -24854,7 +24854,7 @@
 "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812"
 },
 "simplify:highmark health:c917f0bc-a8d2-4468-ad7c-573f62b007bd": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Highmark Health",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -26078,6 +26078,26 @@
 "src": "simplify",
 "title": "Data Analytics Intern",
 "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1"
+},
+"simplify:icf international:59dcdcf5-e048-4e2b-99c1-024440a01f9a": {
+"checked": "2026-11-03",
+"company": "ICF International",
+"deadline": null,
+"first_seen": "2026-11-03",
+"first_seen_ts": 1793724768.6700912,
+"flags": [],
+"key": "icf international|energy researcher intern",
+"last_seen": "2026-11-03",
+"locations": [
+"Arlington County, Arlington, VA",
+"Reston, VA",
+"NYC"
+],
+"posted_ts": 1791417600,
+"rolling": false,
+"src": "simplify",
+"title": "Energy Researcher Intern",
+"url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418"
 },
 "simplify:icf international:73395dc9-ae40-45b9-b46a-7c823d29cc98": {
 "checked": "2026-10-28",
@@ -27957,7 +27977,7 @@
 "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002"
 },
 "simplify:jm family:449e7a2b-969a-4ba0-9cdd-34a30c283b96": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "JM Family",
 "deadline": "2026-11-07",
 "first_seen": "2026-10-27",
@@ -28925,7 +28945,7 @@
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038"
 },
 "simplify:jp morgan chase:d6943265-b3db-43a3-84ab-48acea19c07d": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "JP Morgan Chase",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -30559,7 +30579,7 @@
 "url": "https://jobs.smartrecruiters.com/LLNL/3743990016165496"
 },
 "simplify:lawrence livermore national laboratory (llnl):f3d3f266-8dd3-4d3a-b387-6431187b5e2a": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Lawrence Livermore National Laboratory (LLNL)",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -31621,14 +31641,14 @@
 "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1"
 },
 "simplify:lseg:81f6a6a0-ca1b-4a27-aafa-49735204bc0e": {
-"checked": "2026-10-22",
+"checked": "2026-11-03",
 "company": "LSEG",
 "deadline": null,
 "first_seen": "2026-10-15",
 "first_seen_ts": 1792023782.6573,
 "flags": [],
 "key": "lseg|software engineer intern",
-"last_seen": "2026-10-26",
+"last_seen": "2026-11-03",
 "locations": [
 "NYC"
 ],
@@ -32307,7 +32327,7 @@
 "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879"
 },
 "simplify:mayo clinic:51056e1e-d945-4e0d-a103-a44b919853a3": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Mayo Clinic",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -33970,6 +33990,24 @@
 "title": "Research Scientist Intern",
 "url": "https://www.metacareers.com/jobs/1136354555738164"
 },
+"simplify:meta:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6": {
+"checked": "2026-11-03",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-11-03",
+"first_seen_ts": 1793724768.670101,
+"flags": [],
+"key": "meta|research scientist intern fm quality ml",
+"last_seen": "2026-11-03",
+"locations": [
+"Menlo Park, CA"
+],
+"posted_ts": 1793718516,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - FM Quality ML",
+"url": "https://www.metacareers.com/jobs/1125383989877928"
+},
 "simplify:meta:e50fa178-851f-4e56-89df-f9ac78ff23a4": {
 "checked": "2026-10-28",
 "company": "Meta",
@@ -35172,6 +35210,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Military Aircraft",
 "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+},
+"simplify:mosaic:0fafd493-8e5a-4e86-87ae-617311283122": {
+"checked": "2026-11-03",
+"company": "Mosaic",
+"deadline": "2026-12-17",
+"first_seen": "2026-11-03",
+"first_seen_ts": 1793724768.6701083,
+"flags": [],
+"key": "mosaic|artificial intelligence co op intern",
+"last_seen": "2026-11-03",
+"locations": [
+"Lithia, FL"
+],
+"posted_ts": 1793664000,
+"rolling": false,
+"src": "simplify",
+"title": "Artificial Intelligence Co-op Intern",
+"url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"
 },
 "simplify:motorola solutions:d961770e-2db5-4501-bd6a-d25420fa4238": {
 "checked": "2026-11-03",
@@ -36431,14 +36487,14 @@
 "url": "https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101"
 },
 "simplify:nebius:b380c306-bed2-4e4a-8c77-71a792a86621": {
-"checked": "2026-10-04",
+"checked": "2026-11-03",
 "company": "Nebius",
 "deadline": null,
 "first_seen": "2026-10-04",
 "first_seen_ts": 1791116946.5000656,
 "flags": [],
 "key": "nebius|ml solution architect intern",
-"last_seen": "2026-10-07",
+"last_seen": "2026-11-03",
 "locations": [
 "Remote in USA"
 ],
@@ -36667,7 +36723,7 @@
 "url": "https://jobs.ashbyhq.com/nexttoken/f202a966-912e-40b8-b55a-8cca851eef5e/application?embed=true"
 },
 "simplify:niantic spatial:3619b4c7-53d4-4dcc-aa54-3f79280248ed": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Niantic Spatial",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -37011,7 +37067,7 @@
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223"
 },
 "simplify:nissan:ba6baa73-28e0-4b0f-b45d-543363c573e1": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Nissan",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -43226,7 +43282,7 @@
 "first_seen_ts": 1793317067.859409,
 "flags": [],
 "key": "rtx|sustainment data and analytics intern",
-"last_seen": "2026-10-31",
+"last_seen": "2026-11-03",
 "locations": [
 "East Hartford, CT"
 ],
@@ -45941,7 +45997,7 @@
 "url": "https://job-boards.greenhouse.io/sesco/jobs/4284446009"
 },
 "simplify:sherwin-williams:1def6b3e-6143-4509-9f6c-ca677a3669ec": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Sherwin-Williams",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -46825,7 +46881,7 @@
 "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application?embed=true"
 },
 "simplify:skydio:af44a97e-7851-4c17-95b2-1f4d3f8e5d53": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Skydio",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -46915,7 +46971,7 @@
 "url": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true"
 },
 "simplify:skydio:ed3c7432-cc98-43bc-8361-acf4b6d1672b": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Skydio",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -49385,7 +49441,7 @@
 "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622"
 },
 "simplify:the federal reserve system:5f0aa1ea-dfb4-4cfb-8224-5f3d9fd07cf0": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "The Federal Reserve System",
 "deadline": "2026-11-21",
 "first_seen": "2026-10-27",
@@ -51999,7 +52055,7 @@
 "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818"
 },
 "simplify:tradeweb:c13ba061-0f47-4ed1-a1b5-adfb21b32a66": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Tradeweb",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -52356,6 +52412,24 @@
 "src": "simplify",
 "title": "Quantitative Researcher Intern",
 "url": "https://twosigma.avature.net/careers/JobDetail/13945"
+},
+"simplify:two six technologies:8e77f653-a96d-4c5f-abc0-06ffb62f8a73": {
+"checked": "2026-11-03",
+"company": "Two Six Technologies",
+"deadline": null,
+"first_seen": "2026-11-03",
+"first_seen_ts": 1793724768.6701128,
+"flags": [],
+"key": "two six technologies|research intern",
+"last_seen": "2026-11-03",
+"locations": [
+"Arlington County, Arlington, VA"
+],
+"posted_ts": 1793714374,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern",
+"url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004"
 },
 "simplify:two six technologies:bfa01257-724c-4c7e-9a32-1bd1a99d9b9e": {
 "checked": "2026-10-29",
@@ -54031,7 +54105,7 @@
 "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
 },
 "simplify:visa:08f0c2cf-eaef-46a2-a967-d9b0af6ca50b": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54049,7 +54123,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W"
 },
 "simplify:visa:27ce0059-c008-45e2-93c4-f9e612b9f8e8": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54067,7 +54141,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
 },
 "simplify:visa:394fd625-992b-45aa-9d72-e2ae53a17bf3": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54085,7 +54159,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
 },
 "simplify:visa:4bc03fa9-1a0f-4972-b9ba-e0f07d3372ff": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54103,7 +54177,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W"
 },
 "simplify:visa:58b2fdc7-432f-48f0-80a9-5e970ba2b3e0": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54121,7 +54195,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1"
 },
 "simplify:visa:6575060e-aaff-40ad-933f-71de9e71e926": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": "2026-11-05",
 "first_seen": "2026-10-27",
@@ -54139,7 +54213,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1"
 },
 "simplify:visa:6700105f-c97f-4e96-a186-4814ab00fa72": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": "2026-11-06",
 "first_seen": "2026-10-27",
@@ -54157,7 +54231,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W"
 },
 "simplify:visa:78503d4f-7c6f-45bb-bad9-1bd6eadd974b": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54175,7 +54249,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
 },
 "simplify:visa:7d6d0c79-df4a-4100-b0e6-68dc43dade2a": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54193,7 +54267,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W"
 },
 "simplify:visa:86cb1b02-b094-4e5e-94bf-bb2c80d2c69e": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54211,7 +54285,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W"
 },
 "simplify:visa:9b71b062-0254-4731-8c73-14ea6becaeb3": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": "2026-11-06",
 "first_seen": "2026-10-27",
@@ -54229,7 +54303,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"
 },
 "simplify:visa:aaed6a57-f590-49ac-8e77-d080f6f2de89": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": "2026-11-05",
 "first_seen": "2026-10-27",
@@ -54247,7 +54321,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W"
 },
 "simplify:visa:aecfefcb-c6a4-4161-ac54-0464570e82a9": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54265,7 +54339,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"
 },
 "simplify:visa:b6f3c11d-afce-4ebd-b16f-8f3bfb75b164": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54283,7 +54357,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1"
 },
 "simplify:visa:be8d5807-1506-4439-94ef-cbbc4820f02b": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": "2026-11-06",
 "first_seen": "2026-10-27",
@@ -54301,7 +54375,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W"
 },
 "simplify:visa:d03f3f61-cfe8-441f-90db-b9831bc5205c": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54319,7 +54393,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W"
 },
 "simplify:visa:d23757ff-eac9-4620-bfc5-fc65e0a43ed5": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": "2026-11-06",
 "first_seen": "2026-10-27",
@@ -54337,7 +54411,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"
 },
 "simplify:visa:e0a98377-2ab5-44f4-a19a-bb11a98699a1": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54355,7 +54429,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1"
 },
 "simplify:visa:ea89ecc3-ebf3-48b1-8f0a-a496dfa9755b": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -54373,7 +54447,7 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W"
 },
 "simplify:visa:f5506af0-7205-497f-8afc-70c81179f25a": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Visa",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -57297,7 +57371,7 @@
 "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630"
 },
 "simplify:zillow:f51fcb61-d19e-4ed3-81ec-258f5931b9db": {
-"checked": "2026-10-27",
+"checked": "2026-11-03",
 "company": "Zillow",
 "deadline": null,
 "first_seen": "2026-10-27",
