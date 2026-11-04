@@ -10871,14 +10871,14 @@
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985"
 },
 "simplify:boston scientific:80c856e0-3ec4-4026-9444-8ee61d28bf1e": {
-"checked": "2026-10-13",
+"checked": "2026-11-04",
 "company": "Boston Scientific",
 "deadline": null,
 "first_seen": "2026-10-06",
 "first_seen_ts": 1791302355.6906044,
 "flags": [],
 "key": "boston scientific|equipment engineering ai vision engineer intern",
-"last_seen": "2026-10-16",
+"last_seen": "2026-11-04",
 "locations": [
 "Maple Grove, MN"
 ],
@@ -38033,6 +38033,24 @@
 "title": "Software Digital Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812"
 },
+"simplify:northrop grumman:354fa9d8-b057-4738-8d2f-90507d404a89": {
+"checked": "2026-11-04",
+"company": "Northrop Grumman",
+"deadline": "2026-11-07",
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793784453.8447175,
+"flags": [],
+"key": "northrop grumman|software embedded engineering intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Sykesville, MD"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Embedded Engineering Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553"
+},
 "simplify:northrop grumman:68217e56-5307-4ded-9c96-bce5facd81df": {
 "checked": "2026-10-22",
 "company": "Northrop Grumman",
@@ -45203,6 +45221,24 @@
 "src": "simplify",
 "title": "Software Engineering Intern",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+},
+"simplify:rtx:f146a3b4-2917-4401-b676-6fcd54b001cd": {
+"checked": "2026-11-04",
+"company": "RTX",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793784453.8447294,
+"flags": [],
+"key": "rtx|control diagnostic software intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Jupiter, FL"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "Control/Diagnostic Software Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840"
 },
 "simplify:rtx:f1498361-ba76-45f9-9d85-dfac75b061a9": {
 "company": "RTX",
