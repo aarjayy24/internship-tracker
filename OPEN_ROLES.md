@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
+Updated 2026-11-04 · 1903 roles · 202 with a stated deadline · 72 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (85)
+## ⏰ Deadlines in the next 14 days (90)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -47,6 +47,10 @@ Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
 | **Nov 7 (3d)** | JM Family | [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158) | Deerfield Beach, FL |
 | **Nov 7 (3d)** | Johnson & Johnson | [Strategic Insight and Analytics Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) | Horsham, PA |
 | **Nov 7 (3d)** | Northrop Grumman | [Software Embedded Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) | Sykesville, MD |
+| **Nov 7 (3d)** | Zebra Technologies | [Software Engineer Intern - AI Features & Product Convergence](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636) | Kennesaw, GA |
+| **Nov 7 (3d)** | Zebra Technologies | [Systems Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) | Germantown, MD |
+| **Nov 7 (3d)** | Zebra Technologies | [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645) | Holtsville, NY |
+| **Nov 7 (3d)** | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181) | Roy, UT |
 | **Nov 9 (5d)** | Caterpillar | [Corporate Intern - Autonomy & Intelligent Systems Engineering](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394) | Peoria, IL, SF, Pittsburgh, PA, Mossville, IL, Irving, TX |
 | **Nov 9 (5d)** | Caterpillar | [Corporate Intern - Digital and Analytics](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Digital-and-Analytics_R0000392335) | Peoria, IL, Chicago, IL, Irving, TX |
 | **Nov 9 (5d)** | Johnson & Johnson | [IDAR Summer Intern - C&SP](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--C-SP-_R-103534) | Spring House, PA, Raritan, NJ, Hopewell Township, NJ |
@@ -93,14 +97,16 @@ Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
 | Nov 14 (10d) | Guardian Life | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ, NYC, Bethlehem, PA |
 | Nov 14 (10d) | The Federal Reserve System | [Innovation Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) | Atlanta, GA |
 | Nov 15 (11d) | Vertex Pharmaceuticals | [Commercial Analytics Co-op - Commercial Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1) | Boston, MA |
+| Nov 16 (12d) | University Corporation for Atmospheric Research | [Data Science Student Assistant 3 Intern](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1) | Boulder, CO |
 
-## ⭐ Top companies (167)
+## ⭐ Top companies (168)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Microsoft | [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557037859) | Redmond, WA | rolling | 2026-11-04 |  |
 | Meta | [Research Scientist Intern - GenAI Safety](https://www.metacareers.com/jobs/993713283787464) | SF, Menlo Park, CA | — | 2026-11-04 |  |
 | Microsoft | [Software Engineer, Teamwork Experiences Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557037859) | Redmond, WA, US | rolling | 2026-11-04 |  |
+| Meta | [Research Scientist Intern - ML Innovation for Products](https://www.metacareers.com/jobs/1060093353751700) | Menlo Park, CA, Sunnyvale, CA | — | 2026-11-04 |  |
 | Meta | [Research Scientist Intern - FM Quality ML](https://www.metacareers.com/jobs/1125383989877928) | Menlo Park, CA | — | 2026-11-03 |  |
 | Meta | [Research Scientist Intern - PAR Safety Evals and Red Teaming](https://www.metacareers.com/jobs/1272664685039241) | Menlo Park, CA, NYC | — | 2026-11-03 |  |
 | Meta | [Research Scientist Intern - Robotic Control Policy](https://www.metacareers.com/jobs/1872420890835857) | Redmond, WA | — | 2026-11-03 |  |
@@ -266,12 +272,19 @@ Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1720)
+## Everyone else (1735)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Paccar | [Data Engineer Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors) | Denton, TX | — | 2026-11-04 |  |
+| L3Harris Technologies | [Software Engineer Intern](https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors) | Nashville, TN | — | 2026-11-04 |  |
 | Northrop Grumman | [Software Embedded Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) | Sykesville, MD | **Nov 7 (3d)** | 2026-11-04 |  |
 | RTX | [Control/Diagnostic Software Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) | Jupiter, FL | — | 2026-11-04 |  |
+| Zebra Technologies | [Software Engineer Intern - AI Features & Product Convergence](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636) | Kennesaw, GA | **Nov 7 (3d)** | 2026-11-04 |  |
+| Zebra Technologies | [Systems Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) | Germantown, MD | **Nov 7 (3d)** | 2026-11-04 |  |
+| Zebra Technologies | [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645) | Holtsville, NY | **Nov 7 (3d)** | 2026-11-04 |  |
+| Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181) | Roy, UT | **Nov 7 (3d)** | 2026-11-04 |  |
+| Parsons | [AI/ML Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194) | Centreville, VA, United States | — | 2026-11-04 |  |
 | ByteDance | [Research Scientist Intern - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7701477754169968901/detail) | San Diego, CA | — | 2026-11-04 |  |
 | Sherwin-Williams | [R&D Data Visualization Intern](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298) | Brecksville, OH | — | 2026-11-04 |  |
 | Electronic Arts | [Anticheat Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242) | Austin, TX | — | 2026-11-04 |  |
@@ -307,10 +320,14 @@ Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
 | Zebra Technologies | [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) | Holtsville, NY | — | 2026-11-04 |  |
 | Signet Jewelers | [Data Analytics Intern](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1) | Akron, OH | — | 2026-11-04 |  |
 | Signet Jewelers | [Data Analytics Intern](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) | Akron, OH | — | 2026-11-04 |  |
+| University Corporation for Atmospheric Research | [Data Science Student Assistant 3 Intern](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1) | Boulder, CO | Nov 16 (12d) | 2026-11-04 |  |
+| Lawrence Livermore National Laboratory (LLNL) | [Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute](https://jobs.smartrecruiters.com/LLNL/3743990016610216) | Livermore, CA | — | 2026-11-04 |  |
 | Engramme | [Full-Stack Software Engineer Co-op Intern](https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?embed=true) | SF | — | 2026-11-04 |  |
 | Engramme | [Machine Learning Engineer Co-op Intern](https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1/application?embed=true) | SF | — | 2026-11-04 |  |
 | Engramme | [Back-End Software Engineer Co-op Intern](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true) | SF | — | 2026-11-04 |  |
+| William Blair | [Agentic AI Development Intern](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) | Chicago, IL | — | 2026-11-04 |  |
 | Dell Technologies | [Software Engineer Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217) | Austin, TX | — | 2026-11-04 |  |
+| Saronic | [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true) | Austin, TX | — | 2026-11-04 |  |
 | Two Six Technologies | [Research Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004) | Arlington County, Arlington, VA | — | 2026-11-03 |  |
 | Paccar | [Software Developer Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors) | Denton, TX | — | 2026-11-03 |  |
 | Mosaic | [Artificial Intelligence Co-op Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420) | Lithia, FL | Dec 17 (43d) | 2026-11-03 |  |
@@ -1455,6 +1472,7 @@ Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
 | Veeam Software | [Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101) | California | — | 2026-09-28 |  |
 | Veeam Software | [Data Analytics & Programs Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101) | Georgia | — | 2026-09-28 |  |
 | Veeam Software | [Machine Learning Intern - AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) | San Jose, CA | — | 2026-09-28 |  |
+| Xcimer Energy | [Computational and Software Engineering Intern](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply) | Denver, CO | — | 2026-09-28 |  |
 | Kinder Morgan | [ESG Intern](https://careers.kindermorgan.com/jobs/6176?icims=1) | Houston, TX | — | 2026-09-28 |  |
 | Lyft | [Software Engineer Intern - Backend](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | SF | — | 2026-09-28 |  |
 | Lyft | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | NYC | — | 2026-09-28 |  |
@@ -1796,6 +1814,9 @@ Updated 2026-11-04 · 1887 roles · 197 with a stated deadline · 72 rolling
 | W.W. Grainger | [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) | Chicago, IL | — | 2026-09-28 |  |
 | TikTok | [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693) | San Jose, CA | — | 2026-09-28 |  |
 | Freeform | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | LA | — | 2026-09-28 |  |
+| Goldman Sachs | [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | Salt Lake City, UT | — | 2026-09-28 |  |
+| Goldman Sachs | [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | Dallas, TX | — | 2026-09-28 |  |
+| Goldman Sachs | [Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) | NYC | — | 2026-09-28 |  |
 | Notion | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | SF, NYC | — | 2026-09-28 |  |
 | ByteDance | [Software Engineer Intern - Global Payment Infra and SRE](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | San Jose, CA | — | 2026-09-28 |  |
 | ByteDance | [Software Engineer Intern - Global Traffic Architecture](https://jobs.bytedance.com/en/position/7672557061679483189/detail) | San Jose, CA | — | 2026-09-28 |  |

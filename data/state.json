@@ -23058,7 +23058,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-11-03",
+"last_seen": "2026-11-04",
 "locations": [
 "NYC"
 ],
@@ -23094,7 +23094,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-11-03",
+"last_seen": "2026-11-04",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -23112,7 +23112,7 @@
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-11-03",
+"last_seen": "2026-11-04",
 "locations": [
 "Dallas, TX"
 ],
@@ -30729,6 +30729,24 @@
 "title": "Software Engineering Intern",
 "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
 },
+"simplify:l3harris technologies:38d28f6f-b801-4582-8bc9-01ae596d13aa": {
+"checked": "2026-11-04",
+"company": "L3Harris Technologies",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099428,
+"flags": [],
+"key": "l3harris technologies|software engineer intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Nashville, TN"
+],
+"posted_ts": 1793804867,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors"
+},
 "simplify:l3harris technologies:468b0b25-a717-4435-bfd6-105806b9b5e4": {
 "checked": "2026-10-14",
 "company": "L3Harris Technologies",
@@ -31073,6 +31091,24 @@
 "src": "simplify",
 "title": "Critical Infrastructure Analysis Intern",
 "url": "https://jobs.smartrecruiters.com/LLNL/3743990016165496"
+},
+"simplify:lawrence livermore national laboratory (llnl):e0cf8e4d-5b4b-471a-b7ae-fb2a0930de16": {
+"checked": "2026-11-04",
+"company": "Lawrence Livermore National Laboratory (LLNL)",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099211,
+"flags": [],
+"key": "lawrence livermore national laboratory (llnl)|critical infrastructure analysis graduate intern cyber and critical infrastructure summer institute",
+"last_seen": "2026-11-04",
+"locations": [
+"Livermore, CA"
+],
+"posted_ts": 1792102118,
+"rolling": false,
+"src": "simplify",
+"title": "Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute",
+"url": "https://jobs.smartrecruiters.com/LLNL/3743990016610216"
 },
 "simplify:lawrence livermore national laboratory (llnl):f3d3f266-8dd3-4d3a-b387-6431187b5e2a": {
 "checked": "2026-11-03",
@@ -33792,6 +33828,25 @@
 "src": "simplify",
 "title": "Research Scientist Intern - PAR Safety Evals and Red Teaming",
 "url": "https://www.metacareers.com/jobs/1272664685039241"
+},
+"simplify:meta:4d207b94-6c57-4827-a7b2-35c24b64e728": {
+"checked": "2026-11-04",
+"company": "Meta",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099047,
+"flags": [],
+"key": "meta|research scientist intern ml innovation for products",
+"last_seen": "2026-11-04",
+"locations": [
+"Menlo Park, CA",
+"Sunnyvale, CA"
+],
+"posted_ts": 1793238059,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - ML Innovation for Products",
+"url": "https://www.metacareers.com/jobs/1060093353751700"
 },
 "simplify:meta:4f41f3de-17ab-49df-b857-cb501dbde8e5": {
 "checked": "2026-11-03",
@@ -38087,6 +38142,24 @@
 "title": "Software Engineer Intern",
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
 },
+"simplify:northrop grumman:715edfbe-9e25-4d5c-b17b-230a7cd1efa2": {
+"checked": "2026-11-04",
+"company": "Northrop Grumman",
+"deadline": "2026-11-07",
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099395,
+"flags": [],
+"key": "northrop grumman|software engineer intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Roy, UT"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181"
+},
 "simplify:northrop grumman:785bc0ed-564f-4e73-bdae-30e780d1629b": {
 "checked": "2026-10-14",
 "company": "Northrop Grumman",
@@ -39488,6 +39561,24 @@
 "title": "Software Engineering Intern",
 "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e"
 },
+"simplify:paccar:2f96e3d6-e7b7-4c8f-ac5d-832fdca16735": {
+"checked": "2026-11-04",
+"company": "Paccar",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099366,
+"flags": [],
+"key": "paccar|data engineer intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Denton, TX"
+],
+"posted_ts": 1793805304,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors"
+},
 "simplify:paccar:352ca30a-f20a-448d-8092-68c1f8720f68": {
 "checked": "2026-10-28",
 "company": "Paccar",
@@ -39997,6 +40088,25 @@
 "src": "simplify",
 "title": "Analytics Intern",
 "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006"
+},
+"simplify:parsons:627ccd4d-bfee-4232-9b77-c75320e6631e": {
+"checked": "2026-11-04",
+"company": "Parsons",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.709946,
+"flags": [],
+"key": "parsons|ai ml engineer intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Centreville, VA",
+"United States"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "AI/ML Engineer Intern",
+"url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194"
 },
 "simplify:parsons:64994a10-7a52-4808-b7b9-40c15e254d93": {
 "checked": "2026-10-30",
@@ -46071,6 +46181,24 @@
 "src": "simplify",
 "title": "Engineering Intern",
 "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true"
+},
+"simplify:saronic:2c0547c0-43f3-4b38-a65b-e1265d47d32a": {
+"checked": "2026-11-04",
+"company": "Saronic",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7098942,
+"flags": [],
+"key": "saronic|enterprise technology intern ai and automation",
+"last_seen": "2026-11-04",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1788993285,
+"rolling": false,
+"src": "simplify",
+"title": "Enterprise Technology Intern - AI and Automation",
+"url": "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true"
 },
 "simplify:saronic:36ded0a7-bb49-4395-ad3a-32a1fa86b8b2": {
 "checked": "2026-11-02",
@@ -53615,6 +53743,24 @@
 "title": "Software Engineer Intern - Data Analytics",
 "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
 },
+"simplify:university corporation for atmospheric research:1f9e540a-3a0e-499f-b89a-4d9b45b9f7f8": {
+"checked": "2026-11-04",
+"company": "University Corporation for Atmospheric Research",
+"deadline": "2026-11-16",
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099109,
+"flags": [],
+"key": "university corporation for atmospheric research|data science student assistant 3 intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Boulder, CO"
+],
+"posted_ts": 1793145600,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Student Assistant 3 Intern",
+"url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1"
+},
 "simplify:university of arkansas:68a407b4-f609-4594-8c72-301c689dcbe6": {
 "checked": "2026-10-29",
 "company": "University of Arkansas",
@@ -57481,6 +57627,24 @@
 "title": "Technology Intern - Wit - Data Science",
 "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242280007"
 },
+"simplify:william blair:c9bb0b72-5857-4e2b-8a56-716d3c602ea7": {
+"checked": "2026-11-04",
+"company": "William Blair",
+"deadline": null,
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099152,
+"flags": [],
+"key": "william blair|agentic ai development intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1790115289,
+"rolling": false,
+"src": "simplify",
+"title": "Agentic AI Development Intern",
+"url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007"
+},
 "simplify:william blair:dc550f37-4505-4a97-8560-642d1cc2f0e9": {
 "checked": "2026-11-03",
 "company": "William Blair",
@@ -58083,14 +58247,14 @@
 "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1"
 },
 "simplify:xcimer energy:b399880a-a936-4d77-ba1c-e108a00e5e51": {
-"checked": "2026-10-20",
+"checked": "2026-11-04",
 "company": "Xcimer Energy",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.994385,
 "flags": [],
 "key": "xcimer energy|computational and software engineering intern",
-"last_seen": "2026-10-23",
+"last_seen": "2026-11-04",
 "locations": [
 "Denver, CO"
 ],
@@ -58136,6 +58300,24 @@
 "title": "Research Scientist Intern",
 "url": "https://jobs.ashbyhq.com/xterra%20ai/bc481f5a-3365-4048-8533-0c7728db512b/application?embed=true"
 },
+"simplify:zebra technologies:2241ec96-bc3b-4561-b94a-4e27e020422c": {
+"checked": "2026-11-04",
+"company": "Zebra Technologies",
+"deadline": "2026-11-07",
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099335,
+"flags": [],
+"key": "zebra technologies|software engineer intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Holtsville, NY"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645"
+},
 "simplify:zebra technologies:555a6f45-0d0f-46e0-a4a3-d09256541f1c": {
 "checked": "2026-11-04",
 "company": "Zebra Technologies",
@@ -58171,6 +58353,24 @@
 "src": "simplify",
 "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
 "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632"
+},
+"simplify:zebra technologies:792c0825-337f-4b99-aa3f-bf1c72df18ac": {
+"checked": "2026-11-04",
+"company": "Zebra Technologies",
+"deadline": "2026-11-07",
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.70993,
+"flags": [],
+"key": "zebra technologies|systems engineer intern",
+"last_seen": "2026-11-04",
+"locations": [
+"Germantown, MD"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "Systems Engineer Intern",
+"url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659"
 },
 "simplify:zebra technologies:ae59bf1a-6bc0-4208-9390-f2775cf89664": {
 "checked": "2026-11-03",
@@ -58226,6 +58426,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - US",
 "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626"
+},
+"simplify:zebra technologies:fb3b0be5-05d3-471f-8734-bfaa6cfe7c70": {
+"checked": "2026-11-04",
+"company": "Zebra Technologies",
+"deadline": "2026-11-07",
+"first_seen": "2026-11-04",
+"first_seen_ts": 1793813079.7099261,
+"flags": [],
+"key": "zebra technologies|software engineer intern ai features product convergence",
+"last_seen": "2026-11-04",
+"locations": [
+"Kennesaw, GA"
+],
+"posted_ts": 1793750400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - AI Features & Product Convergence",
+"url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636"
 },
 "simplify:zillow:00e04eac-1e56-4e4d-ad08-1472c68a0683": {
 "checked": "2026-11-03",
