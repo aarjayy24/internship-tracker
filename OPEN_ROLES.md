@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
+Updated 2026-11-05 · 2021 roles · 204 with a stated deadline · 74 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (88)
+## ⏰ Deadlines in the next 14 days (91)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -92,9 +92,12 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | Nov 14 (9d) | Guardian Life | [Data Engineering Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) | Holmdel, NJ, NYC, Bethlehem, PA |
 | Nov 14 (9d) | The Federal Reserve System | [Innovation Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) | Atlanta, GA |
 | Nov 15 (10d) | Vertex Pharmaceuticals | [Commercial Analytics Co-op - Commercial Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1) | Boston, MA |
-| Nov 16 (11d) | University Corporation for Atmospheric Research | [Data Science Student Assistant 3 Intern](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1) | Boulder, CO |
+| Nov 15 (10d) | JM Family | [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) | Deerfield Beach, FL |
+| Nov 15 (10d) | JM Family | [Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) | Deerfield Beach, FL |
+| Nov 15 (10d) | JM Family | [Software Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) | Deerfield Beach, FL |
 | Nov 16 (11d) | Smith+Nephew | [Data Science Intern - AI Center of Excellence](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) | Pittsburgh, PA |
 | Nov 16 (11d) | Smith+Nephew | [Robotics Software Engineer Intern](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) | Pittsburgh, PA |
+| Nov 16 (11d) | University Corporation for Atmospheric Research | [Data Science Student Assistant 3 Intern](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1) | Boulder, CO |
 | Nov 18 (13d) | ASML | [Machine Learning and Image-Based Metrics for EUV System Setup Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) | San Diego, CA |
 
 ## ⭐ Top companies (175)
@@ -277,12 +280,13 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1834)
+## Everyone else (1846)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
-| General Dynamics Mission Systems | [Software Engineering Intern](https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false) | Lakewood, OH | — | 2026-11-05 |  |
+| Hearst | [Software Engineer Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | Carmel, IN | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineering Intern](https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false) | Manassas, VA | — | 2026-11-05 |  |
+| General Dynamics Mission Systems | [Software Engineering Intern](https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false) | Lakewood, OH | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75040/job?mobile=true&needsRedirect=false) | Colorado Springs, CO, Huntsville, AL | — | 2026-11-05 |  |
 | Framatome | [AI and Software Innovation Intern](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) | Lynchburg, VA | — | 2026-11-05 |  |
 | Liberty Mutual | [Analyst Development Intern](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) | Boston, MA, Seattle, WA, Plano, TX | — | 2026-11-05 |  |
@@ -294,61 +298,69 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | Peraton | [Cyber Research Intern](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) | West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spri | — | 2026-11-05 |  |
 | Toyota Research Institute | [Robotics Research Intern - Manipulation](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply) | Los Altos, CA | — | 2026-11-05 |  |
 | PayPal | [Machine Learning Engineer Intern](https://paypal.eightfold.ai/careers/job/274922983149) | San Jose, CA | — | 2026-11-05 |  |
-| PayPal | [Software Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982814) | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale | — | 2026-11-05 |  |
-| PayPal | [Mobile Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982818) | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale | — | 2026-11-05 |  |
 | PayPal | [Data Scientist Intern](https://paypal.eightfold.ai/careers/job/274922982821) | San Jose, CA | — | 2026-11-05 |  |
+| PayPal | [Mobile Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982818) | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale | — | 2026-11-05 |  |
+| PayPal | [Software Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982814) | Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale | — | 2026-11-05 |  |
 | John Deere | [Product Engineering Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483675893) | Urbandale, IA | — | 2026-11-05 |  |
 | Berkshire Hathaway Energy | [Renewable Generation Performance Intern](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) | Des Moines, IA | — | 2026-11-05 |  |
 | Waymo | [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8350687) | SF | — | 2026-11-05 |  |
+| Markel Group | [AI Automation Intern](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277) | Woodland Hills, LA | — | 2026-11-05 |  |
+| NRDC | [Donor Systems Intern](https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
+| NRDC | [Knowledge Management Intern](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) | Washington, DC | — | 2026-11-05 |  |
+| JM Family | [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) | Deerfield Beach, FL | Nov 15 (10d) | 2026-11-05 |  |
+| JM Family | [Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) | Deerfield Beach, FL | Nov 15 (10d) | 2026-11-05 |  |
+| Parsons | [Embedded Developer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299) | Columbia, MD | — | 2026-11-05 |  |
+| JM Family | [Software Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) | Deerfield Beach, FL | Nov 15 (10d) | 2026-11-05 |  |
+| The Federal Reserve System | [Knowledge and Information Management Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) | Atlanta, GA | Nov 28 (23d) | 2026-11-05 |  |
 | Constellation Energy | [Renewable Energy Intern](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) | Houston, TX | — | 2026-11-05 |  |
 | Constellation Energy | [Load Forecasting & Analytics Intern](https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us) | Baltimore, MD | — | 2026-11-05 |  |
+| Amgen | [Graduate Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) | Remote in USA | — | 2026-11-05 |  |
 | ASML | [Machine Learning and Image-Based Metrics for EUV System Setup Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) | San Diego, CA | Nov 18 (13d) | 2026-11-05 |  |
 | Baird | [Automation & AI Solutions Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) | Milwaukee, WI | — | 2026-11-05 |  |
+| Bose | [DSP/ML Research Engineer Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) | Framingham, MA | — | 2026-11-05 |  |
 | Corewell Health | [Consumer Insights Intern](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Consumer-Insights-Intern_R231723) | Grand Rapids, MI | — | 2026-11-05 |  |
+| General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/78349/job?mobile=true&needsRedirect=false) | Port Orchard, WA | — | 2026-11-05 |  |
+| KLA Corporation | [Applications Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296) | Ann Arbor, MI | — | 2026-11-05 |  |
+| KLA Corporation | [Algorithm Engineering Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512) | Ann Arbor, MI | — | 2026-11-05 |  |
 | KLA | [Algorithm Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512-1) | Ann Arbor, MI | — | 2026-11-05 |  |
 | KLA | [Applications Engineer Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296-1) | Ann Arbor, MI | — | 2026-11-05 |  |
+| Leidos | [Software Engineering & AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) | Remote in USA, Shiloh, IL, Odenton, MD | — | 2026-11-05 |  |
 | Logiqal | [Quantum Error Correction and Architecture Intern](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true) | Princeton, NJ | rolling | 2026-11-05 |  |
 | Microchip Technology | [Data Analyst Intern](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Data-Analyst-_R4441-26) | Gresham, OR | — | 2026-11-05 |  |
 | Tokyo Electron | [Research Scientist Intern - Summer 2027](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) | Austin, TX | Nov 25 (20d) | 2026-11-05 |  |
-| Leidos | [Software Engineering & AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) | Remote in USA, Shiloh, IL, Odenton, MD | — | 2026-11-05 |  |
-| KLA Corporation | [Applications Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296) | Ann Arbor, MI | — | 2026-11-05 |  |
-| KLA Corporation | [Algorithm Engineering Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512) | Ann Arbor, MI | — | 2026-11-05 |  |
-| Bose | [DSP/ML Research Engineer Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) | Framingham, MA | — | 2026-11-05 |  |
-| Amgen | [Graduate Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) | Remote in USA | — | 2026-11-05 |  |
 | Vizient | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Washington, DC, Centennial, CO, Remote in USA, Edina, MN, Ch | — | 2026-11-05 |  |
 | Zebra Technologies | [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657) | Holtsville, NY | **Nov 9 (4d)** | 2026-11-05 |  |
-| General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/78349/job?mobile=true&needsRedirect=false) | Port Orchard, WA | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75755/job?mobile=true&needsRedirect=false) | Taunton, MA | — | 2026-11-05 |  |
 | Noblis | [Data Science and Innovation Intern](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) | Springfield, VA, Reston, VA | — | 2026-11-05 |  |
 | ViaSat | [Software Engineer Intern](https://careers.viasat.com/jobs/7757?icims=1) | Germantown, MD | — | 2026-11-05 |  |
-| Alaska Air Group | [Software Engineer Intern](https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false) | SeaTac, WA | — | 2026-11-05 |  |
-| Alaska Air Group | [BI Analyst Intern](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) | Renton, WA | — | 2026-11-05 |  |
 | Alaska Air Group | [VR Development Intern](https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false) | Renton, WA | — | 2026-11-05 |  |
 | Alaska Air Group | [Guest Products Analyst Intern](https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false) | SeaTac, WA | — | 2026-11-05 |  |
+| Alaska Air Group | [Software Engineer Intern](https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false) | SeaTac, WA | — | 2026-11-05 |  |
+| Alaska Air Group | [BI Analyst Intern](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) | Renton, WA | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Engineer Intern - Multiple Teams](https://careers-gdms.icims.com/jobs/76785/job?mobile=true&needsRedirect=false) | United States | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Engineer Intern](https://careers-gdms.icims.com/jobs/75965/job?mobile=true&needsRedirect=false) | Dedham, MA | — | 2026-11-05 |  |
 | Constellation Energy | [Geothermal Production Analytics Engineer Intern](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us) | Middletown, CA | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75626/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | — | 2026-11-05 |  |
-| Atlassian | [AI Researcher Intern](https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job) | Seattle, WA, SF | — | 2026-11-05 |  |
 | Atlassian | [AI Research Intern](https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job) | SF | — | 2026-11-05 |  |
+| Atlassian | [AI Researcher Intern](https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job) | Seattle, WA, SF | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75752/job?mobile=true&needsRedirect=false) | Dedham, MA | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Agentic AI Data Science Intern](https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Regulatory Products Intern](https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Data Science Intern](https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Integration Intern](https://careers-ice.icims.com/jobs/14071/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Software Engineering Intern](https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Quantitative Research Intern](https://careers-ice.icims.com/jobs/14057/job?mobile=true&needsRedirect=false) | Atlanta, GA | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Quantitative Financial Analytics Intern](https://careers-ice.icims.com/jobs/14055/job?mobile=true&needsRedirect=false) | Atlanta, GA | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Trading System Development Intern](https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Software Engineer Intern - Java](https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Software Engineer Intern](https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
 | Intercontinental Exchange | [Software Developer Intern](https://careers-ice.icims.com/jobs/14076/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
+| Intercontinental Exchange | [Agentic AI Data Science Intern](https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
 | Intercontinental Exchange | [Audit Analytics Intern](https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false) | Atlanta, GA | — | 2026-11-05 |  |
 | Intercontinental Exchange | [Software Engineer Intern](https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Software Engineer Intern - Java](https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Trading System Development Intern](https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Software Engineer Intern](https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Software Engineering Intern](https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Regulatory Products Intern](https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Quantitative Financial Analytics Intern](https://careers-ice.icims.com/jobs/14055/job?mobile=true&needsRedirect=false) | Atlanta, GA | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Integration Intern](https://careers-ice.icims.com/jobs/14071/job?mobile=true&needsRedirect=false) | Jacksonville, FL | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Data Science Intern](https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false) | NYC | — | 2026-11-05 |  |
-| Intercontinental Exchange | [Quantitative Research Intern](https://careers-ice.icims.com/jobs/14057/job?mobile=true&needsRedirect=false) | Atlanta, GA | — | 2026-11-05 |  |
 | Docusign | [Applied Science Intern](https://careers.docusign.com/jobs/30563?icims=1) | SF | — | 2026-11-05 |  |
 | Constellation Energy | [Data & Digital Transformation Intern - Geysers](https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us) | Middletown, CA | — | 2026-11-05 |  |
-| General Dynamics Mission Systems | [Engineer Intern](https://careers-gdms.icims.com/jobs/75533/job?mobile=true&needsRedirect=false) | Pittsfield, MA | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Engineer Intern - Multiple Teams](https://careers-gdms.icims.com/jobs/75636/job?mobile=true&needsRedirect=false) | United States | — | 2026-11-05 |  |
+| General Dynamics Mission Systems | [Engineer Intern](https://careers-gdms.icims.com/jobs/75533/job?mobile=true&needsRedirect=false) | Pittsfield, MA | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75775/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | — | 2026-11-05 |  |
 | Docusign | [Software Engineer Intern](https://careers.docusign.com/jobs/30470?icims=1) | Chicago, IL | — | 2026-11-05 |  |
 | Docusign | [Software Engineer Intern](https://careers.docusign.com/jobs/30488?icims=1) | Seattle, WA | — | 2026-11-05 |  |
@@ -357,10 +369,10 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | SDSU Research Foundation | [Computer Science Intern](https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false) | San Diego, CA | — | 2026-11-05 |  |
 | Minerals Technologies | [Geographic Information Science Intern](https://careers-mineralstech.icims.com/jobs/4903/job?mobile=true&needsRedirect=false) | Belle Fourche, SD | — | 2026-11-05 |  |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20129?icims=1) | Brea, CA | — | 2026-11-05 |  |
-| Peraton | [Mission Systems Software and Edge Computing Intern](https://careers-peraton.icims.com/jobs/172378/job?mobile=true&needsRedirect=false) | Oklahoma | — | 2026-11-05 |  |
-| Wolf & Company | [AI & Automation Intern](https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false) | Boston, MA | — | 2026-11-05 |  |
 | General Dynamics Mission Systems | [Software Engineer for Crypto & Cross Domain Solutions Intern](https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | — | 2026-11-05 |  |
+| Peraton | [Mission Systems Software and Edge Computing Intern](https://careers-peraton.icims.com/jobs/172378/job?mobile=true&needsRedirect=false) | Oklahoma | — | 2026-11-05 |  |
 | Susquehanna International Group | [Technology Co-op](https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false) | Bala Cynwyd, PA | — | 2026-11-05 |  |
+| Wolf & Company | [AI & Automation Intern](https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false) | Boston, MA | — | 2026-11-05 |  |
 | Garmin | [Data Scientist Intern](https://careers.garmin.com/jobs/19925?icims=1) | Louisville, CO | — | 2026-11-05 |  |
 | Barrios | [Data and Computer Engineering/Computer Science Intern](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) | Houston, TX | — | 2026-11-05 |  |
 | Smith+Nephew | [Data Science Intern - AI Center of Excellence](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) | Pittsburgh, PA | Nov 16 (11d) | 2026-11-05 |  |
@@ -452,6 +464,7 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | KLA Corporation | [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004) | Austin, TX | — | 2026-11-03 |  |
 | LabCorp | [Full-Stack Life Sciences Software Engineer Co-op](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) | Durham, NC, Burlington, NC | Dec 1 (26d) | 2026-11-03 |  |
 | Leidos | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980) | Arlington County, Arlington, VA | — | 2026-11-03 |  |
+| Marriott Vacations Worldwide | [Corporate Information Technology Intern](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562) | Orlando, FL | — | 2026-11-03 |  |
 | Merck | [Future Talent Program Co-op - Patient Data Learning](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) | Cambridge, MA | Dec 4 (29d) | 2026-11-03 |  |
 | Motorola Solutions | [Software Engineer Cybersecurity Services Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) | Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, | — | 2026-11-03 |  |
 | Northrop Grumman | [Engineering Intern - Multiple Teams](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848) | Chandler, AZ | **Nov 6 (1d)** | 2026-11-03 |  |
@@ -1009,6 +1022,7 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | KLA Corporation | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) | Ann Arbor, MI | — | 2026-10-16 |  |
 | KLA | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033) | Ann Arbor, MI | — | 2026-10-16 |  |
 | Field AI | [Simulation – Sim to Real Intern](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8/apply) | Irvine, CA | — | 2026-10-16 |  |
+| InfiniteQuant | [Quantitative Developer Intern](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) | Dubai - United Arab Emirates, NYC | — | 2026-10-16 |  |
 | Royal Caribbean Group | [Guest Travel Services Intern](https://jobs.royalcaribbeangroup.com/job/Miramar-Intern,-Guest-Travel-Services-(Summer-2027)-FL-33132/1440504600/?ats=successfactors) | Miramar, FL | — | 2026-10-15 |  |
 | Waymo | [Semantics Intern](https://careers.withwaymo.com/jobs?gh_jid=8244128) | Mountain View, CA | — | 2026-10-15 |  |
 | Duolingo | [Data Scientist Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002) | Pittsburgh, PA, NYC | — | 2026-10-15 |  |
@@ -1840,6 +1854,7 @@ Updated 2026-11-05 · 2009 roles · 200 with a stated deadline · 74 rolling
 | Booz Allen | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Charleston, SC | Jan 25 (81d) | 2026-09-28 |  |
 | Booz Allen | [Data Scientist Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) | Rome, NY | Jan 26 (82d) | 2026-09-28 |  |
 | TELUS Digital | [Software Engineer Intern - US - Summer 2027](https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true) | Durham, NC, Columbus, OH, Charlottesville, VA | — | 2026-09-28 |  |
+| IMC Trading | [Performance Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) | Chicago, IL | — | 2026-09-28 |  |
 | Auto-Owners Insurance | [Software Developer Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) | Lansing, MI | — | 2026-09-28 |  |
 | Booz Allen | [Software Developer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038) | San Diego, CA | Jan 26 (82d) | 2026-09-28 |  |
 | Booz Allen | [Software Developer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046) | El Segundo, CA | Jan 27 (83d) | 2026-09-28 |  |
