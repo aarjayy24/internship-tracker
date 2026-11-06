@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-06 · 2027 roles · 204 with a stated deadline · 74 rolling
+Updated 2026-11-06 · 2030 roles · 204 with a stated deadline · 74 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -79,9 +79,9 @@ Updated 2026-11-06 · 2027 roles · 204 with a stated deadline · 74 rolling
 | **Nov 13 (7d)** | Merck | [International Pricing Analytics Intern - International Pricing Analytics](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041) | Upper Gwynedd Township, PA, Rahway, NJ |
 | **Nov 13 (7d)** | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) | Colorado Springs, CO |
 | **Nov 13 (7d)** | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) | Colorado Springs, CO |
-| **Nov 13 (7d)** | TD Bank | [Graduate Leadership Program Commercial Banking Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612) | NYC |
 | **Nov 13 (7d)** | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739) | Overland Park, KS |
 | **Nov 13 (7d)** | T-Mobile | [Software Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734) | Overland Park, KS |
+| **Nov 13 (7d)** | TD Bank | [Graduate Leadership Program Commercial Banking Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612) | NYC |
 | Nov 14 (8d) | American University | [Data Quality Assistant Intern](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Quality-Assistant--Student-_R5103) | Washington, DC |
 | Nov 14 (8d) | Guardian Life | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | Holmdel, NJ, NYC, Bethlehem, PA |
 | Nov 14 (8d) | Guardian Life | [Application Development Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209) | Holmdel, NJ, NYC, Bethlehem, PA |
@@ -283,17 +283,20 @@ Updated 2026-11-06 · 2027 roles · 204 with a stated deadline · 74 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1853)
+## Everyone else (1856)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Waymo | [2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) ](https://careers.withwaymo.com/jobs?gh_jid=8358262) | Mountain View, California, United States | — | 2026-11-06 |  |
+| Notion | [Software Engineering Intern, Frontend (Summer 2027)](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) | New York, New York | — | 2026-11-06 |  |
+| Notion | [Software Engineering Intern, iOS (Summer 2027)](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) | New York, New York | — | 2026-11-06 |  |
 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | San Francisco - SF9 | — | 2026-11-06 |  |
 | Toyota Research Institute | [Robotics Intern - World Action Models for Robot Policy](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply) | Cambridge, MA | — | 2026-11-06 |  |
 | Tinder | [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) | Palo Alto, CA, LA | — | 2026-11-06 |  |
-| Tinder | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) | SF | — | 2026-11-06 |  |
 | Tinder | [Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) | Palo Alto, CA | — | 2026-11-06 |  |
-| Tinder | [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) | LA | — | 2026-11-06 |  |
+| Tinder | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) | SF | — | 2026-11-06 |  |
 | Tinder | [Backend Engineer Intern](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply) | Palo Alto, CA, LA | — | 2026-11-06 |  |
+| Tinder | [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) | LA | — | 2026-11-06 |  |
 | The New York Times | [Interactive News Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) | NYC | — | 2026-11-06 |  |
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Multiverse](https://careers.withwaymo.com/jobs?gh_jid=8350832) | San Francisco, California, USA | — | 2026-11-06 |  |
 | Waymo | [Software Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8350832) | SF | — | 2026-11-06 |  |
@@ -304,10 +307,10 @@ Updated 2026-11-06 · 2027 roles · 204 with a stated deadline · 74 rolling
 | Zoox | [Software Engineer Intern - Software Platforms & Product](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply) | Foster City, CA | — | 2026-11-06 |  |
 | Light & Wonder | [Software Engineer Intern](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885) | Reno, NV | — | 2026-11-06 |  |
 | HoYoverse | [Research Scientist Intern - Video Generation](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true) | Mountain View, CA | — | 2026-11-06 |  |
+| S&P Global | [Managed Data Services Intern - Ilevel - GP Mds](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1) | Dallas, TX | — | 2026-11-06 |  |
 | SAS | [Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-06 |  |
 | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739) | Overland Park, KS | **Nov 13 (7d)** | 2026-11-06 |  |
 | T-Mobile | [Software Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734) | Overland Park, KS | **Nov 13 (7d)** | 2026-11-06 |  |
-| S&P Global | [Managed Data Services Intern - Ilevel - GP Mds](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1) | Dallas, TX | — | 2026-11-06 |  |
 | Palantir | [Software Engineer Intern - Sovereign AI Systems](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply) | NYC | — | 2026-11-06 |  |
 | Toyota Research Institute | [Robotics Intern - Human-Robot Interaction](https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642/apply) | Cambridge, MA | — | 2026-11-06 |  |
 | Toyota Research Institute | [Accelerated Science Intern - Multi-Agent Learning and Coordination](https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d/apply) | Los Altos, CA | — | 2026-11-06 |  |
