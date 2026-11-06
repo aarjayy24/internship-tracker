@@ -1431,6 +1431,24 @@
 "title": "Software Engineering Internship - San Francisco ",
 "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
 },
+"greenhouse:samsara:8358786": {
+"checked": "2026-11-06",
+"company": "Samsara",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6386607,
+"flags": [],
+"key": "samsara|software engineering internship san francisco",
+"last_seen": "2026-11-06",
+"locations": [
+"San Francisco - SF9"
+],
+"posted_ts": 1793982589.0,
+"rolling": false,
+"src": "greenhouse:samsara",
+"title": "Software Engineering Internship - San Francisco ",
+"url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786"
+},
 "greenhouse:scale ai:4730834005": {
 "checked": "2026-11-02",
 "company": "Scale AI",
@@ -2060,6 +2078,24 @@
 "src": "greenhouse:waymo",
 "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574"
+},
+"greenhouse:waymo:8350832": {
+"checked": "2026-11-06",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6386027,
+"flags": [],
+"key": "waymo|2027 summer intern ms phd software engineer multiverse",
+"last_seen": "2026-11-06",
+"locations": [
+"San Francisco, California, USA"
+],
+"posted_ts": 1793974883.0,
+"rolling": false,
+"src": "greenhouse:waymo",
+"title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
 },
 "greenhouse:xai:5255111007": {
 "checked": "2026-11-06",
@@ -45227,6 +45263,24 @@
 "title": "Calibration Process Optimization Intern",
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075"
 },
+"simplify:robert bosch venture capital:5ef8daf8-ad4f-4cea-b963-be50d5d118f4": {
+"checked": "2026-11-06",
+"company": "Robert Bosch Venture Capital",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447468,
+"flags": [],
+"key": "robert bosch venture capital|motorsport software and data analytics graduate intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Farmington Hills, MI"
+],
+"posted_ts": 1793973419,
+"rolling": false,
+"src": "simplify",
+"title": "Motorsport Software and Data Analytics Graduate Intern",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000160208440"
+},
 "simplify:robert bosch venture capital:6def32a2-38d9-47cf-8a10-2e7a23785b01": {
 "checked": "2026-11-02",
 "company": "Robert Bosch Venture Capital",
@@ -47711,6 +47765,24 @@
 "title": "Software Engineer Intern",
 "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
 },
+"simplify:s&p global:1d693bc4-5cb6-4d9a-928a-5c72e45a7ecc": {
+"checked": "2026-11-06",
+"company": "S&P Global",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447778,
+"flags": [],
+"key": "s&p global|managed data services intern ilevel gp mds",
+"last_seen": "2026-11-06",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1793923200,
+"rolling": false,
+"src": "simplify",
+"title": "Managed Data Services Intern - Ilevel - GP Mds",
+"url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1"
+},
 "simplify:s&p global:b4d94132-e8a4-4b79-b217-987f984623b5": {
 "checked": "2026-10-19",
 "company": "S&P Global",
@@ -48329,6 +48401,24 @@
 "src": "simplify",
 "title": "Software Development and Testing Intern",
 "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
+},
+"simplify:sas:4c1d2a29-8238-4827-a622-c10a3a4efcf9": {
+"checked": "2026-11-06",
+"company": "SAS",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447551,
+"flags": [],
+"key": "sas|data scientist intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Cary, NC"
+],
+"posted_ts": 1793923200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false"
 },
 "simplify:scale ai:1165ee3a-645d-4e2c-a540-85673700de1f": {
 "checked": "2026-11-03",
@@ -51504,6 +51594,24 @@
 "title": "Associate AI Engineer Intern",
 "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492"
 },
+"simplify:t-mobile:8a924ee7-0fe1-4b54-b6ad-a4130a1cf787": {
+"checked": "2026-11-06",
+"company": "T-Mobile",
+"deadline": "2026-11-13",
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447651,
+"flags": [],
+"key": "t-mobile|software engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Overland Park, KS"
+],
+"posted_ts": 1793923200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"
+},
 "simplify:t-mobile:a8967f38-53a7-4716-80c1-8ba4fc0fb06b": {
 "checked": "2026-10-23",
 "company": "T-Mobile",
@@ -51521,6 +51629,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+},
+"simplify:t-mobile:e069ea1c-b571-46be-95e2-d1071dbcb2dd": {
+"checked": "2026-11-06",
+"company": "T-Mobile",
+"deadline": "2026-11-13",
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.644773,
+"flags": [],
+"key": "t-mobile|software engineering intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Overland Park, KS"
+],
+"posted_ts": 1793923200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Intern",
+"url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
 },
 "simplify:t-mobile:ec682ade-102c-4bca-9824-a71e73c64c13": {
 "checked": "2026-11-04",
@@ -52923,6 +53049,24 @@
 "src": "simplify",
 "title": "Backend Engineer Intern",
 "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
+},
+"simplify:the new york times:e83280af-86b2-46ea-8179-6344933c3f14": {
+"checked": "2026-11-06",
+"company": "The New York Times",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.644751,
+"flags": [],
+"key": "the new york times|interactive news engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"NYC"
+],
+"posted_ts": 1793976463,
+"rolling": false,
+"src": "simplify",
+"title": "Interactive News Engineer Intern",
+"url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005"
 },
 "simplify:the nuclear company:35dd8e24-1c88-4e4b-8ba3-f9b9be169b31": {
 "checked": "2026-11-02",
@@ -54922,6 +55066,98 @@
 "title": "Data Engineer Intern - Monetization Data",
 "url": "https://lifeattiktok.com/search/7671232204182276405"
 },
+"simplify:tinder:2a9865db-8f3e-40ac-a2fb-b90b64595d1e": {
+"checked": "2026-11-06",
+"company": "Tinder",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447415,
+"flags": [],
+"key": "tinder|ios engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Palo Alto, CA",
+"LA"
+],
+"posted_ts": 1793978802,
+"rolling": false,
+"src": "simplify",
+"title": "iOS Engineer Intern",
+"url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply"
+},
+"simplify:tinder:64d85b01-4fd3-46dd-a653-7af4e042cd4c": {
+"checked": "2026-11-06",
+"company": "Tinder",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447365,
+"flags": [],
+"key": "tinder|machine learning engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1793978801,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Engineer Intern",
+"url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply"
+},
+"simplify:tinder:7116355b-7504-4a7e-bd3e-a2309d10544a": {
+"checked": "2026-11-06",
+"company": "Tinder",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.644732,
+"flags": [],
+"key": "tinder|data scientist intern",
+"last_seen": "2026-11-06",
+"locations": [
+"SF"
+],
+"posted_ts": 1793978801,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply"
+},
+"simplify:tinder:b0484564-9325-4e1a-a91d-2005a8c9bbfb": {
+"checked": "2026-11-06",
+"company": "Tinder",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447268,
+"flags": [],
+"key": "tinder|backend engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Palo Alto, CA",
+"LA"
+],
+"posted_ts": 1793978800,
+"rolling": false,
+"src": "simplify",
+"title": "Backend Engineer Intern",
+"url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply"
+},
+"simplify:tinder:e2ba2687-1ac6-40c9-a236-61fad22d9407": {
+"checked": "2026-11-06",
+"company": "Tinder",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447165,
+"flags": [],
+"key": "tinder|android engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"LA"
+],
+"posted_ts": 1793978800,
+"rolling": false,
+"src": "simplify",
+"title": "Android Engineer Intern",
+"url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply"
+},
 "simplify:tive:9d613826-b169-4950-9be3-779d329aab98": {
 "checked": "2026-11-03",
 "company": "Tive",
@@ -55228,6 +55464,24 @@
 "src": "simplify",
 "title": "Accelerated Science Intern - Representation Learning for Molecules and Materials",
 "url": "https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7/apply"
+},
+"simplify:toyota research institute:9b71ea4e-4f93-4b31-ab20-fe6e359bba99": {
+"checked": "2026-11-06",
+"company": "Toyota Research Institute",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447613,
+"flags": [],
+"key": "toyota research institute|robotics intern world action models for robot policy",
+"last_seen": "2026-11-06",
+"locations": [
+"Cambridge, MA"
+],
+"posted_ts": 1793979516,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Intern - World Action Models for Robot Policy",
+"url": "https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d/apply"
 },
 "simplify:toyota research institute:adf27a1a-83ec-43d1-9803-5725ebe314bc": {
 "checked": "2026-11-05",
@@ -59073,6 +59327,24 @@
 "src": "simplify",
 "title": "Software Engineering Intern - MS/PhD - Sys Intel & ML",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
+},
+"simplify:waymo:e13a771d-0bef-4eba-8e4c-922902e13085": {
+"checked": "2026-11-06",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793988698.6447692,
+"flags": [],
+"key": "waymo|software engineer intern",
+"last_seen": "2026-11-06",
+"locations": [
+"SF"
+],
+"posted_ts": 1793974883,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
 },
 "simplify:waymo:e5fc4725-7c7e-4f70-8b44-393f041df42f": {
 "checked": "2026-11-03",
