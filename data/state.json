@@ -7630,6 +7630,24 @@
 "title": "Master Data Management Intern",
 "url": "https://jobs.ascension.org/us/en/job/2026-465180"
 },
+"simplify:asm international:03bd77d2-3d33-47c7-93cd-c8cc83b1d94f": {
+"checked": "2026-11-06",
+"company": "ASM International",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793964368.1528304,
+"flags": [],
+"key": "asm international|product intelligence engineering intern ai ml",
+"last_seen": "2026-11-06",
+"locations": [
+"Phoenix, AZ"
+],
+"posted_ts": 1793938669,
+"rolling": false,
+"src": "simplify",
+"title": "Product Intelligence Engineering Intern - AI/ML",
+"url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101"
+},
 "simplify:asml:26950fa2-b1ab-4035-b222-f7a747d72c6c": {
 "checked": "2026-11-04",
 "company": "ASML",
@@ -26749,6 +26767,24 @@
 "title": "Artificial Intelligence Intern - AI",
 "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494"
 },
+"simplify:hoyoverse:77127d50-fe05-4069-a053-a1d3aed35a10": {
+"checked": "2026-11-06",
+"company": "HoYoverse",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793964368.1528199,
+"flags": [],
+"key": "hoyoverse|research scientist intern video generation",
+"last_seen": "2026-11-06",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1793923200,
+"rolling": false,
+"src": "simplify",
+"title": "Research Scientist Intern - Video Generation",
+"url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true"
+},
 "simplify:hp inc.:2b909bae-5bd4-4ea4-bf9a-e7bb804cddcc": {
 "checked": "2026-11-05",
 "company": "HP Inc.",
@@ -28068,7 +28104,7 @@
 "first_seen_ts": 1790573041.9918475,
 "flags": [],
 "key": "infinitequant|quantitative developer internship summer 2027",
-"last_seen": "2026-11-05",
+"last_seen": "2026-11-06",
 "locations": [
 "Dubai - United Arab Emirates",
 "NYC"
@@ -37207,6 +37243,24 @@
 "title": "Healthcare Quality & Analytics Intern",
 "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143"
 },
+"simplify:molina healthcare:b0d0060c-2d0c-4a83-874e-ea2eb2436956": {
+"checked": "2026-11-06",
+"company": "Molina Healthcare",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793964368.1528368,
+"flags": [],
+"key": "molina healthcare|electronic data interchange intern",
+"last_seen": "2026-11-06",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1793400656,
+"rolling": false,
+"src": "simplify",
+"title": "Electronic Data Interchange Intern",
+"url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156"
+},
 "simplify:molina healthcare:c379f2bc-bd24-4ec2-80f8-add6ca4684bb": {
 "checked": "2026-10-31",
 "company": "Molina Healthcare",
@@ -37224,6 +37278,24 @@
 "src": "simplify",
 "title": "Quality Improvement Intern",
 "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141"
+},
+"simplify:molina healthcare:df5eafa1-788e-43eb-a0cd-755cec712155": {
+"checked": "2026-11-06",
+"company": "Molina Healthcare",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793964368.1528468,
+"flags": [],
+"key": "molina healthcare|data analytics intern",
+"last_seen": "2026-11-06",
+"locations": [
+"United States"
+],
+"posted_ts": 1793400655,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern",
+"url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160"
 },
 "simplify:momentive:0299ccd7-7dac-48cc-80eb-9e224cc78f08": {
 "checked": "2026-10-12",
@@ -59073,6 +59145,24 @@
 "src": "simplify",
 "title": "Machine Learning Engineer Intern - MS/PhD",
 "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
+},
+"simplify:waymo:f16059fd-1053-4b21-8779-0a612c57506d": {
+"checked": "2026-11-06",
+"company": "Waymo",
+"deadline": null,
+"first_seen": "2026-11-06",
+"first_seen_ts": 1793964368.152843,
+"flags": [],
+"key": "waymo|summer intern ms phd perception systems engineering pedestrian detection precision",
+"last_seen": "2026-11-06",
+"locations": [
+"SF"
+],
+"posted_ts": 1790633914,
+"rolling": false,
+"src": "simplify",
+"title": "Summer Intern - MS/PhD - Perception Systems Engineering: Pedestrian Detection Precision",
+"url": "https://careers.withwaymo.com/jobs?gh_jid=8234670"
 },
 "simplify:waymo:f5387b71-b243-4149-b269-544b787a751e": {
 "checked": "2026-11-04",
