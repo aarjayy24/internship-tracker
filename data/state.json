@@ -13257,6 +13257,24 @@
 "title": "Software Engineer Intern",
 "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161"
 },
+"simplify:category labs:482492ee-a5b2-4831-a3e9-65a37b6c1a46": {
+"checked": "2026-11-07",
+"company": "Category Labs",
+"deadline": "2026-12-07",
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794043768.3251066,
+"flags": [],
+"key": "category labs|research intern",
+"last_seen": "2026-11-07",
+"locations": [
+"NYC"
+],
+"posted_ts": 1794009600,
+"rolling": false,
+"src": "simplify",
+"title": "Research Intern",
+"url": "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true"
+},
 "simplify:caterpillar:a62e77a9-988b-42c6-abf2-5885839a948c": {
 "checked": "2026-11-02",
 "company": "Caterpillar",
@@ -28361,7 +28379,7 @@
 "first_seen_ts": 1790573041.9918475,
 "flags": [],
 "key": "infinitequant|quantitative developer internship summer 2027",
-"last_seen": "2026-11-06",
+"last_seen": "2026-11-07",
 "locations": [
 "Dubai - United Arab Emirates",
 "NYC"
@@ -62439,6 +62457,42 @@
 "title": "Change Management Intern - Summer 2027",
 "url": "https://www.zipline.com/open-roles/7991435003?gh_jid=7991435003"
 },
+"simplify:zoox:061b12f4-c554-4c79-a788-b4d8f4ba0880": {
+"checked": "2026-11-07",
+"company": "Zoox",
+"deadline": null,
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794043768.3250852,
+"flags": [],
+"key": "zoox|safety reporting benchmarking intern",
+"last_seen": "2026-11-07",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1794019460,
+"rolling": false,
+"src": "simplify",
+"title": "Safety Reporting & Benchmarking Intern",
+"url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply"
+},
+"simplify:zoox:074c9d6a-c89d-49bf-b2ab-27d71b051a60": {
+"checked": "2026-11-07",
+"company": "Zoox",
+"deadline": null,
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794043768.3251026,
+"flags": [],
+"key": "zoox|ai workflows safety decision making intern",
+"last_seen": "2026-11-07",
+"locations": [
+"Foster City, CA"
+],
+"posted_ts": 1794019460,
+"rolling": false,
+"src": "simplify",
+"title": "AI Workflows & Safety Decision Making Intern",
+"url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply"
+},
 "simplify:zoox:07a19024-a7e3-4ed0-8957-671b7122f176": {
 "checked": "2026-11-06",
 "company": "Zoox",
@@ -62456,6 +62510,25 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Autonomy Software",
 "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply"
+},
+"simplify:zoox:680cbf01-1662-4204-9638-55b49e07da7c": {
+"checked": "2026-11-07",
+"company": "Zoox",
+"deadline": null,
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794043768.3250957,
+"flags": [],
+"key": "zoox|data scientist intern",
+"last_seen": "2026-11-07",
+"locations": [
+"Boston, MA",
+"Foster City, CA"
+],
+"posted_ts": 1794019460,
+"rolling": false,
+"src": "simplify",
+"title": "Data Scientist Intern",
+"url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply"
 },
 "simplify:zoox:bfd495aa-8461-4455-8885-5db271cd1cc0": {
 "checked": "2026-11-06",
