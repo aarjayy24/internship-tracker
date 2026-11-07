@@ -18352,6 +18352,24 @@
 "title": "AI Consulting Associate Program Product Owner Intern",
 "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
 },
+"simplify:drivewealth:90ce8440-7b7f-4a23-9faf-98290634d956": {
+"checked": "2026-11-07",
+"company": "DriveWealth",
+"deadline": null,
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794066651.445411,
+"flags": [],
+"key": "drivewealth|ai consulting associate program brokerage intern",
+"last_seen": "2026-11-07",
+"locations": [
+"Chicago, IL"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "AI Consulting Associate Program Brokerage Intern",
+"url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true"
+},
 "simplify:drivewealth:ea672c45-89c1-45e5-afb3-0a7061e3ea16": {
 "checked": "2026-11-04",
 "company": "DriveWealth",
@@ -18390,14 +18408,14 @@
 "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true"
 },
 "simplify:drivewealth:f53a894a-ab47-4376-99ff-d2e440e9c33d": {
-"checked": "2026-10-21",
+"checked": "2026-11-07",
 "company": "DriveWealth",
 "deadline": null,
 "first_seen": "2026-10-21",
 "first_seen_ts": 1792544450.73115,
 "flags": [],
 "key": "drivewealth|ai consulting associate program brokerage intern",
-"last_seen": "2026-10-23",
+"last_seen": "2026-11-07",
 "locations": [
 "Chicago, IL"
 ],
@@ -52829,6 +52847,24 @@
 "title": "Internship - Software Engineering - People Products - Summer 2027",
 "url": "https://www.tesla.com/careers/search/job/284004"
 },
+"simplify:tesla:60fd1301-4412-4891-b853-6eec26f242df": {
+"checked": "2026-11-07",
+"company": "Tesla",
+"deadline": null,
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794066651.4454188,
+"flags": [],
+"key": "tesla|software engineer intern si reinforcement learning",
+"last_seen": "2026-11-07",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1794049799,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - SI Reinforcement Learning",
+"url": "https://www.tesla.com/careers/search/job/289241"
+},
 "simplify:tesla:8b46d013-f73a-4d7b-bd75-7775fa71d342": {
 "checked": "2026-11-02",
 "company": "Tesla",
@@ -60772,6 +60808,24 @@
 "src": "simplify",
 "title": "Software Engineer Consulting Intern - AI Concentration",
 "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6173003004"
+},
+"simplify:west monroe:82d52f8a-60a6-470b-abc6-feb1c6b7df89": {
+"checked": "2026-11-07",
+"company": "West Monroe",
+"deadline": null,
+"first_seen": "2026-11-07",
+"first_seen_ts": 1794066651.445399,
+"flags": [],
+"key": "west monroe|software engineering consultant intern ai concentration",
+"last_seen": "2026-11-07",
+"locations": [
+"Seattle, WA"
+],
+"posted_ts": 1791269207,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Consultant Intern - AI Concentration",
+"url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004"
 },
 "simplify:west monroe:85f5fdbe-da5d-442d-be70-bf1fbe77e77b": {
 "checked": "2026-10-20",
