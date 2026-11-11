@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
+Updated 2026-11-11 · 2048 roles · 193 with a stated deadline · 77 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -48,6 +48,7 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | **Nov 13 (2d)** | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) | Colorado Springs, CO |
 | **Nov 13 (2d)** | RTX | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806) | St. Petersburg, FL |
 | **Nov 13 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020) | Sterling, VA |
+| **Nov 13 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049) | Richardson, TX |
 | **Nov 13 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045) | Largo, FL |
 | **Nov 13 (2d)** | T-Mobile | [AI Strategist Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279) | Bellevue, WA |
 | **Nov 13 (2d)** | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739) | Overland Park, KS |
@@ -55,7 +56,6 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | **Nov 13 (2d)** | TD Bank | [Graduate Leadership Program Commercial Banking Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612) | NYC |
 | **Nov 13 (2d)** | Zillow | [Applied Scientist Intern - Economics](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle, WA |
 | **Nov 13 (2d)** | Zillow | [Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Seattle, WA |
-| **Nov 13 (2d)** | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049) | Richardson, TX |
 | **Nov 14 (3d)** | American University | [Data Quality Assistant Intern](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Quality-Assistant--Student-_R5103) | Washington, DC |
 | **Nov 14 (3d)** | Guardian Life | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | Holmdel, NJ, NYC, Bethlehem, PA |
 | **Nov 14 (3d)** | Guardian Life | [Application Development Intern - Digital & Technology](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209) | Holmdel, NJ, NYC, Bethlehem, PA |
@@ -97,7 +97,7 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | Nov 25 (14d) | HP Inc. | [Software Systems Intern - IQ](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801) | SF |
 | Nov 25 (14d) | Tokyo Electron | [Research Scientist Intern - Summer 2027](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) | Austin, TX |
 
-## ⭐ Top companies (188)
+## ⭐ Top companies (189)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | Amazon | [Software Engineer Intern](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, De | — | 2026-10-02 |  |
 | Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA, US | rolling | 2026-10-01 |  |
 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York, Seattle, South San Francisco HQ | — | 2026-10-01 |  |
+| Microsoft | [Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA](https://apply.careers.microsoft.com/careers/job/1970393556951950) | Redmond, WA, US | rolling | 2026-10-01 |  |
 | Stripe | [Software Engineer Intern](https://stripe.com/jobs/search?gh_jid=8241260) | Seattle, WA, SF | — | 2026-10-01 |  |
 | Amazon | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Seattle, Washington, USA | — | 2026-09-30 |  |
 | Amazon | [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Seattle, Washington, USA | rolling | 2026-09-28 |  |
@@ -290,13 +291,17 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1852)
+## Everyone else (1859)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| SHOPLINE | [AI Skill Developer Intern](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) | United States | — | 2026-11-11 |  |
+| Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006) | SF | — | 2026-11-11 |  |
+| Riot Games | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) | Remote in USA | — | 2026-11-11 |  |
 | TikTok | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7706693387932633397) | San Jose, CA | — | 2026-11-11 |  |
 | TikTok | [Platform Campaign Project Intern](https://lifeattiktok.com/search/7706422460086159669) | Seattle, WA | — | 2026-11-11 |  |
 | Bask Health | [AI Product Intern](https://apply.workable.com/bask-health-1/j/9D7E69054E/apply) | Remote in USA | — | 2026-11-11 |  |
+| REGENT | [State Estimation Intern](https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?embed=true) | North Kingstown, RI | — | 2026-11-11 |  |
 | DwyerOmega | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | Remote in USA | — | 2026-11-11 |  |
 | Paccar | [Data Engineer Intern](https://jobs.paccar.com/job/Chillicothe-Data-Engineering-Intern-OH-45601-8829/1456138333/?ats=successfactors) | Chillicothe, OH | — | 2026-11-11 |  |
 | Hunt Oil Company | [Application Developer Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104) | Dallas, TX | — | 2026-11-11 |  |
@@ -321,19 +326,20 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | Rambus | [Forward Deployed Engineer Intern - AI & Enterprise Systems](https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false) | San Jose, CA | — | 2026-11-11 |  |
 | Rambus | [Product Engineer Intern](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) | San Jose, CA | — | 2026-11-11 |  |
 | RTX | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806) | St. Petersburg, FL | **Nov 13 (2d)** | 2026-11-11 |  |
+| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049) | Richardson, TX | **Nov 13 (2d)** | 2026-11-11 |  |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045) | Largo, FL | **Nov 13 (2d)** | 2026-11-11 |  |
 | Samsung | [5G Network Intelligence and Automation Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) | Plano, TX | Jan 30 (80d) | 2026-11-11 |  |
+| Shield AI | [Software Engineer Intern](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true) | San Diego, CA | — | 2026-11-11 |  |
 | Skydio | [Middleware Software Engineer Intern](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true) | San Mateo, CA | — | 2026-11-11 |  |
 | Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120) | Knoxville, TN | **Nov 17 (6d)** | 2026-11-11 |  |
 | Vizient | [Spend Management Insights Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R) | Irving, TX | — | 2026-11-11 |  |
-| Shield AI | [Software Engineer Intern](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true) | San Diego, CA | — | 2026-11-11 |  |
-| RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049) | Richardson, TX | **Nov 13 (2d)** | 2026-11-11 |  |
 | McDonald's | [Software Development Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors) | Chicago, IL | — | 2026-11-11 |  |
 | McDonald's | [Software Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors) | Chicago, IL | — | 2026-11-11 |  |
 | Formulary Financial | [Software Engineer Intern](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true) | NYC | — | 2026-11-11 |  |
 | Shield AI | [Software Engineer Intern Co-op](https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true) | Dallas, TX | — | 2026-11-11 |  |
 | CenturyLink | [AI & Automation Builders Internship](https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors) | Remote in USA | — | 2026-11-11 |  |
 | Shield AI | [Software Engineer Intern](https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true) | San Diego, CA | — | 2026-11-11 |  |
+| Intel | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0288820) | Malaysia, Penang | — | 2026-11-11 |  |
 | Palantir | [Software Engineer, Intern - Connectivity Platform and Product](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | Denver, CO | rolling | 2026-11-10 |  |
 | DP World | [AI & Analytics Intern - Talent Management](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) | Charlotte, NC | — | 2026-11-10 |  |
 | onsemi | [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) | Scottsdale, AZ | — | 2026-11-10 |  |
@@ -651,6 +657,7 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | Costco | [CDS Intern - Powerapps Developer - ECM Digital Workflow](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001) | Issaquah, WA | — | 2026-11-03 |  |
 | Resideo | [Mobile Software Engineer Intern](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816) | Austin, TX | — | 2026-11-03 |  |
 | Staples | [Software Engineer Intern - Marketplace Platform](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) | Framingham, MA | — | 2026-11-03 |  |
+| Paccar | [AI-Driven Vehicle Definition Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) | Denton, TX | — | 2026-11-03 |  |
 | Paccar | [Materials Systems Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors) | Denton, TX | — | 2026-11-03 |  |
 | Wellmark | [Software Engineer Intern - AI Platform Team](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670) | Des Moines, IA | — | 2026-11-03 |  |
 | Samsung | [AI Application Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) | San Jose, CA | Jan 31 (81d) | 2026-11-03 |  |
@@ -1569,6 +1576,7 @@ Updated 2026-11-11 · 2040 roles · 193 with a stated deadline · 76 rolling
 | Lunar Outpost | [Embedded Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/392/) | Golden, CO | — | 2026-09-28 |  |
 | Lunar Outpost | [Simulation Engineering Intern](https://lunaroutpost.bamboohr.com/careers/390/) | Golden, CO | — | 2026-09-28 |  |
 | Lunar Outpost | [Ground Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/398/) | Golden, CO | — | 2026-09-28 |  |
+| Elire | [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Remote in USA, Minneapolis, MN | — | 2026-09-28 |  |
 | Elire | [AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) | Remote in USA, Minneapolis, MN | — | 2026-09-28 |  |
 | Gecko Robotics | [Embedded Software Engineer Intern - RoboSPLAT - Field Infra](https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application?embed=true) | Pittsburgh, PA | — | 2026-09-28 |  |
 | NOV | [Software Engineer Intern - Rig Technologies](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449) | Houston, TX | — | 2026-09-28 |  |

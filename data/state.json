@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-11",
@@ -8449,6 +8451,24 @@
 "src": "simplify",
 "title": "Network Software Intern",
 "url": "https://job-boards.greenhouse.io/astranis/jobs/4705597006"
+},
+"simplify:astranis:46b48762-e76f-4598-8440-e22bebf7a645": {
+"checked": "2026-11-11",
+"company": "Astranis",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794409534.136479,
+"flags": [],
+"key": "astranis|embedded software developer network payload intern",
+"last_seen": "2026-11-11",
+"locations": [
+"SF"
+],
+"posted_ts": 1794370459,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Developer \u2013 Network/Payload Intern",
+"url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006"
 },
 "simplify:astranis:5b597914-e71c-489d-b3ad-77a3e48f7c58": {
 "checked": "2026-11-10",
@@ -19908,14 +19928,14 @@
 "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081"
 },
 "simplify:elire:575cff72-551d-4520-b574-ee32f9252195": {
-"checked": "2026-09-29",
+"checked": "2026-11-11",
 "company": "Elire",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9947886,
 "flags": [],
 "key": "elire|ai software developer intern multiple teams",
-"last_seen": "2026-09-29",
+"last_seen": "2026-11-11",
 "locations": [
 "Remote in USA",
 "Minneapolis, MN"
@@ -43617,14 +43637,14 @@
 "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors"
 },
 "simplify:paccar:3a491712-efae-41c7-9cf5-9e0c3367e9e1": {
-"checked": "2026-11-03",
+"checked": "2026-11-11",
 "company": "Paccar",
 "deadline": null,
 "first_seen": "2026-11-03",
 "first_seen_ts": 1793671011.5268939,
 "flags": [],
 "key": "paccar|ai driven vehicle definition intern",
-"last_seen": "2026-11-04",
+"last_seen": "2026-11-11",
 "locations": [
 "Denton, TX"
 ],
@@ -47014,6 +47034,24 @@
 "title": "Mission Software Engineering Intern",
 "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true"
 },
+"simplify:regent:fbc336eb-94bb-4ac4-a550-d7e25fea937d": {
+"checked": "2026-11-11",
+"company": "REGENT",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794409534.1364987,
+"flags": [],
+"key": "regent|state estimation intern",
+"last_seen": "2026-11-11",
+"locations": [
+"North Kingstown, RI"
+],
+"posted_ts": 1794355200,
+"rolling": false,
+"src": "simplify",
+"title": "State Estimation Intern",
+"url": "https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?embed=true"
+},
 "simplify:regions bank:8d920b54-8967-4d0d-99fb-7556c8dba0ba": {
 "checked": "2026-09-28",
 "company": "Regions Bank",
@@ -47554,6 +47592,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
+},
+"simplify:riot games:6c623df8-7d81-4f90-be6f-b3fdde876280": {
+"checked": "2026-11-11",
+"company": "Riot Games",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794409534.1364942,
+"flags": [],
+"key": "riot games|data engineer intern",
+"last_seen": "2026-11-11",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1794366177,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716"
 },
 "simplify:riot games:d24f3415-d7f3-4935-8bed-730bae30d68d": {
 "checked": "2026-10-02",
@@ -51915,6 +51971,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
+},
+"simplify:shopline:cc8216f4-5899-4120-a588-e19994b5c98a": {
+"checked": "2026-11-11",
+"company": "SHOPLINE",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794409534.1364884,
+"flags": [],
+"key": "shopline|ai skill developer intern",
+"last_seen": "2026-11-11",
+"locations": [
+"United States"
+],
+"posted_ts": 1794382528,
+"rolling": false,
+"src": "simplify",
+"title": "AI Skill Developer Intern",
+"url": "https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern"
 },
 "simplify:shure:052aae75-1cb8-41e7-9062-f49eac2a2fd6": {
 "checked": "2026-11-05",
@@ -65632,6 +65706,24 @@
 "src": "workday:intel",
 "title": "AI Software Technical Intern",
 "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
+},
+"workday:intel:JR0288820": {
+"checked": "2026-11-11",
+"company": "Intel",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794409534.1310537,
+"flags": [],
+"key": "intel|intern system software development engineer",
+"last_seen": "2026-11-11",
+"locations": [
+"Malaysia, Penang"
+],
+"posted_ts": null,
+"rolling": false,
+"src": "workday:intel",
+"title": "Intern System Software Development Engineer",
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0288820"
 },
 "workday:nvidia:JR2023491": {
 "checked": "2026-11-09",
