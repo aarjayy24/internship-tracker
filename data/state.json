@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-11",
@@ -766,6 +764,42 @@
 "src": "greenhouse:affirm",
 "title": "Software Engineer Intern (Summer 2027)",
 "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
+},
+"greenhouse:airbnb:8380007": {
+"checked": "2026-11-11",
+"company": "Airbnb",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.4726357,
+"flags": [],
+"key": "airbnb|advanced analytics intern",
+"last_seen": "2026-11-11",
+"locations": [
+"United States"
+],
+"posted_ts": 1794432928.0,
+"rolling": false,
+"src": "greenhouse:airbnb",
+"title": "Advanced Analytics Intern",
+"url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007"
+},
+"greenhouse:brex:8936403002": {
+"checked": "2026-11-11",
+"company": "Brex",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.472812,
+"flags": [],
+"key": "brex|software engineer intern summer 2027",
+"last_seen": "2026-11-11",
+"locations": [
+"San Francisco, California, United States"
+],
+"posted_ts": 1794414205.0,
+"rolling": false,
+"src": "greenhouse:brex",
+"title": "Software Engineer, Intern  (Summer 2027)",
+"url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
 },
 "greenhouse:cloudflare:8199958": {
 "checked": "2026-11-09",
@@ -18410,6 +18444,24 @@
 "title": "Software Engineer Intern - Summer 2027",
 "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
 },
+"simplify:dow chemical company:f953ad90-6b80-4798-97ee-1bcc2ea8583c": {
+"checked": "2026-11-11",
+"company": "Dow Chemical Company",
+"deadline": "2026-11-26",
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.4782412,
+"flags": [],
+"key": "dow chemical company|infrastructure mapping data quality co op",
+"last_seen": "2026-11-11",
+"locations": [
+"Midland, MI"
+],
+"posted_ts": 1794355200,
+"rolling": false,
+"src": "simplify",
+"title": "Infrastructure Mapping & Data Quality Co-op",
+"url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169"
+},
 "simplify:dow jones:01d416dc-844e-4698-a114-49f2d585c63a": {
 "checked": "2026-11-07",
 "company": "Dow Jones",
@@ -25235,14 +25287,14 @@
 "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795"
 },
 "simplify:gm financial:16a226b6-b8ad-430a-8246-a9ae743ea5b9": {
-"checked": "2026-10-13",
+"checked": "2026-11-11",
 "company": "GM financial",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9951625,
 "flags": [],
 "key": "gm financial|software development engineer intern",
-"last_seen": "2026-10-17",
+"last_seen": "2026-11-11",
 "locations": [
 "Arlington, TX"
 ],
@@ -28923,14 +28975,14 @@
 "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true"
 },
 "simplify:icf international:05c9b1e2-1f2b-4278-a44f-e94d1a919981": {
-"checked": "2026-10-27",
+"checked": "2026-11-11",
 "company": "ICF International",
 "deadline": null,
 "first_seen": "2026-09-29",
 "first_seen_ts": 1790725517.195253,
 "flags": [],
 "key": "icf international|ai engineer intern",
-"last_seen": "2026-11-02",
+"last_seen": "2026-11-11",
 "locations": [
 "Reston, VA"
 ],
@@ -45354,6 +45406,24 @@
 "title": "University Intern - ERI Analytical Solutions",
 "url": "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors"
 },
+"simplify:piedmont airlines:e7eb4939-757c-4048-9541-a82f2b2ba9d5": {
+"checked": "2026-11-11",
+"company": "Piedmont Airlines",
+"deadline": "2026-11-25",
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.4782326,
+"flags": [],
+"key": "piedmont airlines|safety data analytics intern",
+"last_seen": "2026-11-11",
+"locations": [
+"Charlotte, NC"
+],
+"posted_ts": 1794355200,
+"rolling": false,
+"src": "simplify",
+"title": "Safety Data Analytics Intern",
+"url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574"
+},
 "simplify:pika:bdd3a0f8-3d9c-4fba-9550-fba440691018": {
 "checked": "2026-11-10",
 "company": "Pika",
@@ -48131,6 +48201,24 @@
 "title": "AI Software Engineering Co-op - 6 months - 8 months",
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1"
 },
+"simplify:rockwell automation:c61918bd-5ada-4656-a323-df5bf5b467a8": {
+"checked": "2026-11-11",
+"company": "Rockwell Automation",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.4782264,
+"flags": [],
+"key": "rockwell automation|software developer engineering intern",
+"last_seen": "2026-11-11",
+"locations": [
+"Mequon, WI"
+],
+"posted_ts": 1794355200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Developer/Engineering Intern",
+"url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2"
+},
 "simplify:rockwell automation:f9cecf37-3d67-4284-acf1-bce7d8f9994e": {
 "checked": "2026-11-10",
 "company": "Rockwell Automation",
@@ -49030,6 +49118,24 @@
 "src": "simplify",
 "title": "Software Engineering Co-op",
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134"
+},
+"simplify:rtx:5b6d335d-e746-4e29-8a76-e0984ff0aaaf": {
+"checked": "2026-11-11",
+"company": "RTX",
+"deadline": "2026-11-16",
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.478237,
+"flags": [],
+"key": "rtx|software engineer intern",
+"last_seen": "2026-11-11",
+"locations": [
+"Sterling, VA"
+],
+"posted_ts": 1794355200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017"
 },
 "simplify:rtx:60bc5d7f-1b90-49db-a040-bb1d6287a40f": {
 "checked": "2026-10-09",
@@ -56144,6 +56250,24 @@
 "title": "Data Science & Analytics Intern",
 "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968"
 },
+"simplify:the marzetti company:147dd9d6-d48b-4893-a8f0-0fbd709ad7cd": {
+"checked": "2026-11-11",
+"company": "The Marzetti Company",
+"deadline": null,
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.4782498,
+"flags": [],
+"key": "the marzetti company|ai solutions intern human resources",
+"last_seen": "2026-11-11",
+"locations": [
+"Columbus, OH"
+],
+"posted_ts": 1794404520,
+"rolling": false,
+"src": "simplify",
+"title": "AI Solutions Intern - Human Resources",
+"url": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us"
+},
 "simplify:the marzetti company:c050f36e-820f-4cd1-90dc-939c7c6c2b4a": {
 "checked": "2026-11-10",
 "company": "The Marzetti Company",
@@ -59784,6 +59908,24 @@
 "src": "simplify",
 "title": "Software Developer Intern",
 "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
+},
+"simplify:unisys:5c47d2c6-87fd-41d7-ad7b-88e3b69a6a63": {
+"checked": "2026-11-11",
+"company": "Unisys",
+"deadline": "2026-11-13",
+"first_seen": "2026-11-11",
+"first_seen_ts": 1794433921.4782453,
+"flags": [],
+"key": "unisys|software engineer intern",
+"last_seen": "2026-11-11",
+"locations": [
+"Eagan, MN"
+],
+"posted_ts": 1794355200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
 },
 "simplify:united launch alliance:e6dbbc55-6f12-4929-aae1-6c7b7e14a24b": {
 "checked": "2026-11-09",
