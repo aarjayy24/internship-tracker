@@ -1,6 +1,8 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"microsoft": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-12",
@@ -12137,6 +12139,24 @@
 "title": "Software Development Engineer Co-op",
 "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963"
 },
+"simplify:bracco:146e2884-2956-4a84-9f53-3abbc462c608": {
+"checked": "2026-11-12",
+"company": "Bracco",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.888557,
+"flags": [],
+"key": "bracco|software engineer intern co op r d sustaining",
+"last_seen": "2026-11-12",
+"locations": [
+"Eden Prairie, MN"
+],
+"posted_ts": 1788998400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern/Co-op - R&D Sustaining",
+"url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"
+},
 "simplify:bracebridge capital:5360208a-9885-42bb-a092-21121b730e84": {
 "checked": "2026-11-09",
 "company": "Bracebridge Capital",
@@ -14488,6 +14508,42 @@
 "src": "simplify",
 "title": "Digital Integration Intern",
 "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
+},
+"simplify:chatham financial:c2d94f4d-4b20-4555-839d-59bfaea7bcd8": {
+"checked": "2026-11-12",
+"company": "Chatham Financial",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.888595,
+"flags": [],
+"key": "chatham financial|software engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Kennett Square, PA"
+],
+"posted_ts": 1793232000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
+},
+"simplify:chatham financial:d1904255-ff24-4a54-948f-1b66a6a7a370": {
+"checked": "2026-11-12",
+"company": "Chatham Financial",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885992,
+"flags": [],
+"key": "chatham financial|software engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Denver, CO"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349"
 },
 "simplify:chenega:2310df58-69a1-4c21-bf0c-0ab23ab3e493": {
 "checked": "2026-10-07",
@@ -20629,6 +20685,24 @@
 "title": "Embedded Machine Learning Engineer Intern",
 "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257"
 },
+"simplify:entegris:1231d0ec-856a-46c6-a2db-f7c8c23d2a43": {
+"checked": "2026-11-12",
+"company": "Entegris",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885846,
+"flags": [],
+"key": "entegris|embedded software engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Bloomington, MN"
+],
+"posted_ts": 1794441600,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern",
+"url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870"
+},
 "simplify:entegris:7e72d2cd-9045-4a9f-951e-e816064fd1cd": {
 "checked": "2026-11-11",
 "company": "Entegris",
@@ -22757,6 +22831,24 @@
 "src": "simplify",
 "title": "Embedded Software Co-op",
 "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960"
+},
+"simplify:fresenius medical care:f79149fd-0f69-4f4e-81be-3acf35d2aab8": {
+"checked": "2026-11-12",
+"company": "Fresenius Medical Care",
+"deadline": "2026-11-19",
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8886023,
+"flags": [],
+"key": "fresenius medical care|agentic ai analytics co op",
+"last_seen": "2026-11-12",
+"locations": [
+"Lawrence, MA"
+],
+"posted_ts": 1794441600,
+"rolling": false,
+"src": "simplify",
+"title": "Agentic AI Analytics Co-op",
+"url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797"
 },
 "simplify:fresenius medical care:fc6dd952-8dfe-40dc-bb6b-bc812a95c847": {
 "checked": "2026-11-06",
@@ -26333,6 +26425,24 @@
 "title": "Application Developer Co-op",
 "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
 },
+"simplify:greystone:c954619f-edf2-43f7-88e7-7dd114fbd845": {
+"checked": "2026-11-12",
+"company": "Greystone",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885622,
+"flags": [],
+"key": "greystone|full stack engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Warrenton, VA"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Full Stack Engineer Intern",
+"url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145"
+},
 "simplify:gritt:d420dac2-093d-43dd-9e1c-8bf39bdbbb26": {
 "checked": "2026-11-06",
 "company": "Gritt",
@@ -28892,14 +29002,14 @@
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414"
 },
 "simplify:hudson river trading:87235779-9531-4bf2-b265-6cc448aa0f35": {
-"checked": "2026-09-28",
+"checked": "2026-11-12",
 "company": "Hudson River Trading",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909682,
 "flags": [],
 "key": "hudson river trading|software engineer intern c or python",
-"last_seen": "2026-09-28",
+"last_seen": "2026-11-12",
 "locations": [
 "Austin, TX",
 "Chicago, IL",
@@ -28931,14 +29041,14 @@
 "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
 },
 "simplify:hudson river trading:e37131d1-d111-4bf1-8493-2e54ad4ced68": {
-"checked": "2026-09-28",
+"checked": "2026-11-12",
 "company": "Hudson River Trading",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9909644,
 "flags": [],
 "key": "hudson river trading|algorithm development intern quant research",
-"last_seen": "2026-09-28",
+"last_seen": "2026-11-12",
 "locations": [
 "NYC"
 ],
@@ -29554,6 +29664,78 @@
 "src": "simplify",
 "title": "Data Engineer Intern",
 "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998"
+},
+"simplify:illinois tool works:14085e38-d7e6-4dde-89a8-5714d59445d5": {
+"checked": "2026-11-12",
+"company": "Illinois Tool Works",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885922,
+"flags": [],
+"key": "illinois tool works|software engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"United States"
+],
+"posted_ts": 1790726400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261"
+},
+"simplify:illinois tool works:21a81d8b-5850-46b5-8c39-13debe08e155": {
+"checked": "2026-11-12",
+"company": "Illinois Tool Works",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885784,
+"flags": [],
+"key": "illinois tool works|software engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Appleton, WI"
+],
+"posted_ts": 1789689600,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://itw.wd5.myworkdayjobs.com/external/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122"
+},
+"simplify:illinois tool works:34061c2f-8da9-45b7-a781-7bdec59ed154": {
+"checked": "2026-11-12",
+"company": "Illinois Tool Works",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885813,
+"flags": [],
+"key": "illinois tool works|software engineer intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Appleton, WI"
+],
+"posted_ts": 1786924800,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://itw.wd5.myworkdayjobs.com/external/job/Appleton-822-Comm/Software-Engineering-Intern---PWS_JR9516"
+},
+"simplify:illinois tool works:38ce67af-7cd9-46cd-86b7-8f0fce858a9d": {
+"checked": "2026-11-12",
+"company": "Illinois Tool Works",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885891,
+"flags": [],
+"key": "illinois tool works|software engineer intern application software",
+"last_seen": "2026-11-12",
+"locations": [
+"Eden Prairie, MN"
+],
+"posted_ts": 1791331200,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Application Software",
+"url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1"
 },
 "simplify:illinois tool works:9e770238-e3ff-491f-baa6-08a85518e661": {
 "checked": "2026-11-10",
@@ -36338,6 +36520,42 @@
 "title": "Technology Intern",
 "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002"
 },
+"simplify:martin marietta:1ef1101e-e7ee-4594-ac30-7f014265d763": {
+"checked": "2026-11-12",
+"company": "Martin Marietta",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885658,
+"flags": [],
+"key": "martin marietta|telematics intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1793664000,
+"rolling": false,
+"src": "simplify",
+"title": "Telematics Intern",
+"url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Dallas-TX/Intern--Telematics--Summer-2027-_JR024021-1"
+},
+"simplify:martin marietta:39f4bee9-7483-4139-b046-8f67f8fd9cd9": {
+"checked": "2026-11-12",
+"company": "Martin Marietta",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.88857,
+"flags": [],
+"key": "martin marietta|geographic information systems intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Raleigh, NC"
+],
+"posted_ts": 1792627200,
+"rolling": false,
+"src": "simplify",
+"title": "Geographic Information Systems Intern",
+"url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Geographic-Information-Systems--Summer-2027-_JR023605"
+},
 "simplify:marvell:226b2e00-45e3-4969-ae52-9edd0338ac22": {
 "checked": "2026-10-26",
 "company": "Marvell",
@@ -39372,6 +39590,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859"
+},
+"simplify:microsoft:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd": {
+"checked": "2026-11-12",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885257,
+"flags": [],
+"key": "microsoft|data scientist intern coreai",
+"last_seen": "2026-11-12",
+"locations": [
+"Redmond, WA"
+],
+"posted_ts": 1794478846,
+"rolling": true,
+"src": "simplify",
+"title": "Data Scientist Intern - CoreAI",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557027390"
 },
 "simplify:microsoft:9a83a82e-0789-4e56-8944-40f3428f8630": {
 "checked": "2026-11-10",
@@ -52599,6 +52835,24 @@
 "title": "Quantitative Research and Trading Intern",
 "url": "https://job-boards.greenhouse.io/sesco/jobs/4284446009"
 },
+"simplify:sharkninja:e3e929ab-e394-4415-9e80-2b0eba7fbeea": {
+"checked": "2026-11-12",
+"company": "SharkNinja",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885462,
+"flags": [],
+"key": "sharkninja|data science intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Needham, MA"
+],
+"posted_ts": 1794492772,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006"
+},
 "simplify:sherwin-williams:1def6b3e-6143-4509-9f6c-ca677a3669ec": {
 "checked": "2026-11-10",
 "company": "Sherwin-Williams",
@@ -54543,6 +54797,25 @@
 "title": "Magnet Program Intern",
 "url": "https://jobs.statefarm.com/jobs/46301?icims=1"
 },
+"simplify:state farm:b9075c04-a0bf-4ac8-973b-60aa1d7c730e": {
+"checked": "2026-11-12",
+"company": "State Farm",
+"deadline": null,
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.888552,
+"flags": [],
+"key": "state farm|property and casualty underwriting intern knowledge management",
+"last_seen": "2026-11-12",
+"locations": [
+"Richardson, TX",
+"Bloomington, IL"
+],
+"posted_ts": 1794493080,
+"rolling": false,
+"src": "simplify",
+"title": "Property and Casualty Underwriting Intern - Knowledge Management",
+"url": "https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us"
+},
 "simplify:state farm:e5d509b4-cf02-4596-b607-048396739370": {
 "checked": "2026-10-05",
 "company": "State Farm",
@@ -56475,6 +56748,24 @@
 "src": "simplify",
 "title": "Software Systems Engineer Intern - Acquisition",
 "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
+},
+"simplify:the aerospace corporation:712b2630-73fb-450b-a8c8-955e1d5180dd": {
+"checked": "2026-11-12",
+"company": "The Aerospace Corporation",
+"deadline": "2026-11-27",
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.8885388,
+"flags": [],
+"key": "the aerospace corporation|enterprise performance modeling and simulation graduate intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Colorado Springs, CO"
+],
+"posted_ts": 1792454400,
+"rolling": false,
+"src": "simplify",
+"title": "Enterprise Performance Modeling and Simulation Graduate Intern",
+"url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942"
 },
 "simplify:the aerospace corporation:7f1577fe-f906-4768-872a-6a8b2a16dd0a": {
 "checked": "2026-11-05",
@@ -60292,6 +60583,25 @@
 "src": "simplify",
 "title": "AI Developer Intern",
 "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195"
+},
+"simplify:trinity life sciences:457f471d-0890-4c19-b624-05089c7e682e": {
+"checked": "2026-11-12",
+"company": "Trinity Life Sciences",
+"deadline": "2026-11-17",
+"first_seen": "2026-11-12",
+"first_seen_ts": 1794507762.888574,
+"flags": [],
+"key": "trinity life sciences|data science intern",
+"last_seen": "2026-11-12",
+"locations": [
+"Waltham, MA",
+"NYC"
+],
+"posted_ts": 1793059200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881"
 },
 "simplify:trustage:8210627b-02c8-426b-976a-12e3772ac89f": {
 "checked": "2026-11-11",
