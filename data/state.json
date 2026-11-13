@@ -9283,6 +9283,24 @@
 "title": "AI Engineer Intern",
 "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true"
 },
+"simplify:aurora innovation:d52ae577-609f-49a7-bc5e-5c2a1e928841": {
+"checked": "2026-11-13",
+"company": "Aurora Innovation",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871638,
+"flags": [],
+"key": "aurora innovation|software engineer intern vehicle platforms",
+"last_seen": "2026-11-13",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Vehicle Platforms",
+"url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true"
+},
 "simplify:austin community college district:91e99012-8825-485f-9d0c-534bc8ab62ab": {
 "checked": "2026-10-14",
 "company": "Austin Community College District",
@@ -26102,7 +26120,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-11-12",
+"last_seen": "2026-11-13",
 "locations": [
 "NYC"
 ],
@@ -26138,7 +26156,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-11-12",
+"last_seen": "2026-11-13",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -26156,7 +26174,7 @@
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-11-12",
+"last_seen": "2026-11-13",
 "locations": [
 "Dallas, TX"
 ],
@@ -33351,6 +33369,24 @@
 "title": "Machine Learning Summer Associate Intern - NLP",
 "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790"
 },
+"simplify:jsx:3776b303-0849-4822-8f8b-efd9d1b813dc": {
+"checked": "2026-11-13",
+"company": "JSX",
+"deadline": "2026-11-25",
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871603,
+"flags": [],
+"key": "jsx|commercial intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1793577600,
+"rolling": false,
+"src": "simplify",
+"title": "Commercial Intern",
+"url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729"
+},
 "simplify:judi health:8a42bb1e-8594-4567-9b1b-3293a2451a1f": {
 "checked": "2026-11-10",
 "company": "Judi Health",
@@ -40383,6 +40419,24 @@
 "title": "Software Engineer Intern",
 "url": "https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"
 },
+"simplify:molina healthcare:67e45c9b-a2e8-472f-b2a3-a786a98bf446": {
+"checked": "2026-11-13",
+"company": "Molina Healthcare",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871731,
+"flags": [],
+"key": "molina healthcare|healthcare quality analytics intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Kentucky"
+],
+"posted_ts": 1793400654,
+"rolling": false,
+"src": "simplify",
+"title": "Healthcare Quality Analytics Intern",
+"url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139"
+},
 "simplify:molina healthcare:788484cf-8d3d-4fb3-82c6-3b5c16072344": {
 "checked": "2026-10-31",
 "company": "Molina Healthcare",
@@ -40427,7 +40481,7 @@
 "first_seen_ts": 1793405311.9242296,
 "flags": [],
 "key": "molina healthcare|quality improvement intern",
-"last_seen": "2026-11-11",
+"last_seen": "2026-11-13",
 "locations": [
 "Michigan"
 ],
@@ -52551,6 +52605,24 @@
 "title": "AI Application Engineer Intern",
 "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"
 },
+"simplify:samsung:710b4782-710d-4d0d-b636-26fef8fa8649": {
+"checked": "2026-11-13",
+"company": "Samsung",
+"deadline": "2027-02-11",
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871703,
+"flags": [],
+"key": "samsung|compiler engineer intern",
+"last_seen": "2026-11-13",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1794551014,
+"rolling": false,
+"src": "simplify",
+"title": "Compiler Engineer Intern",
+"url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003"
+},
 "simplify:samsung:8463f3ca-a1af-4b4a-93b8-145006e74a83": {
 "checked": "2026-11-11",
 "company": "Samsung",
@@ -53607,6 +53679,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
+},
+"simplify:shield ai:96c7f622-1cce-4faa-831c-906a6515ce68": {
+"checked": "2026-11-13",
+"company": "Shield AI",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871762,
+"flags": [],
+"key": "shield ai|human machine teaming intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Washington, DC"
+],
+"posted_ts": 1794566934,
+"rolling": false,
+"src": "simplify",
+"title": "Human Machine Teaming Intern",
+"url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply"
 },
 "simplify:shield ai:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
 "checked": "2026-11-10",
@@ -57029,6 +57119,24 @@
 "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
 "url": "https://www.tesla.com/careers/search/job/281097"
 },
+"simplify:tesla:f6983ddf-02f7-4973-ba32-f5ca9ec6ba43": {
+"checked": "2026-11-13",
+"company": "Tesla",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871557,
+"flags": [],
+"key": "tesla|software engineer intern energy engineering",
+"last_seen": "2026-11-13",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1794554109,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Energy Engineering",
+"url": "https://www.tesla.com/careers/search/job/289796"
+},
 "simplify:tessera labs:ff40ee27-6821-4bc8-8929-0a9a37fa6d77": {
 "checked": "2026-10-29",
 "company": "Tessera Labs",
@@ -58644,6 +58752,24 @@
 "src": "simplify",
 "title": "Backend Software Engineer Intern",
 "url": "https://lifeattiktok.com/search/7667935739300317493"
+},
+"simplify:tiktok:0a8f361d-eac9-4e93-9219-0611e828cf85": {
+"checked": "2026-11-13",
+"company": "TikTok",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871672,
+"flags": [],
+"key": "tiktok|machine learning scientist intern local services",
+"last_seen": "2026-11-13",
+"locations": [
+"San Jose, CA"
+],
+"posted_ts": 1794555446,
+"rolling": false,
+"src": "simplify",
+"title": "Machine Learning Scientist Intern - Local Services",
+"url": "https://lifeattiktok.com/search/7703925583541979445"
 },
 "simplify:tiktok:0fb5cd0a-2141-450b-b5c0-d7a1d71036dd": {
 "checked": "2026-11-09",
@@ -61501,14 +61627,14 @@
 "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false"
 },
 "simplify:tyler technologies:d6c24595-0dd3-449f-b0ae-d13e256fc740": {
-"checked": "2026-11-02",
+"checked": "2026-11-13",
 "company": "Tyler Technologies",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-11-05",
+"last_seen": "2026-11-13",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",
@@ -61842,6 +61968,24 @@
 "src": "simplify",
 "title": "Data Science Student Assistant 3 Intern",
 "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1"
+},
+"simplify:university of arkansas:613121a0-b6ea-469c-bf10-9bb507ad6f4c": {
+"checked": "2026-11-13",
+"company": "University of Arkansas",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794569413.1871483,
+"flags": [],
+"key": "university of arkansas|graduate research assistant intern ml ai",
+"last_seen": "2026-11-13",
+"locations": [
+"Little Rock, AR"
+],
+"posted_ts": 1778940427,
+"rolling": false,
+"src": "simplify",
+"title": "Graduate Research Assistant Intern - ML/AI",
+"url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896"
 },
 "simplify:university of arkansas:68a407b4-f609-4594-8c72-301c689dcbe6": {
 "checked": "2026-11-12",
