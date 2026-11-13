@@ -1,6 +1,9 @@
 {
 "bootstrapped": true,
-"health": {},
+"health": {
+"workday:adobe": 1,
+"workday:nvidia": 1
+},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-13",
@@ -271,6 +274,24 @@
 "src": "amazon",
 "title": "Software Development Engineer Intern - Summer 2027",
 "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
+},
+"amazon:amazon:10604778": {
+"checked": "2026-11-13",
+"company": "Amazon",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0337682,
+"flags": [],
+"key": "amazon|2027 applied science internship robotics united states",
+"last_seen": "2026-11-13",
+"locations": [
+"North Reading, Massachusetts, USA"
+],
+"posted_ts": 1794528000.0,
+"rolling": false,
+"src": "amazon",
+"title": "2027 Applied Science Internship - Robotics - United States",
+"url": "https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states"
 },
 "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
 "checked": "2026-10-27",
@@ -3469,6 +3490,24 @@
 "title": "Research Intern - Next-Generation AI Agents",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079"
 },
+"microsoft:microsoft:1970393557073416": {
+"checked": "2026-11-13",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0338235,
+"flags": [],
+"key": "microsoft|research intern ai coding agents",
+"last_seen": "2026-11-13",
+"locations": [
+"Redmond, WA, US"
+],
+"posted_ts": 1794602023,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - AI Coding Agents",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557073416"
+},
 "simplify:42dot:8e8c10af-4384-4d41-b1c2-6163b49e50f2": {
 "checked": "2026-11-11",
 "company": "42dot",
@@ -3794,6 +3833,24 @@
 "src": "simplify",
 "title": "AI Engineer Intern",
 "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002"
+},
+"simplify:addepar:da18a6f1-1675-4ee9-addf-e819685c6b7e": {
+"checked": "2026-11-13",
+"company": "Addepar",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.038789,
+"flags": [],
+"key": "addepar|product analyst intern",
+"last_seen": "2026-11-13",
+"locations": [
+"NYC"
+],
+"posted_ts": 1794610647,
+"rolling": true,
+"src": "simplify",
+"title": "Product Analyst Intern",
+"url": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002"
 },
 "simplify:adobe:31ee782b-3421-455d-9cc1-e5c1fc84b692": {
 "checked": "2026-11-13",
@@ -6873,6 +6930,24 @@
 "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
 "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722"
 },
+"simplify:amgen:964f0600-3b5a-41d8-a620-3e3b83c7eba2": {
+"checked": "2026-11-13",
+"company": "Amgen",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0388021,
+"flags": [],
+"key": "amgen|ai enabled knowledge graphs for patient journey analytics intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Remote in USA"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
+"url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625"
+},
 "simplify:amgen:97071ed7-a906-402b-b755-8a9a9f9968c7": {
 "checked": "2026-10-27",
 "company": "Amgen",
@@ -8212,6 +8287,24 @@
 "title": "AI Engineer Co-op Intern",
 "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628"
 },
+"simplify:asml:66d868a1-ada3-4053-93c1-ef721ae97298": {
+"checked": "2026-11-13",
+"company": "ASML",
+"deadline": "2026-11-27",
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.038776,
+"flags": [],
+"key": "asml|euv data science and analytics intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "EUV Data Science and Analytics Intern",
+"url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717"
+},
 "simplify:asml:9ecd59a5-9422-450f-bac2-c3d9c46fdef7": {
 "checked": "2026-11-10",
 "company": "ASML",
@@ -9262,6 +9355,24 @@
 "src": "simplify",
 "title": "Perception & Mapping Intern",
 "url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true"
+},
+"simplify:aurora innovation:beaa414a-33e5-448c-ae31-d7aeeb886d98": {
+"checked": "2026-11-13",
+"company": "Aurora Innovation",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.038785,
+"flags": [],
+"key": "aurora innovation|embedded software engineer intern lidar",
+"last_seen": "2026-11-13",
+"locations": [
+"Bozeman, MT"
+],
+"posted_ts": 1790812800,
+"rolling": false,
+"src": "simplify",
+"title": "Embedded Software Engineer Intern - Lidar",
+"url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868/application?embed=true"
 },
 "simplify:aurora innovation:c4495dbb-9fdd-486f-bfc8-3b914424d558": {
 "checked": "2026-10-27",
@@ -22517,6 +22628,24 @@
 "src": "simplify",
 "title": "Simulation \u2013 Sim to Real Intern",
 "url": "https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8/apply"
+},
+"simplify:fieldpulse:cb848a3c-9a28-4557-91ee-9c5c4a3029c2": {
+"checked": "2026-11-13",
+"company": "FieldPulse",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0387802,
+"flags": [],
+"key": "fieldpulse|ai intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Dallas, TX"
+],
+"posted_ts": 1794611845,
+"rolling": false,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d"
 },
 "simplify:fifth third bank:60b68227-25d4-4cb0-bb71-13a501242bcf": {
 "checked": "2026-09-28",
@@ -46172,6 +46301,24 @@
 "title": "Research and Development Engineer Intern",
 "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083854-1"
 },
+"simplify:pennsylvania state university:8daf03b5-e8f4-406c-b376-92657de28640": {
+"checked": "2026-11-13",
+"company": "Pennsylvania State University",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0387704,
+"flags": [],
+"key": "pennsylvania state university|energy savings program intern",
+"last_seen": "2026-11-13",
+"locations": [
+"University Park, State College, PA"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Energy Savings Program Intern",
+"url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1"
+},
 "simplify:pennsylvania state university:c194dfb1-1842-4eec-b5ea-bf4d1cbd6786": {
 "checked": "2026-11-07",
 "company": "Pennsylvania State University",
@@ -46809,6 +46956,24 @@
 "src": "simplify",
 "title": "University Intern - ERI Analytical Solutions",
 "url": "https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors"
+},
+"simplify:piedmont airlines:a2043ab0-6914-4249-8a29-b54e7ef94e7f": {
+"checked": "2026-11-13",
+"company": "Piedmont Airlines",
+"deadline": "2026-11-27",
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0387974,
+"flags": [],
+"key": "piedmont airlines|safety data analytics intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Charlotte, NC"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Safety Data Analytics Intern",
+"url": "https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590"
 },
 "simplify:piedmont airlines:e7eb4939-757c-4048-9541-a82f2b2ba9d5": {
 "checked": "2026-11-11",
@@ -48616,6 +48781,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Device Team",
 "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
+},
+"simplify:reliable robotics:81cfb0db-2e35-4ab7-8ded-f4e7d0b805ea": {
+"checked": "2026-11-13",
+"company": "Reliable Robotics",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0387933,
+"flags": [],
+"key": "reliable robotics|flight software engineer intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Mountain View, CA"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Flight Software Engineer Intern",
+"url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?embed=true"
 },
 "simplify:relling:b0a42e09-b82d-47a1-9ef7-123014b6678d": {
 "checked": "2026-11-11",
@@ -55675,6 +55858,24 @@
 "src": "simplify",
 "title": "Software Development Intern",
 "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
+},
+"simplify:stepstone group:93faea04-0671-4105-8b3c-65bd33ef8939": {
+"checked": "2026-11-13",
+"company": "StepStone Group",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0388062,
+"flags": [],
+"key": "stepstone group|junior analyst intern client services",
+"last_seen": "2026-11-13",
+"locations": [
+"Cleveland, OH"
+],
+"posted_ts": 1794604714,
+"rolling": false,
+"src": "simplify",
+"title": "Junior Analyst Intern - Client Services",
+"url": "https://boards.greenhouse.io/embed/job_app?token=8386648"
 },
 "simplify:stepstone group:c579fad0-b08a-4e65-a2cf-77f72aa87439": {
 "checked": "2026-11-12",
@@ -63170,6 +63371,24 @@
 "src": "simplify",
 "title": "Commercial Analytics Co-op - Commercial Analytics",
 "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1"
+},
+"simplify:vertex pharmaceuticals:df6c12ef-a435-45fc-8594-45f85f0d3ec8": {
+"checked": "2026-11-13",
+"company": "Vertex Pharmaceuticals",
+"deadline": "2027-01-15",
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794614123.0387645,
+"flags": [],
+"key": "vertex pharmaceuticals|data analytics intern osd process data analytics",
+"last_seen": "2026-11-13",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analytics Intern - OSD Process Data Analytics",
+"url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312"
 },
 "simplify:vertiv:48fe73cf-84c7-4a22-bfd9-952a666e8607": {
 "checked": "2026-10-20",
