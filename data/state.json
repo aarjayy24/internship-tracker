@@ -38095,6 +38095,24 @@
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"
 },
+"simplify:merrick:45d13310-8ccb-4932-af40-0c16e8220885": {
+"checked": "2026-11-13",
+"company": "Merrick",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794595333.951731,
+"flags": [],
+"key": "merrick|gis analyst intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Greenwood Village, CO"
+],
+"posted_ts": 1794584100,
+"rolling": false,
+"src": "simplify",
+"title": "GIS Analyst Intern",
+"url": "https://careers.merrick.com/jobs/8476?icims=1&lang=en-us"
+},
 "simplify:meta:011d85a2-4a19-4a98-8741-666607401044": {
 "checked": "2026-11-10",
 "company": "Meta",
@@ -40347,6 +40365,24 @@
 "title": "Geographic Information Science Intern",
 "url": "https://careers-mineralstech.icims.com/jobs/4903/job?mobile=true&needsRedirect=false"
 },
+"simplify:minitab:790fef3c-1a8b-4703-a9ed-abe0313e388d": {
+"checked": "2026-11-13",
+"company": "Minitab",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794595333.951722,
+"flags": [],
+"key": "minitab|research design intern",
+"last_seen": "2026-11-13",
+"locations": [
+"State College, PA"
+],
+"posted_ts": 1794579188,
+"rolling": false,
+"src": "simplify",
+"title": "Research & Design Intern",
+"url": "https://job-boards.greenhouse.io/minitab/jobs/8200707003"
+},
 "simplify:mks instruments:0118d441-7dae-4cc7-9995-917a58ea9471": {
 "checked": "2026-11-12",
 "company": "MKS Instruments",
@@ -40492,14 +40528,14 @@
 "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040141"
 },
 "simplify:molina healthcare:df5eafa1-788e-43eb-a0cd-755cec712155": {
-"checked": "2026-11-06",
+"checked": "2026-11-13",
 "company": "Molina Healthcare",
 "deadline": null,
 "first_seen": "2026-11-06",
 "first_seen_ts": 1793964368.1528468,
 "flags": [],
 "key": "molina healthcare|data analytics intern",
-"last_seen": "2026-11-07",
+"last_seen": "2026-11-13",
 "locations": [
 "United States"
 ],
@@ -49565,6 +49601,24 @@
 "src": "simplify",
 "title": "Flight Software Intern",
 "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
+},
+"simplify:rocket mortgage:4e1d3eca-60ed-4189-856e-6f7c6a717741": {
+"checked": "2026-11-13",
+"company": "Rocket Mortgage",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794595333.9517345,
+"flags": [],
+"key": "rocket mortgage|data analyst intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Detroit, MI"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst Intern",
+"url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832"
 },
 "simplify:rockwell automation:000e1d44-e8bb-4c3a-82f2-c413e25e95cc": {
 "checked": "2026-11-11",
@@ -62395,6 +62449,24 @@
 "title": "AI Engineering Intern",
 "url": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us"
 },
+"simplify:valeo:72b5942c-9dc6-4ec1-9a0c-c84205825459": {
+"checked": "2026-11-13",
+"company": "Valeo",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794595333.9517272,
+"flags": [],
+"key": "valeo|software engineer intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Troy, MI"
+],
+"posted_ts": 1794528000,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+},
 "simplify:valeris:92a79dc2-c024-4a1f-ae05-1e5cc44e524f": {
 "checked": "2026-10-29",
 "company": "Valeris",
@@ -62810,6 +62882,24 @@
 "src": "simplify",
 "title": "Technology Intern - Summer Internship Program",
 "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722"
+},
+"simplify:verisk:f080ba31-67e8-4a12-a748-8d74a2b6067b": {
+"checked": "2026-11-13",
+"company": "Verisk",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794595333.9517128,
+"flags": [],
+"key": "verisk|data science ai intern",
+"last_seen": "2026-11-13",
+"locations": [
+"Lehi, UT"
+],
+"posted_ts": 1794582864,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science/AI Intern",
+"url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184"
 },
 "simplify:verizon communications:069f3f4c-adc9-4e2d-919c-045fd3bef6b6": {
 "checked": "2026-10-20",
@@ -66402,6 +66492,24 @@
 "src": "simplify",
 "title": "Research Intern - Robotics Data - Real-to-Sim",
 "url": "https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9/application?embed=true"
+},
+"simplify:wtw:ad14b025-74ef-4ada-8315-206a35b4bc1c": {
+"checked": "2026-11-13",
+"company": "WTW",
+"deadline": null,
+"first_seen": "2026-11-13",
+"first_seen_ts": 1794595333.9517384,
+"flags": [],
+"key": "wtw|data analyst intern",
+"last_seen": "2026-11-13",
+"locations": [
+"NYC"
+],
+"posted_ts": 1794584039,
+"rolling": false,
+"src": "simplify",
+"title": "Data Analyst Intern",
+"url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277"
 },
 "simplify:xai:507939af-b1b0-42a5-b103-4c941f8ec184": {
 "checked": "2026-11-13",
