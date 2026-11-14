@@ -1,9 +1,9 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:adobe": 2,
-"workday:intel": 1,
-"workday:nvidia": 2
+"workday:adobe": 3,
+"workday:intel": 2,
+"workday:nvidia": 3
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -14288,6 +14288,24 @@
 "title": "AI & Data Science Intern",
 "url": "https://jobs.smartrecruiters.com/Carlisle/3743990016774046"
 },
+"simplify:carnegie mellon university:02e22e65-de2c-4f9c-961a-087373b3ff41": {
+"checked": "2026-11-14",
+"company": "Carnegie Mellon University",
+"deadline": null,
+"first_seen": "2026-11-14",
+"first_seen_ts": 1794656386.960316,
+"flags": [],
+"key": "carnegie mellon university|enabling mission capability at scale intern",
+"last_seen": "2026-11-14",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1793318400,
+"rolling": false,
+"src": "simplify",
+"title": "Enabling Mission Capability at Scale Intern",
+"url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1"
+},
 "simplify:carrier global:0a6e08f1-d289-4ad9-b8df-01ed8f0f0a53": {
 "checked": "2026-10-23",
 "company": "Carrier Global",
@@ -26265,7 +26283,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "NYC"
 ],
@@ -26294,14 +26312,14 @@
 "url": "https://higher.gs.com/roles/171564?type=students"
 },
 "simplify:goldman sachs:5bdec003-2a02-42a4-a602-467541840552": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "Goldman Sachs",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -26312,14 +26330,14 @@
 "url": "https://higher.gs.com/roles/171565?type=students"
 },
 "simplify:goldman sachs:792220f4-3ba1-4cf8-843e-e23208ba8d24": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "Goldman Sachs",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Dallas, TX"
 ],
@@ -45275,14 +45293,14 @@
 "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors"
 },
 "simplify:paccar:2f96e3d6-e7b7-4c8f-ac5d-832fdca16735": {
-"checked": "2026-11-04",
+"checked": "2026-11-14",
 "company": "Paccar",
 "deadline": null,
 "first_seen": "2026-11-04",
 "first_seen_ts": 1793813079.7099366,
 "flags": [],
 "key": "paccar|data engineer intern",
-"last_seen": "2026-11-07",
+"last_seen": "2026-11-14",
 "locations": [
 "Denton, TX"
 ],
@@ -45318,7 +45336,7 @@
 "first_seen_ts": 1793671011.5268939,
 "flags": [],
 "key": "paccar|ai driven vehicle definition intern",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Denton, TX"
 ],
@@ -45390,7 +45408,7 @@
 "first_seen_ts": 1794264009.227732,
 "flags": [],
 "key": "paccar|data analyst intern",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Chillicothe, OH"
 ],
@@ -45408,7 +45426,7 @@
 "first_seen_ts": 1794357362.2399926,
 "flags": [],
 "key": "paccar|data engineer intern",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Chillicothe, OH"
 ],
@@ -45426,7 +45444,7 @@
 "first_seen_ts": 1793671011.5268881,
 "flags": [],
 "key": "paccar|materials systems intern",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Denton, TX"
 ],
@@ -45455,14 +45473,14 @@
 "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors"
 },
 "simplify:paccar:ef31b232-5a78-40fe-9d4a-b2cca861468f": {
-"checked": "2026-11-03",
+"checked": "2026-11-14",
 "company": "Paccar",
 "deadline": null,
 "first_seen": "2026-11-03",
 "first_seen_ts": 1793696316.8209362,
 "flags": [],
 "key": "paccar|software developer intern",
-"last_seen": "2026-11-04",
+"last_seen": "2026-11-14",
 "locations": [
 "Denton, TX"
 ],
