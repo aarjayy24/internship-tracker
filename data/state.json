@@ -1,9 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:intel": 3,
-"workday:nvidia": 4
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-14",
@@ -25532,7 +25529,7 @@
 "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724"
 },
 "simplify:general motors:203557a8-5675-4c1a-b21c-82306b96d11f": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "General Motors",
 "deadline": "2026-11-29",
 "first_seen": "2026-10-31",
@@ -44433,7 +44430,7 @@
 "url": "https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false"
 },
 "simplify:nvidia:02243e49-7e4c-44aa-9dd1-0ba4a235d93d": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "NVIDIA",
 "deadline": null,
 "first_seen": "2026-10-31",
@@ -44509,7 +44506,7 @@
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"
 },
 "simplify:nvidia:3affcaac-d7f9-45d1-8139-19defc762e13": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "NVIDIA",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -62389,7 +62386,7 @@
 "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors"
 },
 "simplify:united parcel service:0df6ecc9-530f-46d9-aa92-5271e6287412": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "United Parcel Service",
 "deadline": null,
 "first_seen": "2026-11-07",
@@ -62534,7 +62531,7 @@
 "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/AI-Research-Assistant_JR104812"
 },
 "simplify:university of miami:1c1b890a-2db7-4214-ad0d-1fd62471a080": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "University of Miami",
 "deadline": null,
 "first_seen": "2026-10-31",
@@ -62552,7 +62549,7 @@
 "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102550"
 },
 "simplify:university of miami:7010ce14-d156-4011-8cc3-550873ae8f23": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "University of Miami",
 "deadline": null,
 "first_seen": "2026-10-31",
@@ -62570,7 +62567,7 @@
 "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144"
 },
 "simplify:university of miami:c8aff201-eb9c-4dd1-93a0-28f75c4b2c3c": {
-"checked": "2026-11-07",
+"checked": "2026-11-14",
 "company": "University of Miami",
 "deadline": null,
 "first_seen": "2026-10-31",
@@ -68427,7 +68424,7 @@
 "first_seen_ts": 1790573041.9904494,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Malaysia, Kulim"
 ],
@@ -68517,7 +68514,7 @@
 "first_seen_ts": 1790799418.6801205,
 "flags": [],
 "key": "intel|research scientist intern graphics ml",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Virtual US"
 ],
@@ -68571,7 +68568,7 @@
 "first_seen_ts": 1794409534.1310537,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "Malaysia, Penang"
 ],
@@ -68589,7 +68586,7 @@
 "first_seen_ts": 1790573041.990338,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning computer architecture",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -68607,7 +68604,7 @@
 "first_seen_ts": 1790573041.9903336,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships systems software engineering",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -68625,7 +68622,7 @@
 "first_seen_ts": 1790573041.990342,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships software engineering",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -68643,7 +68640,7 @@
 "first_seen_ts": 1790573041.9903455,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-14",
 "locations": [
 "US, CA, Santa Clara"
 ],
