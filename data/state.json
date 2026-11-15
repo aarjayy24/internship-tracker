@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-15",
@@ -3070,14 +3068,14 @@
 "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
 },
 "microsoft:microsoft:1970393556922930": {
-"checked": "2026-11-08",
+"checked": "2026-11-15",
 "company": "Microsoft",
 "deadline": null,
 "first_seen": "2026-10-01",
 "first_seen_ts": 1790874329.5472558,
 "flags": [],
 "key": "microsoft|software engineer security identity intern opportunities for university students redmond",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3169,7 +3167,7 @@
 "first_seen_ts": 1791400943.0507247,
 "flags": [],
 "key": "microsoft|applied science internship opportunities redmond",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3241,7 +3239,7 @@
 "first_seen_ts": 1793758653.8380556,
 "flags": [],
 "key": "microsoft|software engineer teamwork experiences internship opportunities",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3259,7 +3257,7 @@
 "first_seen_ts": 1791935892.6894765,
 "flags": [],
 "key": "microsoft|research intern machine learning for biology and healthcare",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Cambridge, MA, US"
 ],
@@ -3277,7 +3275,7 @@
 "first_seen_ts": 1791935892.6894698,
 "flags": [],
 "key": "microsoft|research intern machine learning and statistics",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Cambridge, MA, US",
 "Redmond, WA, US"
@@ -3296,7 +3294,7 @@
 "first_seen_ts": 1792115036.9311683,
 "flags": [],
 "key": "microsoft|research intern efficient ai software systems",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3314,7 +3312,7 @@
 "first_seen_ts": 1792177155.7450764,
 "flags": [],
 "key": "microsoft|research intern machine learning at msr nyc",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "New York, NY, US",
 "Cambridge, MA, US"
@@ -3333,7 +3331,7 @@
 "first_seen_ts": 1792177155.7450855,
 "flags": [],
 "key": "microsoft|research intern msr ai interaction and learning",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US",
 "New York, NY, US"
@@ -3370,7 +3368,7 @@
 "first_seen_ts": 1792632419.0458555,
 "flags": [],
 "key": "microsoft|software engineer security identity intern opportunities for university students cambridge",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Cambridge, MA, US"
 ],
@@ -3406,7 +3404,7 @@
 "first_seen_ts": 1793224094.1459584,
 "flags": [],
 "key": "microsoft|research intern machine learning and optimization redmond",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3424,7 +3422,7 @@
 "first_seen_ts": 1793283863.3960807,
 "flags": [],
 "key": "microsoft|applied scientist internship opportunities turing",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3442,7 +3440,7 @@
 "first_seen_ts": 1793847079.5050924,
 "flags": [],
 "key": "microsoft|research intern research in software engineering ml systems agents",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3460,7 +3458,7 @@
 "first_seen_ts": 1794019869.4863596,
 "flags": [],
 "key": "microsoft|research intern ai human systems",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "New York, NY, US",
 "Cambridge, MA, US"
@@ -3479,7 +3477,7 @@
 "first_seen_ts": 1794264009.2212873,
 "flags": [],
 "key": "microsoft|research intern next generation ai agents",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -3497,7 +3495,7 @@
 "first_seen_ts": 1794614123.0338235,
 "flags": [],
 "key": "microsoft|research intern ai coding agents",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Redmond, WA, US"
 ],
@@ -26358,7 +26356,7 @@
 "first_seen_ts": 1790573041.9915483,
 "flags": [],
 "key": "goldman sachs|quantitative strategist associate intern the core quantitative strats",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "NYC"
 ],
@@ -26394,7 +26392,7 @@
 "first_seen_ts": 1790573041.9931157,
 "flags": [],
 "key": "goldman sachs|summer analyst intern americas engineering",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -26412,7 +26410,7 @@
 "first_seen_ts": 1790573041.9931223,
 "flags": [],
 "key": "goldman sachs|summer analyst intern engineering",
-"last_seen": "2026-11-14",
+"last_seen": "2026-11-15",
 "locations": [
 "Dallas, TX"
 ],
