@@ -1,8 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"microsoft": 1
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-15",
@@ -14381,6 +14379,24 @@
 "title": "Enabling Mission Capability at Scale Intern",
 "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1"
 },
+"simplify:carnegie mellon university:3f22e9be-4b77-4b37-99ef-b1b1e7470c90": {
+"checked": "2026-11-15",
+"company": "Carnegie Mellon University",
+"deadline": null,
+"first_seen": "2026-11-15",
+"first_seen_ts": 1794774201.2347744,
+"flags": [],
+"key": "carnegie mellon university|enabling mission capability at scale intern",
+"last_seen": "2026-11-15",
+"locations": [
+"Pittsburgh, PA"
+],
+"posted_ts": 1793318400,
+"rolling": false,
+"src": "simplify",
+"title": "Enabling Mission Capability at Scale Intern",
+"url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300"
+},
 "simplify:carrier global:0a6e08f1-d289-4ad9-b8df-01ed8f0f0a53": {
 "checked": "2026-10-23",
 "company": "Carrier Global",
@@ -22390,6 +22406,24 @@
 "src": "simplify",
 "title": "GIS Intern",
 "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/GIS-Internship_R12730-1"
+},
+"simplify:fanatics:71ef84ba-69f2-4413-9b83-712ab2b91299": {
+"checked": "2026-11-15",
+"company": "Fanatics",
+"deadline": null,
+"first_seen": "2026-11-15",
+"first_seen_ts": 1794774201.2347622,
+"flags": [],
+"key": "fanatics|people intelligence intern",
+"last_seen": "2026-11-15",
+"locations": [
+"NYC"
+],
+"posted_ts": 1794747883,
+"rolling": false,
+"src": "simplify",
+"title": "People Intelligence Intern",
+"url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009"
 },
 "simplify:fannie mae:09e061cd-a5e8-4059-bb6d-a0672a475328": {
 "checked": "2026-10-05",
@@ -62179,7 +62213,7 @@
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-15",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",

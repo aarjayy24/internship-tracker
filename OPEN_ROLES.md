@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-15 · 1996 roles · 151 with a stated deadline · 79 rolling
+Updated 2026-11-15 · 1999 roles · 151 with a stated deadline · 79 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -258,13 +258,15 @@ Updated 2026-11-15 · 1996 roles · 151 with a stated deadline · 79 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1803)
+## Everyone else (1806)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Fanatics | [People Intelligence Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009) | NYC | — | 2026-11-15 |  |
+| Blizzard Entertainment | [Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) | Irvine, CA | — | 2026-11-15 |  |
 | Cigna Group | [Healthcare Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857) | Morris Plains, NJ | — | 2026-11-15 |  |
 | RTX | [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404) | Richardson, TX | **Nov 18 (3d)** | 2026-11-15 |  |
-| Blizzard Entertainment | [Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) | Irvine, CA | — | 2026-11-15 |  |
+| Carnegie Mellon University | [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300) | Pittsburgh, PA | — | 2026-11-15 |  |
 | SAS | [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-14 |  |
 | NextEra Energy | [Software Engineering Intern - Technical](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) | St Paul, MN | — | 2026-11-14 |  |
 | Camping World | [Data Analyst Intern - AI & Machine Learning Focus](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) | Chicago, IL, Lincolnshire, IL | — | 2026-11-14 |  |
@@ -1382,6 +1384,7 @@ Updated 2026-11-15 · 1996 roles · 151 with a stated deadline · 79 rolling
 | Itron | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | — | 2026-09-30 |  |
 | Itron | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | Liberty Lake, WA | — | 2026-09-30 |  |
 | POET | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | — | 2026-09-30 |  |
+| Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME, Orono, ME, Falmouth, ME | — | 2026-09-30 |  |
 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | — | 2026-09-30 |  |
 | Intel | [Research Scientist Intern - Graphics, ML](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | Virtual US | Dec 30 (45d) | 2026-09-30 |  |
 | Honeywell | [Software Engineering Co-op](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | United States | — | 2026-09-29 |  |
