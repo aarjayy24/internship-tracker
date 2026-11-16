@@ -1,8 +1,7 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:capitalone": 2,
-"workday:salesforce": 2
+"workday:capitalone": 3
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -44947,6 +44946,24 @@
 "title": "Software Engineering Intern",
 "url": "https://www.octant.bio/jobs?gh_jid=6260895004"
 },
+"simplify:octaura:3ea65aaa-0297-4b8f-9378-51e35478fb95": {
+"checked": "2026-11-16",
+"company": "Octaura",
+"deadline": null,
+"first_seen": "2026-11-16",
+"first_seen_ts": 1794844436.1314976,
+"flags": [],
+"key": "octaura|data engineer intern",
+"last_seen": "2026-11-16",
+"locations": [
+"NYC"
+],
+"posted_ts": 1794825228,
+"rolling": false,
+"src": "simplify",
+"title": "Data Engineer Intern",
+"url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007"
+},
 "simplify:old mission:b31743bd-7fcf-42a4-aca1-0e6146dfb105": {
 "checked": "2026-10-19",
 "company": "Old Mission",
@@ -53045,7 +53062,7 @@
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
 },
 "simplify:salesforce:c87cc8c3-da35-4f50-9ee0-cc9cac12c4b0": {
-"checked": "2026-11-09",
+"checked": "2026-11-16",
 "company": "Salesforce",
 "deadline": null,
 "first_seen": "2026-10-19",
