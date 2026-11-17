@@ -1,8 +1,8 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:adobe": 2,
-"workday:salesforce": 3
+"workday:capitalone": 1,
+"workday:salesforce": 4
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -9186,7 +9186,7 @@
 "url": "https://jobs.auburn.edu/jobs/11612?icims=1&lang=en-us"
 },
 "simplify:auburn university:625ad44f-ed6c-44b1-af1b-7421389d7149": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Auburn University",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -9204,7 +9204,7 @@
 "url": "https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us"
 },
 "simplify:auburn university:bacd854c-f3b3-40b9-b7b1-a0511c2e41b2": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Auburn University",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -9222,7 +9222,7 @@
 "url": "https://jobs.auburn.edu/jobs/10846?icims=1&lang=en-us"
 },
 "simplify:auburn university:dc6f1bee-4091-4e4f-940e-55b9633edace": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Auburn University",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -9240,7 +9240,7 @@
 "url": "https://jobs.auburn.edu/jobs/10594?icims=1&lang=en-us"
 },
 "simplify:auburn university:f2ace705-ba05-4fde-8bd1-0420dea9181f": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Auburn University",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -11806,7 +11806,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
 },
 "simplify:booz allen:bf4ff037-a559-4845-9678-eb93cb17a890": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Booz Allen",
 "deadline": "2026-12-31",
 "first_seen": "2026-09-28",
@@ -19586,7 +19586,7 @@
 "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294"
 },
 "simplify:dp world:2ed5af7a-589d-4925-a790-0008c9fafa02": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "DP World",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -22537,7 +22537,7 @@
 "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311"
 },
 "simplify:expedia group:e01d674b-7369-4b64-8785-fba7bb59da13": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Expedia Group",
 "deadline": null,
 "first_seen": "2026-10-06",
@@ -25731,7 +25731,7 @@
 "url": "https://careers-gdms.icims.com/jobs/75040/job?mobile=true&needsRedirect=false"
 },
 "simplify:general dynamics mission systems:e6fb5000-2e1c-4620-a9c8-da52d2e6ca4d": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "General Dynamics Mission Systems",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -27495,7 +27495,7 @@
 "url": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8/application?embed=true"
 },
 "simplify:gsa capital:9fe60218-41c6-4f42-8862-0fe555eacd22": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "GSA Capital",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -49824,7 +49824,7 @@
 "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628"
 },
 "simplify:republic finance:3fb8b7bd-86cb-4d5f-ab4d-109326b3686b": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Republic Finance",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -54571,7 +54571,7 @@
 "url": "https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691"
 },
 "simplify:selective insurance:1bd5c700-e454-4a26-bbbd-9880cefb4be7": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Selective Insurance",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -54589,7 +54589,7 @@
 "url": "https://jobs.selective.com/jobs/5757?icims=1&lang=en-us"
 },
 "simplify:selective insurance:9a604003-28ad-46f3-991d-0d27170b494c": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Selective Insurance",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -54625,7 +54625,7 @@
 "url": "https://jobs.selective.com/jobs/5750?icims=1&lang=en-us"
 },
 "simplify:selective insurance:e607654c-f29c-4661-80c6-08643000d167": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Selective Insurance",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -54643,7 +54643,7 @@
 "url": "https://jobs.selective.com/jobs/5689?icims=1&lang=en-us"
 },
 "simplify:selective insurance:ec82070a-1dec-4b05-9e7d-e8e93eab62f9": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Selective Insurance",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -59551,7 +59551,7 @@
 "url": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us"
 },
 "simplify:the marzetti company:c050f36e-820f-4cd1-90dc-939c7c6c2b4a": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "The Marzetti Company",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -62719,7 +62719,7 @@
 "url": "https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US"
 },
 "simplify:trilogy health services:4b696a25-371d-4850-bd83-a776f749aa20": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Trilogy Health Services",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -67794,7 +67794,7 @@
 "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242285007"
 },
 "simplify:windstar cruises:3fdd193e-f76f-44b4-80e5-a220fd3edcd1": {
-"checked": "2026-11-10",
+"checked": "2026-11-17",
 "company": "Windstar Cruises",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -69200,7 +69200,7 @@
 "first_seen_ts": 1790573041.9903877,
 "flags": [],
 "key": "adobe|2027 intern machine learning engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "6 Locations"
 ],
@@ -69218,7 +69218,7 @@
 "first_seen_ts": 1790573041.990391,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "7 Locations"
 ],
@@ -69236,7 +69236,7 @@
 "first_seen_ts": 1791238749.4626484,
 "flags": [],
 "key": "adobe|2027 intern applied and research scientist engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "San Jose"
 ],
@@ -69254,7 +69254,7 @@
 "first_seen_ts": 1794227620.8921883,
 "flags": [],
 "key": "adobe|2027 intern security engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "Bucharest"
 ],
@@ -69290,7 +69290,7 @@
 "first_seen_ts": 1792437343.4188387,
 "flags": [],
 "key": "adobe|2027 intern ai architecture",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "San Jose"
 ],
@@ -69308,7 +69308,7 @@
 "first_seen_ts": 1792437343.4188454,
 "flags": [],
 "key": "adobe|2027 intern security engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "Lehi"
 ],
@@ -69326,7 +69326,7 @@
 "first_seen_ts": 1792525599.350399,
 "flags": [],
 "key": "adobe|2027 intern security engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "San Jose"
 ],
@@ -69344,7 +69344,7 @@
 "first_seen_ts": 1792414911.9162621,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "Basel"
 ],
@@ -69362,7 +69362,7 @@
 "first_seen_ts": 1792414911.9162683,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "Bucharest"
 ],
@@ -69380,7 +69380,7 @@
 "first_seen_ts": 1792450540.59565,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-17",
 "locations": [
 "Yerevan"
 ],

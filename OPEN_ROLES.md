@@ -271,8 +271,8 @@ Updated 2026-11-17 · 1991 roles · 141 with a stated deadline · 78 rolling
 | Robert Bosch Venture Capital | [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) | Farmington Hills, MI | — | 2026-11-17 |  |
 | SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | — | 2026-11-17 |  |
 | Road Commission for Oakland County | [Geographic Information Systems Intern](https://rcoc.bamboohr.com/careers/314/) | Michigan | — | 2026-11-17 |  |
-| Sedaro | [Compiler Intern - Simulator](https://sedarotech.bamboohr.com/careers/95/) | Arlington County, Arlington, VA | — | 2026-11-17 |  |
 | Sedaro | [Software Engineer Intern](https://sedarotech.bamboohr.com/careers/97/) | Arlington County, Arlington, VA | — | 2026-11-17 |  |
+| Sedaro | [Compiler Intern - Simulator](https://sedarotech.bamboohr.com/careers/95/) | Arlington County, Arlington, VA | — | 2026-11-17 |  |
 | FPWA | [Data & Fiscal Policy Intern](https://fpwa.bamboohr.com/careers/61/) | NYC | — | 2026-11-17 |  |
 | ECM Tek | [Developer Intern - Python Development](https://ecmtek.bamboohr.com/careers/51/) | Nashville, TN | — | 2026-11-17 |  |
 | Birdseye Security Solutions | [AI Systems Intern](https://birdseyeaccount.bamboohr.com/careers/288/) | Dallas, TX | — | 2026-11-17 |  |
