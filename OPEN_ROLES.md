@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
+Updated 2026-11-17 · 1991 roles · 141 with a stated deadline · 78 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -22,7 +22,7 @@ Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
 | **Nov 20 (3d)** | Intermountain Healthcare | [AI/ML Engineer Intern](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835) | Remote in USA |
 | **Nov 20 (3d)** | Johnson & Johnson | [Software Engineer Co-op](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743) | Cincinnati, OH |
 | **Nov 20 (3d)** | Johnson & Johnson | [Data Science Co-op - Summer 2027](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746) | Cincinnati, OH |
-| **Nov 20 (3d)** | The Hartford | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) | Chicago, IL, Charlotte, NC, Hartford, CT |
+| **Nov 20 (3d)** | Stryker | [Data Analytics Intern](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) | Fort Wayne, IN |
 | **Nov 20 (3d)** | The Toro Company | [Cloud Software Developer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) | Frederick, CO |
 | **Nov 20 (3d)** | Toyota | [Data Science Intern](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Plano, TX |
 | **Nov 21 (4d)** | The Federal Reserve System | [REIN Data Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) | Atlanta, GA |
@@ -262,12 +262,26 @@ Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1778)
+## Everyone else (1795)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Emerson Electric | [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) | Austin, TX | — | 2026-11-17 |  |
+| Prometheus Group | [Web Development Intern](https://prometheusgroup.bamboohr.com/careers/97/) | Raleigh, NC | — | 2026-11-17 |  |
+| Robert Bosch Venture Capital | [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) | Farmington Hills, MI | — | 2026-11-17 |  |
+| SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | — | 2026-11-17 |  |
+| Road Commission for Oakland County | [Geographic Information Systems Intern](https://rcoc.bamboohr.com/careers/314/) | Michigan | — | 2026-11-17 |  |
+| Sedaro | [Compiler Intern - Simulator](https://sedarotech.bamboohr.com/careers/95/) | Arlington County, Arlington, VA | — | 2026-11-17 |  |
+| Sedaro | [Software Engineer Intern](https://sedarotech.bamboohr.com/careers/97/) | Arlington County, Arlington, VA | — | 2026-11-17 |  |
+| FPWA | [Data & Fiscal Policy Intern](https://fpwa.bamboohr.com/careers/61/) | NYC | — | 2026-11-17 |  |
+| ECM Tek | [Developer Intern - Python Development](https://ecmtek.bamboohr.com/careers/51/) | Nashville, TN | — | 2026-11-17 |  |
+| Birdseye Security Solutions | [AI Systems Intern](https://birdseyeaccount.bamboohr.com/careers/288/) | Dallas, TX | — | 2026-11-17 |  |
+| Birdseye Security Solutions | [Computer Vision Intern](https://birdseyeaccount.bamboohr.com/careers/290/) | Dallas, TX | — | 2026-11-17 |  |
+| IPConfigure | [Software Development for Video Surveillance Software Intern](https://ipconfigure.bamboohr.com/careers/71/) | Norfolk, VA | — | 2026-11-17 |  |
+| SecurityMetrics | [Software Engineer Intern](https://securitymetrics.bamboohr.com/careers/215/) | Orem, UT | — | 2026-11-17 |  |
 | Punchcut | [Design Engineer Intern](https://punchcut.bamboohr.com/careers/65/) | SF | — | 2026-11-17 |  |
 | HexArmor | [Software Engineer Intern](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) | Atlanta, GA | — | 2026-11-17 |  |
+| SAS | [Econometrics Intern](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-17 |  |
 | Toyota Research Institute | [Automated Driving Advanced Development Intern - Machine Learning Research](https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476/apply) | Los Altos, CA | — | 2026-11-17 |  |
 | Toyota Research Institute | [Robotics Intern - World Models - Multimodal Sensing](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply) | Cambridge, MA | — | 2026-11-17 |  |
 | Duetti | [Data Intern](https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply) | NYC | — | 2026-11-17 |  |
@@ -277,10 +291,12 @@ Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
 | ServiceNow | [Forward Deployed Solution Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) | Santa Clara, CA, NYC | — | 2026-11-17 |  |
 | Forterra | [Software Engineer Intern](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | Winter Park, FL, Durham, NC, East Palo Alto, CA, Clarksburg, | — | 2026-11-17 |  |
 | Minitab | [Software Engineer Intern](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | State College, PA | — | 2026-11-17 |  |
-| Reliable Robotics | [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) | Mountain View, CA | — | 2026-11-17 |  |
 | Atalanta | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8/application?embed=true) | Washington, DC | — | 2026-11-17 |  |
 | JMP Statistical Discovery | [JMP Core User Interface Team R&D Intern - Master's/PhD](https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-17 |  |
+| Reliable Robotics | [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) | Mountain View, CA | — | 2026-11-17 |  |
 | Soros Fund Management | [Trading Intern - Middle and Back Office Dev](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) | NYC | — | 2026-11-17 |  |
+| Terranova | [AI Intern](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true) | Berkeley, CA | — | 2026-11-17 |  |
+| Zipline | [Zip Motion Planning Intern](https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003) | South SF | — | 2026-11-17 |  |
 | Federal Home Loan Bank of Des Moines | [IT Back Office Co-op](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/IT-Back-Office-Co-Op_REQ00697) | Des Moines, IA | — | 2026-11-17 |  |
 | Federal Home Loan Bank of Des Moines | [Application Development Co-op](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/Application-Development-Co-Op_REQ00683) | Des Moines, IA | — | 2026-11-17 |  |
 | CesiumAstro | [Software Engineering Intern - Advanced Projects Group](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply) | Austin, TX | — | 2026-11-17 |  |
@@ -613,6 +629,7 @@ Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
 | Blackhawk Network Holdings | [Technology Intern](https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false) | Coppell, TX | — | 2026-11-05 |  |
 | IDeaS | [Software Developer Intern](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false) | Bloomington, MN | — | 2026-11-05 |  |
 | Novelis | [Automotive Engineering Co-op](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) | Kennesaw, GA | — | 2026-11-05 |  |
+| Peraton | [Cyber Research Intern](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) | West Lafayette, IN, Basking Ridge, Bernards, NJ, Silver Spri | — | 2026-11-05 |  |
 | Toyota Research Institute | [Robotics Research Intern - Manipulation](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd/apply) | Los Altos, CA | — | 2026-11-05 |  |
 | PayPal | [Machine Learning Engineer Intern](https://paypal.eightfold.ai/careers/job/274922983149) | San Jose, CA | — | 2026-11-05 |  |
 | PayPal | [Data Scientist Intern](https://paypal.eightfold.ai/careers/job/274922982821) | San Jose, CA | — | 2026-11-05 |  |
@@ -1460,7 +1477,7 @@ Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
 | Gordon Food Service | [Category Support Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intern--NA-Category-Support_R-57473) | Wyoming, MI | — | 2026-09-28 |  |
 | GuideStone | [Software Developer Intern - Software Development](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) | Dallas, TX | — | 2026-09-28 |  |
 | Procter & Gamble | [R&D Intern - AI Research Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | Mason, OH | — | 2026-09-28 |  |
-| Stryker | [Data Analytics Intern](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) | Fort Wayne, IN | — | 2026-09-28 |  |
+| Stryker | [Data Analytics Intern](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901) | Fort Wayne, IN | **Nov 20 (3d)** | 2026-09-28 |  |
 | Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false) | Plano, TX | — | 2026-09-28 |  |
 | Lazard | [Quantitative Research Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | NYC | — | 2026-09-28 |  |
 | Erie Insurance Group | [Data Intern 2](https://jobs.erieinsurance.com/job/Erie-Intern-II-(Data)-PA-16506/1432176200/?ats=successfactors) | Erie, PA | — | 2026-09-28 |  |
@@ -1493,7 +1510,7 @@ Updated 2026-11-17 · 1974 roles · 140 with a stated deadline · 78 rolling
 | onsemi | [Data and Visualization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) | Hopewell Junction, NY | — | 2026-09-28 |  |
 | Cerity Partners | [Risk Management Strategy Intern](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/XMLNAME-2027-Summer-Risk-Management-Strategy-Analyst-Internship_R918-1) | Louisville, KY | — | 2026-09-28 |  |
 | Church & Dwight | [AI Developer Co-op - Graduate Program](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686) | Ewing Township, NJ | — | 2026-09-28 |  |
-| The Hartford | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) | Chicago, IL, Charlotte, NC, Hartford, CT | **Nov 20 (3d)** | 2026-09-28 |  |
+| The Hartford | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) | Chicago, IL, Charlotte, NC, Hartford, CT | Dec 10 (23d) | 2026-09-28 |  |
 | Vanguard | [Co-op - Multiple Teams](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410) | Dallas, TX | — | 2026-09-28 |  |
 | Decagon | [Engineering Intern](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true) | SF | — | 2026-09-28 |  |
 | GM financial | [Data Science Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Fort Worth, TX | — | 2026-09-28 |  |
