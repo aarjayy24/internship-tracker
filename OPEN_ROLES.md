@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-18 · 1953 roles · 132 with a stated deadline · 79 rolling
+Updated 2026-11-18 · 1953 roles · 132 with a stated deadline · 77 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -62,6 +62,8 @@ Updated 2026-11-18 · 1953 roles · 132 with a stated deadline · 79 rolling
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Airbnb | [Software Engineering Intern (BS/MS)](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | San Francisco, California | — | 2026-11-18 |  |
+| Airbnb | [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | SF | — | 2026-11-18 |  |
 | Microsoft | [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393557075140) | Redmond, WA | rolling | 2026-11-18 |  |
 | Meta | [Research Scientist Intern - Perception - Displays and Graphics](https://www.metacareers.com/jobs/1500136678656794) | Sunnyvale, CA | — | 2026-11-16 |  |
 | Meta | [Research Scientist Intern - Intelligent Camera Systems](https://www.metacareers.com/jobs/971210335715482) | Redmond, WA | — | 2026-11-16 |  |
@@ -156,7 +158,6 @@ Updated 2026-11-18 · 1953 roles · 132 with a stated deadline · 79 rolling
 | Meta | [Research Scientist Intern - FAIR Chemistry](https://www.metacareers.com/jobs/2162858564439476) | SF | — | 2026-10-22 |  |
 | Databricks | [Data Science Intern](https://boards.greenhouse.io/embed/job_app?token=6866538002) | SF, Mountain View, CA | — | 2026-10-22 |  |
 | Meta | [Research Scientist Intern - Central Applied Science](https://www.metacareers.com/jobs/1582569213186235) | Menlo Park, CA, NYC | — | 2026-10-22 |  |
-| Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge](https://apply.careers.microsoft.com/careers/job/1970393557044765) | Cambridge, MA, US | rolling | 2026-10-22 |  |
 | NVIDIA | [Product Management MBA Intern - Gaming, Content Creation, And PC AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Canada, Santa Clara, CA, United States | — | 2026-10-22 |  |
 | Citadel | [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | NYC | — | 2026-10-22 |  |
 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California | — | 2026-10-22 |  |
@@ -216,7 +217,6 @@ Updated 2026-11-18 · 1953 roles · 132 with a stated deadline · 79 rolling
 | xAI | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) |  Palo Alto, CA | — | 2026-10-02 |  |
 | Amazon | [Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) | Seattle, Washington, USA | — | 2026-10-02 |  |
 | Amazon | [Software Engineer Intern](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, De | — | 2026-10-02 |  |
-| Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA, US | rolling | 2026-10-01 |  |
 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York, Seattle, South San Francisco HQ | — | 2026-10-01 |  |
 | Stripe | [Software Engineer Intern](https://stripe.com/jobs/search?gh_jid=8241260) | Seattle, WA, SF | — | 2026-10-01 |  |
 | Amazon | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) | Seattle, Washington, USA | — | 2026-09-30 |  |
@@ -269,13 +269,13 @@ Updated 2026-11-18 · 1953 roles · 132 with a stated deadline · 79 rolling
 | Anduril | [Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007) | Santa Ana, CA | — | 2026-11-18 |  |
 | Attain Partners | [Data Analytics Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008) | McLean, VA | — | 2026-11-18 |  |
 | Bissell | [AI & Automation Intern](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us) | Grand Rapids, MI | — | 2026-11-18 |  |
-| SAS | [IoT Analytics Intern](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-18 |  |
 | Basis Research Institute | [Research Intern](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true) | Cambridge, MA, NYC | — | 2026-11-18 |  |
 | Lean TECHniques | [Software Engineer Intern](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true) | Johnston, IA | — | 2026-11-18 |  |
-| Warp Sciences | [Robot Learning Intern - Robotics Learning](https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true) | South SF | — | 2026-11-18 |  |
-| SRI International | [Software Engineering Co-op](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false) | Princeton, NJ | — | 2026-11-18 |  |
-| Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) | Indianapolis, IN | — | 2026-11-18 |  |
 | Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623) | Indianapolis, IN | — | 2026-11-18 |  |
+| Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) | Indianapolis, IN | — | 2026-11-18 |  |
+| SAS | [IoT Analytics Intern](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-18 |  |
+| SRI International | [Software Engineering Co-op](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false) | Princeton, NJ | — | 2026-11-18 |  |
+| Warp Sciences | [Robot Learning Intern - Robotics Learning](https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true) | South SF | — | 2026-11-18 |  |
 | Emerson Electric | [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) | Austin, TX | — | 2026-11-17 |  |
 | Robert Bosch Venture Capital | [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) | Farmington Hills, MI | — | 2026-11-17 |  |
 | SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | — | 2026-11-17 |  |
