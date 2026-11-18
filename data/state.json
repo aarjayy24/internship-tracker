@@ -1,9 +1,12 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:capitalone": 3,
-"workday:intel": 1,
-"workday:salesforce": 6
+"microsoft": 1,
+"workday:adobe": 1,
+"workday:capitalone": 4,
+"workday:intel": 2,
+"workday:nvidia": 1,
+"workday:salesforce": 7
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -4714,7 +4717,7 @@
 "url": "https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false"
 },
 "simplify:allegion:5d11caab-2ae8-4dbf-9d64-b3e5984a4d30": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Allegion",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -7441,9 +7444,9 @@
 "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
 },
 "simplify:apple bank:1e295cb0-851c-4444-95da-daa70198fa7d": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Apple Bank",
-"deadline": null,
+"deadline": "2026-12-07",
 "first_seen": "2026-10-07",
 "first_seen_ts": 1791416364.5519555,
 "flags": [],
@@ -8523,7 +8526,7 @@
 "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639"
 },
 "simplify:assurant:a0647259-2f84-43f9-ab8c-0647746c4fe3": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Assurant",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -11487,7 +11490,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341"
 },
 "simplify:booz allen:5f3ee0c2-89e2-4e7a-a6f4-0dfa76336d4d": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Booz Allen",
 "deadline": "2027-01-26",
 "first_seen": "2026-10-27",
@@ -11754,7 +11757,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273"
 },
 "simplify:booz allen:8ebd0a44-2e7c-4174-adf7-a6c4c147af85": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Booz Allen",
 "deadline": "2027-01-26",
 "first_seen": "2026-10-27",
@@ -15507,7 +15510,7 @@
 "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322"
 },
 "simplify:ciena:3389e541-d8fc-4085-b561-20e494d014cb": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Ciena",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -15525,7 +15528,7 @@
 "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695"
 },
 "simplify:ciena:5b58ee77-e8de-4139-8c62-ca2bdc041bb0": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Ciena",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -19750,7 +19753,7 @@
 "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400"
 },
 "simplify:draftkings:4e50989c-28b7-441b-aabc-eb291b528b95": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "DraftKings",
 "deadline": null,
 "first_seen": "2026-09-30",
@@ -20131,6 +20134,25 @@
 "src": "simplify",
 "title": "Data Analytics Intern",
 "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502"
+},
+"simplify:drivewealth:3f1088e9-3742-4919-8f86-1fb30cc82265": {
+"checked": "2026-11-18",
+"company": "DriveWealth",
+"deadline": null,
+"first_seen": "2026-11-18",
+"first_seen_ts": 1795037430.53226,
+"flags": [],
+"key": "drivewealth|ai consulting associate program people analytics intern",
+"last_seen": "2026-11-18",
+"locations": [
+"Chicago, IL",
+"NYC"
+],
+"posted_ts": 1794960000,
+"rolling": false,
+"src": "simplify",
+"title": "AI Consulting Associate Program People Analytics Intern",
+"url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true"
 },
 "simplify:drivewealth:7f0b6226-d723-4097-a060-879f717c121d": {
 "checked": "2026-11-18",
@@ -22703,7 +22725,7 @@
 "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003"
 },
 "simplify:f5:1fd32548-9b70-43de-815b-740a8ac20359": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "F5",
 "deadline": null,
 "first_seen": "2026-10-07",
@@ -22721,7 +22743,7 @@
 "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076"
 },
 "simplify:f5:6682ab3e-72f8-49a9-928c-220d51a81e0d": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "F5",
 "deadline": null,
 "first_seen": "2026-10-07",
@@ -25454,6 +25476,22 @@
 "title": "Quality Assurance Associate Intern",
 "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Quality-Assurance-Associate--Intern_RQ230538"
 },
+"simplify:general dynamics information technology:e40ead49-69ad-422a-8008-5929557e27a4": {
+"company": "General Dynamics Information Technology",
+"first_seen": "2026-11-18",
+"first_seen_ts": 1795037430.5322702,
+"flags": [],
+"key": "general dynamics information technology|engineering intern",
+"last_seen": "2026-11-18",
+"locations": [
+"Falls Church, VA",
+"Gaithersburg, MD"
+],
+"posted_ts": 1794787200,
+"src": "simplify",
+"title": "Engineering Intern",
+"url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323"
+},
 "simplify:general dynamics information technology:fbed94d0-207f-4923-97dd-2c066c0e8d6a": {
 "checked": "2026-11-17",
 "company": "General Dynamics Information Technology",
@@ -25990,7 +26028,7 @@
 "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
 },
 "simplify:general motors:037d751e-e964-4164-ad1e-5cd1b7b6cb57": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "General Motors",
 "deadline": "2026-12-04",
 "first_seen": "2026-10-03",
@@ -26062,7 +26100,7 @@
 "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258"
 },
 "simplify:general motors:297cab20-afc1-4907-a0ac-266c5647d2c4": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "General Motors",
 "deadline": null,
 "first_seen": "2026-10-06",
@@ -27371,7 +27409,7 @@
 "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650"
 },
 "simplify:great american insurance company:36f067d2-5ba6-440a-9dcf-1e2fd5f4ba50": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Great American Insurance Company",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -27461,7 +27499,7 @@
 "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820"
 },
 "simplify:great american insurance company:d1eb886b-0de3-4b44-a75f-e5b3c10bdb23": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Great American Insurance Company",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -28194,7 +28232,7 @@
 "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416"
 },
 "simplify:hewlett packard enterprise:32a927aa-3bb5-4165-a071-577c818b9b67": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Hewlett Packard Enterprise",
 "deadline": "2027-02-26",
 "first_seen": "2026-10-06",
@@ -28257,7 +28295,7 @@
 "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
 },
 "simplify:hewlett packard enterprise:69d6ccc7-ad4b-42d6-ad99-56d14805e531": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Hewlett Packard Enterprise",
 "deadline": null,
 "first_seen": "2026-10-06",
@@ -29114,7 +29152,7 @@
 "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175"
 },
 "simplify:highmark health:bfbf3ca8-38df-48d8-9039-e1b886870dca": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Highmark Health",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -30499,7 +30537,7 @@
 "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true"
 },
 "simplify:icf international:05c9b1e2-1f2b-4278-a44f-e94d1a919981": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "ICF International",
 "deadline": null,
 "first_seen": "2026-09-29",
@@ -32828,7 +32866,7 @@
 "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581"
 },
 "simplify:jain global:016c5b63-a331-45d0-afd0-fd2f2a92498e": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Jain Global",
 "deadline": null,
 "first_seen": "2026-10-06",
@@ -34941,7 +34979,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512"
 },
 "simplify:kla corporation:3e3542da-92e1-4fce-8d59-ea40698747be": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-11-03",
@@ -34996,7 +35034,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129"
 },
 "simplify:kla corporation:7119d05b-82f8-4636-8a9f-426c89f7a8c5": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-11-03",
@@ -35014,7 +35052,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Totowa-NJ/Software-Engineer-Intern_2642151"
 },
 "simplify:kla corporation:796ede1c-0de1-4a97-8960-314076f5c8a0": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-11-03",
@@ -35105,7 +35143,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642954-1"
 },
 "simplify:kla corporation:f9f2c39b-cbd9-4654-bfd9-2ff0ac221771": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-11-03",
@@ -35375,7 +35413,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1"
 },
 "simplify:kla:a5e8aab7-69ef-48be-84cd-47e7f6fc6357": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-14",
@@ -40917,7 +40955,7 @@
 "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839"
 },
 "simplify:micron technology:6fe65c46-3262-4ee8-9f5b-27fd77cfecf3": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Micron Technology",
 "deadline": null,
 "first_seen": "2026-10-21",
@@ -41299,7 +41337,7 @@
 "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461"
 },
 "simplify:midland states bank:e3aecdd8-6f13-40ba-9cff-b81b59d50ff5": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Midland States Bank",
 "deadline": "2026-12-31",
 "first_seen": "2026-10-06",
@@ -41904,7 +41942,7 @@
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363"
 },
 "simplify:motorola:2f66f3c8-4ff6-4ae9-a40e-ab8552e65340": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Motorola",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -48932,7 +48970,7 @@
 "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application"
 },
 "simplify:q2:01769f39-4af0-402c-a217-88c13dd5d513": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Q2",
 "deadline": null,
 "first_seen": "2026-09-29",
@@ -50937,7 +50975,7 @@
 "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832"
 },
 "simplify:rockwell automation:000e1d44-e8bb-4c3a-82f2-c413e25e95cc": {
-"checked": "2026-11-11",
+"checked": "2026-11-18",
 "company": "Rockwell Automation",
 "deadline": null,
 "first_seen": "2026-10-14",
@@ -54585,7 +54623,7 @@
 "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-23816"
 },
 "simplify:schweitzer engineering laboratories:50be2257-187c-46a4-aedc-d35d1f37a185": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "Schweitzer Engineering Laboratories",
 "deadline": null,
 "first_seen": "2026-10-13",
@@ -59194,7 +59232,7 @@
 "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
 },
 "simplify:the aerospace corporation:57bebd99-f029-4628-b0dc-3532c4f03181": {
-"checked": "2026-11-10",
+"checked": "2026-11-18",
 "company": "The Aerospace Corporation",
 "deadline": null,
 "first_seen": "2026-09-29",
@@ -63471,7 +63509,7 @@
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-11-16",
+"last_seen": "2026-11-18",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",
