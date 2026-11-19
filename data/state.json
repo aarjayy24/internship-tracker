@@ -1,12 +1,12 @@
 {
 "bootstrapped": true,
 "health": {
-"microsoft": 1,
-"workday:adobe": 1,
-"workday:capitalone": 6,
-"workday:intel": 1,
-"workday:nvidia": 1,
-"workday:salesforce": 9
+"microsoft": 2,
+"workday:adobe": 2,
+"workday:capitalone": 7,
+"workday:intel": 2,
+"workday:nvidia": 2,
+"workday:salesforce": 10
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -9018,6 +9018,24 @@
 "title": "Data Scientist Intern - Summer 2027",
 "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1"
 },
+"simplify:atlantic health system:0bb74ea0-6f5c-4892-9675-62883390af80": {
+"checked": "2026-11-19",
+"company": "Atlantic Health System",
+"deadline": null,
+"first_seen": "2026-11-19",
+"first_seen_ts": 1795115538.1257007,
+"flags": [],
+"key": "atlantic health system|pharmacy intern data analytics",
+"last_seen": "2026-11-19",
+"locations": [
+"Morristown, NJ"
+],
+"posted_ts": 1795102632,
+"rolling": false,
+"src": "simplify",
+"title": "Pharmacy Intern - Data Analytics",
+"url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551"
+},
 "simplify:atlassian:2d3cd1b8-063f-41a1-a9ba-c834e3114c68": {
 "checked": "2026-11-19",
 "company": "Atlassian",
@@ -9298,7 +9316,7 @@
 "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008"
 },
 "simplify:auburn university:06f7bdd0-e5fe-4c35-a2d4-b3e9af17f432": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Auburn University",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -14714,7 +14732,9 @@
 "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300"
 },
 "simplify:carnegie mellon university:eb20cf0f-e882-4371-8d02-39c616e9fd04": {
+"checked": "2026-11-19",
 "company": "Carnegie Mellon University",
+"deadline": null,
 "first_seen": "2026-11-19",
 "first_seen_ts": 1795085425.633827,
 "flags": [],
@@ -14724,6 +14744,7 @@
 "Pittsburgh, PA"
 ],
 "posted_ts": 1794787200,
+"rolling": false,
 "src": "simplify",
 "title": "AI Engineer Intern - Mission Innovation Lab",
 "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1"
@@ -15345,7 +15366,7 @@
 "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
 },
 "simplify:chatham financial:c2d94f4d-4b20-4555-839d-59bfaea7bcd8": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Chatham Financial",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -15363,7 +15384,7 @@
 "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
 },
 "simplify:chatham financial:d1904255-ff24-4a54-948f-1b66a6a7a370": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Chatham Financial",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -18363,7 +18384,7 @@
 "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828"
 },
 "simplify:danaher:14dbefc9-5e7e-42f5-b526-0e0349f60cab": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Danaher",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -22830,7 +22851,7 @@
 "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
 },
 "simplify:faith technologies:639c91a7-626f-4da2-b6ed-934b98ece2af": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Faith Technologies",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -31007,7 +31028,7 @@
 "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998"
 },
 "simplify:illinois tool works:14085e38-d7e6-4dde-89a8-5714d59445d5": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Illinois Tool Works",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -31025,7 +31046,7 @@
 "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261"
 },
 "simplify:illinois tool works:21a81d8b-5850-46b5-8c39-13debe08e155": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Illinois Tool Works",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -31043,7 +31064,7 @@
 "url": "https://itw.wd5.myworkdayjobs.com/external/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122"
 },
 "simplify:illinois tool works:34061c2f-8da9-45b7-a781-7bdec59ed154": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Illinois Tool Works",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -31061,7 +31082,7 @@
 "url": "https://itw.wd5.myworkdayjobs.com/external/job/Appleton-822-Comm/Software-Engineering-Intern---PWS_JR9516"
 },
 "simplify:illinois tool works:38ce67af-7cd9-46cd-86b7-8f0fce858a9d": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Illinois Tool Works",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -35121,7 +35142,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1"
 },
 "simplify:kla corporation:4c771974-b2f4-4181-8fca-dc0284874d28": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -35212,7 +35233,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642700"
 },
 "simplify:kla corporation:80f18dd7-dd58-4635-88b5-28ffe8a06439": {
-"checked": "2026-11-10",
+"checked": "2026-11-19",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-11-03",
@@ -35320,7 +35341,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2"
 },
 "simplify:kla:20866878-0b2e-4166-9222-2aed6563e8e7": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -35608,7 +35629,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872"
 },
 "simplify:kla:e2a5cc10-9c89-4d98-a6f5-862cad47dd47": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -37019,7 +37040,7 @@
 "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
 },
 "simplify:lightmatter:3ccd0b28-1c06-43f2-be85-1902e772f95b": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Lightmatter",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -38116,7 +38137,7 @@
 "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"
 },
 "simplify:martin marietta:1ef1101e-e7ee-4594-ac30-7f014265d763": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Martin Marietta",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -42445,7 +42466,7 @@
 "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
 },
 "simplify:muon space:f7300419-4cb7-4b86-bb44-cac2e3d6a836": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Muon Space",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -42777,7 +42798,7 @@
 "url": "https://job-boards.greenhouse.io/nisc/jobs/8167858"
 },
 "simplify:national laboratory of the rockies:1930aa1f-6b82-411d-88d7-1c42cdfa1597": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "National Laboratory of the Rockies",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -43303,7 +43324,7 @@
 "first_seen_ts": 1792797747.7499576,
 "flags": [],
 "key": "navy federal|data analytics intern",
-"last_seen": "2026-11-13",
+"last_seen": "2026-11-19",
 "locations": [
 "Pensacola, FL",
 "Vienna, VA"
@@ -49003,7 +49024,7 @@
 "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
 },
 "simplify:ptc:e4e949a2-d0a8-497c-a7db-0da3ab81acb4": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "PTC",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -51225,7 +51246,7 @@
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473"
 },
 "simplify:rockwell automation:6888a509-6e70-41ad-ad5f-a86b6d1be5bc": {
-"checked": "2026-11-11",
+"checked": "2026-11-19",
 "company": "Rockwell Automation",
 "deadline": null,
 "first_seen": "2026-10-14",
@@ -54997,6 +55018,24 @@
 "title": "Digital Products Intern",
 "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007"
 },
+"simplify:scout space:a8d87113-aa75-4085-aa94-8b2b2fee847a": {
+"checked": "2026-11-19",
+"company": "Scout Space",
+"deadline": null,
+"first_seen": "2026-11-19",
+"first_seen_ts": 1795115538.1256952,
+"flags": [],
+"key": "scout space|computer vision engineer intern ai ml",
+"last_seen": "2026-11-19",
+"locations": [
+"Reston, VA"
+],
+"posted_ts": 1795086663,
+"rolling": false,
+"src": "simplify",
+"title": "Computer Vision Engineer Intern - AI/ML",
+"url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008"
+},
 "simplify:sdsu research foundation:9d2e8616-d457-4092-b63e-97eb1cf2fefe": {
 "checked": "2026-11-19",
 "company": "SDSU Research Foundation",
@@ -55385,7 +55424,7 @@
 "url": "https://job-boards.greenhouse.io/sesco/jobs/4284446009"
 },
 "simplify:sharkninja:e3e929ab-e394-4415-9e80-2b0eba7fbeea": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "SharkNinja",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -57104,6 +57143,24 @@
 "title": "Software Engineer Intern - Software, AI, & Machine Learning",
 "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
 },
+"simplify:space dynamics laboratory:ec63f3d6-689a-45ea-aa6a-980217419acf": {
+"checked": "2026-11-19",
+"company": "Space Dynamics Laboratory",
+"deadline": null,
+"first_seen": "2026-11-19",
+"first_seen_ts": 1795115538.125684,
+"flags": [],
+"key": "space dynamics laboratory|software engineering assistant intern",
+"last_seen": "2026-11-19",
+"locations": [
+"Logan, UT"
+],
+"posted_ts": 1795101750,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineering Assistant Intern",
+"url": "https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant"
+},
 "simplify:spacex:6339287b-3f1f-45ea-964d-65549925660a": {
 "checked": "2026-11-16",
 "company": "SpaceX",
@@ -57585,7 +57642,7 @@
 "url": "https://jobs.statefarm.com/jobs/46049?icims=1"
 },
 "simplify:state of wisconsin investment board:6148ec5d-dd2a-47df-9649-33d31c25173a": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "State of Wisconsin Investment Board",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -58519,7 +58576,7 @@
 "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
 },
 "simplify:t-mobile:7f656994-e4f3-4bff-a6cf-de5cf50cf204": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "T-Mobile",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -59355,14 +59412,14 @@
 "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
 },
 "simplify:textron:6af66330-0329-40f5-abaf-5feaf563f36d": {
-"checked": "2026-10-19",
+"checked": "2026-11-19",
 "company": "Textron",
 "deadline": null,
 "first_seen": "2026-09-28",
 "first_seen_ts": 1790573041.992467,
 "flags": [],
 "key": "textron|software engineer intern sea systems",
-"last_seen": "2026-10-19",
+"last_seen": "2026-11-19",
 "locations": [
 "Hunt Valley, Cockeysville, MD"
 ],
@@ -59463,7 +59520,7 @@
 "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925"
 },
 "simplify:the aerospace corporation:3c5aa30b-a574-4c60-b5bb-5d75268f2945": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "The Aerospace Corporation",
 "deadline": null,
 "first_seen": "2026-10-22",
@@ -68509,7 +68566,7 @@
 "url": "https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false"
 },
 "simplify:wolters kluwer:527bfca2-0633-4f39-9057-864baf83e6ac": {
-"checked": "2026-11-12",
+"checked": "2026-11-19",
 "company": "Wolters Kluwer",
 "deadline": null,
 "first_seen": "2026-11-12",
