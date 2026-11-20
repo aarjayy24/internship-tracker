@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-20 · 1938 roles · 132 with a stated deadline · 80 rolling
+Updated 2026-11-20 · 1939 roles · 132 with a stated deadline · 81 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -57,10 +57,11 @@ Updated 2026-11-20 · 1938 roles · 132 with a stated deadline · 80 rolling
 | Dec 4 (14d) | General Motors | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA |
 | Dec 4 (14d) | Merck | [Future Talent Program Co-op - Patient Data Learning](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) | Cambridge, MA |
 
-## ⭐ Top companies (204)
+## ⭐ Top companies (205)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Microsoft | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076215) | Mountain View, CA, US, Redmond, WA, US | rolling | 2026-11-20 |  |
 | LinkedIn | [AI/ML Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) | Mountain View, CA | — | 2026-11-20 |  |
 | Meta | [Research Scientist Intern - AI Agents for Autonomous Laboratories](https://www.metacareers.com/jobs/29481973694788756) | Redmond, WA | — | 2026-11-20 |  |
 | Microsoft | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076159) | Redmond, WA, US, Mountain View, CA, US | rolling | 2026-11-20 |  |
@@ -273,8 +274,8 @@ Updated 2026-11-20 · 1938 roles · 132 with a stated deadline · 80 rolling
 | The SilverLogic | [AI Engineer/Consultant Intern](https://silverlogic.bamboohr.com/careers/36/) | Boca Raton, FL | — | 2026-11-20 |  |
 | Systems Planning and Analysis | [Integrated Analytics Intern](https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us) | Alexandria, VA | — | 2026-11-20 |  |
 | Wurl | [Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006) | Remote in USA | — | 2026-11-20 |  |
-| Smule | [Applied Research Scientist Intern](https://smule.bamboohr.com/careers/29/) | Salt Lake City, UT | — | 2026-11-20 |  |
 | Smule | [Machine Learning Engineer Intern](https://smule.bamboohr.com/careers/31/) | Salt Lake City, UT | — | 2026-11-20 |  |
+| Smule | [Applied Research Scientist Intern](https://smule.bamboohr.com/careers/29/) | Salt Lake City, UT | — | 2026-11-20 |  |
 | Smule | [Research Engineer Intern](https://smule.bamboohr.com/careers/30/) | Salt Lake City, UT | — | 2026-11-20 |  |
 | REXA | [Software Engineer Intern](https://rexa.bamboohr.com/careers/134/) | Middleborough, MA | — | 2026-11-20 |  |
 | Park National Bank | [Data Engineering/Data Science Intern](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) | Newark, OH | — | 2026-11-20 |  |
@@ -299,8 +300,8 @@ Updated 2026-11-20 · 1938 roles · 132 with a stated deadline · 80 rolling
 | Lucid Motors | [Infotainment Software Intern](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) | Newark, CA | — | 2026-11-20 |  |
 | Lucid Motors | [Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Newark, CA | — | 2026-11-20 |  |
 | Formlabs | [API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) | Somerville, MA | — | 2026-11-20 |  |
-| Trener Robotics | [Robotics Engineer / Lab Technician Intern](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) | San Jose, CA | — | 2026-11-20 |  |
 | Symbotic | [Software Engineer Intern - Front-End](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) | Austin, TX | — | 2026-11-20 |  |
+| Trener Robotics | [Robotics Engineer / Lab Technician Intern](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) | San Jose, CA | — | 2026-11-20 |  |
 | Ford Motor Company | [Vehicle Access System Engineering Intern - Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) | Allen Park, MI | — | 2026-11-20 |  |
 | Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) | Detroit, MI | — | 2026-11-20 |  |
 | Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) | Westerville, OH, Fort Lauderdale, FL, Huntsville, AL | — | 2026-11-20 |  |

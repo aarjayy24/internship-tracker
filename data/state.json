@@ -1,9 +1,11 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:capitalone": 10,
-"workday:intel": 2,
-"workday:salesforce": 13
+"workday:adobe": 1,
+"workday:capitalone": 11,
+"workday:intel": 3,
+"workday:nvidia": 1,
+"workday:salesforce": 14
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -3694,6 +3696,25 @@
 "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159"
 },
+"microsoft:microsoft:1970393557076215": {
+"checked": "2026-11-20",
+"company": "Microsoft",
+"deadline": null,
+"first_seen": "2026-11-20",
+"first_seen_ts": 1795216080.0117586,
+"flags": [],
+"key": "microsoft|research intern ai machine learning numerics efficiency",
+"last_seen": "2026-11-20",
+"locations": [
+"Mountain View, CA, US",
+"Redmond, WA, US"
+],
+"posted_ts": 1795204734,
+"rolling": true,
+"src": "microsoft",
+"title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557076215"
+},
 "simplify:42dot:8e8c10af-4384-4d41-b1c2-6163b49e50f2": {
 "checked": "2026-11-18",
 "company": "42dot",
@@ -6774,7 +6795,7 @@
 "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514"
 },
 "simplify:american family insurance group:77126d0e-4cb6-4a91-a879-83b75744b445": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "American Family Insurance Group",
 "deadline": null,
 "first_seen": "2026-10-15",
@@ -11957,7 +11978,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
 },
 "simplify:booz allen:8c2d4fa4-d2b6-4ca2-bf92-4bbd38e700d1": {
-"checked": "2026-11-10",
+"checked": "2026-11-20",
 "company": "Booz Allen",
 "deadline": "2027-01-26",
 "first_seen": "2026-10-27",
@@ -12101,7 +12122,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037"
 },
 "simplify:booz allen:b68ac5d6-b7be-4531-a97e-c8921390cb1a": {
-"checked": "2026-11-10",
+"checked": "2026-11-20",
 "company": "Booz Allen",
 "deadline": "2027-01-30",
 "first_seen": "2026-11-03",
@@ -16224,7 +16245,7 @@
 "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
 },
 "simplify:citi:02b720b7-6299-4c34-a21d-fd42406e00f5": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "Citi",
 "deadline": null,
 "first_seen": "2026-10-23",
@@ -18434,7 +18455,7 @@
 "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1"
 },
 "simplify:cvs health:4da3ddc6-8559-489a-b239-8d419ece6bad": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "CVS Health",
 "deadline": null,
 "first_seen": "2026-10-22",
@@ -26757,7 +26778,7 @@
 "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"
 },
 "simplify:general motors:a10cab7e-d751-4b42-bb73-16774cde0eb1": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "General Motors",
 "deadline": null,
 "first_seen": "2026-10-23",
@@ -27771,7 +27792,7 @@
 "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"
 },
 "simplify:great american insurance company:01d6a7ab-cfb5-4eec-8014-19bba35efccb": {
-"checked": "2026-11-11",
+"checked": "2026-11-20",
 "company": "Great American Insurance Company",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -28828,7 +28849,7 @@
 "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397"
 },
 "simplify:hewlett packard enterprise:c3014c87-ec26-4022-be89-770beb5f1b96": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "Hewlett Packard Enterprise",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -35648,7 +35669,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
 },
 "simplify:kla corporation:4eaa723e-570b-4a9d-88de-a5f01e273d96": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "KLA Corporation",
 "deadline": null,
 "first_seen": "2026-10-23",
@@ -36009,7 +36030,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642954"
 },
 "simplify:kla:94d98aed-f229-4614-bd75-a53c2673f538": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-23",
@@ -36081,7 +36102,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296-1"
 },
 "simplify:kla:d6839a2c-d741-43a7-9dd1-16c93a091e96": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-10-08",
@@ -38751,7 +38772,7 @@
 "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Dallas-TX/Intern--Telematics--Summer-2027-_JR024021-1"
 },
 "simplify:martin marietta:39f4bee9-7483-4139-b046-8f67f8fd9cd9": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "Martin Marietta",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -45251,7 +45272,7 @@
 "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
 },
 "simplify:northrop grumman:1c140b14-cbd4-45da-9316-2fd50f440ccf": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "Northrop Grumman",
 "deadline": null,
 "first_seen": "2026-10-15",
@@ -46104,7 +46125,7 @@
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
 },
 "simplify:nvidia:0c7e5252-d2b8-45c7-880c-9923fc29984a": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "NVIDIA",
 "deadline": null,
 "first_seen": "2026-11-06",
@@ -46606,7 +46627,7 @@
 "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Research-Intern_R17283"
 },
 "simplify:omnicom group:da79a98f-4b0b-4c9d-b32d-5a8de230fbec": {
-"checked": "2026-11-10",
+"checked": "2026-11-20",
 "company": "Omnicom Group",
 "deadline": null,
 "first_seen": "2026-11-10",
@@ -47767,7 +47788,7 @@
 "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194"
 },
 "simplify:parsons:64994a10-7a52-4808-b7b9-40c15e254d93": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "Parsons",
 "deadline": null,
 "first_seen": "2026-10-09",
@@ -50338,7 +50359,7 @@
 "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Modeling---Simulation-Engineer-Intern_HR102472"
 },
 "simplify:radiance technologies:140fab22-0b1d-498c-a250-8373856250d9": {
-"checked": "2026-11-10",
+"checked": "2026-11-20",
 "company": "Radiance Technologies",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -50407,7 +50428,7 @@
 "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442"
 },
 "simplify:radiance technologies:5a520635-ec7f-4867-add0-a06b434d8203": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "Radiance Technologies",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -51284,7 +51305,7 @@
 "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315"
 },
 "simplify:revantage corporate services:af9cd863-b956-4618-a0ec-e4d7d7f8056a": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "Revantage Corporate Services",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -54584,7 +54605,7 @@
 "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
 },
 "simplify:s&p global:1d693bc4-5cb6-4d9a-928a-5c72e45a7ecc": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "S&P Global",
 "deadline": null,
 "first_seen": "2026-11-06",
@@ -61115,7 +61136,7 @@
 "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895"
 },
 "simplify:the federal reserve system:c553bd8b-5df6-4e4f-b2aa-ab7731814f81": {
-"checked": "2026-11-12",
+"checked": "2026-11-20",
 "company": "The Federal Reserve System",
 "deadline": "2026-11-28",
 "first_seen": "2026-11-05",
@@ -65215,7 +65236,7 @@
 "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1"
 },
 "simplify:university of arkansas:613121a0-b6ea-469c-bf10-9bb507ad6f4c": {
-"checked": "2026-11-13",
+"checked": "2026-11-20",
 "company": "University of Arkansas",
 "deadline": null,
 "first_seen": "2026-11-13",
