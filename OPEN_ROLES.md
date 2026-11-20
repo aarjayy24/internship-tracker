@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-20 · 1899 roles · 132 with a stated deadline · 80 rolling
+Updated 2026-11-20 · 1927 roles · 132 with a stated deadline · 80 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -57,10 +57,11 @@ Updated 2026-11-20 · 1899 roles · 132 with a stated deadline · 80 rolling
 | Dec 4 (14d) | General Motors | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA |
 | Dec 4 (14d) | Merck | [Future Talent Program Co-op - Patient Data Learning](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) | Cambridge, MA |
 
-## ⭐ Top companies (203)
+## ⭐ Top companies (204)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| LinkedIn | [AI/ML Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) | Mountain View, CA | — | 2026-11-20 |  |
 | Meta | [Research Scientist Intern - AI Agents for Autonomous Laboratories](https://www.metacareers.com/jobs/29481973694788756) | Redmond, WA | — | 2026-11-20 |  |
 | Microsoft | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076159) | Redmond, WA, US, Mountain View, CA, US | rolling | 2026-11-20 |  |
 | Snowflake | [Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897) | US-CA-Menlo Park, US-WA-Bellevue | — | 2026-11-20 |  |
@@ -68,9 +69,9 @@ Updated 2026-11-20 · 1899 roles · 132 with a stated deadline · 80 rolling
 | Snowflake | [Software Engineer Intern (Database Engineering) - Summer 2027](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d) | US-CA-Menlo Park, US-WA-Bellevue | — | 2026-11-20 |  |
 | Microsoft | [Research Intern - AI Safety, Alignment, and Post-Training](https://apply.careers.microsoft.com/careers/job/1970393557076142) | Redmond, WA, US, Mountain View, CA, US | rolling | 2026-11-20 |  |
 | Microsoft | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393557076095) | Redmond, WA, US | rolling | 2026-11-20 |  |
+| Snowflake | [Software Engineer Intern - Database Engineering](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true) | Menlo Park, CA, Bellevue, WA | — | 2026-11-20 |  |
 | Snowflake | [Software Engineer Intern - AI / ML](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true) | Menlo Park, CA, Bellevue, WA | — | 2026-11-20 |  |
 | Snowflake | [Software Engineer Intern - Core - Infrastructure & Security](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true) | Menlo Park, CA, Bellevue, WA | — | 2026-11-20 |  |
-| Snowflake | [Software Engineer Intern - Database Engineering](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true) | Menlo Park, CA, Bellevue, WA | — | 2026-11-20 |  |
 | Meta | [Research Scientist Intern - Physics-Grounded Multimodal Robot Learning](https://www.metacareers.com/jobs/994911809842621) | Redmond, WA | — | 2026-11-19 |  |
 | Microsoft | [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393557075490) | Redmond, WA | rolling | 2026-11-19 |  |
 | Microsoft | [Research Intern - AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557075527) | Redmond, WA, US | rolling | 2026-11-19 |  |
@@ -265,25 +266,51 @@ Updated 2026-11-20 · 1899 roles · 132 with a stated deadline · 80 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1696)
+## Everyone else (1723)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| REXA | [Software Engineer Intern](https://rexa.bamboohr.com/careers/134/) | Middleborough, MA | — | 2026-11-20 |  |
+| Park National Bank | [Data Engineering/Data Science Intern](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) | Newark, OH | — | 2026-11-20 |  |
+| Centralized Supply Chain Services | [Data Quality Intern](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=a2ce0cf6-5514-4817-976f-974dcc0ca215) | Lenexa, KS | — | 2026-11-20 |  |
+| Centralized Supply Chain Services | [Engineering Intern](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=37bcf213-e2be-4f42-9935-303281746ec0) | Lenexa, KS | — | 2026-11-20 |  |
+| CAS | [Cheminformatics Scientist Intern](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337) | Columbus, OH | — | 2026-11-20 |  |
+| CAS | [Technology Intern - Application Technology](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda) | Columbus, OH | — | 2026-11-20 |  |
+| CAS | [Technology Intern - Databases](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002) | Columbus, OH | — | 2026-11-20 |  |
+| CAS | [Technology Intern - Software Engineering](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846) | Columbus, OH | — | 2026-11-20 |  |
+| iA | [Software Development Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1) | Binghamton, NY | — | 2026-11-20 |  |
+| iA | [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) | Indianapolis, IN | — | 2026-11-20 |  |
+| Marias Technology | [Software Developer Intern](https://mariastechnology.bamboohr.com/careers/27/) | Covington, OH | — | 2026-11-20 |  |
+| Honeywell Aerospace | [AI Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880) | United States | — | 2026-11-20 |  |
+| Honeywell Aerospace | [AI Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899) | United States | — | 2026-11-20 |  |
+| Honeywell Aerospace | [Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718) | United States | — | 2026-11-20 |  |
+| Honeywell Aerospace | [Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821) | United States | — | 2026-11-20 |  |
+| Honeywell Aerospace | [Information Systems Data Science Intern - IT](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471) | United States | — | 2026-11-20 |  |
+| Honeywell Aerospace | [Information Systems Data Science Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238) | United States | — | 2026-11-20 |  |
+| Scheels | [Data Analyst Intern](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24) | Fargo, ND | — | 2026-11-20 |  |
+| Melaleuca | [Software Development Intern](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) | Idaho Falls, ID | — | 2026-11-20 |  |
+| Pathlabs | [Software and AI Engineer Intern](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern) | Missoula, MT | — | 2026-11-20 |  |
+| Lucid Motors | [Infotainment Software Intern](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) | Newark, CA | — | 2026-11-20 |  |
+| Lucid Motors | [Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Newark, CA | — | 2026-11-20 |  |
+| Formlabs | [API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) | Somerville, MA | — | 2026-11-20 |  |
 | Ford Motor Company | [Vehicle Access System Engineering Intern - Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) | Allen Park, MI | — | 2026-11-20 |  |
 | Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) | Detroit, MI | — | 2026-11-20 |  |
 | Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) | Westerville, OH, Fort Lauderdale, FL, Huntsville, AL | — | 2026-11-20 |  |
 | Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) | Westerville, OH, Fort Lauderdale, FL, Huntsville, AL | — | 2026-11-20 |  |
 | Pivotal Software | [Autonomy Intern - Autonomy - Path Planning](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply) | Palo Alto, CA | — | 2026-11-20 |  |
+| Lucid Motors | [AI & Data Intern - Applied AI/Machine Learning](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | Newark, CA | — | 2026-11-20 |  |
 | Lucid Motors | [Embedded Software Intern](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Newark, CA | — | 2026-11-20 |  |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167) | Beaverton, OR | — | 2026-11-20 |  |
-| Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | Beaverton, OR | — | 2026-11-20 |  |
-| Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266) | Beaverton, OR | — | 2026-11-20 |  |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11231) | Beaverton, OR | — | 2026-11-20 |  |
+| Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266) | Beaverton, OR | — | 2026-11-20 |  |
+| Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | Beaverton, OR | — | 2026-11-20 |  |
 | Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | — | 2026-11-20 |  |
 | Publicis Groupe | [Identity Analytics Intern](https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | — | 2026-11-20 |  |
 | Amperity | [Software Development Engineer Intern](https://amperity.com/careers?gh_jid=8393990#openpositions) | Seattle, WA | — | 2026-11-20 |  |
 | Docusign | [Product Data Science Intern](https://careers.docusign.com/jobs/31092?icims=1&lang=en-us) | SF | — | 2026-11-20 |  |
 | HERE Technologies | [Applied AI Research Intern](https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false) | Chicago, IL | — | 2026-11-20 |  |
+| Piper Sandler | [Data Engineering Intern](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805) | Minneapolis, MN | — | 2026-11-20 |  |
+| Massey Services | [Software Engineer Intern](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566) | Orlando, FL | — | 2026-11-20 |  |
 | Atlantic Health System | [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) | Morristown, NJ | — | 2026-11-19 |  |
 | Space Dynamics Laboratory | [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant) | Logan, UT | — | 2026-11-19 |  |
 | Scout Space | [Computer Vision Engineer Intern - AI/ML](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008) | Reston, VA | — | 2026-11-19 |  |
@@ -839,6 +866,7 @@ Updated 2026-11-20 · 1899 roles · 132 with a stated deadline · 80 rolling
 | T-Mobile | [Associate AI Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) | Frisco, TX, Overland Park, KS | — | 2026-10-29 |  |
 | Burns Engineering | [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) | Pittsburgh, PA | — | 2026-10-29 |  |
 | OneEthos | [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | Remote in USA | — | 2026-10-29 |  |
+| Astronics | [Software Engineer Intern](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009) | Kirkland, WA | — | 2026-10-29 |  |
 | Tyler Technologies | [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false) | Troy, MI, Overland Park, KS | — | 2026-10-29 |  |
 | General Dynamics Information Technology | [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) | Bossier City, LA | rolling | 2026-10-29 |  |
 | Genesis Molecular AI | [Software Engineer Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true) | San Mateo, CA, NYC | — | 2026-10-29 |  |
