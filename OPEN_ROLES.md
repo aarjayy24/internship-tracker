@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-21 · 1941 roles · 127 with a stated deadline · 80 rolling
+Updated 2026-11-21 · 1942 roles · 128 with a stated deadline · 80 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -260,10 +260,11 @@ Updated 2026-11-21 · 1941 roles · 127 with a stated deadline · 80 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1737)
+## Everyone else (1738)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Neros Technologies | [Autonomy Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) | Torrance, CA | — | 2026-11-21 |  |
 | Koch Industries | [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151) | Lisle, IL | — | 2026-11-21 |  |
 | Lucid Motors | [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | Newark, CA | — | 2026-11-21 |  |
 | Acuity Insurance | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Remote in USA, Sheboygan, WI | — | 2026-11-21 |  |
@@ -322,7 +323,7 @@ Updated 2026-11-21 · 1941 roles · 127 with a stated deadline · 80 rolling
 | Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
 | Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
 | Woodward Governor | [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) | Niles, IL, Fort Collins, CO | — | 2026-11-21 |  |
-| Compassion International | [Summer Intern - Data and Software Engineering](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840) | Colorado Springs, CO | — | 2026-11-21 |  |
+| Compassion International | [Summer Intern - Data and Software Engineering](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840) | Colorado Springs, CO | Dec 31 (40d) | 2026-11-21 |  |
 | Delta Dental | [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534) | Okemos, MI | — | 2026-11-21 |  |
 | Blizzard Entertainment | [Data Platform Engineering Intern - Data Platform Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) | Irvine, CA | — | 2026-11-21 |  |
 | Astera | [Robotics Systems Intern - Wheeled Platforms & Lifting Systems](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true) | Emeryville, CA | — | 2026-11-21 |  |
