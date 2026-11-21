@@ -1,11 +1,10 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:adobe": 3,
-"workday:capitalone": 13,
-"workday:intel": 5,
-"workday:nvidia": 3,
-"workday:salesforce": 16
+"workday:adobe": 4,
+"workday:intel": 6,
+"workday:nvidia": 4,
+"workday:salesforce": 17
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -8352,7 +8351,7 @@
 "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000160961018"
 },
 "simplify:arizona state university:5055f3a1-8816-4390-a4a1-437461953487": {
-"checked": "2026-11-10",
+"checked": "2026-11-21",
 "company": "Arizona State University",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -11291,6 +11290,21 @@
 "src": "simplify",
 "title": "Quantitative Master\u2019s Internship - Technology - Analytics & Modeling",
 "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476"
+},
+"simplify:blizzard entertainment:436c4c36-f3de-487a-83b6-492a4266d8ff": {
+"company": "Blizzard Entertainment",
+"first_seen": "2026-11-21",
+"first_seen_ts": 1795286588.0492961,
+"flags": [],
+"key": "blizzard entertainment|data platform engineering intern data platform engineering",
+"last_seen": "2026-11-21",
+"locations": [
+"Irvine, CA"
+],
+"posted_ts": 1794787200,
+"src": "simplify",
+"title": "Data Platform Engineering Intern - Data Platform Engineering",
+"url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358"
 },
 "simplify:blizzard entertainment:a66d16d8-304f-49d6-ae57-3f9db2d9042c": {
 "checked": "2026-11-15",
@@ -16572,7 +16586,7 @@
 "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
 },
 "simplify:citi:f4efdf50-f493-45be-a118-8178438f8958": {
-"checked": "2026-11-13",
+"checked": "2026-11-21",
 "company": "Citi",
 "deadline": null,
 "first_seen": "2026-10-23",
@@ -17234,6 +17248,21 @@
 "src": "simplify",
 "title": "Scientific Software Engineer Intern",
 "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply"
+},
+"simplify:compassion international:b5c5b115-3401-43ce-ac29-ea46e184089f": {
+"company": "Compassion International",
+"first_seen": "2026-11-21",
+"first_seen_ts": 1795286588.0492804,
+"flags": [],
+"key": "compassion international|summer intern data and software engineering",
+"last_seen": "2026-11-21",
+"locations": [
+"Colorado Springs, CO"
+],
+"posted_ts": 1795046400,
+"src": "simplify",
+"title": "Summer Intern - Data and Software Engineering",
+"url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840"
 },
 "simplify:compeer financial:15dc91f7-a293-402d-901f-811134f675ec": {
 "checked": "2026-11-16",
@@ -18769,7 +18798,7 @@
 "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216"
 },
 "simplify:cvs health:7334fe9e-b263-4fcb-85ec-640af84c260d": {
-"checked": "2026-11-12",
+"checked": "2026-11-21",
 "company": "CVS Health",
 "deadline": "2026-12-31",
 "first_seen": "2026-10-22",
@@ -19424,6 +19453,21 @@
 "src": "simplify",
 "title": "Government Programs Network Intern",
 "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1"
+},
+"simplify:delta dental:fbc36d2d-35f9-4bfd-8880-eacd9e2756cc": {
+"company": "Delta Dental",
+"first_seen": "2026-11-21",
+"first_seen_ts": 1795286588.0492928,
+"flags": [],
+"key": "delta dental|application development intern",
+"last_seen": "2026-11-21",
+"locations": [
+"Okemos, MI"
+],
+"posted_ts": 1794960000,
+"src": "simplify",
+"title": "Application Development Intern",
+"url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534"
 },
 "simplify:demco products:a6139842-69ee-4037-954f-1e2df0a8a6d4": {
 "checked": "2026-10-27",
@@ -25682,7 +25726,7 @@
 "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1"
 },
 "simplify:ge vernova:a42bb64b-5118-4414-b5bb-ebe063b71b10": {
-"checked": "2026-11-11",
+"checked": "2026-11-21",
 "company": "GE Vernova",
 "deadline": null,
 "first_seen": "2026-10-14",
@@ -27419,7 +27463,7 @@
 "first_seen_ts": 1790573041.9942825,
 "flags": [],
 "key": "genworth financial|data analytics intern summer 2027",
-"last_seen": "2026-10-03",
+"last_seen": "2026-11-21",
 "locations": [
 "Richmond, VA"
 ],
@@ -29211,7 +29255,7 @@
 "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply"
 },
 "simplify:hewlett packard enterprise:27a95130-d285-4542-8d8e-e60cabf4b119": {
-"checked": "2026-11-10",
+"checked": "2026-11-21",
 "company": "Hewlett Packard Enterprise",
 "deadline": "2027-02-26",
 "first_seen": "2026-10-13",
@@ -43059,7 +43103,7 @@
 "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865"
 },
 "simplify:moderna:48ddcede-c790-46a9-878d-5e906722c469": {
-"checked": "2026-11-12",
+"checked": "2026-11-21",
 "company": "Moderna",
 "deadline": null,
 "first_seen": "2026-11-12",
@@ -54565,7 +54609,7 @@
 "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596"
 },
 "simplify:rtx:ba02c1f4-7c0e-4af7-9491-23050dd2fa93": {
-"checked": "2026-11-13",
+"checked": "2026-11-21",
 "company": "RTX",
 "deadline": null,
 "first_seen": "2026-10-23",
@@ -70762,6 +70806,22 @@
 "src": "simplify",
 "title": "Product Software Engineer Intern",
 "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394"
+},
+"simplify:woodward governor:28b10e18-b290-443b-b1ae-dca8536f1cd0": {
+"company": "Woodward Governor",
+"first_seen": "2026-11-21",
+"first_seen_ts": 1795286588.0492885,
+"flags": [],
+"key": "woodward governor|ai intern",
+"last_seen": "2026-11-21",
+"locations": [
+"Niles, IL",
+"Fort Collins, CO"
+],
+"posted_ts": 1795132800,
+"src": "simplify",
+"title": "AI Intern",
+"url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291"
 },
 "simplify:woolpert:e719ef8c-20ed-4bd7-94ce-b443ac1e87a2": {
 "checked": "2026-11-19",
