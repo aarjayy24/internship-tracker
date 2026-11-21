@@ -1,11 +1,11 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:adobe": 2,
-"workday:capitalone": 12,
-"workday:intel": 4,
-"workday:nvidia": 2,
-"workday:salesforce": 15
+"workday:adobe": 3,
+"workday:capitalone": 13,
+"workday:intel": 5,
+"workday:nvidia": 3,
+"workday:salesforce": 16
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -9020,6 +9020,24 @@
 "src": "simplify",
 "title": "Data Analyst Intern",
 "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731996005"
+},
+"simplify:astera:2a369c5b-2d82-4445-b2ae-c67327efa726": {
+"checked": "2026-11-21",
+"company": "Astera",
+"deadline": null,
+"first_seen": "2026-11-21",
+"first_seen_ts": 1795262273.859854,
+"flags": [],
+"key": "astera|robotics systems intern wheeled platforms lifting systems",
+"last_seen": "2026-11-21",
+"locations": [
+"Emeryville, CA"
+],
+"posted_ts": 1793318400,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Systems Intern - Wheeled Platforms & Lifting Systems",
+"url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true"
 },
 "simplify:astranis:2b447abf-4a95-4c48-a2bb-10f5a7870bdc": {
 "checked": "2026-11-03",
@@ -24325,6 +24343,24 @@
 "title": "Data Engineer Intern",
 "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714"
 },
+"simplify:first premier bank:d6633194-cac0-4fa3-ba4b-c962e822205e": {
+"checked": "2026-11-21",
+"company": "First PREMIER Bank",
+"deadline": null,
+"first_seen": "2026-11-21",
+"first_seen_ts": 1795262273.859841,
+"flags": [],
+"key": "first premier bank|analytics intern",
+"last_seen": "2026-11-21",
+"locations": [
+"Sioux Falls, SD"
+],
+"posted_ts": 1795132800,
+"rolling": false,
+"src": "simplify",
+"title": "Analytics Intern",
+"url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1"
+},
 "simplify:five rings capital:14baa8ae-f151-483f-b5e0-77ca5086d04e": {
 "checked": "2026-11-16",
 "company": "Five Rings Capital",
@@ -27954,7 +27990,9 @@
 "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382"
 },
 "simplify:gorbel:fe1b3680-b402-4413-a522-d43c7499a5a9": {
+"checked": "2026-11-21",
 "company": "Gorbel",
+"deadline": null,
 "first_seen": "2026-11-21",
 "first_seen_ts": 1795233366.411801,
 "flags": [],
@@ -27964,6 +28002,7 @@
 "Victor, NY"
 ],
 "posted_ts": 1795132800,
+"rolling": false,
 "src": "simplify",
 "title": "Front-End Web Developer Co-op",
 "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1"
@@ -67382,7 +67421,7 @@
 "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312"
 },
 "simplify:vertex pharmaceuticals:ecba7dcd-8896-44c3-bb7f-3f2b3b3fb4d6": {
-"checked": "2026-11-14",
+"checked": "2026-11-21",
 "company": "Vertex Pharmaceuticals",
 "deadline": "2027-01-15",
 "first_seen": "2026-11-14",

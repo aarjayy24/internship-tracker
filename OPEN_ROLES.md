@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-21 · 1934 roles · 127 with a stated deadline · 80 rolling
+Updated 2026-11-21 · 1936 roles · 127 with a stated deadline · 80 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -260,15 +260,15 @@ Updated 2026-11-21 · 1934 roles · 127 with a stated deadline · 80 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1730)
+## Everyone else (1732)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Koch Industries | [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151) | Lisle, IL | — | 2026-11-21 |  |
 | Lucid Motors | [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | Newark, CA | — | 2026-11-21 |  |
 | Acuity Insurance | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Remote in USA, Sheboygan, WI | — | 2026-11-21 |  |
-| Acuity Insurance | [Strategic Information Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7) | Sheboygan, WI | — | 2026-11-21 |  |
 | Acuity Insurance | [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) | Sheboygan, WI | — | 2026-11-21 |  |
+| Acuity Insurance | [Strategic Information Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7) | Sheboygan, WI | — | 2026-11-21 |  |
 | Great Southern Wood Preserving | [Engineering Intern - Data Analyst](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) | Abbeville, AL | — | 2026-11-21 |  |
 | Trimont | [Research Intern](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d8a1f727-d49d-4e7c-b75b-cc27c1f105e8) | Atlanta, GA | — | 2026-11-21 |  |
 | Bennett Thrasher | [IT AI & Automation Intern](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) | Atlanta, GA | — | 2026-11-21 |  |
@@ -282,28 +282,28 @@ Updated 2026-11-21 · 1934 roles · 127 with a stated deadline · 80 rolling
 | Los Angeles Dodgers | [Summer Analyst Intern](https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/OpportunityDetail?opportunityId=fb796a9d-16f1-4514-8f6b-e5c5dbbb6019) | LA | — | 2026-11-21 |  |
 | Applied Research Associates | [Software Engineer Intern](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) | Baton Rouge, LA | — | 2026-11-21 |  |
 | Mesirow | [Software Developer Intern - IT](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214) | Chicago, IL | — | 2026-11-21 |  |
-| Southern Farm Bureau Life Insurance | [Data Analytics Intern](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf) | Jackson, MS | — | 2026-11-21 |  |
-| Southern Farm Bureau Life Insurance | [Data Engineer Intern](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941) | Jackson, MS | — | 2026-11-21 |  |
 | Southern Farm Bureau Life Insurance | [Applications Development Co-op](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=c3ad5eba-757e-447a-957b-a5ab8fb34c7b) | Jackson, MS | — | 2026-11-21 |  |
+| Southern Farm Bureau Life Insurance | [Data Engineer Intern](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941) | Jackson, MS | — | 2026-11-21 |  |
+| Southern Farm Bureau Life Insurance | [Data Analytics Intern](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf) | Jackson, MS | — | 2026-11-21 |  |
 | Ardurra | [GIS/Environmental Intern](https://recruiting.ultipro.com/KIN1006KEAI/JobBoard/8e199c52-6215-4abe-8c26-7a342cd4ff7e/OpportunityDetail?opportunityId=230f62c5-1c34-427f-b2ef-bbe218658fa6) | Cherry Hill Township, NJ | — | 2026-11-21 |  |
 | Calamos Investments | [Information Technology Research Development Intern](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487) | Naperville, IL | — | 2026-11-21 |  |
 | Calamos Investments | [Data Science Intern](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=eb5cd89f-4e14-4b46-ab4d-f68f12bf61af) | Naperville, IL, Chicago, IL | — | 2026-11-21 |  |
 | SSR | [GIS Intern](https://pickleball2995.rec.pro.ukg.net/smi1011ssri/JobBoard/6c2be1d2-d622-4447-ad94-13b6b3d9d57a/OpportunityDetail?opportunityId=2892cf81-2f87-4811-9cba-04287da0d2e2) | Nashville, TN | — | 2026-11-21 |  |
-| GCI | [Targeting Intelligence Analyst Intern - Paid](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=fc18a34f-19de-457e-910a-adb510ce2ec7) | Virginia | — | 2026-11-21 |  |
 | GCI | [Software Developer Intern](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf) | Virginia | — | 2026-11-21 |  |
+| GCI | [Targeting Intelligence Analyst Intern - Paid](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=fc18a34f-19de-457e-910a-adb510ce2ec7) | Virginia | — | 2026-11-21 |  |
 | Ulteig | [GIS Intern](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa) | Remote in USA, Minneapolis, MN, Greenwood Village, CO | — | 2026-11-21 |  |
 | Baltimore Aircoil Company | [HRIS Intern](https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=8cf02ccb-59d2-4585-a3d9-4aee8218f42f) | Jessup, MD | — | 2026-11-21 |  |
 | Baltimore Aircoil Company | [HVAC Applications Engineer Intern](https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=e416d019-d6a5-41ea-bd1c-eb8bf31e4cf8) | Jessup, MD | — | 2026-11-21 |  |
-| Ralliant | [Software Engineering Intern - AI Building](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) | Beaverton, OR | — | 2026-11-21 |  |
 | Jewelers Mutual Group | [Behavioral Analytics Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e) | Raleigh, NC | — | 2026-11-21 |  |
 | Ralliant | [Software Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) | Beaverton, OR | — | 2026-11-21 |  |
-| Jewelers Mutual Group | [Data Science Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895) | Neenah, WI | — | 2026-11-21 |  |
+| Ralliant | [Software Engineering Intern - AI Building](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) | Beaverton, OR | — | 2026-11-21 |  |
 | Jewelers Mutual Group | [Product Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea) | Neenah, WI | — | 2026-11-21 |  |
+| Jewelers Mutual Group | [Data Science Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895) | Neenah, WI | — | 2026-11-21 |  |
 | Avista | [Central Analytics Intern - Multiple Teams](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58) | Spokane, WA | — | 2026-11-21 |  |
 | AFL | [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) | Duncan, SC | — | 2026-11-21 |  |
 | NOV | [Forward Deployed Engineer Intern](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45321) | Houston, TX | — | 2026-11-21 |  |
-| Encore | [IT Data Analyst Intern](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0) | Schiller Park, IL | — | 2026-11-21 |  |
 | Encore | [IT Application Development Intern - Summer 2027](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8) | Schiller Park, IL | — | 2026-11-21 |  |
+| Encore | [IT Data Analyst Intern](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0) | Schiller Park, IL | — | 2026-11-21 |  |
 | Daikin Comfort | [Data Analyst Intern](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87) | Waller, TX | — | 2026-11-21 |  |
 | Welltower | [Capital Project Analyst Intern](https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=3e5dcdce-d089-4ad7-9650-7ea364be57a9) | Frisco, TX | — | 2026-11-21 |  |
 | GTI Energy | [Data Science Intern](https://recruiting.ultipro.com/GAS1003/JobBoard/6eb19b1f-4963-9bbd-eff5-d321e7265519/OpportunityDetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776) | Des Plaines, IL | — | 2026-11-21 |  |
@@ -316,10 +316,12 @@ Updated 2026-11-21 · 1934 roles · 127 with a stated deadline · 80 rolling
 | Gusto | [Economics Research Intern](https://job-boards.greenhouse.io/gusto/jobs/8400148) | SF | — | 2026-11-21 |  |
 | Resultant | [Data & Analytics Consultant Intern](https://jobs.smartrecruiters.com/Resultant/744000162782371) | Indianapolis, IN | — | 2026-11-21 |  |
 | Lucid Motors | [AI/ML Intern - Vehicle Infotainment - Summer 2027](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) | Newark, CA | — | 2026-11-21 |  |
-| Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
-| Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
-| SAS | [Quantum Research & Development Intern](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-21 |  |
 | Gorbel | [Front-End Web Developer Co-op](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) | Victor, NY | — | 2026-11-21 |  |
+| SAS | [Quantum Research & Development Intern](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-21 |  |
+| Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
+| Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
+| First PREMIER Bank | [Analytics Intern](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) | Sioux Falls, SD | — | 2026-11-21 |  |
+| Astera | [Robotics Systems Intern - Wheeled Platforms & Lifting Systems](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true) | Emeryville, CA | — | 2026-11-21 |  |
 | The SilverLogic | [AI Engineer/Consultant Intern](https://silverlogic.bamboohr.com/careers/36/) | Boca Raton, FL | — | 2026-11-20 |  |
 | Systems Planning and Analysis | [Integrated Analytics Intern](https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us) | Alexandria, VA | — | 2026-11-20 |  |
 | Wurl | [Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006) | Remote in USA | — | 2026-11-20 |  |
