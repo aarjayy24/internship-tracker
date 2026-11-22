@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
+Updated 2026-11-22 · 1946 roles · 128 with a stated deadline · 79 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (38)
+## ⏰ Deadlines in the next 14 days (41)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 | **Nov 23 (1d)** | CACI | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | Remote in USA, Sterling, VA, Denver, CO |
 | **Nov 23 (1d)** | Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171) | Portland, OR |
 | **Nov 23 (1d)** | Vertex Pharmaceuticals | [MBA Summer Associate Intern - Multiple Teams](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI---Business-Impact-Analytics_REQ-30482-1) | Boston, MA |
+| **Nov 24 (2d)** | Woodward Governor | [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) | Niles, IL, Fort Collins, CO |
 | **Nov 25 (3d)** | HP Inc. | [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) | SF |
 | **Nov 25 (3d)** | HP Inc. | [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802) | SF |
 | **Nov 25 (3d)** | HP Inc. | [Software Systems Intern - IQ](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1) | SF |
@@ -28,6 +29,8 @@ Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 | **Nov 27 (5d)** | ASML | [EUV Data Science and Analytics Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) | Austin, TX |
 | **Nov 27 (5d)** | CACI | [Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Westminster, CO |
 | **Nov 27 (5d)** | Piedmont Airlines | [Safety Data Analytics Intern](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014590) | Charlotte, NC |
+| **Nov 27 (5d)** | WGU | [Data Governance Intern](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) | Salt Lake City, UT |
+| **Nov 27 (5d)** | Western Governors University | [Technical Intern](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) | Salt Lake City, UT |
 | **Nov 28 (6d)** | The Federal Reserve System | [Knowledge and Information Management Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) | Atlanta, GA |
 | **Nov 29 (7d)** | General Motors | [Research and Development Intern - Vehicle Health Management](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258) | Warren, MI |
 | Nov 30 (8d) | ABB | [AI Engineering ERP Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | Cary, NC |
@@ -255,17 +258,23 @@ Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1735)
+## Everyone else (1743)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | AMD | [BIOS Engineering Co-op](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) | Austin, TX | — | 2026-11-22 |  |
 | Neros Technologies | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, CA | — | 2026-11-22 |  |
 | Advance Auto Parts | [Data Science Intern](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) | Raleigh, NC | Dec 7 (15d) | 2026-11-22 |  |
+| Western Governors University | [Technical Intern](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) | Salt Lake City, UT | **Nov 27 (5d)** | 2026-11-22 |  |
+| First Bank & Trust | [Data Analyst Intern](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) | Brookings, SD, Sioux Falls, SD | — | 2026-11-22 |  |
 | Cadence Design Systems | [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179) | Boston, MA | — | 2026-11-22 |  |
 | Schnucks | [Data Science Generative AI Intern](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) | St. Louis, MO, Missouri, Indiana, Illinois | — | 2026-11-22 |  |
 | TransUnion | [Data Science and Analytics Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Chicago, IL | — | 2026-11-22 |  |
+| Viavi Solutions | [Robotics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1) | Bothell, WA | — | 2026-11-22 |  |
 | Lumentum | [SW Developer Support Intern - Program Management Office](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729) | San Jose, CA | — | 2026-11-22 |  |
+| Constellation Brands | [Data Science Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527) | Rochester, NY | — | 2026-11-22 |  |
+| Constellation Brands | [Data and AI Enablement Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721) | Rochester, NY, Chicago, IL | — | 2026-11-22 |  |
+| Allegion | [Software Engineer Intern - Software Engineering](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795) | Golden, CO | — | 2026-11-22 |  |
 | Neros Technologies | [Autonomy Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) | Torrance, CA | — | 2026-11-21 |  |
 | Koch Industries | [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151) | Lisle, IL | — | 2026-11-21 |  |
 | Lucid Motors | [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | Newark, CA | — | 2026-11-21 |  |
@@ -324,7 +333,7 @@ Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 | SAS | [Quantum Research & Development Intern](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) | Cary, NC | — | 2026-11-21 |  |
 | Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
 | Shield AI | [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) | Arlington County, Arlington, VA | — | 2026-11-21 |  |
-| Woodward Governor | [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) | Niles, IL, Fort Collins, CO | — | 2026-11-21 |  |
+| Woodward Governor | [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) | Niles, IL, Fort Collins, CO | **Nov 24 (2d)** | 2026-11-21 |  |
 | Compassion International | [Summer Intern - Data and Software Engineering](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840) | Colorado Springs, CO | Dec 31 (39d) | 2026-11-21 |  |
 | Delta Dental | [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534) | Okemos, MI | — | 2026-11-21 |  |
 | Blizzard Entertainment | [Data Platform Engineering Intern - Data Platform Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) | Irvine, CA | — | 2026-11-21 |  |
@@ -910,6 +919,7 @@ Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 | T-Mobile | [Associate AI Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) | Frisco, TX, Overland Park, KS | — | 2026-10-29 |  |
 | Burns Engineering | [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) | Pittsburgh, PA | — | 2026-10-29 |  |
 | OneEthos | [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | Remote in USA | — | 2026-10-29 |  |
+| WGU | [Data Governance Intern](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) | Salt Lake City, UT | **Nov 27 (5d)** | 2026-10-29 |  |
 | Tyler Technologies | [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false) | Troy, MI, Overland Park, KS | — | 2026-10-29 |  |
 | General Dynamics Information Technology | [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) | Bossier City, LA | rolling | 2026-10-29 |  |
 | Genesis Molecular AI | [Software Engineer Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true) | San Mateo, CA, NYC | — | 2026-10-29 |  |
@@ -1383,6 +1393,7 @@ Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) | Mountain View, CA, USA | — | 2026-09-30 |  |
 | AMCA | [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) | El Segundo, CA | — | 2026-09-30 |  |
 | POET | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | — | 2026-09-30 |  |
+| Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME, Orono, ME, Falmouth, ME | — | 2026-09-30 |  |
 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | — | 2026-09-30 |  |
 | Intel | [Research Scientist Intern - Graphics, ML](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | Virtual US | Dec 30 (38d) | 2026-09-30 |  |
 | Honeywell | [Software Engineering Co-op](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | United States | — | 2026-09-29 |  |

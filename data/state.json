@@ -1,12 +1,6 @@
 {
 "bootstrapped": true,
-"health": {
-"workday:adobe": 2,
-"workday:capitalone": 2,
-"workday:intel": 2,
-"workday:nvidia": 2,
-"workday:salesforce": 20
-},
+"health": {},
 "jobs": {
 "amazon:amazon:10517567": {
 "checked": "2026-11-22",
@@ -5028,6 +5022,24 @@
 "title": "Software Systems Engineering Intern",
 "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"
 },
+"simplify:allegion:829f073a-df9b-4448-a870-7d6bc38f0d7d": {
+"checked": "2026-11-22",
+"company": "Allegion",
+"deadline": null,
+"first_seen": "2026-11-22",
+"first_seen_ts": 1795372830.4831517,
+"flags": [],
+"key": "allegion|software engineer intern software engineering",
+"last_seen": "2026-11-22",
+"locations": [
+"Golden, CO"
+],
+"posted_ts": 1790294400,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern - Software Engineering",
+"url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795"
+},
 "simplify:allen control systems:3317833d-ccb8-4a20-b49c-8ff24b724fdf": {
 "checked": "2026-11-16",
 "company": "Allen Control Systems",
@@ -7828,7 +7840,7 @@
 "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947"
 },
 "simplify:applied materials:429206eb-1f40-45d7-b889-7f15adca52b5": {
-"checked": "2026-11-12",
+"checked": "2026-11-22",
 "company": "Applied Materials",
 "deadline": "2026-11-30",
 "first_seen": "2026-10-29",
@@ -11329,7 +11341,9 @@
 "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476"
 },
 "simplify:blizzard entertainment:436c4c36-f3de-487a-83b6-492a4266d8ff": {
+"checked": "2026-11-22",
 "company": "Blizzard Entertainment",
+"deadline": null,
 "first_seen": "2026-11-21",
 "first_seen_ts": 1795286588.0492961,
 "flags": [],
@@ -11339,6 +11353,7 @@
 "Irvine, CA"
 ],
 "posted_ts": 1794787200,
+"rolling": false,
 "src": "simplify",
 "title": "Data Platform Engineering Intern - Data Platform Engineering",
 "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358"
@@ -12869,7 +12884,7 @@
 "url": "https://careers.bcg.com/global/en/job/59703"
 },
 "simplify:boston dynamics:7543c6c1-0c66-4d80-8700-6c8fdda69ab7": {
-"checked": "2026-11-12",
+"checked": "2026-11-22",
 "company": "Boston Dynamics",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -14640,7 +14655,9 @@
 "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147"
 },
 "simplify:cadence design systems:f4212f95-684f-43bd-8587-e11bbb39b8eb": {
+"checked": "2026-11-22",
 "company": "Cadence Design Systems",
+"deadline": null,
 "first_seen": "2026-11-22",
 "first_seen_ts": 1795318052.751139,
 "flags": [],
@@ -14650,6 +14667,7 @@
 "Boston, MA"
 ],
 "posted_ts": 1795046400,
+"rolling": false,
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179"
@@ -17454,6 +17472,25 @@
 "title": "Trading Analytics Intern",
 "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429"
 },
+"simplify:constellation brands:3bddb066-3054-4a0c-9cc7-b0ba4e388c00": {
+"checked": "2026-11-22",
+"company": "Constellation Brands",
+"deadline": null,
+"first_seen": "2026-11-22",
+"first_seen_ts": 1795372830.4831324,
+"flags": [],
+"key": "constellation brands|data and ai enablement intern",
+"last_seen": "2026-11-22",
+"locations": [
+"Rochester, NY",
+"Chicago, IL"
+],
+"posted_ts": 1794787200,
+"rolling": false,
+"src": "simplify",
+"title": "Data and AI Enablement Intern",
+"url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721"
+},
 "simplify:constellation brands:3cf5097c-7238-4b24-9364-f1a0f955ae53": {
 "checked": "2026-11-17",
 "company": "Constellation Brands",
@@ -17489,6 +17526,24 @@
 "src": "simplify",
 "title": "AI Enablement Intern",
 "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526"
+},
+"simplify:constellation brands:ef8562a4-25a5-4d0e-9199-0322e26692b1": {
+"checked": "2026-11-22",
+"company": "Constellation Brands",
+"deadline": null,
+"first_seen": "2026-11-22",
+"first_seen_ts": 1795372830.4831219,
+"flags": [],
+"key": "constellation brands|data science intern",
+"last_seen": "2026-11-22",
+"locations": [
+"Rochester, NY"
+],
+"posted_ts": 1794787200,
+"rolling": false,
+"src": "simplify",
+"title": "Data Science Intern",
+"url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527"
 },
 "simplify:constellation energy:11f69ae2-522e-4819-8898-d55df90e6226": {
 "checked": "2026-11-18",
@@ -24133,6 +24188,22 @@
 "title": "Data Engineer Intern",
 "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply"
 },
+"simplify:first bank & trust:c19ddb09-a366-491b-8f74-c4e088f343a8": {
+"company": "First Bank & Trust",
+"first_seen": "2026-11-22",
+"first_seen_ts": 1795372830.4831426,
+"flags": [],
+"key": "first bank & trust|data analyst intern",
+"last_seen": "2026-11-22",
+"locations": [
+"Brookings, SD",
+"Sioux Falls, SD"
+],
+"posted_ts": 1795132800,
+"src": "simplify",
+"title": "Data Analyst Intern",
+"url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864"
+},
 "simplify:first citizens bancshares:074a0da6-73e2-402d-90a7-ca4bf302d862": {
 "checked": "2026-10-07",
 "company": "First Citizens BancShares",
@@ -28416,7 +28487,7 @@
 "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803"
 },
 "simplify:great american insurance company:55c1e198-a782-49df-b433-5c9e4d8e5803": {
-"checked": "2026-11-11",
+"checked": "2026-11-22",
 "company": "Great American Insurance Company",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -36764,7 +36835,7 @@
 "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921"
 },
 "simplify:kla:a86847f9-91cf-42bb-b30b-3037df0475a3": {
-"checked": "2026-11-12",
+"checked": "2026-11-22",
 "company": "KLA",
 "deadline": null,
 "first_seen": "2026-11-05",
@@ -44480,7 +44551,7 @@
 "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009"
 },
 "simplify:nationwide:02d9e13e-0a78-4ac3-ac88-bcc860a02ee5": {
-"checked": "2026-11-15",
+"checked": "2026-11-22",
 "company": "Nationwide",
 "deadline": "2026-12-05",
 "first_seen": "2026-09-28",
@@ -49260,7 +49331,7 @@
 "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1"
 },
 "simplify:pennsylvania state university:f9bd3523-3160-485e-9a7a-8d91620b01d0": {
-"checked": "2026-11-13",
+"checked": "2026-11-22",
 "company": "Pennsylvania State University",
 "deadline": null,
 "first_seen": "2026-10-30",
@@ -65753,7 +65824,7 @@
 "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171"
 },
 "simplify:trimble:92c56318-c58d-4fae-9c50-ea45969d0067": {
-"checked": "2026-11-14",
+"checked": "2026-11-22",
 "company": "Trimble",
 "deadline": "2026-12-05",
 "first_seen": "2026-11-07",
@@ -66112,7 +66183,7 @@
 "first_seen_ts": 1790812543.9791486,
 "flags": [],
 "key": "tyler technologies|software development intern summer 2027",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Yarmouth, ME",
 "Orono, ME",
@@ -67942,6 +68013,24 @@
 "src": "simplify",
 "title": "Student Worker Intern",
 "url": "https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339"
+},
+"simplify:viavi solutions:d71c5ba9-0935-4cef-bd4c-21f2c50b2e47": {
+"checked": "2026-11-22",
+"company": "Viavi Solutions",
+"deadline": null,
+"first_seen": "2026-11-22",
+"first_seen_ts": 1795372830.4831464,
+"flags": [],
+"key": "viavi solutions|robotics intern",
+"last_seen": "2026-11-22",
+"locations": [
+"Bothell, WA"
+],
+"posted_ts": 1794960000,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Intern",
+"url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1"
 },
 "simplify:viavi solutions:fa9064c0-0265-467b-a7af-df004ecb9b94": {
 "checked": "2026-11-16",
@@ -70543,6 +70632,24 @@
 "title": "Systems Architecture Co-op - AI Systems Strategy",
 "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149367234"
 },
+"simplify:western governors university:cbbfc481-5c2f-4875-a3ae-53fd2183c75f": {
+"checked": "2026-11-22",
+"company": "Western Governors University",
+"deadline": "2026-11-27",
+"first_seen": "2026-11-22",
+"first_seen_ts": 1795372830.4831386,
+"flags": [],
+"key": "western governors university|technical intern",
+"last_seen": "2026-11-22",
+"locations": [
+"Salt Lake City, UT"
+],
+"posted_ts": 1795132800,
+"rolling": false,
+"src": "simplify",
+"title": "Technical Intern",
+"url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525"
+},
 "simplify:western national insurance:e461075c-d030-4455-8fe8-9a52fa5c0551": {
 "checked": "2026-11-10",
 "company": "Western National Insurance",
@@ -70743,14 +70850,14 @@
 "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"
 },
 "simplify:wgu:0c948dc9-1eb1-44a6-86f9-c0695549d3b4": {
-"checked": "2026-11-05",
+"checked": "2026-11-22",
 "company": "WGU",
-"deadline": "2026-11-06",
+"deadline": "2026-11-27",
 "first_seen": "2026-10-29",
 "first_seen_ts": 1793283863.3992414,
 "flags": [],
 "key": "wgu|data governance intern",
-"last_seen": "2026-11-06",
+"last_seen": "2026-11-22",
 "locations": [
 "Salt Lake City, UT"
 ],
@@ -70977,7 +71084,9 @@
 "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394"
 },
 "simplify:woodward governor:28b10e18-b290-443b-b1ae-dca8536f1cd0": {
+"checked": "2026-11-22",
 "company": "Woodward Governor",
+"deadline": "2026-11-24",
 "first_seen": "2026-11-21",
 "first_seen_ts": 1795286588.0492885,
 "flags": [],
@@ -70988,6 +71097,7 @@
 "Fort Collins, CO"
 ],
 "posted_ts": 1795132800,
+"rolling": false,
 "src": "simplify",
 "title": "AI Intern",
 "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291"
@@ -72345,7 +72455,7 @@
 "first_seen_ts": 1790573041.9903877,
 "flags": [],
 "key": "adobe|2027 intern machine learning engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "6 Locations"
 ],
@@ -72363,7 +72473,7 @@
 "first_seen_ts": 1790573041.990391,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "7 Locations"
 ],
@@ -72381,7 +72491,7 @@
 "first_seen_ts": 1791238749.4626484,
 "flags": [],
 "key": "adobe|2027 intern applied and research scientist engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "San Jose"
 ],
@@ -72399,7 +72509,7 @@
 "first_seen_ts": 1794227620.8921883,
 "flags": [],
 "key": "adobe|2027 intern security engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Bucharest"
 ],
@@ -72435,7 +72545,7 @@
 "first_seen_ts": 1792437343.4188387,
 "flags": [],
 "key": "adobe|2027 intern ai architecture",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "San Jose"
 ],
@@ -72453,7 +72563,7 @@
 "first_seen_ts": 1792437343.4188454,
 "flags": [],
 "key": "adobe|2027 intern security engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Lehi"
 ],
@@ -72471,7 +72581,7 @@
 "first_seen_ts": 1792525599.350399,
 "flags": [],
 "key": "adobe|2027 intern security engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "San Jose"
 ],
@@ -72489,7 +72599,7 @@
 "first_seen_ts": 1792414911.9162621,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Basel"
 ],
@@ -72507,7 +72617,7 @@
 "first_seen_ts": 1792414911.9162683,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Bucharest"
 ],
@@ -72525,7 +72635,7 @@
 "first_seen_ts": 1792450540.59565,
 "flags": [],
 "key": "adobe|2027 intern software engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Yerevan"
 ],
@@ -72615,7 +72725,7 @@
 "first_seen_ts": 1790573041.9904494,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Malaysia, Kulim"
 ],
@@ -72705,7 +72815,7 @@
 "first_seen_ts": 1790799418.6801205,
 "flags": [],
 "key": "intel|research scientist intern graphics ml",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Virtual US"
 ],
@@ -72759,7 +72869,7 @@
 "first_seen_ts": 1794409534.1310537,
 "flags": [],
 "key": "intel|intern system software development engineer",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "Malaysia, Penang"
 ],
@@ -72777,7 +72887,7 @@
 "first_seen_ts": 1795056316.1928742,
 "flags": [],
 "key": "intel|signal integrity ai enabling intern",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "US, Arizona, Phoenix"
 ],
@@ -72795,7 +72905,7 @@
 "first_seen_ts": 1790573041.990338,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning computer architecture",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -72813,7 +72923,7 @@
 "first_seen_ts": 1790573041.9903336,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships systems software engineering",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -72831,7 +72941,7 @@
 "first_seen_ts": 1790573041.990342,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships software engineering",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -72849,7 +72959,7 @@
 "first_seen_ts": 1790573041.9903455,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning",
-"last_seen": "2026-11-21",
+"last_seen": "2026-11-22",
 "locations": [
 "US, CA, Santa Clara"
 ],
