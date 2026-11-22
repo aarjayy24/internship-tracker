@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-22 · 1936 roles · 125 with a stated deadline · 79 rolling
+Updated 2026-11-22 · 1938 roles · 125 with a stated deadline · 79 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -255,15 +255,16 @@ Updated 2026-11-22 · 1936 roles · 125 with a stated deadline · 79 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1733)
+## Everyone else (1735)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| AMD | [BIOS Engineering Co-op](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) | Austin, TX | — | 2026-11-22 |  |
 | Neros Technologies | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, CA | — | 2026-11-22 |  |
 | Advance Auto Parts | [Data Science Intern](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) | Raleigh, NC | Dec 7 (15d) | 2026-11-22 |  |
-| TransUnion | [Data Science and Analytics Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Chicago, IL | — | 2026-11-22 |  |
 | Cadence Design Systems | [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/BOSTON-02/Software-Engineering-Intern_R57179) | Boston, MA | — | 2026-11-22 |  |
 | Schnucks | [Data Science Generative AI Intern](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) | St. Louis, MO, Missouri, Indiana, Illinois | — | 2026-11-22 |  |
+| TransUnion | [Data Science and Analytics Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Chicago, IL | — | 2026-11-22 |  |
 | Lumentum | [SW Developer Support Intern - Program Management Office](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729) | San Jose, CA | — | 2026-11-22 |  |
 | Neros Technologies | [Autonomy Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) | Torrance, CA | — | 2026-11-21 |  |
 | Koch Industries | [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151) | Lisle, IL | — | 2026-11-21 |  |
@@ -1696,6 +1697,7 @@ Updated 2026-11-22 · 1936 roles · 125 with a stated deadline · 79 rolling
 | Edison International | [Software/Data Engineering Intern](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | Chino, CA | — | 2026-09-28 |  |
 | Edison International | [Data Analytics Intern - Data Science/Applied Math](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors) | Pomona, CA, Rosemead, CA | — | 2026-09-28 |  |
 | Edison International | [Data Analytics Intern - Data Science - Applied Math](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Pomona, CA, Rosemead, CA | — | 2026-09-28 |  |
+| Edison International | [Summer Internship - Data Analytics/Science/Applied Math](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | — | 2026-09-28 |  |
 | Edison International | [Intern - Multiple Teams](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors) | Santa Ana, CA, Fullerton, CA, Irvine, CA, Westminster, CA | — | 2026-09-28 |  |
 | WhatNot | [Software Engineer Intern](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) | Seattle, WA, SF, LA, NYC | — | 2026-09-28 |  |
 | Sierra | [Software Engineer Intern](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true) | SF, NYC | — | 2026-09-28 |  |
