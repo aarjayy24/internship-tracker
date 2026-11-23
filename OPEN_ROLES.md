@@ -1,10 +1,10 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-23 · 1947 roles · 126 with a stated deadline · 79 rolling
+Updated 2026-11-23 · 1949 roles · 126 with a stated deadline · 79 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
-## ⏰ Deadlines in the next 14 days (47)
+## ⏰ Deadlines in the next 14 days (48)
 
 | Apply by | Company | Role | Location |
 |---|---|---|---|
@@ -44,6 +44,7 @@ Updated 2026-11-23 · 1947 roles · 126 with a stated deadline · 79 rolling
 | Dec 1 (8d) | LabCorp | [Full-Stack Life Sciences Software Engineer Co-op](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) | Durham, NC, Burlington, NC |
 | Dec 2 (9d) | Trimble | [AI Developer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194) | Dayton, OH, Westminster, CO |
 | Dec 2 (9d) | Trimble | [AI Developer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195) | Dayton, OH |
+| Dec 3 (10d) | Genentech | [AI for Drug Discovery Intern - AI for Drug Discovery - AIDD](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1) | NYC |
 | Dec 3 (10d) | Trimble | [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) | Dayton, OH, Knoxville, TN, Portsmouth, NH, Princeton, NJ, La |
 | Dec 4 (11d) | General Motors | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA |
 | Dec 4 (11d) | Merck | [Future Talent Program Co-op - Patient Data Learning](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) | Cambridge, MA |
@@ -264,18 +265,20 @@ Updated 2026-11-23 · 1947 roles · 126 with a stated deadline · 79 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1744)
+## Everyone else (1746)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | TikTok | [Client Security & Data Foundation Software Engineer Intern - BRIC](https://lifeattiktok.com/search/7705023349533346101) | San Jose, CA | — | 2026-11-23 |  |
 | Artefact | [AI Engineer Intern](https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002) | NYC | — | 2026-11-23 |  |
 | Artefact | [AI Engineer Intern](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) | NYC | — | 2026-11-23 |  |
+| First Resonance | [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true) | LA | — | 2026-11-23 |  |
+| Benchling | [Software Engineer Intern](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true) | SF | — | 2026-11-23 |  |
 | General Dynamics Information Technology | [AI and Estimation Intern - Interns](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867) | Falls Church, VA | — | 2026-11-23 |  |
 | Sierra Space | [Software Engineering Intern - Software Engineering](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1) | Madison, WI, Centennial, CO, Durham, NC, Louisville, CO, Bro | — | 2026-11-23 |  |
-| Genentech | [AI for Drug Discovery Intern - AI for Drug Discovery - AIDD](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1) | NYC | — | 2026-11-23 |  |
-| Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) | Newark, DE | — | 2026-11-23 |  |
+| Genentech | [AI for Drug Discovery Intern - AI for Drug Discovery - AIDD](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1) | NYC | Dec 3 (10d) | 2026-11-23 |  |
 | CME Group | [Quantitative Data & AI Analytics Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061) | NYC | — | 2026-11-23 |  |
+| Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) | Newark, DE | — | 2026-11-23 |  |
 | Carnegie Mellon University | [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364) | Pittsburgh, PA | — | 2026-11-23 |  |
 | Lumentum | [Data Science & Analytics Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771) | San Jose, CA | — | 2026-11-23 |  |
 | Neros Technologies | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, CA | — | 2026-11-22 |  |
@@ -1690,7 +1693,7 @@ Updated 2026-11-23 · 1947 roles · 126 with a stated deadline · 79 rolling
 | Sierra Nevada Corporation | [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1) | Folsom, CA | — | 2026-09-28 |  |
 | Universal Health Services | [Software Engineer Intern - Data Analytics](https://jobs.uhsinc.com/jobs/367247?icims=1) | King of Prussia, PA | — | 2026-09-28 |  |
 | TikTok | [Ecosystem Analyst Intern - TikTok LIVE](https://lifeattiktok.com/search/7678985103851407669) | LA | — | 2026-09-28 |  |
-| First National Bank | [Enterprise Data Governance Intern - Data Quality and Governance](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) | Pittsburgh, PA | ~~Oct 17~~ passed, still listed | 2026-09-28 |  |
+| First National Bank | [Enterprise Data Governance Intern - Data Quality and Governance](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Data-Governance-Intern_2026-01835-1) | Pittsburgh, PA | — | 2026-09-28 |  |
 | TWG Global | [AI Engineer Intern - Summer 2027](https://apply.workable.com/twgai/j/772CD136FF/apply) | Santa Monica, CA | — | 2026-09-28 |  |
 | TWG Global | [Data Science Intern - SOLT](https://apply.workable.com/twgai/j/263B34D737/apply) | Santa Monica, CA | — | 2026-09-28 |  |
 | TWG Global | [Data Science Intern - MAQR](https://apply.workable.com/twgai/j/AC536E5EE2/apply) | Santa Monica, CA | — | 2026-09-28 |  |
