@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
+Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -51,7 +51,7 @@ Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
 | Dec 7 (12d) | J.M. Smucker | [Net Revenue Optimization Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) | Orrville, OH |
 | Dec 7 (12d) | Merck | [Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) | Rahway, NJ |
 
-## ⭐ Top companies (198)
+## ⭐ Top companies (197)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -94,7 +94,6 @@ Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
 | Jane Street | [Formal Methods Research and Development Intern](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) | NYC | — | 2026-11-10 |  |
 | NVIDIA | [Systems Research Intern - Observability](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) | Canada, Santa Clara, CA, United States | — | 2026-11-10 |  |
 | Microsoft | [Research Intern - Next-Generation AI Agents](https://apply.careers.microsoft.com/careers/job/1970393557070079) | Redmond, WA, US | rolling | 2026-11-09 |  |
-| Adobe | [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) | Bucharest | — | 2026-11-09 |  |
 | Tesla | [Software Engineer Intern - SI Reinforcement Learning](https://www.tesla.com/careers/search/job/289241) | Palo Alto, CA | — | 2026-11-07 |  |
 | Meta | [Research Scientist Intern - Synthetic Data for Computer Use Agents](https://www.metacareers.com/jobs/1667187061776108) | Menlo Park, CA | — | 2026-11-07 |  |
 | Meta | [Research Scientist Intern - AI Agents and Machine Learning](https://www.metacareers.com/jobs/1826604892017856) | Menlo Park, CA, Sunnyvale, CA | — | 2026-11-07 |  |
@@ -254,10 +253,12 @@ Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1736)
+## Everyone else (1743)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| ConnectPrep | [Data Analyst Intern](https://apply.workable.com/connectprep/j/9F465A2E1A/apply) | Washington | — | 2026-11-25 |  |
+| L3Harris Technologies | [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Software-Engineer-Intern-FL-32919/1453684500/?ats=successfactors) | Melbourne, FL | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) | Raleigh, NC | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) | Raleigh, NC | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) | Raleigh, NC | — | 2026-11-25 |  |
@@ -266,6 +267,8 @@ Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) | Raleigh, NC | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414448) | Raleigh, NC | — | 2026-11-25 |  |
 | Samsung | [LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) | San Jose, CA | Feb 22 (89d) | 2026-11-25 |  |
+| University of St. Thomas | [Graduate Assistant for Data Analytics Intern - Center for Well-Being](https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false) | St Paul, MN | — | 2026-11-25 |  |
+| Waters | [IT Digital Intern](https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false) | Milford, MA | — | 2026-11-25 |  |
 | Kimley-Horn | [Data Science Intern](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) | Mesa, AZ | — | 2026-11-25 |  |
 | SambaNova Systems | [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) | Austin, TX, San Jose, CA | — | 2026-11-25 |  |
 | WSP | [Geographic Information Systems Science Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) | Denver, CO | — | 2026-11-25 |  |
@@ -273,6 +276,8 @@ Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
 | Johns Hopkins Applied Physics Laboratory | [Robotics Intern](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) | Laurel, MD | — | 2026-11-25 |  |
 | Medpace | [Clinical Intelligence Intern](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) | Cincinnati, OH | — | 2026-11-25 |  |
 | QinetiQ | [Software Engineer Intern](https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false) | Fort Belvoir, VA | — | 2026-11-25 |  |
+| Artefact | [AI Builder Intern](https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002) | NYC | — | 2026-11-25 |  |
+| Artefact | [AI Builder Intern](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) | NYC | — | 2026-11-25 |  |
 | TransUnion | [Data Analyst Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) | Chicago, IL | — | 2026-11-25 |  |
 | AMD | [Masters AI Rack/Cluster Design Engineering Co-op](https://careers.amd.com/jobs/89564?icims=1&lang=en-us) | Austin, TX | — | 2026-11-24 |  |
 | BEUMER Group | [AI Development Intern](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) | Somerset County, NJ | — | 2026-11-24 |  |
@@ -946,6 +951,7 @@ Updated 2026-11-25 · 1934 roles · 119 with a stated deadline · 80 rolling
 | Burns Engineering | [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) | Pittsburgh, PA | — | 2026-10-29 |  |
 | OneEthos | [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | Remote in USA | — | 2026-10-29 |  |
 | WGU | [Data Governance Intern](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) | Salt Lake City, UT | **Nov 27 (2d)** | 2026-10-29 |  |
+| Indie | [Applications Software Developer Intern](https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007) | Aliso Viejo, CA | — | 2026-10-29 |  |
 | Tyler Technologies | [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false) | Troy, MI, Overland Park, KS | — | 2026-10-29 |  |
 | Genesis Molecular AI | [Software Engineer Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true) | San Mateo, CA, NYC | — | 2026-10-29 |  |
 | Booz Allen | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Fort Walton Beach, FL | Jan 25 (61d) | 2026-10-29 |  |
