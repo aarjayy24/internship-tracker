@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
+Updated 2026-11-25 · 1955 roles · 119 with a stated deadline · 80 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -51,10 +51,11 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | Dec 7 (12d) | J.M. Smucker | [Net Revenue Optimization Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) | Orrville, OH |
 | Dec 7 (12d) | Merck | [Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) | Rahway, NJ |
 
-## ⭐ Top companies (197)
+## ⭐ Top companies (198)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| Tesla | [Robotics Audio DSP Engineer Intern](https://www.tesla.com/careers/search/job/291227) | Palo Alto, CA | — | 2026-11-25 |  |
 | Meta | [Research Scientist Intern - Machine Learning for Robust 3D Perception](https://www.metacareers.com/jobs/1482835147112669) | Redmond, WA | — | 2026-11-25 |  |
 | Amazon | [Front-End Engineer Intern](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) | Seattle, WA, Chicago, IL, Bellevue, WA | — | 2026-11-25 |  |
 | Amazon | [Software Development Engineer Intern - Artificial General Intelligence](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | — | 2026-11-24 |  |
@@ -253,12 +254,20 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | NVIDIA | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 | NVIDIA | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | US, CA, Santa Clara | rolling | 2026-09-28 |  |
 
-## Everyone else (1743)
+## Everyone else (1757)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
+| ManTech | [C++ Developer Intern](https://mantech.avature.net/en_US/careers/JobDetail/67268) | Lexington Park, MD | — | 2026-11-25 |  |
+| Staples | [Full Stack Software Engineer Intern](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145) | Austin, TX | — | 2026-11-25 |  |
+| Cantor Fitzgerald | [Technology Summer Intern - Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630) | NYC | — | 2026-11-25 |  |
+| Starkey | [Software Engineer Intern](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a) | Eden Prairie, MN | — | 2026-11-25 |  |
+| Coinbase | [Security Engineer Intern](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) | Hybrid - New York, NY | — | 2026-11-25 |  |
+| Veolia | [Energy Management Co-op](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559) | Boston, MA | — | 2026-11-25 |  |
+| Wabash Valley Power Alliance | [Energy Efficiency & Demand Response Intern - Summer 2027](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159) | Indianapolis, IN | — | 2026-11-25 |  |
 | ConnectPrep | [Data Analyst Intern](https://apply.workable.com/connectprep/j/9F465A2E1A/apply) | Washington | — | 2026-11-25 |  |
 | L3Harris Technologies | [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Software-Engineer-Intern-FL-32919/1453684500/?ats=successfactors) | Melbourne, FL | — | 2026-11-25 |  |
+| Harvard Companies | [AI Engineer Intern](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) | Miami, FL | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) | Raleigh, NC | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) | Raleigh, NC | — | 2026-11-25 |  |
 | Bandwidth | [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) | Raleigh, NC | — | 2026-11-25 |  |
@@ -269,6 +278,7 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | Samsung | [LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) | San Jose, CA | Feb 22 (89d) | 2026-11-25 |  |
 | University of St. Thomas | [Graduate Assistant for Data Analytics Intern - Center for Well-Being](https://studentemployment-stthomas.icims.com/jobs/10464/job?mobile=true&needsRedirect=false) | St Paul, MN | — | 2026-11-25 |  |
 | Waters | [IT Digital Intern](https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false) | Milford, MA | — | 2026-11-25 |  |
+| Harvard Companies | [AI Engineering Intern](https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) | Miami, FL | — | 2026-11-25 |  |
 | Kimley-Horn | [Data Science Intern](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) | Mesa, AZ | — | 2026-11-25 |  |
 | SambaNova Systems | [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) | Austin, TX, San Jose, CA | — | 2026-11-25 |  |
 | WSP | [Geographic Information Systems Science Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) | Denver, CO | — | 2026-11-25 |  |
@@ -463,6 +473,7 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | HERE Technologies | [Software Engineer Intern](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) | Chicago, IL | — | 2026-11-19 |  |
 | Carnegie Mellon University | [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) | Pittsburgh, PA | — | 2026-11-19 |  |
 | Intel | [Signal integrity AI enabling intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302) | US, Arizona, Phoenix | Feb 19 (86d) | 2026-11-19 |  |
+| DriveWealth | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) | Chicago, IL, NYC | — | 2026-11-18 |  |
 | Toyota Research Institute | [Robotics Intern - Agentic Robotics](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply) | Cambridge, MA | — | 2026-11-18 |  |
 | Constellation Energy | [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) | San Diego, CA | — | 2026-11-18 |  |
 | Anduril | [Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007) | Santa Ana, CA | — | 2026-11-18 |  |
@@ -714,6 +725,7 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | Trimble | [AI Automation Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148) | Dayton, OH, Westminster, CO | Dec 5 (10d) | 2026-11-07 |  |
 | United Parcel Service | [Summer Engineer Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950) | Middleburg Heights, OH | — | 2026-11-07 |  |
 | Vizient | [Intern Revenue Intelligence - Revenue Intelligence](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Revenue-Intelligence_36048R-1) | Centennial, CO, Chicago, IL, Irving, TX | — | 2026-11-07 |  |
+| DriveWealth | [AI Consulting Associate Program Brokerage Intern](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true) | Chicago, IL | — | 2026-11-07 |  |
 | Waymo | [2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) ](https://careers.withwaymo.com/jobs?gh_jid=8358262) | Mountain View, California, United States | — | 2026-11-06 |  |
 | Notion | [Software Engineering Intern, Frontend (Summer 2027)](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) | New York, New York | — | 2026-11-06 |  |
 | Notion | [Software Engineering Intern, iOS (Summer 2027)](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) | New York, New York | — | 2026-11-06 |  |
@@ -991,6 +1003,8 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | Mercor | [Research Engineer Intern - Multiple Teams](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application?embed=true) | SF | — | 2026-10-28 |  |
 | Nissan Global | [Research Application Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214271) | Santa Clara, CA | — | 2026-10-28 |  |
 | Scout AI | [AI Engineer Intern - Fury Team](https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99/application?embed=true) | Sunnyvale, CA | — | 2026-10-28 |  |
+| DriveWealth | [AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) | Chicago, IL | — | 2026-10-28 |  |
+| DriveWealth | [AI Consulting Associate Program – AI Engineer Intern](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true) | Chicago, IL | — | 2026-10-28 |  |
 | Integrate | [Software Engineer Intern](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true) | Seattle, WA | rolling | 2026-10-28 |  |
 | Louisiana State University | [Chemical Engineering Visiting Scholar Intern](https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/2221-Patrick-F-Taylor-Hall/Visiting-Scholar--Chemical-Engineering_R00121585) | Louisiana | rolling | 2026-10-28 |  |
 | Skyband Systems | [Software Engineer Intern](https://jobs.ashbyhq.com/skyband%20systems/1e68c6d9-c810-418d-9171-f2a23f013d06/application?embed=true) | Kirkland, WA | — | 2026-10-28 |  |
@@ -1403,6 +1417,7 @@ Updated 2026-11-25 · 1940 roles · 119 with a stated deadline · 80 rolling
 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; N | — | 2026-10-01 |  |
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8243556) | Mountain View, CA, USA | — | 2026-10-01 |  |
 | Varda Space | [Flight Software Intern](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003) | El Segundo, CA | — | 2026-10-01 |  |
+| Dandy | [Software Engineering Intern](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true) | NYC | — | 2026-09-30 |  |
 | MetLife | [Global Technology Intern](https://metlife.avature.net/en_US/ml/JobDetail/20701) | Tampa, FL, Hanover, NJ, Cary, NC, NYC | — | 2026-09-30 |  |
 | Waymo | [Software Engineer Intern - MS/PhD - Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) | Mountain View, CA | — | 2026-09-30 |  |
 | Peraton | [Software Engineering Co-op](https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false) | San Diego, CA | — | 2026-09-30 |  |

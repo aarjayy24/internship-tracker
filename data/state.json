@@ -1,7 +1,10 @@
 {
 "bootstrapped": true,
 "health": {
-"microsoft": 2
+"microsoft": 3,
+"workday:capitalone": 1,
+"workday:nvidia": 1,
+"workday:salesforce": 1
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -1111,6 +1114,24 @@
 "src": "greenhouse:coinbase",
 "title": "Internal Audit Analytics Intern",
 "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238"
+},
+"greenhouse:coinbase:8415869": {
+"checked": "2026-11-25",
+"company": "Coinbase",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.8928754,
+"flags": [],
+"key": "coinbase|security engineer intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Hybrid - New York, NY"
+],
+"posted_ts": 1795638133.0,
+"rolling": false,
+"src": "greenhouse:coinbase",
+"title": "Security Engineer Intern",
+"url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869"
 },
 "greenhouse:databricks:6865687002": {
 "checked": "2026-11-23",
@@ -4392,7 +4413,7 @@
 "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556"
 },
 "simplify:aerovironment:34237b64-67e9-4cd9-be04-b033bc4dfe90": {
-"checked": "2026-11-16",
+"checked": "2026-11-25",
 "company": "AeroVironment",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -12271,7 +12292,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275"
 },
 "simplify:booz allen:3da73fff-cf02-46b3-b53a-85633a4986ec": {
-"checked": "2026-11-16",
+"checked": "2026-11-25",
 "company": "Booz Allen",
 "deadline": "2027-01-26",
 "first_seen": "2026-09-28",
@@ -12682,7 +12703,7 @@
 "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132"
 },
 "simplify:booz allen:a04221b8-f136-4a5d-beb9-2807f67970c2": {
-"checked": "2026-11-16",
+"checked": "2026-11-25",
 "company": "Booz Allen",
 "deadline": "2027-01-25",
 "first_seen": "2026-09-28",
@@ -15203,6 +15224,24 @@
 "src": "simplify",
 "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
 "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply"
+},
+"simplify:cantor fitzgerald:633a2b03-59e2-4038-9ef8-68cb2b9a15ca": {
+"checked": "2026-11-25",
+"company": "Cantor Fitzgerald",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.8989663,
+"flags": [],
+"key": "cantor fitzgerald|technology summer intern development",
+"last_seen": "2026-11-25",
+"locations": [
+"NYC"
+],
+"posted_ts": 1795648297,
+"rolling": false,
+"src": "simplify",
+"title": "Technology Summer Intern - Development",
+"url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630"
 },
 "simplify:capital group:2090dcc2-c489-4ec4-bd16-8b1af5aa79f2": {
 "checked": "2026-11-21",
@@ -19722,14 +19761,14 @@
 "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719"
 },
 "simplify:dandy:7f191783-2ab3-4626-a830-2072091a9f5a": {
-"checked": "2026-10-28",
+"checked": "2026-11-25",
 "company": "Dandy",
 "deadline": null,
 "first_seen": "2026-09-30",
 "first_seen_ts": 1790812543.979609,
 "flags": [],
 "key": "dandy|software engineering intern",
-"last_seen": "2026-10-28",
+"last_seen": "2026-11-25",
 "locations": [
 "NYC"
 ],
@@ -20344,7 +20383,7 @@
 "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1"
 },
 "simplify:dick's sporting goods:cd25d440-052a-4851-9715-cd9f0d4cc849": {
-"checked": "2026-11-16",
+"checked": "2026-11-25",
 "company": "Dick's Sporting Goods",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -21564,14 +21603,14 @@
 "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502"
 },
 "simplify:drivewealth:3f1088e9-3742-4919-8f86-1fb30cc82265": {
-"checked": "2026-11-18",
+"checked": "2026-11-25",
 "company": "DriveWealth",
 "deadline": null,
 "first_seen": "2026-11-18",
 "first_seen_ts": 1795037430.53226,
 "flags": [],
 "key": "drivewealth|ai consulting associate program people analytics intern",
-"last_seen": "2026-11-19",
+"last_seen": "2026-11-25",
 "locations": [
 "Chicago, IL",
 "NYC"
@@ -21602,14 +21641,14 @@
 "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003"
 },
 "simplify:drivewealth:80919054-b40e-4ff9-9a11-e6e21dcf9d98": {
-"checked": "2026-11-18",
+"checked": "2026-11-25",
 "company": "DriveWealth",
 "deadline": null,
 "first_seen": "2026-10-28",
 "first_seen_ts": 1793166443.1069837,
 "flags": [],
 "key": "drivewealth|ai consulting associate program product owner intern",
-"last_seen": "2026-11-19",
+"last_seen": "2026-11-25",
 "locations": [
 "Chicago, IL"
 ],
@@ -21620,14 +21659,14 @@
 "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
 },
 "simplify:drivewealth:90ce8440-7b7f-4a23-9faf-98290634d956": {
-"checked": "2026-11-14",
+"checked": "2026-11-25",
 "company": "DriveWealth",
 "deadline": null,
 "first_seen": "2026-11-07",
 "first_seen_ts": 1794066651.445411,
 "flags": [],
 "key": "drivewealth|ai consulting associate program brokerage intern",
-"last_seen": "2026-11-20",
+"last_seen": "2026-11-25",
 "locations": [
 "Chicago, IL"
 ],
@@ -21657,14 +21696,14 @@
 "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003"
 },
 "simplify:drivewealth:eba86e55-1480-473d-814f-7d863ebba833": {
-"checked": "2026-11-18",
+"checked": "2026-11-25",
 "company": "DriveWealth",
 "deadline": null,
 "first_seen": "2026-10-28",
 "first_seen_ts": 1793166443.106977,
 "flags": [],
 "key": "drivewealth|ai consulting associate program ai engineer intern",
-"last_seen": "2026-11-19",
+"last_seen": "2026-11-25",
 "locations": [
 "Chicago, IL"
 ],
@@ -29812,6 +29851,42 @@
 "src": "simplify",
 "title": "Software Engineer Intern",
 "url": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application?embed=true"
+},
+"simplify:harvard companies:6d9381cc-2655-4404-851d-efb28660dba7": {
+"checked": "2026-11-25",
+"company": "Harvard Companies",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.8989506,
+"flags": [],
+"key": "harvard companies|ai engineer intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Miami, FL"
+],
+"posted_ts": 1795582800,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineer Intern",
+"url": "https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false"
+},
+"simplify:harvard companies:712ebe2f-ad58-4cd9-9b74-44b35f09a100": {
+"checked": "2026-11-25",
+"company": "Harvard Companies",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.898961,
+"flags": [],
+"key": "harvard companies|ai engineering intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Miami, FL"
+],
+"posted_ts": 1795564800,
+"rolling": false,
+"src": "simplify",
+"title": "AI Engineering Intern",
+"url": "https://corporate-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false"
 },
 "simplify:harvey:2149ec11-ebea-44e9-95ff-a9ef69ecacdf": {
 "checked": "2026-10-24",
@@ -40410,6 +40485,24 @@
 "title": "Research Intern",
 "url": "https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true"
 },
+"simplify:mantech:907ac2b0-1ba3-4cc3-bce0-e61334c9d123": {
+"checked": "2026-11-25",
+"company": "ManTech",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.8989265,
+"flags": [],
+"key": "mantech|c developer intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Lexington Park, MD"
+],
+"posted_ts": 1795649040,
+"rolling": false,
+"src": "simplify",
+"title": "C++ Developer Intern",
+"url": "https://mantech.avature.net/en_US/careers/JobDetail/67268"
+},
 "simplify:mantech:d005c265-e4c0-4cfe-a117-fe33afe73f8a": {
 "checked": "2026-10-22",
 "company": "ManTech",
@@ -46697,7 +46790,7 @@
 "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics_R00943381"
 },
 "simplify:nissan global:059f11e6-0de5-4f66-8a9b-e5b55f76393a": {
-"checked": "2026-11-18",
+"checked": "2026-11-25",
 "company": "Nissan Global",
 "deadline": null,
 "first_seen": "2026-10-28",
@@ -46841,7 +46934,7 @@
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214"
 },
 "simplify:nissan global:9d58c016-deec-47ad-adab-db768f2e513e": {
-"checked": "2026-11-18",
+"checked": "2026-11-25",
 "company": "Nissan Global",
 "deadline": null,
 "first_seen": "2026-10-07",
@@ -46932,7 +47025,7 @@
 "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223"
 },
 "simplify:nissan:ba6baa73-28e0-4b0f-b45d-543363c573e1": {
-"checked": "2026-11-18",
+"checked": "2026-11-25",
 "company": "Nissan",
 "deadline": null,
 "first_seen": "2026-10-27",
@@ -60964,6 +61057,24 @@
 "title": "Software Engineer Intern - Marketplace Platform",
 "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076"
 },
+"simplify:staples:7dd43831-e7c5-4a2c-8a46-8163de373bf1": {
+"checked": "2026-11-25",
+"company": "Staples",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.898941,
+"flags": [],
+"key": "staples|full stack software engineer intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Austin, TX"
+],
+"posted_ts": 1795648760,
+"rolling": false,
+"src": "simplify",
+"title": "Full Stack Software Engineer Intern",
+"url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145"
+},
 "simplify:starkey:008a5328-9870-4187-84e4-6f83acd4f3e0": {
 "checked": "2026-11-21",
 "company": "Starkey",
@@ -60981,6 +61092,24 @@
 "src": "simplify",
 "title": "Algorithms Intern",
 "url": "https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=28499be6-cffe-4a43-9792-9e085fed9404"
+},
+"simplify:starkey:c60e2c32-7f9d-4251-8b45-47b44ed86850": {
+"checked": "2026-11-25",
+"company": "Starkey",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.8989706,
+"flags": [],
+"key": "starkey|software engineer intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Eden Prairie, MN"
+],
+"posted_ts": 1795648035,
+"rolling": false,
+"src": "simplify",
+"title": "Software Engineer Intern",
+"url": "https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a"
 },
 "simplify:starwood capital group:c34c6925-097c-4bad-bab0-a81212890927": {
 "checked": "2026-11-18",
@@ -62914,6 +63043,24 @@
 "src": "simplify",
 "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
 "url": "https://www.tesla.com/careers/search/job/281097"
+},
+"simplify:tesla:e3e053b8-8e7b-4690-9875-c136637ed047": {
+"checked": "2026-11-25",
+"company": "Tesla",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.898946,
+"flags": [],
+"key": "tesla|robotics audio dsp engineer intern",
+"last_seen": "2026-11-25",
+"locations": [
+"Palo Alto, CA"
+],
+"posted_ts": 1795648797,
+"rolling": false,
+"src": "simplify",
+"title": "Robotics Audio DSP Engineer Intern",
+"url": "https://www.tesla.com/careers/search/job/291227"
 },
 "simplify:tesla:f6983ddf-02f7-4973-ba32-f5ca9ec6ba43": {
 "checked": "2026-11-20",
@@ -67249,7 +67396,7 @@
 "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148"
 },
 "simplify:trimble:ca3d442d-982e-4251-b443-6e607ffd2504": {
-"checked": "2026-11-17",
+"checked": "2026-11-25",
 "company": "Trimble",
 "deadline": "2026-12-03",
 "first_seen": "2026-09-28",
@@ -68784,6 +68931,24 @@
 "title": "Competitive Intelligence AI Engineer Intern",
 "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101"
 },
+"simplify:veolia:971d3938-cdd2-4327-a461-d65bbc6ed814": {
+"checked": "2026-11-25",
+"company": "Veolia",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.898935,
+"flags": [],
+"key": "veolia|energy management co op",
+"last_seen": "2026-11-25",
+"locations": [
+"Boston, MA"
+],
+"posted_ts": 1795633814,
+"rolling": false,
+"src": "simplify",
+"title": "Energy Management Co-op",
+"url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559"
+},
 "simplify:verisk:11d79971-ac6a-48a4-aea8-bb00009860a9": {
 "checked": "2026-09-28",
 "company": "Verisk",
@@ -70295,6 +70460,24 @@
 "src": "simplify",
 "title": "Energy Efficiency & Demand Response Intern",
 "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771"
+},
+"simplify:wabash valley power alliance:84b43ef9-4cf8-4353-9a11-2577b1557a34": {
+"checked": "2026-11-25",
+"company": "Wabash Valley Power Alliance",
+"deadline": null,
+"first_seen": "2026-11-25",
+"first_seen_ts": 1795650471.898956,
+"flags": [],
+"key": "wabash valley power alliance|energy efficiency demand response intern summer 2027",
+"last_seen": "2026-11-25",
+"locations": [
+"Indianapolis, IN"
+],
+"posted_ts": 1795630491,
+"rolling": false,
+"src": "simplify",
+"title": "Energy Efficiency & Demand Response Intern - Summer 2027",
+"url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159"
 },
 "simplify:waggoner financial:559f471c-b9e2-41e5-8f47-bdbe11a4bade": {
 "checked": "2026-11-19",
