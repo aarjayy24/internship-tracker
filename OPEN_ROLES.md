@@ -1,6 +1,6 @@
 # Open Summer 2027 internships matching your filters
 
-Updated 2026-11-26 · 1962 roles · 117 with a stated deadline · 82 rolling
+Updated 2026-11-26 · 1961 roles · 116 with a stated deadline · 82 rolling
 
 **Apply by:** the posting's stated deadline · _rolling_ = reviewed as applications arrive, apply early · _—_ = no deadline stated (most big-tech internships), treat as rolling.
 
@@ -44,7 +44,7 @@ Updated 2026-11-26 · 1962 roles · 117 with a stated deadline · 82 rolling
 | Dec 7 (11d) | Merck | [Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) | Rahway, NJ |
 | Dec 10 (14d) | The Hartford | [Data Science Intern - Summer 2027](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) | Chicago, IL, Charlotte, NC, Hartford, CT |
 
-## ⭐ Top companies (200)
+## ⭐ Top companies (199)
 
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
@@ -90,7 +90,6 @@ Updated 2026-11-26 · 1962 roles · 117 with a stated deadline · 82 rolling
 | Jane Street | [Formal Methods Research and Development Intern](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) | NYC | — | 2026-11-10 |  |
 | NVIDIA | [Systems Research Intern - Observability](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) | Canada, Santa Clara, CA, United States | — | 2026-11-10 |  |
 | Microsoft | [Research Intern - Next-Generation AI Agents](https://apply.careers.microsoft.com/careers/job/1970393557070079) | Redmond, WA, US | rolling | 2026-11-09 |  |
-| Adobe | [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) | Bucharest | — | 2026-11-09 |  |
 | Tesla | [Software Engineer Intern - SI Reinforcement Learning](https://www.tesla.com/careers/search/job/289241) | Palo Alto, CA | — | 2026-11-07 |  |
 | Meta | [Research Scientist Intern - Synthetic Data for Computer Use Agents](https://www.metacareers.com/jobs/1667187061776108) | Menlo Park, CA | — | 2026-11-07 |  |
 | Meta | [Research Scientist Intern - AI Agents and Machine Learning](https://www.metacareers.com/jobs/1826604892017856) | Menlo Park, CA, Sunnyvale, CA | — | 2026-11-07 |  |
@@ -254,18 +253,18 @@ Updated 2026-11-26 · 1962 roles · 117 with a stated deadline · 82 rolling
 | Company | Role | Location | Apply by | Found | Notes |
 |---|---|---|---|---|---|
 | Total Quality Logistics | [Software Development Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763) | Cincinnati, OH | — | 2026-11-26 |  |
-| Total Quality Logistics | [Data Science & Analytics Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) | Cincinnati, OH | — | 2026-11-26 |  |
 | Total Quality Logistics | [AI Product Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757) | Cincinnati, OH | — | 2026-11-26 |  |
+| Total Quality Logistics | [Data Science & Analytics Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) | Cincinnati, OH | — | 2026-11-26 |  |
 | OpenSesame | [Software Engineer Intern](https://boards.greenhouse.io/opensesame/jobs/8418272) | Remote in USA | — | 2026-11-26 |  |
 | Digital Control | [Software Engineer Intern](https://apply.workable.com/digital-control/j/AB9A181560/apply) | Kent, WA | — | 2026-11-26 |  |
 | Jack Henry | [Enterprise Pricing & Data Analytics Intern](https://jackhenry.avature.net/careers/JobDetail/17682) | Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfie | — | 2026-11-26 |  |
 | Best Egg | [Software Engineer Intern](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392/apply) | Wilmington, DE | — | 2026-11-26 |  |
 | Veeva Systems | [Software Engineer Intern](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply) | Pleasanton, CA | — | 2026-11-26 |  |
 | Veeva Systems | [Software Engineer Intern](https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply) | Boston, MA | — | 2026-11-26 |  |
+| Apex | [Software Engineering Operating Systems Intern](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true) | LA | — | 2026-11-26 |  |
+| Apex | [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true) | LA | — | 2026-11-26 |  |
 | CodeRabbit | [Software Engineer Intern](https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true) | SF | — | 2026-11-26 |  |
 | Xona Space Systems | [Software Engineer Intern - Engineering Productivity](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab/application?embed=true) | Burlingame, CA | — | 2026-11-26 |  |
-| Apex | [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true) | LA | — | 2026-11-26 |  |
-| Apex | [Software Engineering Operating Systems Intern](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true) | LA | — | 2026-11-26 |  |
 | Blizzard Entertainment | [Tech Art Intern](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) | Irvine, CA | — | 2026-11-26 |  |
 | WEP Clinical | [IT Intern: AI & Transformation](https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b/apply) | Morrisville, NC | — | 2026-11-26 |  |
 | ManTech | [C++ Developer Intern](https://mantech.avature.net/en_US/careers/JobDetail/67268) | Lexington Park, MD | — | 2026-11-25 |  |
@@ -480,7 +479,6 @@ Updated 2026-11-26 · 1962 roles · 117 with a stated deadline · 82 rolling
 | HERE Technologies | [Data Science Intern](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false) | Chicago, IL | — | 2026-11-19 |  |
 | HERE Technologies | [Software Engineer Intern](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) | Chicago, IL | — | 2026-11-19 |  |
 | Carnegie Mellon University | [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) | Pittsburgh, PA | — | 2026-11-19 |  |
-| Intel | [Signal integrity AI enabling intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302) | US, Arizona, Phoenix | Feb 19 (85d) | 2026-11-19 |  |
 | DriveWealth | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) | Chicago, IL, NYC | — | 2026-11-18 |  |
 | Toyota Research Institute | [Robotics Intern - Agentic Robotics](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49/apply) | Cambridge, MA | — | 2026-11-18 |  |
 | Constellation Energy | [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) | San Diego, CA | — | 2026-11-18 |  |
@@ -1430,6 +1428,7 @@ Updated 2026-11-26 · 1962 roles · 117 with a stated deadline · 82 rolling
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) | Mountain View, CA, USA | — | 2026-09-30 |  |
 | AMCA | [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) | El Segundo, CA | — | 2026-09-30 |  |
 | POET | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | — | 2026-09-30 |  |
+| Tyler Technologies | [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) | Yarmouth, ME, Orono, ME, Falmouth, ME | — | 2026-09-30 |  |
 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) | — | 2026-09-30 |  |
 | Intel | [Research Scientist Intern - Graphics, ML](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | Virtual US | Dec 30 (34d) | 2026-09-30 |  |
 | Honeywell | [Software Engineering Co-op](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957) | United States | — | 2026-09-29 |  |
