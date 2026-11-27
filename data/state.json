@@ -1,9 +1,8 @@
 {
 "bootstrapped": true,
 "health": {
-"workday:capitalone": 3,
-"workday:nvidia": 3,
-"workday:salesforce": 3
+"workday:capitalone": 4,
+"workday:salesforce": 4
 },
 "jobs": {
 "amazon:amazon:10517567": {
@@ -8535,7 +8534,7 @@
 "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
 },
 "simplify:ardian:d37bfc1d-586d-41c9-afb1-81c8929e4d7e": {
-"checked": "2026-11-19",
+"checked": "2026-11-26",
 "company": "Ardian",
 "deadline": null,
 "first_seen": "2026-10-15",
@@ -8949,7 +8948,7 @@
 "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"
 },
 "simplify:asml:46638fe5-8edb-490d-9f11-3ac1b33f3da3": {
-"checked": "2026-11-19",
+"checked": "2026-11-26",
 "company": "ASML",
 "deadline": "2026-11-27",
 "first_seen": "2026-10-28",
@@ -15366,7 +15365,7 @@
 "url": "https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798"
 },
 "simplify:capital one:4ba115ac-a103-4581-a244-f76fc0921727": {
-"checked": "2026-11-16",
+"checked": "2026-11-26",
 "company": "Capital One",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -16795,7 +16794,7 @@
 "url": "https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors"
 },
 "simplify:church & dwight:22c7894f-b45d-4a2c-acf9-6b149c73474e": {
-"checked": "2026-11-17",
+"checked": "2026-11-26",
 "company": "Church & Dwight",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -24513,7 +24512,7 @@
 "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073"
 },
 "simplify:faith technologies:639c91a7-626f-4da2-b6ed-934b98ece2af": {
-"checked": "2026-11-19",
+"checked": "2026-11-26",
 "company": "Faith Technologies",
 "deadline": null,
 "first_seen": "2026-10-29",
@@ -49706,7 +49705,7 @@
 "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
 },
 "simplify:pacific life:20de5e49-f3f4-4acd-9ae0-e82d4edd0521": {
-"checked": "2026-11-19",
+"checked": "2026-11-26",
 "company": "Pacific Life",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -52083,7 +52082,7 @@
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371"
 },
 "simplify:procter & gamble:b3e5cba2-cc35-4da5-88b4-0dcc462d5536": {
-"checked": "2026-11-16",
+"checked": "2026-11-26",
 "company": "Procter & Gamble",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -54627,7 +54626,7 @@
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-1"
 },
 "simplify:rockwell automation:b5399343-6879-4858-98ed-d087567c8913": {
-"checked": "2026-11-17",
+"checked": "2026-11-26",
 "company": "Rockwell Automation",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -54646,7 +54645,7 @@
 "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1"
 },
 "simplify:rockwell automation:ba129f03-7efb-479d-b7d3-24cd6f2bff90": {
-"checked": "2026-11-17",
+"checked": "2026-11-26",
 "company": "Rockwell Automation",
 "deadline": null,
 "first_seen": "2026-09-28",
@@ -74894,7 +74893,7 @@
 "first_seen_ts": 1790573041.990338,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning computer architecture",
-"last_seen": "2026-11-25",
+"last_seen": "2026-11-26",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -74912,7 +74911,7 @@
 "first_seen_ts": 1790573041.9903336,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships systems software engineering",
-"last_seen": "2026-11-25",
+"last_seen": "2026-11-26",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -74930,7 +74929,7 @@
 "first_seen_ts": 1790573041.990342,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships software engineering",
-"last_seen": "2026-11-25",
+"last_seen": "2026-11-26",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -74948,7 +74947,7 @@
 "first_seen_ts": 1790573041.9903455,
 "flags": [],
 "key": "nvidia|nvidia 2027 internships deep learning",
-"last_seen": "2026-11-25",
+"last_seen": "2026-11-26",
 "locations": [
 "US, CA, Santa Clara"
 ],
@@ -75104,7 +75103,7 @@
 "first_seen_ts": 1795525096.8929694,
 "flags": [],
 "key": "nvidia|software engineering intern",
-"last_seen": "2026-11-25",
+"last_seen": "2026-11-26",
 "locations": [
 "Armenia Yerevan"
 ],
